@@ -1,0 +1,4423 @@
+﻿PokerStars Hand #192280220998: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level I (10/20) - 2018/10/17 10:28:48 ET
+Table '2433509040 1' 9-max Seat #1 is the button
+Seat 1: Flush4vicki2 (1500 in chips) 
+Seat 2: donie913 (1500 in chips) 
+Seat 3: sibagsnsk (1500 in chips) 
+Seat 4: Plohisch762 (1500 in chips) 
+Seat 5: lilyy988 (1500 in chips) 
+Seat 6: Andrew86666 (1500 in chips) 
+Seat 7: nicholasj25 (1500 in chips) 
+Seat 8: J.Petermin (1500 in chips) 
+Seat 9: topbarber222 (1500 in chips) 
+donie913: posts small blind 10
+sibagsnsk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7h 5c]
+Plohisch762: folds 
+lilyy988: folds 
+Andrew86666 has timed out
+Andrew86666: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+topbarber222: calls 20
+Flush4vicki2: folds 
+donie913: calls 10
+sibagsnsk: checks 
+*** FLOP *** [3s 8d 6d]
+donie913: bets 80
+sibagsnsk: folds 
+topbarber222: folds 
+Uncalled bet (80) returned to donie913
+donie913 collected 60 from pot
+donie913: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s 8d 6d]
+Seat 1: Flush4vicki2 (button) folded before Flop (didn't bet)
+Seat 2: donie913 (small blind) collected (60)
+Seat 3: sibagsnsk (big blind) folded on the Flop
+Seat 4: Plohisch762 folded before Flop (didn't bet)
+Seat 5: lilyy988 folded before Flop (didn't bet)
+Seat 6: Andrew86666 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: topbarber222 folded on the Flop
+
+
+
+PokerStars Hand #192280247358: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level I (10/20) - 2018/10/17 10:29:42 ET
+Table '2433509040 1' 9-max Seat #2 is the button
+Seat 1: Flush4vicki2 (1500 in chips) 
+Seat 2: donie913 (1540 in chips) 
+Seat 3: sibagsnsk (1480 in chips) 
+Seat 4: Plohisch762 (1500 in chips) 
+Seat 5: lilyy988 (1500 in chips) 
+Seat 6: Andrew86666 (1500 in chips) is sitting out
+Seat 7: nicholasj25 (1500 in chips) 
+Seat 8: J.Petermin (1500 in chips) 
+Seat 9: topbarber222 (1480 in chips) 
+sibagsnsk: posts small blind 10
+Plohisch762: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Td 2h]
+lilyy988: calls 20
+Andrew86666: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+topbarber222: calls 20
+Flush4vicki2: folds 
+donie913: folds 
+sibagsnsk: calls 10
+Plohisch762: checks 
+*** FLOP *** [9d 3s Qs]
+sibagsnsk: checks 
+Plohisch762: checks 
+lilyy988: checks 
+topbarber222: checks 
+*** TURN *** [9d 3s Qs] [Ks]
+sibagsnsk: bets 40
+Plohisch762: calls 40
+lilyy988: folds 
+topbarber222: calls 40
+*** RIVER *** [9d 3s Qs Ks] [8d]
+sibagsnsk: bets 80
+Plohisch762: raises 80 to 160
+topbarber222: folds 
+sibagsnsk: calls 80
+*** SHOW DOWN ***
+Plohisch762: shows [Jd Tc] (a straight, Nine to King)
+sibagsnsk: mucks hand 
+Plohisch762 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [9d 3s Qs Ks 8d]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: donie913 (button) folded before Flop (didn't bet)
+Seat 3: sibagsnsk (small blind) mucked [4c Kd]
+Seat 4: Plohisch762 (big blind) showed [Jd Tc] and won (520) with a straight, Nine to King
+Seat 5: lilyy988 folded on the Turn
+Seat 6: Andrew86666 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: topbarber222 folded on the River
+
+
+
+PokerStars Hand #192280290882: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level I (10/20) - 2018/10/17 10:31:12 ET
+Table '2433509040 1' 9-max Seat #3 is the button
+Seat 1: Flush4vicki2 (1500 in chips) 
+Seat 2: donie913 (1540 in chips) 
+Seat 3: sibagsnsk (1260 in chips) 
+Seat 4: Plohisch762 (1800 in chips) 
+Seat 5: lilyy988 (1480 in chips) 
+Seat 6: Andrew86666 (1500 in chips) 
+Seat 7: nicholasj25 (1500 in chips) 
+Seat 8: J.Petermin (1500 in chips) 
+Seat 9: topbarber222 (1420 in chips) 
+Plohisch762: posts small blind 10
+lilyy988: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3c Qc]
+Andrew86666: calls 20
+nicholasj25: folds 
+J.Petermin: calls 20
+topbarber222: calls 20
+Flush4vicki2: calls 20
+donie913: calls 20
+sibagsnsk: calls 20
+Plohisch762: calls 10
+lilyy988: checks 
+*** FLOP *** [Ts 5d Qd]
+Plohisch762: checks 
+lilyy988: checks 
+Andrew86666: checks 
+J.Petermin: checks 
+topbarber222: checks 
+Flush4vicki2: checks 
+donie913: bets 80
+sibagsnsk: folds 
+Plohisch762: folds 
+lilyy988: folds 
+Andrew86666: calls 80
+J.Petermin: folds 
+topbarber222: calls 80
+Flush4vicki2: folds 
+*** TURN *** [Ts 5d Qd] [2h]
+Andrew86666: checks 
+topbarber222: checks 
+donie913: bets 200
+Andrew86666: folds 
+topbarber222: calls 200
+*** RIVER *** [Ts 5d Qd 2h] [7s]
+topbarber222: checks 
+donie913: checks 
+*** SHOW DOWN ***
+topbarber222: shows [9s Ks] (high card King)
+donie913: mucks hand 
+topbarber222 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Ts 5d Qd 2h 7s]
+Seat 1: Flush4vicki2 folded on the Flop
+Seat 2: donie913 mucked [Kd 4d]
+Seat 3: sibagsnsk (button) folded on the Flop
+Seat 4: Plohisch762 (small blind) folded on the Flop
+Seat 5: lilyy988 (big blind) folded on the Flop
+Seat 6: Andrew86666 folded on the Turn
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded on the Flop
+Seat 9: topbarber222 showed [9s Ks] and won (800) with high card King
+
+
+
+PokerStars Hand #192280339720: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level I (10/20) - 2018/10/17 10:32:54 ET
+Table '2433509040 1' 9-max Seat #4 is the button
+Seat 1: Flush4vicki2 (1480 in chips) 
+Seat 2: donie913 (1240 in chips) 
+Seat 3: sibagsnsk (1240 in chips) 
+Seat 4: Plohisch762 (1780 in chips) 
+Seat 5: lilyy988 (1460 in chips) 
+Seat 6: Andrew86666 (1400 in chips) 
+Seat 7: nicholasj25 (1500 in chips) 
+Seat 8: J.Petermin (1480 in chips) 
+Seat 9: topbarber222 (1920 in chips) 
+lilyy988: posts small blind 10
+Andrew86666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9c Jh]
+nicholasj25: calls 20
+donie913 said, "nh"
+J.Petermin: calls 20
+topbarber222: calls 20
+Flush4vicki2: folds 
+donie913: folds 
+sibagsnsk: calls 20
+Plohisch762: calls 20
+lilyy988: raises 20 to 40
+donie913 said, "needed the diamond"
+Andrew86666: calls 20
+nicholasj25: calls 20
+J.Petermin: calls 20
+topbarber222: calls 20
+sibagsnsk: calls 20
+Plohisch762: calls 20
+*** FLOP *** [Ah 4h 7d]
+lilyy988: checks 
+Andrew86666: checks 
+nicholasj25: checks 
+J.Petermin: checks 
+topbarber222: bets 60
+sibagsnsk: calls 60
+Plohisch762: folds 
+lilyy988: folds 
+Andrew86666: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+*** TURN *** [Ah 4h 7d] [7h]
+topbarber222: bets 60
+sibagsnsk: calls 60
+*** RIVER *** [Ah 4h 7d 7h] [7s]
+topbarber222: bets 60
+sibagsnsk: calls 60
+*** SHOW DOWN ***
+topbarber222: shows [Ad Qs] (a full house, Sevens full of Aces)
+sibagsnsk: shows [6h As] (a full house, Sevens full of Aces)
+topbarber222 collected 320 from pot
+sibagsnsk collected 320 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Ah 4h 7d 7h 7s]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: donie913 folded before Flop (didn't bet)
+Seat 3: sibagsnsk showed [6h As] and won (320) with a full house, Sevens full of Aces
+Seat 4: Plohisch762 (button) folded on the Flop
+Seat 5: lilyy988 (small blind) folded on the Flop
+Seat 6: Andrew86666 (big blind) folded on the Flop
+Seat 7: nicholasj25 folded on the Flop
+Seat 8: J.Petermin folded on the Flop
+Seat 9: topbarber222 showed [Ad Qs] and won (320) with a full house, Sevens full of Aces
+
+
+
+PokerStars Hand #192280378301: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/10/17 10:34:15 ET
+Table '2433509040 1' 9-max Seat #5 is the button
+Seat 1: Flush4vicki2 (1480 in chips) 
+Seat 2: donie913 (1240 in chips) 
+Seat 3: sibagsnsk (1340 in chips) 
+Seat 4: Plohisch762 (1740 in chips) 
+Seat 5: lilyy988 (1420 in chips) 
+Seat 6: Andrew86666 (1360 in chips) 
+Seat 7: nicholasj25 (1460 in chips) 
+Seat 8: J.Petermin (1440 in chips) 
+Seat 9: topbarber222 (2020 in chips) 
+Andrew86666: posts small blind 15
+nicholasj25: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8d 5h]
+J.Petermin: calls 30
+topbarber222: folds 
+Flush4vicki2: folds 
+donie913: calls 30
+sibagsnsk: raises 90 to 120
+Plohisch762: calls 120
+lilyy988: folds 
+Andrew86666: folds 
+nicholasj25: folds 
+J.Petermin: calls 90
+donie913: calls 90
+*** FLOP *** [4c Jc 7d]
+J.Petermin: checks 
+donie913: checks 
+sibagsnsk: bets 210
+Plohisch762: folds 
+J.Petermin: folds 
+donie913: calls 210
+*** TURN *** [4c Jc 7d] [2h]
+donie913: checks 
+sibagsnsk: checks 
+*** RIVER *** [4c Jc 7d 2h] [7h]
+donie913: checks 
+sibagsnsk: checks 
+*** SHOW DOWN ***
+donie913: shows [Jd Ah] (two pair, Jacks and Sevens)
+sibagsnsk: mucks hand 
+donie913 collected 945 from pot
+*** SUMMARY ***
+Total pot 945 | Rake 0 
+Board [4c Jc 7d 2h 7h]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: donie913 showed [Jd Ah] and won (945) with two pair, Jacks and Sevens
+Seat 3: sibagsnsk mucked [3s 3d]
+Seat 4: Plohisch762 folded on the Flop
+Seat 5: lilyy988 (button) folded before Flop (didn't bet)
+Seat 6: Andrew86666 (small blind) folded before Flop
+Seat 7: nicholasj25 (big blind) folded before Flop
+Seat 8: J.Petermin folded on the Flop
+Seat 9: topbarber222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192280400665: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/10/17 10:35:01 ET
+Table '2433509040 1' 9-max Seat #6 is the button
+Seat 1: Flush4vicki2 (1480 in chips) 
+Seat 2: donie913 (1855 in chips) 
+Seat 3: sibagsnsk (1010 in chips) 
+Seat 4: Plohisch762 (1620 in chips) 
+Seat 5: lilyy988 (1420 in chips) 
+Seat 6: Andrew86666 (1345 in chips) 
+Seat 7: nicholasj25 (1430 in chips) 
+Seat 8: J.Petermin (1320 in chips) 
+nicholasj25: posts small blind 15
+J.Petermin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ad Qs]
+Flush4vicki2: calls 30
+donie913: folds 
+sibagsnsk: folds 
+Plohisch762: calls 30
+lilyy988: raises 30 to 60
+Andrew86666: calls 60
+nicholasj25: raises 60 to 120
+J.Petermin: folds 
+Flush4vicki2: calls 90
+Plohisch762: calls 90
+lilyy988: calls 60
+Andrew86666: calls 60
+*** FLOP *** [4c 7c 6s]
+nicholasj25: checks 
+Flush4vicki2: checks 
+Plohisch762: checks 
+lilyy988: bets 60
+Andrew86666: calls 60
+nicholasj25: calls 60
+Flush4vicki2: folds 
+Plohisch762: calls 60
+*** TURN *** [4c 7c 6s] [Th]
+nicholasj25: checks 
+Plohisch762: bets 60
+lilyy988: calls 60
+Andrew86666: calls 60
+nicholasj25: calls 60
+*** RIVER *** [4c 7c 6s Th] [Jd]
+nicholasj25: checks 
+Plohisch762: bets 60
+lilyy988: calls 60
+Andrew86666: folds 
+nicholasj25: folds 
+*** SHOW DOWN ***
+Plohisch762: shows [3d Td] (a pair of Tens)
+lilyy988: shows [Jc Qc] (a pair of Jacks)
+lilyy988 collected 1230 from pot
+*** SUMMARY ***
+Total pot 1230 | Rake 0 
+Board [4c 7c 6s Th Jd]
+Seat 1: Flush4vicki2 folded on the Flop
+Seat 2: donie913 folded before Flop (didn't bet)
+Seat 3: sibagsnsk folded before Flop (didn't bet)
+Seat 4: Plohisch762 showed [3d Td] and lost with a pair of Tens
+Seat 5: lilyy988 showed [Jc Qc] and won (1230) with a pair of Jacks
+Seat 6: Andrew86666 (button) folded on the River
+Seat 7: nicholasj25 (small blind) folded on the River
+Seat 8: J.Petermin (big blind) folded before Flop
+
+
+
+PokerStars Hand #192280461687: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/10/17 10:37:06 ET
+Table '2433509040 1' 9-max Seat #7 is the button
+Seat 1: Flush4vicki2 (1360 in chips) 
+Seat 2: donie913 (1855 in chips) 
+Seat 3: sibagsnsk (1010 in chips) 
+Seat 4: Plohisch762 (1320 in chips) 
+Seat 5: lilyy988 (2350 in chips) 
+Seat 6: Andrew86666 (1105 in chips) 
+Seat 7: nicholasj25 (1190 in chips) 
+Seat 8: J.Petermin (1290 in chips) 
+J.Petermin: posts small blind 15
+Flush4vicki2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3c 3d]
+donie913: folds 
+sibagsnsk: calls 30
+Plohisch762: raises 1290 to 1320 and is all-in
+lilyy988: folds 
+Andrew86666: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+Flush4vicki2: folds 
+sibagsnsk: folds 
+Uncalled bet (1290) returned to Plohisch762
+Plohisch762 collected 105 from pot
+Plohisch762: doesn't show hand 
+*** SUMMARY ***
+Total pot 105 | Rake 0 
+Seat 1: Flush4vicki2 (big blind) folded before Flop
+Seat 2: donie913 folded before Flop (didn't bet)
+Seat 3: sibagsnsk folded before Flop
+Seat 4: Plohisch762 collected (105)
+Seat 5: lilyy988 folded before Flop (didn't bet)
+Seat 6: Andrew86666 folded before Flop (didn't bet)
+Seat 7: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 8: J.Petermin (small blind) folded before Flop
+
+
+
+PokerStars Hand #192280475163: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/10/17 10:37:34 ET
+Table '2433509040 1' 9-max Seat #8 is the button
+Seat 1: Flush4vicki2 (1330 in chips) 
+Seat 2: donie913 (1855 in chips) 
+Seat 3: sibagsnsk (980 in chips) 
+Seat 4: Plohisch762 (1395 in chips) 
+Seat 5: lilyy988 (2350 in chips) 
+Seat 6: Andrew86666 (1105 in chips) 
+Seat 7: nicholasj25 (1190 in chips) 
+Seat 8: J.Petermin (1275 in chips) 
+Flush4vicki2: posts small blind 15
+donie913: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6h 8s]
+sibagsnsk: folds 
+Plohisch762: calls 30
+lilyy988: calls 30
+Andrew86666: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+Flush4vicki2: raises 270 to 300
+donie913: folds 
+Plohisch762: calls 270
+lilyy988: folds 
+*** FLOP *** [Qh Td 3d]
+Flush4vicki2: bets 1030 and is all-in
+Plohisch762: calls 1030
+*** TURN *** [Qh Td 3d] [2s]
+*** RIVER *** [Qh Td 3d 2s] [As]
+*** SHOW DOWN ***
+Flush4vicki2: shows [Ad Kh] (a pair of Aces)
+Plohisch762: shows [Qs 8c] (a pair of Queens)
+Flush4vicki2 collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | Rake 0 
+Board [Qh Td 3d 2s As]
+Seat 1: Flush4vicki2 (small blind) showed [Ad Kh] and won (2720) with a pair of Aces
+Seat 2: donie913 (big blind) folded before Flop
+Seat 3: sibagsnsk folded before Flop (didn't bet)
+Seat 4: Plohisch762 showed [Qs 8c] and lost with a pair of Queens
+Seat 5: lilyy988 folded before Flop
+Seat 6: Andrew86666 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192280495951: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/10/17 10:38:16 ET
+Table '2433509040 1' 9-max Seat #1 is the button
+Seat 1: Flush4vicki2 (2720 in chips) 
+Seat 2: donie913 (1825 in chips) 
+Seat 3: sibagsnsk (980 in chips) 
+Seat 4: Plohisch762 (65 in chips) 
+Seat 5: lilyy988 (2320 in chips) 
+Seat 6: Andrew86666 (1105 in chips) 
+Seat 7: nicholasj25 (1190 in chips) 
+Seat 8: J.Petermin (1275 in chips) 
+donie913: posts small blind 15
+sibagsnsk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ks Kd]
+Plohisch762: raises 35 to 65 and is all-in
+lilyy988: calls 65
+Andrew86666: folds 
+nicholasj25: raises 145 to 210
+J.Petermin: folds 
+Flush4vicki2: folds 
+donie913: folds 
+sibagsnsk: folds 
+lilyy988: calls 145
+*** FLOP *** [6s 7d 9d]
+lilyy988: bets 90
+nicholasj25: raises 90 to 180
+lilyy988: calls 90
+*** TURN *** [6s 7d 9d] [Jd]
+lilyy988: bets 30
+nicholasj25: calls 30
+*** RIVER *** [6s 7d 9d Jd] [5c]
+lilyy988: bets 30
+nicholasj25: raises 240 to 270
+lilyy988: calls 240
+*** SHOW DOWN ***
+nicholasj25: shows [Ks Kd] (a pair of Kings)
+lilyy988: mucks hand 
+nicholasj25 collected 1250 from side pot
+Plohisch762: shows [8h As] (a straight, Five to Nine)
+Plohisch762 collected 240 from main pot
+*** SUMMARY ***
+Total pot 1490 Main pot 240. Side pot 1250. | Rake 0 
+Board [6s 7d 9d Jd 5c]
+Seat 1: Flush4vicki2 (button) folded before Flop (didn't bet)
+Seat 2: donie913 (small blind) folded before Flop
+Seat 3: sibagsnsk (big blind) folded before Flop
+Seat 4: Plohisch762 showed [8h As] and won (240) with a straight, Five to Nine
+Seat 5: lilyy988 mucked [9s Ac]
+Seat 6: Andrew86666 folded before Flop (didn't bet)
+Seat 7: nicholasj25 showed [Ks Kd] and won (1250) with a pair of Kings
+Seat 8: J.Petermin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192280539650: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/10/17 10:39:45 ET
+Table '2433509040 1' 9-max Seat #2 is the button
+Seat 1: Flush4vicki2 (2720 in chips) 
+Seat 2: donie913 (1810 in chips) 
+Seat 3: sibagsnsk (950 in chips) 
+Seat 4: Plohisch762 (240 in chips) 
+Seat 5: lilyy988 (1630 in chips) 
+Seat 6: Andrew86666 (1105 in chips) 
+Seat 7: nicholasj25 (1750 in chips) 
+Seat 8: J.Petermin (1275 in chips) 
+Seat 9: 808Joey (3360 in chips) 
+sibagsnsk: posts small blind 25
+Plohisch762: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8s 5h]
+lilyy988: raises 50 to 100
+Andrew86666: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2 has timed out
+Flush4vicki2: folds 
+donie913: folds 
+sibagsnsk: folds 
+Plohisch762: raises 140 to 240 and is all-in
+lilyy988: calls 140
+*** FLOP *** [Kh 6h 3s]
+*** TURN *** [Kh 6h 3s] [2c]
+*** RIVER *** [Kh 6h 3s 2c] [Th]
+*** SHOW DOWN ***
+Plohisch762: shows [Jh 5s] (high card King)
+lilyy988: shows [Tc Ac] (a pair of Tens)
+lilyy988 collected 505 from pot
+Plohisch762 finished the tournament in 34th place
+*** SUMMARY ***
+Total pot 505 | Rake 0 
+Board [Kh 6h 3s 2c Th]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: donie913 (button) folded before Flop (didn't bet)
+Seat 3: sibagsnsk (small blind) folded before Flop
+Seat 4: Plohisch762 (big blind) showed [Jh 5s] and lost with high card King
+Seat 5: lilyy988 showed [Tc Ac] and won (505) with a pair of Tens
+Seat 6: Andrew86666 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192280567578: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/10/17 10:40:42 ET
+Table '2433509040 1' 9-max Seat #3 is the button
+Seat 1: Flush4vicki2 (2720 in chips) 
+Seat 2: donie913 (1810 in chips) 
+Seat 3: sibagsnsk (925 in chips) 
+Seat 5: lilyy988 (1895 in chips) 
+Seat 6: Andrew86666 (1105 in chips) 
+Seat 7: nicholasj25 (1750 in chips) 
+Seat 8: J.Petermin (1275 in chips) 
+Seat 9: 808Joey (3360 in chips) is sitting out
+lilyy988: posts small blind 25
+Andrew86666: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3d 2s]
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: folds 
+donie913: folds 
+sibagsnsk: calls 50
+lilyy988: calls 25
+Andrew86666: checks 
+*** FLOP *** [Ad 3s 9c]
+lilyy988: checks 
+Andrew86666: checks 
+sibagsnsk: bets 100
+lilyy988: folds 
+Andrew86666: folds 
+Uncalled bet (100) returned to sibagsnsk
+sibagsnsk collected 150 from pot
+sibagsnsk: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Ad 3s 9c]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: donie913 folded before Flop (didn't bet)
+Seat 3: sibagsnsk (button) collected (150)
+Seat 5: lilyy988 (small blind) folded on the Flop
+Seat 6: Andrew86666 (big blind) folded on the Flop
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192280586746: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/10/17 10:41:21 ET
+Table '2433509040 1' 9-max Seat #5 is the button
+Seat 1: Flush4vicki2 (2720 in chips) 
+Seat 2: donie913 (1810 in chips) 
+Seat 3: sibagsnsk (1025 in chips) 
+Seat 5: lilyy988 (1845 in chips) 
+Seat 6: Andrew86666 (1055 in chips) 
+Seat 7: nicholasj25 (1750 in chips) 
+Seat 8: J.Petermin (1275 in chips) 
+Seat 9: 808Joey (3360 in chips) is sitting out
+Andrew86666: posts small blind 25
+nicholasj25: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Jh Jd]
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: calls 50
+donie913: folds 
+sibagsnsk: raises 100 to 150
+lilyy988: calls 150
+Andrew86666: folds 
+nicholasj25: raises 450 to 600
+Flush4vicki2: folds 
+sibagsnsk: folds 
+lilyy988: calls 450
+*** FLOP *** [4h 7h 7s]
+nicholasj25: bets 600
+lilyy988: folds 
+Uncalled bet (600) returned to nicholasj25
+nicholasj25 collected 1425 from pot
+*** SUMMARY ***
+Total pot 1425 | Rake 0 
+Board [4h 7h 7s]
+Seat 1: Flush4vicki2 folded before Flop
+Seat 2: donie913 folded before Flop (didn't bet)
+Seat 3: sibagsnsk folded before Flop
+Seat 5: lilyy988 (button) folded on the Flop
+Seat 6: Andrew86666 (small blind) folded before Flop
+Seat 7: nicholasj25 (big blind) collected (1425)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192280621759: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/10/17 10:42:32 ET
+Table '2433509040 1' 9-max Seat #6 is the button
+Seat 1: Flush4vicki2 (2670 in chips) 
+Seat 2: donie913 (1810 in chips) 
+Seat 3: sibagsnsk (875 in chips) 
+Seat 5: lilyy988 (1245 in chips) 
+Seat 6: Andrew86666 (1030 in chips) 
+Seat 7: nicholasj25 (2575 in chips) 
+Seat 8: J.Petermin (1275 in chips) 
+Seat 9: 808Joey (3360 in chips) 
+nicholasj25: posts small blind 25
+J.Petermin: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3c Qd]
+808Joey: calls 50
+Flush4vicki2: calls 50
+donie913: folds 
+sibagsnsk: folds 
+lilyy988: folds 
+Andrew86666: folds 
+nicholasj25: calls 25
+J.Petermin: checks 
+*** FLOP *** [6s Kc Qh]
+nicholasj25: bets 50
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: calls 50
+*** TURN *** [6s Kc Qh] [6c]
+nicholasj25: checks 
+Flush4vicki2: checks 
+*** RIVER *** [6s Kc Qh 6c] [2h]
+nicholasj25: checks 
+Flush4vicki2: checks 
+*** SHOW DOWN ***
+nicholasj25: shows [3c Qd] (two pair, Queens and Sixes)
+Flush4vicki2: mucks hand 
+nicholasj25 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [6s Kc Qh 6c 2h]
+Seat 1: Flush4vicki2 mucked [Ts Ad]
+Seat 2: donie913 folded before Flop (didn't bet)
+Seat 3: sibagsnsk folded before Flop (didn't bet)
+Seat 5: lilyy988 folded before Flop (didn't bet)
+Seat 6: Andrew86666 (button) folded before Flop (didn't bet)
+Seat 7: nicholasj25 (small blind) showed [3c Qd] and won (300) with two pair, Queens and Sixes
+Seat 8: J.Petermin (big blind) folded on the Flop
+Seat 9: 808Joey folded on the Flop
+
+
+
+PokerStars Hand #192280647534: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/10/17 10:43:25 ET
+Table '2433509040 1' 9-max Seat #7 is the button
+Seat 1: Flush4vicki2 (2570 in chips) 
+Seat 2: donie913 (1810 in chips) 
+Seat 3: sibagsnsk (875 in chips) 
+Seat 5: lilyy988 (1245 in chips) 
+Seat 6: Andrew86666 (1030 in chips) 
+Seat 7: nicholasj25 (2775 in chips) 
+Seat 8: J.Petermin (1225 in chips) 
+Seat 9: 808Joey (3310 in chips) 
+J.Petermin: posts small blind 25
+808Joey: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6h 6d]
+Flush4vicki2: calls 50
+donie913: folds 
+sibagsnsk: folds 
+lilyy988: folds 
+Andrew86666: calls 50
+nicholasj25: raises 50 to 100
+J.Petermin: calls 75
+808Joey: folds 
+Flush4vicki2: calls 50
+Andrew86666: calls 50
+*** FLOP *** [2c Kh 7h]
+J.Petermin: checks 
+Flush4vicki2: bets 50
+Andrew86666: calls 50
+nicholasj25: folds 
+J.Petermin: folds 
+*** TURN *** [2c Kh 7h] [Js]
+Flush4vicki2: checks 
+Andrew86666: checks 
+*** RIVER *** [2c Kh 7h Js] [5s]
+Flush4vicki2: checks 
+Andrew86666: checks 
+*** SHOW DOWN ***
+Flush4vicki2: shows [7d 4s] (a pair of Sevens)
+Andrew86666: mucks hand 
+Flush4vicki2 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [2c Kh 7h Js 5s]
+Seat 1: Flush4vicki2 showed [7d 4s] and won (550) with a pair of Sevens
+Seat 2: donie913 folded before Flop (didn't bet)
+Seat 3: sibagsnsk folded before Flop (didn't bet)
+Seat 5: lilyy988 folded before Flop (didn't bet)
+Seat 6: Andrew86666 mucked [Ac Qd]
+Seat 7: nicholasj25 (button) folded on the Flop
+Seat 8: J.Petermin (small blind) folded on the Flop
+Seat 9: 808Joey (big blind) folded before Flop
+
+
+
+PokerStars Hand #192280690104: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/10/17 10:44:51 ET
+Table '2433509040 1' 9-max Seat #8 is the button
+Seat 1: Flush4vicki2 (2970 in chips) 
+Seat 2: donie913 (1810 in chips) 
+Seat 3: sibagsnsk (875 in chips) 
+Seat 5: lilyy988 (1245 in chips) 
+Seat 6: Andrew86666 (880 in chips) 
+Seat 7: nicholasj25 (2675 in chips) 
+Seat 8: J.Petermin (1125 in chips) 
+Seat 9: 808Joey (3260 in chips) 
+808Joey: posts small blind 50
+Flush4vicki2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4h Qd]
+donie913: folds 
+sibagsnsk: folds 
+lilyy988: folds 
+Andrew86666: calls 100
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: checks 
+*** FLOP *** [Ts 5s 6s]
+Flush4vicki2: checks 
+Andrew86666: checks 
+*** TURN *** [Ts 5s 6s] [6d]
+Flush4vicki2: checks 
+Andrew86666: checks 
+*** RIVER *** [Ts 5s 6s 6d] [Td]
+Flush4vicki2: checks 
+Andrew86666: checks 
+*** SHOW DOWN ***
+Flush4vicki2: shows [3s Kd] (two pair, Tens and Sixes)
+Andrew86666: shows [7c Ad] (two pair, Tens and Sixes - Ace kicker)
+Andrew86666 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [Ts 5s 6s 6d Td]
+Seat 1: Flush4vicki2 (big blind) showed [3s Kd] and lost with two pair, Tens and Sixes
+Seat 2: donie913 folded before Flop (didn't bet)
+Seat 3: sibagsnsk folded before Flop (didn't bet)
+Seat 5: lilyy988 folded before Flop (didn't bet)
+Seat 6: Andrew86666 showed [7c Ad] and won (250) with two pair, Tens and Sixes
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin (button) folded before Flop (didn't bet)
+Seat 9: 808Joey (small blind) folded before Flop
+
+
+
+PokerStars Hand #192280714939: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/10/17 10:45:42 ET
+Table '2433509040 1' 9-max Seat #9 is the button
+Seat 1: Flush4vicki2 (2870 in chips) 
+Seat 3: sibagsnsk (875 in chips) 
+Seat 5: lilyy988 (1245 in chips) 
+Seat 6: Andrew86666 (1030 in chips) 
+Seat 7: nicholasj25 (2675 in chips) 
+Seat 8: J.Petermin (1125 in chips) 
+Seat 9: 808Joey (3210 in chips) 
+Flush4vicki2: posts small blind 50
+sibagsnsk: posts big blind 100
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5c 7c]
+lilyy988: calls 100
+Andrew86666: calls 100
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: raises 100 to 200
+Flush4vicki2: folds 
+sibagsnsk: folds 
+lilyy988: calls 100
+Andrew86666: calls 100
+*** FLOP *** [8c 6s 5s]
+lilyy988: checks 
+Andrew86666: checks 
+808Joey: checks 
+*** TURN *** [8c 6s 5s] [Kd]
+lilyy988: bets 300
+Andrew86666: folds 
+808Joey: folds 
+Uncalled bet (300) returned to lilyy988
+lilyy988 collected 750 from pot
+lilyy988: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [8c 6s 5s Kd]
+Seat 1: Flush4vicki2 (small blind) folded before Flop
+Seat 3: sibagsnsk (big blind) folded before Flop
+Seat 5: lilyy988 collected (750)
+Seat 6: Andrew86666 folded on the Turn
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey (button) folded on the Turn
+
+
+
+PokerStars Hand #192280753300: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/10/17 10:47:00 ET
+Table '2433509040 1' 9-max Seat #1 is the button
+Seat 1: Flush4vicki2 (2820 in chips) 
+Seat 3: sibagsnsk (775 in chips) 
+Seat 5: lilyy988 (1795 in chips) 
+Seat 6: Andrew86666 (830 in chips) 
+Seat 7: nicholasj25 (2675 in chips) 
+Seat 8: J.Petermin (1125 in chips) 
+Seat 9: 808Joey (3010 in chips) 
+sibagsnsk: posts small blind 50
+lilyy988: posts big blind 100
+*** HOLE CARDS ***
+Dealt to nicholasj25 [As Ts]
+Andrew86666: folds 
+nicholasj25: raises 100 to 200
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: folds 
+sibagsnsk: folds 
+lilyy988: calls 100
+*** FLOP *** [Jc Ah 4c]
+lilyy988: checks 
+nicholasj25: bets 200
+lilyy988 has timed out
+lilyy988: folds 
+Uncalled bet (200) returned to nicholasj25
+nicholasj25 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [Jc Ah 4c]
+Seat 1: Flush4vicki2 (button) folded before Flop (didn't bet)
+Seat 3: sibagsnsk (small blind) folded before Flop
+Seat 5: lilyy988 (big blind) folded on the Flop
+Seat 6: Andrew86666 folded before Flop (didn't bet)
+Seat 7: nicholasj25 collected (450)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192280785087: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/10/17 10:48:03 ET
+Table '2433509040 1' 9-max Seat #3 is the button
+Seat 1: Flush4vicki2 (2820 in chips) 
+Seat 3: sibagsnsk (725 in chips) 
+Seat 5: lilyy988 (1595 in chips) is sitting out
+Seat 6: Andrew86666 (830 in chips) 
+Seat 7: nicholasj25 (2925 in chips) 
+Seat 8: J.Petermin (1125 in chips) 
+Seat 9: 808Joey (3010 in chips) 
+lilyy988: posts small blind 50
+Andrew86666: posts big blind 100
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2d Qs]
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: folds 
+sibagsnsk: raises 625 to 725 and is all-in
+lilyy988: folds 
+Andrew86666: folds 
+Uncalled bet (625) returned to sibagsnsk
+sibagsnsk collected 250 from pot
+sibagsnsk: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 3: sibagsnsk (button) collected (250)
+Seat 5: lilyy988 (small blind) folded before Flop
+Seat 6: Andrew86666 (big blind) folded before Flop
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192280796060: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/10/17 10:48:25 ET
+Table '2433509040 1' 9-max Seat #5 is the button
+Seat 1: Flush4vicki2 (2820 in chips) 
+Seat 3: sibagsnsk (875 in chips) 
+Seat 5: lilyy988 (1545 in chips) 
+Seat 6: Andrew86666 (730 in chips) 
+Seat 7: nicholasj25 (2925 in chips) 
+Seat 8: J.Petermin (1125 in chips) 
+Seat 9: 808Joey (3010 in chips) 
+Andrew86666: posts small blind 50
+nicholasj25: posts big blind 100
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kh Jd]
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: raises 900 to 1000
+sibagsnsk: folds 
+lilyy988: folds 
+Andrew86666: folds 
+nicholasj25: raises 1925 to 2925 and is all-in
+Flush4vicki2: calls 1820 and is all-in
+Uncalled bet (105) returned to nicholasj25
+*** FLOP *** [Ks 3d 9s]
+*** TURN *** [Ks 3d 9s] [Qd]
+*** RIVER *** [Ks 3d 9s Qd] [5c]
+*** SHOW DOWN ***
+nicholasj25: shows [Kh Jd] (a pair of Kings)
+Flush4vicki2: shows [Qs Kc] (two pair, Kings and Queens)
+Flush4vicki2 collected 5690 from pot
+*** SUMMARY ***
+Total pot 5690 | Rake 0 
+Board [Ks 3d 9s Qd 5c]
+Seat 1: Flush4vicki2 showed [Qs Kc] and won (5690) with two pair, Kings and Queens
+Seat 3: sibagsnsk folded before Flop (didn't bet)
+Seat 5: lilyy988 (button) folded before Flop (didn't bet)
+Seat 6: Andrew86666 (small blind) folded before Flop
+Seat 7: nicholasj25 (big blind) showed [Kh Jd] and lost with a pair of Kings
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192280814331: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/10/17 10:49:02 ET
+Table '2433509040 1' 9-max Seat #6 is the button
+Seat 1: Flush4vicki2 (5690 in chips) 
+Seat 3: sibagsnsk (875 in chips) 
+Seat 5: lilyy988 (1545 in chips) 
+Seat 6: Andrew86666 (680 in chips) 
+Seat 7: nicholasj25 (105 in chips) 
+Seat 8: J.Petermin (1125 in chips) 
+Seat 9: 808Joey (3010 in chips) 
+nicholasj25: posts small blind 75
+J.Petermin: posts big blind 150
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7c Qc]
+808Joey: calls 150
+Flush4vicki2: folds 
+sibagsnsk: raises 725 to 875 and is all-in
+lilyy988: folds 
+Andrew86666: folds 
+nicholasj25: calls 30 and is all-in
+J.Petermin: folds 
+808Joey: calls 725
+*** FLOP *** [5d Jd 6s]
+*** TURN *** [5d Jd 6s] [Qh]
+*** RIVER *** [5d Jd 6s Qh] [7d]
+*** SHOW DOWN ***
+808Joey: shows [Th Ac] (high card Ace)
+sibagsnsk: shows [Ts As] (high card Ace)
+808Joey collected 793 from side pot
+sibagsnsk collected 792 from side pot
+nicholasj25: shows [7c Qc] (two pair, Queens and Sevens)
+nicholasj25 collected 420 from main pot
+*** SUMMARY ***
+Total pot 2005 Main pot 420. Side pot 1585. | Rake 0 
+Board [5d Jd 6s Qh 7d]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 3: sibagsnsk showed [Ts As] and won (792) with high card Ace
+Seat 5: lilyy988 folded before Flop (didn't bet)
+Seat 6: Andrew86666 (button) folded before Flop (didn't bet)
+Seat 7: nicholasj25 (small blind) showed [7c Qc] and won (420) with two pair, Queens and Sevens
+Seat 8: J.Petermin (big blind) folded before Flop
+Seat 9: 808Joey showed [Th Ac] and won (793) with high card Ace
+
+
+
+PokerStars Hand #192280833881: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/10/17 10:49:42 ET
+Table '2433509040 1' 9-max Seat #7 is the button
+Seat 1: Flush4vicki2 (5690 in chips) 
+Seat 3: sibagsnsk (792 in chips) 
+Seat 5: lilyy988 (1545 in chips) 
+Seat 6: Andrew86666 (680 in chips) 
+Seat 7: nicholasj25 (420 in chips) 
+Seat 8: J.Petermin (975 in chips) 
+Seat 9: 808Joey (2928 in chips) 
+J.Petermin: posts small blind 75
+808Joey: posts big blind 150
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ad Qs]
+Flush4vicki2: folds 
+sibagsnsk: folds 
+lilyy988: folds 
+Andrew86666: calls 150
+nicholasj25: raises 270 to 420 and is all-in
+J.Petermin: folds 
+808Joey: folds 
+Andrew86666: calls 270
+*** FLOP *** [Qd As 8c]
+*** TURN *** [Qd As 8c] [Jd]
+*** RIVER *** [Qd As 8c Jd] [7s]
+*** SHOW DOWN ***
+Andrew86666: shows [5h 6h] (high card Ace)
+nicholasj25: shows [Ad Qs] (two pair, Aces and Queens)
+nicholasj25 collected 1065 from pot
+*** SUMMARY ***
+Total pot 1065 | Rake 0 
+Board [Qd As 8c Jd 7s]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 3: sibagsnsk folded before Flop (didn't bet)
+Seat 5: lilyy988 folded before Flop (didn't bet)
+Seat 6: Andrew86666 showed [5h 6h] and lost with high card Ace
+Seat 7: nicholasj25 (button) showed [Ad Qs] and won (1065) with two pair, Aces and Queens
+Seat 8: J.Petermin (small blind) folded before Flop
+Seat 9: 808Joey (big blind) folded before Flop
+
+
+
+PokerStars Hand #192280846611: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/10/17 10:50:07 ET
+Table '2433509040 1' 9-max Seat #8 is the button
+Seat 1: Flush4vicki2 (5690 in chips) 
+Seat 3: sibagsnsk (792 in chips) 
+Seat 5: lilyy988 (1545 in chips) 
+Seat 6: Andrew86666 (260 in chips) 
+Seat 7: nicholasj25 (1065 in chips) 
+Seat 8: J.Petermin (900 in chips) 
+Seat 9: 808Joey (2778 in chips) 
+808Joey: posts small blind 75
+Flush4vicki2: posts big blind 150
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8c 7c]
+sibagsnsk: folds 
+lilyy988: folds 
+Andrew86666: raises 110 to 260 and is all-in
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: calls 185
+Flush4vicki2: calls 110
+*** FLOP *** [2s 2c Ts]
+808Joey: checks 
+Flush4vicki2: checks 
+*** TURN *** [2s 2c Ts] [Qh]
+808Joey: checks 
+Flush4vicki2: bets 150
+808Joey: calls 150
+*** RIVER *** [2s 2c Ts Qh] [Ad]
+808Joey: checks 
+Flush4vicki2: checks 
+*** SHOW DOWN ***
+808Joey: shows [6s 7s] (a pair of Deuces)
+Flush4vicki2: shows [Qd 5c] (two pair, Queens and Deuces)
+Flush4vicki2 collected 300 from side pot
+Andrew86666: shows [9d Ac] (two pair, Aces and Deuces)
+Andrew86666 collected 780 from main pot
+*** SUMMARY ***
+Total pot 1080 Main pot 780. Side pot 300. | Rake 0 
+Board [2s 2c Ts Qh Ad]
+Seat 1: Flush4vicki2 (big blind) showed [Qd 5c] and won (300) with two pair, Queens and Deuces
+Seat 3: sibagsnsk folded before Flop (didn't bet)
+Seat 5: lilyy988 folded before Flop (didn't bet)
+Seat 6: Andrew86666 showed [9d Ac] and won (780) with two pair, Aces and Deuces
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin (button) folded before Flop (didn't bet)
+Seat 9: 808Joey (small blind) showed [6s 7s] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #192280864324: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/10/17 10:50:43 ET
+Table '2433509040 1' 9-max Seat #9 is the button
+Seat 1: Flush4vicki2 (5580 in chips) 
+Seat 2: luckxkcul (2260 in chips) 
+Seat 3: sibagsnsk (792 in chips) 
+Seat 4: donie913 (1460 in chips) 
+Seat 5: lilyy988 (1545 in chips) 
+Seat 6: Andrew86666 (780 in chips) 
+Seat 7: nicholasj25 (1065 in chips) 
+Seat 8: J.Petermin (900 in chips) 
+Seat 9: 808Joey (2368 in chips) 
+Flush4vicki2: posts small blind 75
+luckxkcul: posts big blind 150
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Jc 5h]
+sibagsnsk: raises 642 to 792 and is all-in
+donie913: calls 792
+lilyy988: folds 
+Andrew86666: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: calls 792
+Flush4vicki2: folds 
+luckxkcul: folds 
+*** FLOP *** [2c Kh 9s]
+donie913: checks 
+808Joey: checks 
+*** TURN *** [2c Kh 9s] [6d]
+donie913: checks 
+808Joey: checks 
+*** RIVER *** [2c Kh 9s 6d] [5s]
+donie913: checks 
+808Joey: checks 
+*** SHOW DOWN ***
+sibagsnsk: shows [Ad Qh] (high card Ace)
+donie913: mucks hand 
+808Joey: mucks hand 
+sibagsnsk collected 2601 from pot
+*** SUMMARY ***
+Total pot 2601 | Rake 0 
+Board [2c Kh 9s 6d 5s]
+Seat 1: Flush4vicki2 (small blind) folded before Flop
+Seat 2: luckxkcul (big blind) folded before Flop
+Seat 3: sibagsnsk showed [Ad Qh] and won (2601) with high card Ace
+Seat 4: donie913 mucked [Jh Th]
+Seat 5: lilyy988 folded before Flop (didn't bet)
+Seat 6: Andrew86666 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey (button) mucked [As 8c]
+
+
+
+PokerStars Hand #192280884057: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/10/17 10:51:23 ET
+Table '2433509040 1' 9-max Seat #1 is the button
+Seat 1: Flush4vicki2 (5505 in chips) 
+Seat 2: luckxkcul (2110 in chips) 
+Seat 3: sibagsnsk (2601 in chips) 
+Seat 4: donie913 (668 in chips) 
+Seat 5: lilyy988 (1545 in chips) 
+Seat 6: Andrew86666 (780 in chips) 
+Seat 7: nicholasj25 (1065 in chips) 
+Seat 8: J.Petermin (900 in chips) 
+Seat 9: 808Joey (1576 in chips) 
+luckxkcul: posts small blind 75
+sibagsnsk: posts big blind 150
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qs Kc]
+donie913: raises 518 to 668 and is all-in
+lilyy988: folds 
+Andrew86666: folds 
+nicholasj25: raises 397 to 1065 and is all-in
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: folds 
+luckxkcul: calls 990
+sibagsnsk: folds 
+*** FLOP *** [3h 6s 5d]
+*** TURN *** [3h 6s 5d] [2d]
+*** RIVER *** [3h 6s 5d 2d] [Qh]
+*** SHOW DOWN ***
+luckxkcul: shows [Ks Ac] (high card Ace)
+nicholasj25: shows [Qs Kc] (a pair of Queens)
+nicholasj25 collected 794 from side pot
+donie913: shows [8d 8c] (a pair of Eights)
+nicholasj25 collected 2154 from main pot
+donie913 finished the tournament in 27th place
+*** SUMMARY ***
+Total pot 2948 Main pot 2154. Side pot 794. | Rake 0 
+Board [3h 6s 5d 2d Qh]
+Seat 1: Flush4vicki2 (button) folded before Flop (didn't bet)
+Seat 2: luckxkcul (small blind) showed [Ks Ac] and lost with high card Ace
+Seat 3: sibagsnsk (big blind) folded before Flop
+Seat 4: donie913 showed [8d 8c] and lost with a pair of Eights
+Seat 5: lilyy988 folded before Flop (didn't bet)
+Seat 6: Andrew86666 folded before Flop (didn't bet)
+Seat 7: nicholasj25 showed [Qs Kc] and won (2948) with a pair of Queens
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192280901070: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/10/17 10:51:57 ET
+Table '2433509040 1' 9-max Seat #2 is the button
+Seat 1: Flush4vicki2 (5505 in chips) 
+Seat 2: luckxkcul (1045 in chips) 
+Seat 3: sibagsnsk (2451 in chips) 
+Seat 5: lilyy988 (1545 in chips) 
+Seat 6: Andrew86666 (780 in chips) 
+Seat 7: nicholasj25 (2948 in chips) 
+Seat 8: J.Petermin (900 in chips) 
+Seat 9: 808Joey (1576 in chips) 
+sibagsnsk: posts small blind 75
+lilyy988: posts big blind 150
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9h 4c]
+Andrew86666: calls 150
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: folds 
+luckxkcul: folds 
+sibagsnsk: calls 75
+lilyy988: checks 
+*** FLOP *** [2c Ad Kc]
+sibagsnsk: checks 
+lilyy988: checks 
+Andrew86666: bets 450
+sibagsnsk: folds 
+lilyy988: folds 
+Uncalled bet (450) returned to Andrew86666
+Andrew86666 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [2c Ad Kc]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: luckxkcul (button) folded before Flop (didn't bet)
+Seat 3: sibagsnsk (small blind) folded on the Flop
+Seat 5: lilyy988 (big blind) folded on the Flop
+Seat 6: Andrew86666 collected (450)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192280919334: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/10/17 10:52:33 ET
+Table '2433509040 1' 9-max Seat #3 is the button
+Seat 1: Flush4vicki2 (5505 in chips) 
+Seat 2: luckxkcul (1045 in chips) 
+Seat 3: sibagsnsk (2301 in chips) 
+Seat 5: lilyy988 (1395 in chips) 
+Seat 6: Andrew86666 (1080 in chips) 
+Seat 7: nicholasj25 (2948 in chips) 
+Seat 8: J.Petermin (900 in chips) 
+Seat 9: 808Joey (1576 in chips) 
+lilyy988: posts small blind 75
+Andrew86666: posts big blind 150
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5s Jc]
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: folds 
+luckxkcul: folds 
+sibagsnsk: raises 300 to 450
+lilyy988: folds 
+Andrew86666: folds 
+Uncalled bet (300) returned to sibagsnsk
+sibagsnsk collected 375 from pot
+sibagsnsk: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: sibagsnsk (button) collected (375)
+Seat 5: lilyy988 (small blind) folded before Flop
+Seat 6: Andrew86666 (big blind) folded before Flop
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192280929506: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/10/17 10:52:54 ET
+Table '2433509040 1' 9-max Seat #5 is the button
+Seat 1: Flush4vicki2 (5505 in chips) 
+Seat 2: luckxkcul (1045 in chips) 
+Seat 3: sibagsnsk (2526 in chips) 
+Seat 5: lilyy988 (1320 in chips) 
+Seat 6: Andrew86666 (930 in chips) 
+Seat 7: nicholasj25 (2948 in chips) 
+Seat 8: J.Petermin (900 in chips) 
+Seat 9: 808Joey (1576 in chips) 
+Andrew86666: posts small blind 75
+nicholasj25: posts big blind 150
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qh 5h]
+J.Petermin: folds 
+808Joey: calls 150
+Flush4vicki2: folds 
+luckxkcul: folds 
+sibagsnsk: folds 
+lilyy988: calls 150
+Andrew86666: calls 75
+nicholasj25: checks 
+*** FLOP *** [Qs Kc 7s]
+Andrew86666: checks 
+nicholasj25: bets 300
+808Joey: calls 300
+lilyy988: folds 
+Andrew86666: folds 
+*** TURN *** [Qs Kc 7s] [5c]
+nicholasj25: bets 150
+808Joey: calls 150
+*** RIVER *** [Qs Kc 7s 5c] [Jh]
+nicholasj25: bets 300
+808Joey: raises 300 to 600
+nicholasj25: calls 300
+*** SHOW DOWN ***
+808Joey: shows [Ac Ts] (a straight, Ten to Ace)
+nicholasj25: shows [Qh 5h] (two pair, Queens and Fives)
+808Joey collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | Rake 0 
+Board [Qs Kc 7s 5c Jh]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: sibagsnsk folded before Flop (didn't bet)
+Seat 5: lilyy988 (button) folded on the Flop
+Seat 6: Andrew86666 (small blind) folded on the Flop
+Seat 7: nicholasj25 (big blind) showed [Qh 5h] and lost with two pair, Queens and Fives
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey showed [Ac Ts] and won (2700) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #192280963557: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/10/17 10:54:02 ET
+Table '2433509040 1' 9-max Seat #6 is the button
+Seat 1: Flush4vicki2 (5505 in chips) 
+Seat 2: luckxkcul (1045 in chips) 
+Seat 3: sibagsnsk (2526 in chips) 
+Seat 5: lilyy988 (1170 in chips) 
+Seat 6: Andrew86666 (780 in chips) 
+Seat 7: nicholasj25 (1748 in chips) 
+Seat 8: J.Petermin (900 in chips) 
+Seat 9: 808Joey (3076 in chips) 
+nicholasj25: posts small blind 100
+J.Petermin: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6c Qd]
+808Joey: calls 200
+Flush4vicki2: folds 
+luckxkcul: folds 
+sibagsnsk: folds 
+lilyy988: calls 200
+Andrew86666: folds 
+nicholasj25: folds 
+J.Petermin: checks 
+*** FLOP *** [2s Jc 9c]
+J.Petermin: checks 
+808Joey: bets 200
+lilyy988 has timed out
+lilyy988: folds 
+J.Petermin: folds 
+Uncalled bet (200) returned to 808Joey
+808Joey collected 700 from pot
+808Joey: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [2s Jc 9c]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: sibagsnsk folded before Flop (didn't bet)
+Seat 5: lilyy988 folded on the Flop
+Seat 6: Andrew86666 (button) folded before Flop (didn't bet)
+Seat 7: nicholasj25 (small blind) folded before Flop
+Seat 8: J.Petermin (big blind) folded on the Flop
+Seat 9: 808Joey collected (700)
+
+
+
+PokerStars Hand #192280987329: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/10/17 10:54:50 ET
+Table '2433509040 1' 9-max Seat #7 is the button
+Seat 1: Flush4vicki2 (5505 in chips) 
+Seat 2: luckxkcul (1045 in chips) 
+Seat 3: sibagsnsk (2526 in chips) 
+Seat 5: lilyy988 (970 in chips) is sitting out
+Seat 6: Andrew86666 (780 in chips) 
+Seat 7: nicholasj25 (1648 in chips) 
+Seat 8: J.Petermin (700 in chips) 
+Seat 9: 808Joey (3576 in chips) 
+J.Petermin: posts small blind 100
+808Joey: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8d Tc]
+Flush4vicki2 has timed out
+Flush4vicki2: folds 
+luckxkcul: folds 
+sibagsnsk: folds 
+lilyy988: folds 
+Andrew86666: calls 200
+nicholasj25: folds 
+J.Petermin: calls 100
+808Joey: checks 
+*** FLOP *** [4c Jc Ks]
+J.Petermin: checks 
+808Joey: checks 
+Andrew86666: checks 
+*** TURN *** [4c Jc Ks] [Jh]
+J.Petermin: checks 
+808Joey: checks 
+Andrew86666: checks 
+*** RIVER *** [4c Jc Ks Jh] [Qc]
+J.Petermin: checks 
+808Joey: checks 
+Andrew86666: checks 
+*** SHOW DOWN ***
+J.Petermin: shows [9h 4d] (two pair, Jacks and Fours)
+808Joey: mucks hand 
+Andrew86666: mucks hand 
+J.Petermin collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [4c Jc Ks Jh Qc]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: sibagsnsk folded before Flop (didn't bet)
+Seat 5: lilyy988 folded before Flop (didn't bet)
+Seat 6: Andrew86666 mucked [Ad 3c]
+Seat 7: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 8: J.Petermin (small blind) showed [9h 4d] and won (600) with two pair, Jacks and Fours
+Seat 9: 808Joey (big blind) mucked [2d 5c]
+
+
+
+PokerStars Hand #192281014292: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/10/17 10:55:50 ET
+Table '2433509040 1' 9-max Seat #8 is the button
+Seat 1: Flush4vicki2 (5505 in chips) 
+Seat 2: luckxkcul (1045 in chips) 
+Seat 3: sibagsnsk (2526 in chips) 
+Seat 5: lilyy988 (970 in chips) 
+Seat 6: Andrew86666 (580 in chips) 
+Seat 7: nicholasj25 (1648 in chips) 
+Seat 8: J.Petermin (1100 in chips) 
+Seat 9: 808Joey (3376 in chips) 
+808Joey: posts small blind 100
+Flush4vicki2: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9s 5d]
+luckxkcul: folds 
+sibagsnsk: raises 300 to 500
+lilyy988: folds 
+Andrew86666: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: calls 400
+Flush4vicki2: folds 
+*** FLOP *** [Ac Jc 6s]
+808Joey: bets 2876 and is all-in
+sibagsnsk: calls 2026 and is all-in
+Uncalled bet (850) returned to 808Joey
+*** TURN *** [Ac Jc 6s] [Qc]
+*** RIVER *** [Ac Jc 6s Qc] [6h]
+*** SHOW DOWN ***
+808Joey: shows [Kc 6c] (a flush, Ace high)
+sibagsnsk: shows [Tc As] (two pair, Aces and Sixes)
+808Joey collected 5252 from pot
+sibagsnsk finished the tournament in 24th place
+*** SUMMARY ***
+Total pot 5252 | Rake 0 
+Board [Ac Jc 6s Qc 6h]
+Seat 1: Flush4vicki2 (big blind) folded before Flop
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: sibagsnsk showed [Tc As] and lost with two pair, Aces and Sixes
+Seat 5: lilyy988 folded before Flop (didn't bet)
+Seat 6: Andrew86666 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin (button) folded before Flop (didn't bet)
+Seat 9: 808Joey (small blind) showed [Kc 6c] and won (5252) with a flush, Ace high
+
+
+
+PokerStars Hand #192281027923: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/10/17 10:56:23 ET
+Table '2433509040 1' 9-max Seat #9 is the button
+Seat 1: Flush4vicki2 (5305 in chips) 
+Seat 2: luckxkcul (1045 in chips) 
+Seat 5: lilyy988 (970 in chips) 
+Seat 6: Andrew86666 (580 in chips) 
+Seat 7: nicholasj25 (1648 in chips) 
+Seat 8: J.Petermin (1100 in chips) 
+Seat 9: 808Joey (6102 in chips) 
+Flush4vicki2: posts small blind 100
+luckxkcul: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4s 8d]
+lilyy988: folds 
+Andrew86666: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: calls 100
+luckxkcul: checks 
+*** FLOP *** [Ks 9h 6s]
+Flush4vicki2: bets 200
+luckxkcul: folds 
+Uncalled bet (200) returned to Flush4vicki2
+Flush4vicki2 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Ks 9h 6s]
+Seat 1: Flush4vicki2 (small blind) collected (400)
+Seat 2: luckxkcul (big blind) folded on the Flop
+Seat 5: lilyy988 folded before Flop (didn't bet)
+Seat 6: Andrew86666 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281039538: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/10/17 10:56:50 ET
+Table '2433509040 1' 9-max Seat #1 is the button
+Seat 1: Flush4vicki2 (5505 in chips) 
+Seat 2: luckxkcul (845 in chips) 
+Seat 5: lilyy988 (970 in chips) 
+Seat 6: Andrew86666 (580 in chips) 
+Seat 7: nicholasj25 (1648 in chips) 
+Seat 8: J.Petermin (1100 in chips) 
+Seat 9: 808Joey (6102 in chips) is sitting out
+luckxkcul: posts small blind 100
+lilyy988: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Js 9h]
+Andrew86666: calls 200
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: raises 600 to 800
+luckxkcul: folds 
+lilyy988: raises 170 to 970 and is all-in
+Andrew86666: calls 380 and is all-in
+Flush4vicki2: calls 170
+*** FLOP *** [4c 2c 6s]
+*** TURN *** [4c 2c 6s] [As]
+*** RIVER *** [4c 2c 6s As] [9c]
+*** SHOW DOWN ***
+lilyy988: shows [Ts Qd] (high card Ace)
+Flush4vicki2: shows [Kc Ks] (a pair of Kings)
+Flush4vicki2 collected 780 from side pot
+Andrew86666: shows [7h Jh] (high card Ace)
+Flush4vicki2 collected 1840 from main pot
+lilyy988 finished the tournament in 20th place
+Andrew86666 finished the tournament in 21st place
+*** SUMMARY ***
+Total pot 2620 Main pot 1840. Side pot 780. | Rake 0 
+Board [4c 2c 6s As 9c]
+Seat 1: Flush4vicki2 (button) showed [Kc Ks] and won (2620) with a pair of Kings
+Seat 2: luckxkcul (small blind) folded before Flop
+Seat 5: lilyy988 (big blind) showed [Ts Qd] and lost with high card Ace
+Seat 6: Andrew86666 showed [7h Jh] and lost with high card Ace
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281055316: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/10/17 10:57:28 ET
+Table '2433509040 1' 9-max Seat #2 is the button
+Seat 1: Flush4vicki2 (7155 in chips) 
+Seat 2: luckxkcul (745 in chips) 
+Seat 7: nicholasj25 (1648 in chips) 
+Seat 8: J.Petermin (1100 in chips) 
+Seat 9: 808Joey (6102 in chips) 
+nicholasj25: posts small blind 100
+J.Petermin: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ks 2h]
+808Joey: folds 
+Flush4vicki2: folds 
+luckxkcul: folds 
+nicholasj25: raises 200 to 400
+J.Petermin: folds 
+Uncalled bet (200) returned to nicholasj25
+nicholasj25 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: luckxkcul (button) folded before Flop (didn't bet)
+Seat 7: nicholasj25 (small blind) collected (400)
+Seat 8: J.Petermin (big blind) folded before Flop
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281063232: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/10/17 10:57:47 ET
+Table '2433509040 1' 9-max Seat #7 is the button
+Seat 1: Flush4vicki2 (7155 in chips) is sitting out
+Seat 2: luckxkcul (745 in chips) 
+Seat 3: jjpainter (4335 in chips) 
+Seat 7: nicholasj25 (1848 in chips) 
+Seat 8: J.Petermin (900 in chips) 
+Seat 9: 808Joey (6102 in chips) 
+J.Petermin: posts small blind 100
+808Joey: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5s 8s]
+Flush4vicki2: folds 
+luckxkcul: raises 545 to 745 and is all-in
+jjpainter is connected 
+jjpainter: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+Uncalled bet (545) returned to luckxkcul
+luckxkcul collected 500 from pot
+luckxkcul: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: luckxkcul collected (500)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 7: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 8: J.Petermin (small blind) folded before Flop
+Seat 9: 808Joey (big blind) folded before Flop
+
+
+
+PokerStars Hand #192281073293: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/10/17 10:58:11 ET
+Table '2433509040 1' 9-max Seat #8 is the button
+Seat 1: Flush4vicki2 (7155 in chips) is sitting out
+Seat 2: luckxkcul (1045 in chips) 
+Seat 3: jjpainter (4335 in chips) 
+Seat 7: nicholasj25 (1848 in chips) 
+Seat 8: J.Petermin (800 in chips) 
+Seat 9: 808Joey (5902 in chips) 
+808Joey: posts small blind 100
+Flush4vicki2: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Js 6c]
+luckxkcul: folds 
+jjpainter: calls 200
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: calls 100
+Flush4vicki2: checks 
+*** FLOP *** [4h Qc Kd]
+808Joey: checks 
+Flush4vicki2: checks 
+jjpainter: bets 400
+808Joey: folds 
+Flush4vicki2 has timed out
+Flush4vicki2: folds 
+Uncalled bet (400) returned to jjpainter
+jjpainter collected 600 from pot
+jjpainter: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [4h Qc Kd]
+Seat 1: Flush4vicki2 (big blind) folded on the Flop
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter collected (600)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin (button) folded before Flop (didn't bet)
+Seat 9: 808Joey (small blind) folded on the Flop
+
+
+
+PokerStars Hand #192281092836: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/17 10:58:57 ET
+Table '2433509040 1' 9-max Seat #9 is the button
+Seat 1: Flush4vicki2 (6955 in chips) is sitting out
+Seat 2: luckxkcul (1045 in chips) 
+Seat 3: jjpainter (4735 in chips) 
+Seat 7: nicholasj25 (1848 in chips) 
+Seat 8: J.Petermin (800 in chips) 
+Seat 9: 808Joey (5702 in chips) 
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+Flush4vicki2: posts small blind 100
+luckxkcul: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Tc 8c]
+jjpainter: folds 
+nicholasj25: calls 200
+J.Petermin: folds 
+808Joey: calls 200
+Flush4vicki2: folds 
+luckxkcul: checks 
+*** FLOP *** [6h Ah 2s]
+luckxkcul: checks 
+nicholasj25: bets 200
+808Joey: folds 
+luckxkcul: folds 
+Uncalled bet (200) returned to nicholasj25
+nicholasj25 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [6h Ah 2s]
+Seat 1: Flush4vicki2 (small blind) folded before Flop
+Seat 2: luckxkcul (big blind) folded on the Flop
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 7: nicholasj25 collected (850)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey (button) folded on the Flop
+
+
+
+PokerStars Hand #192281103414: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/17 10:59:21 ET
+Table '2433509040 1' 9-max Seat #1 is the button
+Seat 1: Flush4vicki2 (6830 in chips) 
+Seat 2: luckxkcul (820 in chips) 
+Seat 3: jjpainter (4710 in chips) 
+Seat 7: nicholasj25 (2473 in chips) 
+Seat 8: J.Petermin (775 in chips) 
+Seat 9: 808Joey (5477 in chips) 
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+luckxkcul: posts small blind 100
+jjpainter: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ah 4c]
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: calls 200
+Flush4vicki2: calls 200
+luckxkcul: folds 
+jjpainter: checks 
+*** FLOP *** [4d 8s Qd]
+jjpainter: bets 200
+808Joey: calls 200
+Flush4vicki2: folds 
+*** TURN *** [4d 8s Qd] [Kh]
+jjpainter: bets 200
+808Joey: calls 200
+*** RIVER *** [4d 8s Qd Kh] [3c]
+jjpainter: bets 400
+808Joey: folds 
+Uncalled bet (400) returned to jjpainter
+jjpainter collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [4d 8s Qd Kh 3c]
+Seat 1: Flush4vicki2 (button) folded on the Flop
+Seat 2: luckxkcul (small blind) folded before Flop
+Seat 3: jjpainter (big blind) collected (1650)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded on the River
+
+
+
+PokerStars Hand #192281119264: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/17 10:59:59 ET
+Table '2433509040 1' 9-max Seat #2 is the button
+Seat 1: Flush4vicki2 (6605 in chips) 
+Seat 2: luckxkcul (695 in chips) 
+Seat 3: jjpainter (5735 in chips) 
+Seat 7: nicholasj25 (2448 in chips) 
+Seat 8: J.Petermin (750 in chips) 
+Seat 9: 808Joey (4852 in chips) 
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+jjpainter: posts small blind 100
+nicholasj25: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [As 9c]
+J.Petermin: calls 200
+808Joey: folds 
+Flush4vicki2: raises 6380 to 6580 and is all-in
+luckxkcul: folds 
+jjpainter: folds 
+nicholasj25: folds 
+J.Petermin: calls 525 and is all-in
+Uncalled bet (5855) returned to Flush4vicki2
+*** FLOP *** [4s Kd 9s]
+*** TURN *** [4s Kd 9s] [6h]
+*** RIVER *** [4s Kd 9s 6h] [3c]
+*** SHOW DOWN ***
+J.Petermin: shows [7s 7c] (a pair of Sevens)
+Flush4vicki2: shows [Jh Ac] (high card Ace)
+J.Petermin collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Board [4s Kd 9s 6h 3c]
+Seat 1: Flush4vicki2 showed [Jh Ac] and lost with high card Ace
+Seat 2: luckxkcul (button) folded before Flop (didn't bet)
+Seat 3: jjpainter (small blind) folded before Flop
+Seat 7: nicholasj25 (big blind) folded before Flop
+Seat 8: J.Petermin showed [7s 7c] and won (1900) with a pair of Sevens
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281129133: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/17 11:00:22 ET
+Table '2433509040 1' 9-max Seat #3 is the button
+Seat 1: Flush4vicki2 (5855 in chips) 
+Seat 2: luckxkcul (670 in chips) 
+Seat 3: jjpainter (5610 in chips) 
+Seat 7: nicholasj25 (2223 in chips) 
+Seat 8: J.Petermin (1900 in chips) 
+Seat 9: 808Joey (4827 in chips) 
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+nicholasj25: posts small blind 100
+J.Petermin: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kh 2c]
+808Joey: folds 
+Flush4vicki2: calls 200
+luckxkcul: folds 
+jjpainter: folds 
+nicholasj25: folds 
+J.Petermin: checks 
+*** FLOP *** [7s 9s Ks]
+J.Petermin: checks 
+Flush4vicki2: checks 
+*** TURN *** [7s 9s Ks] [Jh]
+J.Petermin: checks 
+Flush4vicki2: checks 
+*** RIVER *** [7s 9s Ks Jh] [Kd]
+J.Petermin: bets 400
+Flush4vicki2: folds 
+Uncalled bet (400) returned to J.Petermin
+J.Petermin collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [7s 9s Ks Jh Kd]
+Seat 1: Flush4vicki2 folded on the River
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter (button) folded before Flop (didn't bet)
+Seat 7: nicholasj25 (small blind) folded before Flop
+Seat 8: J.Petermin (big blind) collected (650)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281147244: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/17 11:01:02 ET
+Table '2433509040 1' 9-max Seat #7 is the button
+Seat 1: Flush4vicki2 (5630 in chips) 
+Seat 2: luckxkcul (645 in chips) 
+Seat 3: jjpainter (5585 in chips) 
+Seat 7: nicholasj25 (2098 in chips) 
+Seat 8: J.Petermin (2325 in chips) 
+Seat 9: 808Joey (4802 in chips) 
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+J.Petermin: posts small blind 100
+808Joey: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2s 8h]
+Flush4vicki2: folds 
+luckxkcul: folds 
+jjpainter: calls 200
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: checks 
+*** FLOP *** [7c 4s Qc]
+808Joey: checks 
+jjpainter: bets 200
+808Joey: folds 
+Uncalled bet (200) returned to jjpainter
+jjpainter collected 650 from pot
+jjpainter: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [7c 4s Qc]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter collected (650)
+Seat 7: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 8: J.Petermin (small blind) folded before Flop
+Seat 9: 808Joey (big blind) folded on the Flop
+
+
+
+PokerStars Hand #192281163823: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/17 11:01:37 ET
+Table '2433509040 1' 9-max Seat #8 is the button
+Seat 1: Flush4vicki2 (5605 in chips) 
+Seat 2: luckxkcul (620 in chips) 
+Seat 3: jjpainter (6010 in chips) 
+Seat 7: nicholasj25 (2073 in chips) 
+Seat 8: J.Petermin (2200 in chips) 
+Seat 9: 808Joey (4577 in chips) 
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+808Joey: posts small blind 100
+Flush4vicki2: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Jd 8s]
+luckxkcul: folds 
+jjpainter: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: calls 100
+Flush4vicki2: checks 
+*** FLOP *** [Ks As Ts]
+808Joey: bets 200
+Flush4vicki2: calls 200
+*** TURN *** [Ks As Ts] [Jc]
+808Joey: bets 200
+Flush4vicki2: calls 200
+*** RIVER *** [Ks As Ts Jc] [7h]
+808Joey: bets 200
+Flush4vicki2: raises 875 to 1075
+808Joey: calls 875
+*** SHOW DOWN ***
+Flush4vicki2: shows [7s 6s] (a flush, Ace high)
+808Joey: mucks hand 
+Flush4vicki2 collected 3500 from pot
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Board [Ks As Ts Jc 7h]
+Seat 1: Flush4vicki2 (big blind) showed [7s 6s] and won (3500) with a flush, Ace high
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin (button) folded before Flop (didn't bet)
+Seat 9: 808Joey (small blind) mucked [Ad Tc]
+
+
+
+PokerStars Hand #192281182386: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/17 11:02:15 ET
+Table '2433509040 1' 9-max Seat #9 is the button
+Seat 1: Flush4vicki2 (7405 in chips) 
+Seat 2: luckxkcul (595 in chips) 
+Seat 3: jjpainter (5985 in chips) 
+Seat 7: nicholasj25 (2048 in chips) 
+Seat 8: J.Petermin (2175 in chips) 
+Seat 9: 808Joey (2877 in chips) 
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+Flush4vicki2: posts small blind 100
+luckxkcul: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7d 3h]
+jjpainter: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: calls 200
+Flush4vicki2: calls 100
+luckxkcul: checks 
+*** FLOP *** [8h 9d 6h]
+Flush4vicki2: checks 
+luckxkcul: bets 370 and is all-in
+808Joey: calls 370
+Flush4vicki2 has timed out
+Flush4vicki2: folds 
+*** TURN *** [8h 9d 6h] [2d]
+*** RIVER *** [8h 9d 6h 2d] [Ad]
+*** SHOW DOWN ***
+luckxkcul: shows [9h 6s] (two pair, Nines and Sixes)
+808Joey: shows [Ah Qs] (a pair of Aces)
+luckxkcul collected 1490 from pot
+*** SUMMARY ***
+Total pot 1490 | Rake 0 
+Board [8h 9d 6h 2d Ad]
+Seat 1: Flush4vicki2 (small blind) folded on the Flop
+Seat 2: luckxkcul (big blind) showed [9h 6s] and won (1490) with two pair, Nines and Sixes
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey (button) showed [Ah Qs] and lost with a pair of Aces
+
+
+
+PokerStars Hand #192281211156: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/17 11:03:13 ET
+Table '2433509040 1' 9-max Seat #1 is the button
+Seat 1: Flush4vicki2 (7180 in chips) 
+Seat 2: luckxkcul (1490 in chips) 
+Seat 3: jjpainter (5960 in chips) 
+Seat 7: nicholasj25 (2023 in chips) 
+Seat 8: J.Petermin (2150 in chips) 
+Seat 9: 808Joey (2282 in chips) 
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+luckxkcul: posts small blind 100
+jjpainter: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7c 8d]
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: calls 200
+Flush4vicki2: folds 
+luckxkcul: folds 
+jjpainter: checks 
+*** FLOP *** [Ts Kh Tc]
+jjpainter: bets 200
+808Joey: raises 1857 to 2057 and is all-in
+jjpainter: folds 
+Uncalled bet (1857) returned to 808Joey
+808Joey collected 1050 from pot
+808Joey: doesn't show hand 
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [Ts Kh Tc]
+Seat 1: Flush4vicki2 (button) folded before Flop (didn't bet)
+Seat 2: luckxkcul (small blind) folded before Flop
+Seat 3: jjpainter (big blind) folded on the Flop
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey collected (1050)
+
+
+
+PokerStars Hand #192281223411: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/17 11:03:38 ET
+Table '2433509040 1' 9-max Seat #2 is the button
+Seat 1: Flush4vicki2 (7155 in chips) 
+Seat 2: luckxkcul (1365 in chips) 
+Seat 3: jjpainter (5535 in chips) 
+Seat 4: lamphead54 (1865 in chips) 
+Seat 5: Valdo1959 (10215 in chips) 
+Seat 6: rossi184 (6498 in chips) 
+Seat 7: nicholasj25 (1998 in chips) 
+Seat 8: J.Petermin (2125 in chips) 
+Seat 9: 808Joey (2907 in chips) 
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+jjpainter: posts small blind 100
+lamphead54: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Js 3c]
+Valdo1959: folds 
+rossi184: calls 200
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: folds 
+luckxkcul: folds 
+jjpainter: calls 100
+lamphead54: checks 
+*** FLOP *** [Ks Th Kh]
+jjpainter: checks 
+lamphead54: checks 
+rossi184: checks 
+*** TURN *** [Ks Th Kh] [Qh]
+jjpainter: checks 
+lamphead54: checks 
+rossi184: checks 
+*** RIVER *** [Ks Th Kh Qh] [Kd]
+jjpainter: checks 
+lamphead54: checks 
+rossi184: checks 
+*** SHOW DOWN ***
+jjpainter: shows [7c 8h] (three of a kind, Kings)
+lamphead54: shows [6c 7h] (three of a kind, Kings)
+rossi184: shows [Ad 2c] (three of a kind, Kings - Ace kicker)
+rossi184 collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Board [Ks Th Kh Qh Kd]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: luckxkcul (button) folded before Flop (didn't bet)
+Seat 3: jjpainter (small blind) showed [7c 8h] and lost with three of a kind, Kings
+Seat 4: lamphead54 (big blind) showed [6c 7h] and lost with three of a kind, Kings
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 showed [Ad 2c] and won (825) with three of a kind, Kings
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281251573: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/17 11:04:34 ET
+Table '2433509040 1' 9-max Seat #3 is the button
+Seat 1: Flush4vicki2 (7130 in chips) 
+Seat 2: luckxkcul (1340 in chips) 
+Seat 3: jjpainter (5310 in chips) 
+Seat 4: lamphead54 (1640 in chips) 
+Seat 5: Valdo1959 (10190 in chips) 
+Seat 6: rossi184 (7098 in chips) 
+Seat 7: nicholasj25 (1973 in chips) 
+Seat 8: J.Petermin (2100 in chips) 
+Seat 9: 808Joey (2882 in chips) 
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+lamphead54: posts small blind 150
+Valdo1959: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2s 2h]
+rossi184: calls 300
+nicholasj25: calls 300
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: folds 
+luckxkcul: folds 
+jjpainter: calls 300
+lamphead54: folds 
+Valdo1959: checks 
+*** FLOP *** [2c Jc 3s]
+Valdo1959: bets 300
+rossi184: folds 
+nicholasj25: calls 300
+jjpainter: folds 
+*** TURN *** [2c Jc 3s] [Qh]
+Valdo1959: bets 300
+nicholasj25: raises 300 to 600
+Valdo1959: raises 300 to 900
+nicholasj25: raises 300 to 1200
+Valdo1959: raises 300 to 1500
+nicholasj25: calls 148 and is all-in
+Uncalled bet (152) returned to Valdo1959
+*** RIVER *** [2c Jc 3s Qh] [9s]
+*** SHOW DOWN ***
+Valdo1959: shows [Qc 7c] (a pair of Queens)
+nicholasj25: shows [2s 2h] (three of a kind, Deuces)
+nicholasj25 collected 4871 from pot
+*** SUMMARY ***
+Total pot 4871 | Rake 0 
+Board [2c Jc 3s Qh 9s]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter (button) folded on the Flop
+Seat 4: lamphead54 (small blind) folded before Flop
+Seat 5: Valdo1959 (big blind) showed [Qc 7c] and lost with a pair of Queens
+Seat 6: rossi184 folded on the Flop
+Seat 7: nicholasj25 showed [2s 2h] and won (4871) with three of a kind, Deuces
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281278568: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/17 11:05:26 ET
+Table '2433509040 1' 9-max Seat #4 is the button
+Seat 1: Flush4vicki2 (7105 in chips) 
+Seat 2: luckxkcul (1315 in chips) 
+Seat 3: jjpainter (4985 in chips) 
+Seat 4: lamphead54 (1465 in chips) 
+Seat 5: Valdo1959 (8217 in chips) 
+Seat 6: rossi184 (6773 in chips) 
+Seat 7: nicholasj25 (4871 in chips) 
+Seat 8: J.Petermin (2075 in chips) 
+Seat 9: 808Joey (2857 in chips) 
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+Valdo1959: posts small blind 150
+rossi184: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5h 8c]
+jjpainter said, "nh"
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: folds 
+luckxkcul: folds 
+jjpainter: folds 
+lamphead54: folds 
+Valdo1959: calls 150
+rossi184: checks 
+*** FLOP *** [Jh 2c Js]
+Valdo1959: checks 
+rossi184: bets 300
+Valdo1959: folds 
+Uncalled bet (300) returned to rossi184
+rossi184 collected 825 from pot
+rossi184: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Board [Jh 2c Js]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 4: lamphead54 (button) folded before Flop (didn't bet)
+Seat 5: Valdo1959 (small blind) folded on the Flop
+Seat 6: rossi184 (big blind) collected (825)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281294588: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/17 11:05:58 ET
+Table '2433509040 1' 9-max Seat #5 is the button
+Seat 1: Flush4vicki2 (7080 in chips) 
+Seat 2: luckxkcul (1290 in chips) 
+Seat 3: jjpainter (4960 in chips) 
+Seat 4: lamphead54 (1440 in chips) 
+Seat 5: Valdo1959 (7892 in chips) 
+Seat 6: rossi184 (7273 in chips) 
+Seat 7: nicholasj25 (4846 in chips) 
+Seat 8: J.Petermin (2050 in chips) 
+Seat 9: 808Joey (2832 in chips) is sitting out
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+rossi184: posts small blind 150
+nicholasj25: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9c 4s]
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: folds 
+luckxkcul: raises 965 to 1265 and is all-in
+jjpainter: folds 
+lamphead54: folds 
+Valdo1959: folds 
+rossi184: folds 
+nicholasj25: folds 
+Uncalled bet (965) returned to luckxkcul
+luckxkcul collected 975 from pot
+luckxkcul: doesn't show hand 
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: luckxkcul collected (975)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 4: lamphead54 folded before Flop (didn't bet)
+Seat 5: Valdo1959 (button) folded before Flop (didn't bet)
+Seat 6: rossi184 (small blind) folded before Flop
+Seat 7: nicholasj25 (big blind) folded before Flop
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281305134: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/17 11:06:19 ET
+Table '2433509040 1' 9-max Seat #6 is the button
+Seat 1: Flush4vicki2 (7055 in chips) 
+Seat 2: luckxkcul (1940 in chips) 
+Seat 3: jjpainter (4935 in chips) 
+Seat 4: lamphead54 (1415 in chips) 
+Seat 5: Valdo1959 (7867 in chips) 
+Seat 6: rossi184 (7098 in chips) 
+Seat 7: nicholasj25 (4521 in chips) 
+Seat 8: J.Petermin (2025 in chips) 
+Seat 9: 808Joey (2807 in chips) is sitting out
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+nicholasj25: posts small blind 150
+J.Petermin: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Tc 6d]
+808Joey: folds 
+Flush4vicki2: raises 1500 to 1800
+luckxkcul: folds 
+jjpainter: folds 
+lamphead54: folds 
+Valdo1959: folds 
+rossi184: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+Uncalled bet (1500) returned to Flush4vicki2
+Flush4vicki2 collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Seat 1: Flush4vicki2 collected (975)
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 4: lamphead54 folded before Flop (didn't bet)
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 (button) folded before Flop (didn't bet)
+Seat 7: nicholasj25 (small blind) folded before Flop
+Seat 8: J.Petermin (big blind) folded before Flop
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281319734: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/17 11:06:48 ET
+Table '2433509040 1' 9-max Seat #7 is the button
+Seat 1: Flush4vicki2 (7705 in chips) 
+Seat 2: luckxkcul (1915 in chips) 
+Seat 3: jjpainter (4910 in chips) 
+Seat 4: lamphead54 (1390 in chips) 
+Seat 5: Valdo1959 (7842 in chips) 
+Seat 6: rossi184 (7073 in chips) 
+Seat 7: nicholasj25 (4346 in chips) 
+Seat 8: J.Petermin (1700 in chips) 
+Seat 9: 808Joey (2782 in chips) is sitting out
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+J.Petermin: posts small blind 150
+808Joey: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Tc 9h]
+Flush4vicki2: folds 
+luckxkcul: folds 
+jjpainter: folds 
+lamphead54: folds 
+Valdo1959: calls 300
+rossi184: calls 300
+nicholasj25: folds 
+J.Petermin: calls 150
+808Joey: folds 
+*** FLOP *** [8c As Ts]
+J.Petermin: bets 1375 and is all-in
+Valdo1959: calls 1375
+rossi184: folds 
+*** TURN *** [8c As Ts] [5s]
+*** RIVER *** [8c As Ts 5s] [7d]
+*** SHOW DOWN ***
+J.Petermin: shows [4s Js] (a flush, Ace high)
+Valdo1959: shows [Qs Th] (a pair of Tens)
+J.Petermin collected 4175 from pot
+*** SUMMARY ***
+Total pot 4175 | Rake 0 
+Board [8c As Ts 5s 7d]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 4: lamphead54 folded before Flop (didn't bet)
+Seat 5: Valdo1959 showed [Qs Th] and lost with a pair of Tens
+Seat 6: rossi184 folded on the Flop
+Seat 7: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 8: J.Petermin (small blind) showed [4s Js] and won (4175) with a flush, Ace high
+Seat 9: 808Joey (big blind) folded before Flop
+
+
+
+PokerStars Hand #192281336324: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/17 11:07:21 ET
+Table '2433509040 1' 9-max Seat #8 is the button
+Seat 1: Flush4vicki2 (7680 in chips) 
+Seat 2: luckxkcul (1890 in chips) 
+Seat 3: jjpainter (4885 in chips) 
+Seat 4: lamphead54 (1365 in chips) 
+Seat 5: Valdo1959 (6142 in chips) 
+Seat 6: rossi184 (6748 in chips) 
+Seat 7: nicholasj25 (4321 in chips) 
+Seat 8: J.Petermin (4175 in chips) 
+Seat 9: 808Joey (2457 in chips) is sitting out
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+808Joey: posts small blind 150
+Flush4vicki2: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3c 8c]
+luckxkcul: folds 
+jjpainter: folds 
+lamphead54: folds 
+Valdo1959: folds 
+rossi184: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+Uncalled bet (150) returned to Flush4vicki2
+Flush4vicki2 collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 1: Flush4vicki2 (big blind) collected (525)
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 4: lamphead54 folded before Flop (didn't bet)
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin (button) folded before Flop (didn't bet)
+Seat 9: 808Joey (small blind) folded before Flop
+
+
+
+PokerStars Hand #192281344559: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/17 11:07:37 ET
+Table '2433509040 1' 9-max Seat #9 is the button
+Seat 1: Flush4vicki2 (8030 in chips) 
+Seat 2: luckxkcul (1865 in chips) 
+Seat 3: jjpainter (4860 in chips) 
+Seat 4: lamphead54 (1340 in chips) 
+Seat 5: Valdo1959 (6117 in chips) 
+Seat 6: rossi184 (6723 in chips) 
+Seat 7: nicholasj25 (4296 in chips) 
+Seat 8: J.Petermin (4150 in chips) 
+Seat 9: 808Joey (2282 in chips) is sitting out
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+Flush4vicki2: posts small blind 150
+luckxkcul: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kc Th]
+jjpainter: folds 
+lamphead54: folds 
+Valdo1959: folds 
+rossi184: folds 
+nicholasj25: calls 300
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: calls 150
+luckxkcul: checks 
+*** FLOP *** [Ac 8h 3c]
+Flush4vicki2: checks 
+luckxkcul: bets 300
+nicholasj25: folds 
+Flush4vicki2: folds 
+Uncalled bet (300) returned to luckxkcul
+luckxkcul collected 1125 from pot
+luckxkcul: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Board [Ac 8h 3c]
+Seat 1: Flush4vicki2 (small blind) folded on the Flop
+Seat 2: luckxkcul (big blind) collected (1125)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 4: lamphead54 folded before Flop (didn't bet)
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded on the Flop
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281366396: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/17 11:08:20 ET
+Table '2433509040 1' 9-max Seat #1 is the button
+Seat 1: Flush4vicki2 (7705 in chips) 
+Seat 2: luckxkcul (2665 in chips) 
+Seat 3: jjpainter (4835 in chips) 
+Seat 4: lamphead54 (1315 in chips) 
+Seat 5: Valdo1959 (6092 in chips) 
+Seat 6: rossi184 (6698 in chips) 
+Seat 7: nicholasj25 (3971 in chips) 
+Seat 8: J.Petermin (4125 in chips) 
+Seat 9: 808Joey (2257 in chips) 
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+luckxkcul: posts small blind 150
+jjpainter: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kc 3h]
+lamphead54: folds 
+Valdo1959: calls 300
+rossi184: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: raises 7380 to 7680 and is all-in
+luckxkcul: folds 
+jjpainter: folds 
+Valdo1959: folds 
+Uncalled bet (7380) returned to Flush4vicki2
+Flush4vicki2 collected 1275 from pot
+*** SUMMARY ***
+Total pot 1275 | Rake 0 
+Seat 1: Flush4vicki2 (button) collected (1275)
+Seat 2: luckxkcul (small blind) folded before Flop
+Seat 3: jjpainter (big blind) folded before Flop
+Seat 4: lamphead54 folded before Flop (didn't bet)
+Seat 5: Valdo1959 folded before Flop
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281383529: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/17 11:08:53 ET
+Table '2433509040 1' 9-max Seat #2 is the button
+Seat 1: Flush4vicki2 (8655 in chips) 
+Seat 2: luckxkcul (2490 in chips) 
+Seat 3: jjpainter (4510 in chips) 
+Seat 4: lamphead54 (1290 in chips) 
+Seat 5: Valdo1959 (5767 in chips) 
+Seat 6: rossi184 (6673 in chips) 
+Seat 7: nicholasj25 (3946 in chips) 
+Seat 8: J.Petermin (4100 in chips) 
+Seat 9: 808Joey (2232 in chips) 
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+jjpainter: posts small blind 200
+lamphead54: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4s 6c]
+Valdo1959: folds 
+rossi184: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: folds 
+luckxkcul: folds 
+jjpainter: folds 
+Uncalled bet (200) returned to lamphead54
+lamphead54 collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | Rake 0 
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: luckxkcul (button) folded before Flop (didn't bet)
+Seat 3: jjpainter (small blind) folded before Flop
+Seat 4: lamphead54 (big blind) collected (625)
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281396275: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/17 11:09:18 ET
+Table '2433509040 1' 9-max Seat #3 is the button
+Seat 1: Flush4vicki2 (8630 in chips) 
+Seat 2: luckxkcul (2465 in chips) 
+Seat 3: jjpainter (4285 in chips) 
+Seat 4: lamphead54 (1690 in chips) 
+Seat 5: Valdo1959 (5742 in chips) 
+Seat 6: rossi184 (6648 in chips) 
+Seat 7: nicholasj25 (3921 in chips) 
+Seat 8: J.Petermin (4075 in chips) 
+Seat 9: 808Joey (2207 in chips) 
+Flush4vicki2: posts the ante 25
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+lamphead54: posts small blind 200
+Valdo1959: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kd 9c]
+rossi184: calls 400
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+Flush4vicki2: folds 
+luckxkcul: folds 
+jjpainter: raises 400 to 800
+lamphead54: folds 
+Valdo1959: calls 400
+rossi184: calls 400
+*** FLOP *** [2h Qd 6h]
+Valdo1959: bets 400
+rossi184: calls 400
+jjpainter: calls 400
+*** TURN *** [2h Qd 6h] [4s]
+Valdo1959: bets 400
+rossi184: calls 400
+jjpainter: calls 400
+*** RIVER *** [2h Qd 6h 4s] [7c]
+Valdo1959: bets 400
+rossi184: calls 400
+jjpainter: calls 400
+*** SHOW DOWN ***
+Valdo1959: shows [6c 5c] (a pair of Sixes)
+rossi184: shows [Qh Td] (a pair of Queens)
+jjpainter: mucks hand 
+rossi184 collected 6425 from pot
+*** SUMMARY ***
+Total pot 6425 | Rake 0 
+Board [2h Qd 6h 4s 7c]
+Seat 1: Flush4vicki2 folded before Flop (didn't bet)
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter (button) mucked [Jc Jh]
+Seat 4: lamphead54 (small blind) folded before Flop
+Seat 5: Valdo1959 (big blind) showed [6c 5c] and lost with a pair of Sixes
+Seat 6: rossi184 showed [Qh Td] and won (6425) with a pair of Queens
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281423839: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/17 11:10:11 ET
+Table '2433509040 1' 9-max Seat #4 is the button
+Seat 2: luckxkcul (2440 in chips) 
+Seat 3: jjpainter (2260 in chips) 
+Seat 4: lamphead54 (1465 in chips) 
+Seat 5: Valdo1959 (3717 in chips) 
+Seat 6: rossi184 (11048 in chips) 
+Seat 7: nicholasj25 (3896 in chips) 
+Seat 8: J.Petermin (4050 in chips) 
+Seat 9: 808Joey (2182 in chips) 
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+Valdo1959: posts small blind 200
+rossi184: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6d 4s]
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+luckxkcul: folds 
+jjpainter: folds 
+lamphead54: folds 
+Valdo1959: calls 200
+rossi184: checks 
+*** FLOP *** [Qh 2d 9d]
+Valdo1959: checks 
+rossi184: checks 
+*** TURN *** [Qh 2d 9d] [8d]
+Valdo1959: checks 
+rossi184: checks 
+*** RIVER *** [Qh 2d 9d 8d] [Ad]
+Valdo1959: bets 1000
+rossi184: folds 
+Uncalled bet (1000) returned to Valdo1959
+Valdo1959 collected 1000 from pot
+Valdo1959: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Qh 2d 9d 8d Ad]
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 4: lamphead54 (button) folded before Flop (didn't bet)
+Seat 5: Valdo1959 (small blind) collected (1000)
+Seat 6: rossi184 (big blind) folded on the River
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281446985: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/17 11:10:56 ET
+Table '2433509040 1' 9-max Seat #5 is the button
+Seat 2: luckxkcul (2415 in chips) 
+Seat 3: jjpainter (2235 in chips) 
+Seat 4: lamphead54 (1440 in chips) 
+Seat 5: Valdo1959 (4292 in chips) 
+Seat 6: rossi184 (10623 in chips) 
+Seat 7: nicholasj25 (3871 in chips) 
+Seat 8: J.Petermin (4025 in chips) 
+Seat 9: 808Joey (2157 in chips) 
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+rossi184: posts small blind 200
+nicholasj25: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9s 6s]
+J.Petermin: folds 
+808Joey: raises 400 to 800
+luckxkcul: folds 
+jjpainter: folds 
+lamphead54: folds 
+Valdo1959: folds 
+rossi184: folds 
+nicholasj25: folds 
+Uncalled bet (400) returned to 808Joey
+808Joey collected 1200 from pot
+808Joey: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 4: lamphead54 folded before Flop (didn't bet)
+Seat 5: Valdo1959 (button) folded before Flop (didn't bet)
+Seat 6: rossi184 (small blind) folded before Flop
+Seat 7: nicholasj25 (big blind) folded before Flop
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey collected (1200)
+
+
+
+PokerStars Hand #192281458066: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/17 11:11:18 ET
+Table '2433509040 1' 9-max Seat #6 is the button
+Seat 2: luckxkcul (2390 in chips) 
+Seat 3: jjpainter (2210 in chips) 
+Seat 4: lamphead54 (1415 in chips) 
+Seat 5: Valdo1959 (4267 in chips) 
+Seat 6: rossi184 (10398 in chips) 
+Seat 7: nicholasj25 (3446 in chips) 
+Seat 8: J.Petermin (4000 in chips) 
+Seat 9: 808Joey (2932 in chips) 
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+nicholasj25: posts small blind 200
+J.Petermin: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9s Kc]
+808Joey: folds 
+luckxkcul: folds 
+jjpainter: calls 400
+lamphead54: folds 
+Valdo1959: folds 
+rossi184: calls 400
+nicholasj25: calls 200
+J.Petermin: checks 
+*** FLOP *** [Td Js 4d]
+nicholasj25: bets 400
+J.Petermin: folds 
+jjpainter: folds 
+rossi184: folds 
+Uncalled bet (400) returned to nicholasj25
+nicholasj25 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Board [Td Js 4d]
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter folded on the Flop
+Seat 4: lamphead54 folded before Flop (didn't bet)
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 (button) folded on the Flop
+Seat 7: nicholasj25 (small blind) collected (1800)
+Seat 8: J.Petermin (big blind) folded on the Flop
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281476012: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/17 11:11:52 ET
+Table '2433509040 1' 9-max Seat #7 is the button
+Seat 2: luckxkcul (2365 in chips) 
+Seat 3: jjpainter (1785 in chips) 
+Seat 4: lamphead54 (1390 in chips) 
+Seat 5: Valdo1959 (4242 in chips) 
+Seat 6: rossi184 (9973 in chips) 
+Seat 7: nicholasj25 (4821 in chips) 
+Seat 8: J.Petermin (3575 in chips) 
+Seat 9: 808Joey (2907 in chips) 
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+J.Petermin: posts small blind 200
+808Joey: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7c Th]
+luckxkcul: folds 
+jjpainter: calls 400
+lamphead54: folds 
+Valdo1959: calls 400
+rossi184: folds 
+nicholasj25: folds 
+J.Petermin: calls 200
+808Joey: checks 
+*** FLOP *** [3c Jc Qd]
+J.Petermin: checks 
+808Joey: checks 
+jjpainter: bets 400
+Valdo1959: folds 
+J.Petermin: folds 
+808Joey: folds 
+Uncalled bet (400) returned to jjpainter
+jjpainter collected 1800 from pot
+jjpainter: doesn't show hand 
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Board [3c Jc Qd]
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter collected (1800)
+Seat 4: lamphead54 folded before Flop (didn't bet)
+Seat 5: Valdo1959 folded on the Flop
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 8: J.Petermin (small blind) folded on the Flop
+Seat 9: 808Joey (big blind) folded on the Flop
+
+
+
+PokerStars Hand #192281499511: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/17 11:12:38 ET
+Table '2433509040 1' 9-max Seat #8 is the button
+Seat 2: luckxkcul (2340 in chips) 
+Seat 3: jjpainter (3160 in chips) 
+Seat 4: lamphead54 (1365 in chips) 
+Seat 5: Valdo1959 (3817 in chips) 
+Seat 6: rossi184 (9948 in chips) 
+Seat 7: nicholasj25 (4796 in chips) 
+Seat 8: J.Petermin (3150 in chips) 
+Seat 9: 808Joey (2482 in chips) 
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+lamphead54: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+808Joey: posts small blind 200
+luckxkcul: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4c Qs]
+jjpainter: folds 
+lamphead54: folds 
+Valdo1959: raises 400 to 800
+rossi184: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+luckxkcul: folds 
+Uncalled bet (400) returned to Valdo1959
+Valdo1959 collected 1200 from pot
+Valdo1959: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Seat 2: luckxkcul (big blind) folded before Flop
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 4: lamphead54 folded before Flop (didn't bet)
+Seat 5: Valdo1959 collected (1200)
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin (button) folded before Flop (didn't bet)
+Seat 9: 808Joey (small blind) folded before Flop
+
+
+
+PokerStars Hand #192281510042: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/17 11:12:59 ET
+Table '2433509040 1' 9-max Seat #9 is the button
+Seat 2: luckxkcul (1915 in chips) 
+Seat 3: jjpainter (3135 in chips) 
+Seat 5: Valdo1959 (4592 in chips) 
+Seat 6: rossi184 (9923 in chips) 
+Seat 7: nicholasj25 (4771 in chips) 
+Seat 8: J.Petermin (3125 in chips) 
+Seat 9: 808Joey (2257 in chips) 
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+luckxkcul: posts small blind 200
+jjpainter: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2s 3d]
+Valdo1959: calls 400
+rossi184: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+luckxkcul: folds 
+jjpainter: checks 
+*** FLOP *** [7s 7c Ah]
+jjpainter: bets 400
+Valdo1959: folds 
+Uncalled bet (400) returned to jjpainter
+jjpainter collected 1175 from pot
+jjpainter: doesn't show hand 
+*** SUMMARY ***
+Total pot 1175 | Rake 0 
+Board [7s 7c Ah]
+Seat 2: luckxkcul (small blind) folded before Flop
+Seat 3: jjpainter (big blind) collected (1175)
+Seat 5: Valdo1959 folded on the Flop
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281522406: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/17 11:13:23 ET
+Table '2433509040 1' 9-max Seat #2 is the button
+Seat 2: luckxkcul (1690 in chips) 
+Seat 3: jjpainter (3885 in chips) 
+Seat 5: Valdo1959 (4167 in chips) 
+Seat 6: rossi184 (9898 in chips) 
+Seat 7: nicholasj25 (4746 in chips) 
+Seat 8: J.Petermin (3100 in chips) 
+Seat 9: 808Joey (2232 in chips) 
+luckxkcul: posts the ante 25
+jjpainter: posts the ante 25
+Valdo1959: posts the ante 25
+rossi184: posts the ante 25
+nicholasj25: posts the ante 25
+J.Petermin: posts the ante 25
+808Joey: posts the ante 25
+jjpainter: posts small blind 200
+Valdo1959: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Th 7h]
+rossi184: calls 400
+nicholasj25 has timed out
+nicholasj25: folds 
+J.Petermin: calls 400
+808Joey: calls 400
+luckxkcul: raises 1265 to 1665 and is all-in
+jjpainter: folds 
+Valdo1959: folds 
+rossi184: folds 
+J.Petermin: folds 
+808Joey: calls 1265
+*** FLOP *** [6c 8s As]
+*** TURN *** [6c 8s As] [4d]
+*** RIVER *** [6c 8s As 4d] [Qd]
+*** SHOW DOWN ***
+808Joey: shows [2s 2c] (a pair of Deuces)
+luckxkcul: shows [Qs Kd] (a pair of Queens)
+luckxkcul collected 4905 from pot
+*** SUMMARY ***
+Total pot 4905 | Rake 0 
+Board [6c 8s As 4d Qd]
+Seat 2: luckxkcul (button) showed [Qs Kd] and won (4905) with a pair of Queens
+Seat 3: jjpainter (small blind) folded before Flop
+Seat 5: Valdo1959 (big blind) folded before Flop
+Seat 6: rossi184 folded before Flop
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop
+Seat 9: 808Joey showed [2s 2c] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #192281556932: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/17 11:14:29 ET
+Table '2433509040 1' 9-max Seat #3 is the button
+Seat 2: luckxkcul (4905 in chips) 
+Seat 3: jjpainter (3660 in chips) 
+Seat 5: Valdo1959 (3742 in chips) 
+Seat 6: rossi184 (9473 in chips) 
+Seat 7: nicholasj25 (4721 in chips) is sitting out
+Seat 8: J.Petermin (2675 in chips) 
+Seat 9: 808Joey (542 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+808Joey: posts the ante 50
+Valdo1959: posts small blind 300
+rossi184: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7d Ad]
+nicholasj25: folds 
+J.Petermin: folds 
+808Joey: folds 
+luckxkcul: folds 
+jjpainter: folds 
+Valdo1959: raises 3092 to 3692 and is all-in
+rossi184: folds 
+Uncalled bet (3092) returned to Valdo1959
+Valdo1959 collected 1550 from pot
+Valdo1959: doesn't show hand 
+*** SUMMARY ***
+Total pot 1550 | Rake 0 
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter (button) folded before Flop (didn't bet)
+Seat 5: Valdo1959 (small blind) collected (1550)
+Seat 6: rossi184 (big blind) folded before Flop
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281564505: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/17 11:14:43 ET
+Table '2433509040 1' 9-max Seat #5 is the button
+Seat 2: luckxkcul (4855 in chips) 
+Seat 3: jjpainter (3610 in chips) 
+Seat 5: Valdo1959 (4642 in chips) 
+Seat 6: rossi184 (8823 in chips) 
+Seat 7: nicholasj25 (4671 in chips) is sitting out
+Seat 8: J.Petermin (2625 in chips) 
+Seat 9: 808Joey (492 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+808Joey: posts the ante 50
+rossi184: posts small blind 300
+nicholasj25: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5h Js]
+J.Petermin: folds 
+808Joey: folds 
+luckxkcul: calls 600
+jjpainter: calls 600
+Valdo1959: folds 
+rossi184: calls 300
+nicholasj25: folds 
+*** FLOP *** [As 8d Jd]
+rossi184: checks 
+luckxkcul: checks 
+jjpainter: bets 600
+rossi184: folds 
+luckxkcul: calls 600
+*** TURN *** [As 8d Jd] [Qh]
+luckxkcul: checks 
+jjpainter: bets 600
+luckxkcul: folds 
+Uncalled bet (600) returned to jjpainter
+jjpainter collected 3950 from pot
+jjpainter: doesn't show hand 
+*** SUMMARY ***
+Total pot 3950 | Rake 0 
+Board [As 8d Jd Qh]
+Seat 2: luckxkcul folded on the Turn
+Seat 3: jjpainter collected (3950)
+Seat 5: Valdo1959 (button) folded before Flop (didn't bet)
+Seat 6: rossi184 (small blind) folded on the Flop
+Seat 7: nicholasj25 (big blind) folded before Flop
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281583124: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/17 11:15:19 ET
+Table '2433509040 1' 9-max Seat #6 is the button
+Seat 2: luckxkcul (3605 in chips) 
+Seat 3: jjpainter (6310 in chips) 
+Seat 5: Valdo1959 (4592 in chips) 
+Seat 6: rossi184 (8173 in chips) 
+Seat 7: nicholasj25 (4021 in chips) is sitting out
+Seat 8: J.Petermin (2575 in chips) 
+Seat 9: 808Joey (442 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+808Joey: posts the ante 50
+nicholasj25: posts small blind 300
+J.Petermin: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5s 2d]
+808Joey: folds 
+luckxkcul: raises 2955 to 3555 and is all-in
+jjpainter: folds 
+Valdo1959: folds 
+rossi184: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+Uncalled bet (2955) returned to luckxkcul
+luckxkcul collected 1850 from pot
+luckxkcul: doesn't show hand 
+*** SUMMARY ***
+Total pot 1850 | Rake 0 
+Seat 2: luckxkcul collected (1850)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 (button) folded before Flop (didn't bet)
+Seat 7: nicholasj25 (small blind) folded before Flop
+Seat 8: J.Petermin (big blind) folded before Flop
+Seat 9: 808Joey folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281596001: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/17 11:15:43 ET
+Table '2433509040 1' 9-max Seat #7 is the button
+Seat 2: luckxkcul (4805 in chips) 
+Seat 3: jjpainter (6260 in chips) 
+Seat 5: Valdo1959 (4542 in chips) 
+Seat 6: rossi184 (8123 in chips) 
+Seat 7: nicholasj25 (3671 in chips) is sitting out
+Seat 8: J.Petermin (1925 in chips) 
+Seat 9: 808Joey (392 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+808Joey: posts the ante 50
+J.Petermin: posts small blind 300
+808Joey: posts big blind 342 and is all-in
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8d Ah]
+luckxkcul: folds 
+jjpainter: calls 600
+Valdo1959: raises 3892 to 4492 and is all-in
+rossi184: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+jjpainter: folds 
+Uncalled bet (3892) returned to Valdo1959
+*** FLOP *** [2d Qd Js]
+*** TURN *** [2d Qd Js] [Jd]
+*** RIVER *** [2d Qd Js Jd] [6d]
+*** SHOW DOWN ***
+Valdo1959: shows [Tc Td] (a flush, Queen high)
+Valdo1959 collected 516 from side pot
+808Joey: shows [9d 4h] (a flush, Queen high - lower cards)
+Valdo1959 collected 1676 from main pot
+808Joey finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 2192 Main pot 1676. Side pot 516. | Rake 0 
+Board [2d Qd Js Jd 6d]
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter folded before Flop
+Seat 5: Valdo1959 showed [Tc Td] and won (2192) with a flush, Queen high
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 8: J.Petermin (small blind) folded before Flop
+Seat 9: 808Joey (big blind) showed [9d 4h] and lost with a flush, Queen high
+
+
+
+PokerStars Hand #192281611773: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/17 11:16:14 ET
+Table '2433509040 1' 9-max Seat #8 is the button
+Seat 2: luckxkcul (4755 in chips) 
+Seat 3: jjpainter (5610 in chips) 
+Seat 5: Valdo1959 (6084 in chips) 
+Seat 6: rossi184 (8073 in chips) 
+Seat 7: nicholasj25 (3621 in chips) is sitting out
+Seat 8: J.Petermin (1575 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+luckxkcul: posts small blind 300
+jjpainter: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6d 9h]
+Valdo1959: folds 
+rossi184: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+luckxkcul: calls 300
+jjpainter: checks 
+*** FLOP *** [6c 7c Qh]
+luckxkcul: checks 
+jjpainter: bets 600
+luckxkcul: calls 600
+*** TURN *** [6c 7c Qh] [Th]
+luckxkcul: bets 600
+jjpainter: calls 600
+*** RIVER *** [6c 7c Qh Th] [3s]
+luckxkcul: bets 600
+jjpainter: folds 
+Uncalled bet (600) returned to luckxkcul
+luckxkcul collected 3900 from pot
+luckxkcul: doesn't show hand 
+*** SUMMARY ***
+Total pot 3900 | Rake 0 
+Board [6c 7c Qh Th 3s]
+Seat 2: luckxkcul (small blind) collected (3900)
+Seat 3: jjpainter (big blind) folded on the River
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281629717: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/17 11:16:48 ET
+Table '2433509040 1' 9-max Seat #2 is the button
+Seat 2: luckxkcul (6805 in chips) 
+Seat 3: jjpainter (3760 in chips) 
+Seat 5: Valdo1959 (6034 in chips) 
+Seat 6: rossi184 (8023 in chips) 
+Seat 7: nicholasj25 (3571 in chips) is sitting out
+Seat 8: J.Petermin (1525 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+jjpainter: posts small blind 300
+Valdo1959: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5h Kd]
+rossi184: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+luckxkcul: calls 600
+jjpainter: folds 
+Valdo1959: checks 
+*** FLOP *** [2c 7d 4h]
+Valdo1959: bets 600
+luckxkcul: folds 
+Uncalled bet (600) returned to Valdo1959
+Valdo1959 collected 1800 from pot
+Valdo1959: doesn't show hand 
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Board [2c 7d 4h]
+Seat 2: luckxkcul (button) folded on the Flop
+Seat 3: jjpainter (small blind) folded before Flop
+Seat 5: Valdo1959 (big blind) collected (1800)
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281643128: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/17 11:17:14 ET
+Table '2433509040 1' 9-max Seat #3 is the button
+Seat 2: luckxkcul (6155 in chips) 
+Seat 3: jjpainter (3410 in chips) 
+Seat 5: Valdo1959 (7184 in chips) 
+Seat 6: rossi184 (7973 in chips) 
+Seat 7: nicholasj25 (3521 in chips) is sitting out
+Seat 8: J.Petermin (1475 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+Valdo1959: posts small blind 300
+rossi184: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7d 4d]
+nicholasj25: folds 
+J.Petermin: folds 
+luckxkcul: folds 
+jjpainter: calls 600
+Valdo1959: folds 
+rossi184: checks 
+*** FLOP *** [9s 6c Ks]
+rossi184: bets 600
+jjpainter: calls 600
+*** TURN *** [9s 6c Ks] [Ad]
+rossi184: checks 
+jjpainter: bets 600
+rossi184: folds 
+Uncalled bet (600) returned to jjpainter
+jjpainter collected 3000 from pot
+jjpainter: doesn't show hand 
+*** SUMMARY ***
+Total pot 3000 | Rake 0 
+Board [9s 6c Ks Ad]
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter (button) collected (3000)
+Seat 5: Valdo1959 (small blind) folded before Flop
+Seat 6: rossi184 (big blind) folded on the Turn
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281658334: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/17 11:17:43 ET
+Table '2433509040 1' 9-max Seat #5 is the button
+Seat 2: luckxkcul (6105 in chips) 
+Seat 3: jjpainter (5160 in chips) 
+Seat 5: Valdo1959 (6834 in chips) 
+Seat 6: rossi184 (6723 in chips) 
+Seat 7: nicholasj25 (3471 in chips) 
+Seat 8: J.Petermin (1425 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+rossi184: posts small blind 300
+nicholasj25: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7c 8d]
+J.Petermin: folds 
+luckxkcul: folds 
+jjpainter: folds 
+Valdo1959: folds 
+rossi184: calls 300
+nicholasj25: checks 
+*** FLOP *** [Qs 8h 5d]
+rossi184: bets 600
+nicholasj25: raises 2221 to 2821 and is all-in
+rossi184: folds 
+Uncalled bet (2221) returned to nicholasj25
+nicholasj25 collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | Rake 0 
+Board [Qs 8h 5d]
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 5: Valdo1959 (button) folded before Flop (didn't bet)
+Seat 6: rossi184 (small blind) folded on the Flop
+Seat 7: nicholasj25 (big blind) collected (2700)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281673934: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/17 11:18:13 ET
+Table '2433509040 1' 9-max Seat #6 is the button
+Seat 2: luckxkcul (6055 in chips) 
+Seat 3: jjpainter (5110 in chips) 
+Seat 5: Valdo1959 (6784 in chips) 
+Seat 6: rossi184 (5473 in chips) 
+Seat 7: nicholasj25 (4921 in chips) 
+Seat 8: J.Petermin (1375 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+nicholasj25: posts small blind 300
+J.Petermin: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3h Ah]
+luckxkcul: folds 
+jjpainter: folds 
+Valdo1959: folds 
+rossi184: calls 600
+nicholasj25: calls 300
+J.Petermin: raises 725 to 1325 and is all-in
+rossi184: folds 
+nicholasj25: calls 725
+*** FLOP *** [2h 8s 7h]
+*** TURN *** [2h 8s 7h] [3c]
+*** RIVER *** [2h 8s 7h 3c] [Qs]
+*** SHOW DOWN ***
+nicholasj25: shows [3h Ah] (a pair of Threes)
+J.Petermin: shows [Th Td] (a pair of Tens)
+J.Petermin collected 3550 from pot
+*** SUMMARY ***
+Total pot 3550 | Rake 0 
+Board [2h 8s 7h 3c Qs]
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 (button) folded before Flop
+Seat 7: nicholasj25 (small blind) showed [3h Ah] and lost with a pair of Threes
+Seat 8: J.Petermin (big blind) showed [Th Td] and won (3550) with a pair of Tens
+
+
+
+PokerStars Hand #192281692548: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/17 11:18:48 ET
+Table '2433509040 1' 9-max Seat #7 is the button
+Seat 2: luckxkcul (6005 in chips) 
+Seat 3: jjpainter (5060 in chips) 
+Seat 5: Valdo1959 (6734 in chips) 
+Seat 6: rossi184 (4823 in chips) 
+Seat 7: nicholasj25 (3546 in chips) 
+Seat 8: J.Petermin (3550 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+J.Petermin: posts small blind 300
+luckxkcul: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3s 2s]
+jjpainter: folds 
+Valdo1959: folds 
+rossi184: folds 
+nicholasj25: folds 
+J.Petermin: calls 300
+luckxkcul: checks 
+*** FLOP *** [8c 2d Ah]
+J.Petermin: checks 
+luckxkcul: checks 
+*** TURN *** [8c 2d Ah] [9h]
+J.Petermin: checks 
+luckxkcul: checks 
+*** RIVER *** [8c 2d Ah 9h] [4h]
+J.Petermin: checks 
+luckxkcul: checks 
+*** SHOW DOWN ***
+J.Petermin: shows [Kd Qd] (high card Ace)
+luckxkcul: shows [3c 3h] (a pair of Threes)
+luckxkcul collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [8c 2d Ah 9h 4h]
+Seat 2: luckxkcul (big blind) showed [3c 3h] and won (1500) with a pair of Threes
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 8: J.Petermin (small blind) showed [Kd Qd] and lost with high card Ace
+
+
+
+PokerStars Hand #192281710239: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/17 11:19:22 ET
+Table '2433509040 1' 9-max Seat #8 is the button
+Seat 2: luckxkcul (6855 in chips) 
+Seat 3: jjpainter (5010 in chips) 
+Seat 5: Valdo1959 (6684 in chips) 
+Seat 6: rossi184 (4773 in chips) 
+Seat 7: nicholasj25 (3496 in chips) 
+Seat 8: J.Petermin (2900 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+luckxkcul: posts small blind 400
+jjpainter: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3d 6h]
+Valdo1959: folds 
+rossi184: calls 800
+nicholasj25: folds 
+J.Petermin: folds 
+luckxkcul: calls 400
+jjpainter: checks 
+*** FLOP *** [3h 8s 8d]
+luckxkcul: checks 
+jjpainter: checks 
+rossi184: bets 800
+luckxkcul: calls 800
+jjpainter: folds 
+*** TURN *** [3h 8s 8d] [6d]
+luckxkcul: checks 
+rossi184: bets 2150
+luckxkcul: calls 2150
+*** RIVER *** [3h 8s 8d 6d] [5c]
+luckxkcul: checks 
+rossi184: bets 973 and is all-in
+luckxkcul: calls 973
+*** SHOW DOWN ***
+rossi184: shows [Ah 8h] (three of a kind, Eights)
+luckxkcul: shows [Td Th] (two pair, Tens and Eights)
+rossi184 collected 10546 from pot
+*** SUMMARY ***
+Total pot 10546 | Rake 0 
+Board [3h 8s 8d 6d 5c]
+Seat 2: luckxkcul (small blind) showed [Td Th] and lost with two pair, Tens and Eights
+Seat 3: jjpainter (big blind) folded on the Flop
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 showed [Ah 8h] and won (10546) with three of a kind, Eights
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281733249: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/17 11:20:05 ET
+Table '2433509040 1' 9-max Seat #2 is the button
+Seat 2: luckxkcul (2082 in chips) 
+Seat 3: jjpainter (4160 in chips) 
+Seat 5: Valdo1959 (6634 in chips) 
+Seat 6: rossi184 (10546 in chips) 
+Seat 7: nicholasj25 (3446 in chips) 
+Seat 8: J.Petermin (2850 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+jjpainter: posts small blind 400
+Valdo1959: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5s 4c]
+rossi184: folds 
+jjpainter said, "nh"
+nicholasj25: folds 
+J.Petermin: folds 
+luckxkcul: raises 1232 to 2032 and is all-in
+jjpainter: folds 
+Valdo1959: calls 1232
+*** FLOP *** [2c 8c Js]
+*** TURN *** [2c 8c Js] [7d]
+*** RIVER *** [2c 8c Js 7d] [Ks]
+*** SHOW DOWN ***
+Valdo1959: shows [Ad 9h] (high card Ace)
+luckxkcul: shows [Ah Ts] (high card Ace - King+Jack+Ten kicker)
+luckxkcul collected 4764 from pot
+*** SUMMARY ***
+Total pot 4764 | Rake 0 
+Board [2c 8c Js 7d Ks]
+Seat 2: luckxkcul (button) showed [Ah Ts] and won (4764) with high card Ace
+Seat 3: jjpainter (small blind) folded before Flop
+Seat 5: Valdo1959 (big blind) showed [Ad 9h] and lost with high card Ace
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281749089: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/17 11:20:35 ET
+Table '2433509040 1' 9-max Seat #3 is the button
+Seat 2: luckxkcul (4764 in chips) 
+Seat 3: jjpainter (3710 in chips) 
+Seat 5: Valdo1959 (4552 in chips) 
+Seat 6: rossi184 (10496 in chips) 
+Seat 7: nicholasj25 (3396 in chips) 
+Seat 8: J.Petermin (2800 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+Valdo1959: posts small blind 400
+rossi184: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4h 3h]
+nicholasj25: folds 
+J.Petermin: folds 
+luckxkcul: calls 800
+jjpainter: folds 
+Valdo1959: folds 
+rossi184: checks 
+*** FLOP *** [9d 2h 6s]
+rossi184: bets 800
+luckxkcul: folds 
+Uncalled bet (800) returned to rossi184
+rossi184 collected 2300 from pot
+rossi184: doesn't show hand 
+*** SUMMARY ***
+Total pot 2300 | Rake 0 
+Board [9d 2h 6s]
+Seat 2: luckxkcul folded on the Flop
+Seat 3: jjpainter (button) folded before Flop (didn't bet)
+Seat 5: Valdo1959 (small blind) folded before Flop
+Seat 6: rossi184 (big blind) collected (2300)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281761823: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/17 11:21:00 ET
+Table '2433509040 1' 9-max Seat #5 is the button
+Seat 2: luckxkcul (3914 in chips) 
+Seat 3: jjpainter (3660 in chips) 
+Seat 5: Valdo1959 (4102 in chips) 
+Seat 6: rossi184 (11946 in chips) 
+Seat 7: nicholasj25 (3346 in chips) 
+Seat 8: J.Petermin (2750 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+rossi184: posts small blind 400
+nicholasj25: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Jd Kd]
+J.Petermin: folds 
+luckxkcul: folds 
+jjpainter: calls 800
+Valdo1959: folds 
+rossi184: folds 
+nicholasj25: raises 800 to 1600
+jjpainter: calls 800
+*** FLOP *** [5c 2c Ah]
+nicholasj25: bets 1696 and is all-in
+jjpainter: folds 
+Uncalled bet (1696) returned to nicholasj25
+nicholasj25 collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | Rake 0 
+Board [5c 2c Ah]
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter folded on the Flop
+Seat 5: Valdo1959 (button) folded before Flop (didn't bet)
+Seat 6: rossi184 (small blind) folded before Flop
+Seat 7: nicholasj25 (big blind) collected (3900)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281779499: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/17 11:21:34 ET
+Table '2433509040 1' 9-max Seat #6 is the button
+Seat 2: luckxkcul (3864 in chips) 
+Seat 3: jjpainter (2010 in chips) 
+Seat 5: Valdo1959 (4052 in chips) 
+Seat 6: rossi184 (11496 in chips) 
+Seat 7: nicholasj25 (5596 in chips) 
+Seat 8: J.Petermin (2700 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+nicholasj25: posts small blind 400
+J.Petermin: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [As 8d]
+luckxkcul: folds 
+jjpainter: folds 
+Valdo1959: folds 
+rossi184: folds 
+nicholasj25: calls 400
+J.Petermin: checks 
+*** FLOP *** [3s 7s 5c]
+nicholasj25: checks 
+J.Petermin: checks 
+*** TURN *** [3s 7s 5c] [6c]
+nicholasj25: bets 800
+J.Petermin: folds 
+Uncalled bet (800) returned to nicholasj25
+nicholasj25 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Board [3s 7s 5c 6c]
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 (button) folded before Flop (didn't bet)
+Seat 7: nicholasj25 (small blind) collected (1900)
+Seat 8: J.Petermin (big blind) folded on the Turn
+
+
+
+PokerStars Hand #192281794930: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/17 11:22:03 ET
+Table '2433509040 1' 9-max Seat #7 is the button
+Seat 2: luckxkcul (3814 in chips) 
+Seat 3: jjpainter (1960 in chips) 
+Seat 5: Valdo1959 (4002 in chips) 
+Seat 6: rossi184 (11446 in chips) 
+Seat 7: nicholasj25 (6646 in chips) 
+Seat 8: J.Petermin (1850 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+J.Petermin: posts small blind 400
+luckxkcul: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4s Ts]
+jjpainter: folds 
+Valdo1959: folds 
+rossi184: folds 
+nicholasj25: folds 
+J.Petermin: calls 400
+luckxkcul: raises 2964 to 3764 and is all-in
+J.Petermin: calls 1000 and is all-in
+Uncalled bet (1964) returned to luckxkcul
+*** FLOP *** [3c 7c Js]
+*** TURN *** [3c 7c Js] [7h]
+*** RIVER *** [3c 7c Js 7h] [5h]
+*** SHOW DOWN ***
+J.Petermin: shows [Kc Jc] (two pair, Jacks and Sevens)
+luckxkcul: shows [As 9d] (a pair of Sevens)
+J.Petermin collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | Rake 0 
+Board [3c 7c Js 7h 5h]
+Seat 2: luckxkcul (big blind) showed [As 9d] and lost with a pair of Sevens
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 8: J.Petermin (small blind) showed [Kc Jc] and won (3900) with two pair, Jacks and Sevens
+
+
+
+PokerStars Hand #192281813641: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/17 11:22:39 ET
+Table '2433509040 1' 9-max Seat #8 is the button
+Seat 2: luckxkcul (1964 in chips) 
+Seat 3: jjpainter (1910 in chips) 
+Seat 5: Valdo1959 (3952 in chips) 
+Seat 6: rossi184 (11396 in chips) 
+Seat 7: nicholasj25 (6596 in chips) 
+Seat 8: J.Petermin (3900 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+luckxkcul: posts small blind 400
+jjpainter: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2s 7h]
+Valdo1959: folds 
+rossi184: folds 
+nicholasj25: folds 
+J.Petermin: folds 
+luckxkcul: folds 
+Uncalled bet (400) returned to jjpainter
+jjpainter collected 1100 from pot
+jjpainter: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Seat 2: luckxkcul (small blind) folded before Flop
+Seat 3: jjpainter (big blind) collected (1100)
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 folded before Flop (didn't bet)
+Seat 8: J.Petermin (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281822382: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/17 11:22:55 ET
+Table '2433509040 1' 9-max Seat #2 is the button
+Seat 2: luckxkcul (1514 in chips) 
+Seat 3: jjpainter (2560 in chips) 
+Seat 5: Valdo1959 (3902 in chips) 
+Seat 6: rossi184 (11346 in chips) 
+Seat 7: nicholasj25 (6546 in chips) 
+Seat 8: J.Petermin (3850 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+jjpainter: posts small blind 400
+Valdo1959: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qh Ks]
+rossi184: folds 
+nicholasj25: calls 800
+J.Petermin: folds 
+luckxkcul: folds 
+jjpainter: folds 
+Valdo1959: checks 
+*** FLOP *** [Jh 5c 6d]
+Valdo1959: checks 
+nicholasj25: bets 800
+Valdo1959: folds 
+Uncalled bet (800) returned to nicholasj25
+nicholasj25 collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | Rake 0 
+Board [Jh 5c 6d]
+Seat 2: luckxkcul (button) folded before Flop (didn't bet)
+Seat 3: jjpainter (small blind) folded before Flop
+Seat 5: Valdo1959 (big blind) folded on the Flop
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 collected (2300)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281849016: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/17 11:23:46 ET
+Table '2433509040 1' 9-max Seat #3 is the button
+Seat 2: luckxkcul (1464 in chips) 
+Seat 3: jjpainter (2110 in chips) 
+Seat 5: Valdo1959 (3052 in chips) 
+Seat 6: rossi184 (11296 in chips) 
+Seat 7: nicholasj25 (7996 in chips) 
+Seat 8: J.Petermin (3800 in chips) 
+luckxkcul: posts the ante 50
+jjpainter: posts the ante 50
+Valdo1959: posts the ante 50
+rossi184: posts the ante 50
+nicholasj25: posts the ante 50
+J.Petermin: posts the ante 50
+Valdo1959: posts small blind 400
+rossi184: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ad Qh]
+nicholasj25: raises 800 to 1600
+J.Petermin: folds 
+luckxkcul: folds 
+jjpainter: folds 
+Valdo1959: folds 
+rossi184: folds 
+Uncalled bet (800) returned to nicholasj25
+nicholasj25 collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | Rake 0 
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter (button) folded before Flop (didn't bet)
+Seat 5: Valdo1959 (small blind) folded before Flop
+Seat 6: rossi184 (big blind) folded before Flop
+Seat 7: nicholasj25 collected (2300)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281864371: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/10/17 11:24:15 ET
+Table '2433509040 1' 9-max Seat #5 is the button
+Seat 2: luckxkcul (1414 in chips) 
+Seat 3: jjpainter (2060 in chips) 
+Seat 5: Valdo1959 (2602 in chips) 
+Seat 6: rossi184 (10446 in chips) 
+Seat 7: nicholasj25 (9446 in chips) 
+Seat 8: J.Petermin (3750 in chips) 
+luckxkcul: posts the ante 75
+jjpainter: posts the ante 75
+Valdo1959: posts the ante 75
+rossi184: posts the ante 75
+nicholasj25: posts the ante 75
+J.Petermin: posts the ante 75
+rossi184: posts small blind 600
+nicholasj25: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8d 5c]
+J.Petermin: folds 
+luckxkcul: folds 
+jjpainter: folds 
+Valdo1959: raises 1327 to 2527 and is all-in
+rossi184: folds 
+nicholasj25: folds 
+Uncalled bet (1327) returned to Valdo1959
+Valdo1959 collected 3450 from pot
+Valdo1959: doesn't show hand 
+*** SUMMARY ***
+Total pot 3450 | Rake 0 
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 5: Valdo1959 (button) collected (3450)
+Seat 6: rossi184 (small blind) folded before Flop
+Seat 7: nicholasj25 (big blind) folded before Flop
+Seat 8: J.Petermin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281879794: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/10/17 11:24:44 ET
+Table '2433509040 1' 9-max Seat #6 is the button
+Seat 2: luckxkcul (1339 in chips) 
+Seat 3: jjpainter (1985 in chips) 
+Seat 5: Valdo1959 (4777 in chips) 
+Seat 6: rossi184 (9771 in chips) 
+Seat 7: nicholasj25 (8171 in chips) 
+Seat 8: J.Petermin (3675 in chips) 
+luckxkcul: posts the ante 75
+jjpainter: posts the ante 75
+Valdo1959: posts the ante 75
+rossi184: posts the ante 75
+nicholasj25: posts the ante 75
+J.Petermin: posts the ante 75
+nicholasj25: posts small blind 600
+J.Petermin: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qh Jc]
+luckxkcul: folds 
+jjpainter: folds 
+Valdo1959: folds 
+rossi184: folds 
+nicholasj25: raises 2400 to 3600
+J.Petermin: folds 
+Uncalled bet (2400) returned to nicholasj25
+nicholasj25 collected 2850 from pot
+*** SUMMARY ***
+Total pot 2850 | Rake 0 
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 (button) folded before Flop (didn't bet)
+Seat 7: nicholasj25 (small blind) collected (2850)
+Seat 8: J.Petermin (big blind) folded before Flop
+
+
+
+PokerStars Hand #192281891854: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/10/17 11:25:07 ET
+Table '2433509040 1' 9-max Seat #7 is the button
+Seat 2: luckxkcul (1264 in chips) 
+Seat 3: jjpainter (1910 in chips) 
+Seat 5: Valdo1959 (4702 in chips) 
+Seat 6: rossi184 (9696 in chips) 
+Seat 7: nicholasj25 (9746 in chips) 
+Seat 8: J.Petermin (2400 in chips) 
+luckxkcul: posts the ante 75
+jjpainter: posts the ante 75
+Valdo1959: posts the ante 75
+rossi184: posts the ante 75
+nicholasj25: posts the ante 75
+J.Petermin: posts the ante 75
+J.Petermin: posts small blind 600
+luckxkcul: posts big blind 1189 and is all-in
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qc 3d]
+jjpainter: folds 
+Valdo1959: folds 
+rossi184: folds 
+nicholasj25: folds 
+J.Petermin: calls 589
+*** FLOP *** [8h 3s 6h]
+*** TURN *** [8h 3s 6h] [9d]
+*** RIVER *** [8h 3s 6h 9d] [4c]
+*** SHOW DOWN ***
+J.Petermin: shows [5h Ac] (high card Ace)
+luckxkcul: shows [7s 6d] (a pair of Sixes)
+luckxkcul collected 2828 from pot
+*** SUMMARY ***
+Total pot 2828 | Rake 0 
+Board [8h 3s 6h 9d 4c]
+Seat 2: luckxkcul (big blind) showed [7s 6d] and won (2828) with a pair of Sixes
+Seat 3: jjpainter folded before Flop (didn't bet)
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 8: J.Petermin (small blind) showed [5h Ac] and lost with high card Ace
+
+
+
+PokerStars Hand #192281921951: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/10/17 11:26:03 ET
+Table '2433509040 1' 9-max Seat #2 is the button
+Seat 1: semjaaza (31530 in chips) 
+Seat 2: luckxkcul (2153 in chips) 
+Seat 4: CARLETTOB (5452 in chips) 
+Seat 5: Valdo1959 (7437 in chips) 
+Seat 6: rossi184 (9546 in chips) 
+Seat 7: rumin637 (650 in chips) 
+Seat 8: J.Petermin (1061 in chips) 
+Seat 9: nicholasj25 (9671 in chips) 
+semjaaza: posts the ante 75
+luckxkcul: posts the ante 75
+CARLETTOB: posts the ante 75
+Valdo1959: posts the ante 75
+rossi184: posts the ante 75
+rumin637: posts the ante 75
+J.Petermin: posts the ante 75
+nicholasj25: posts the ante 75
+CARLETTOB: posts small blind 600
+Valdo1959: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kd 8s]
+rossi184: folds 
+rumin637: folds 
+J.Petermin: calls 986 and is all-in
+nicholasj25: folds 
+semjaaza: calls 1200
+luckxkcul: folds 
+CARLETTOB: folds 
+Valdo1959: checks 
+*** FLOP *** [Ad 8c 6c]
+Valdo1959: checks 
+semjaaza: checks 
+*** TURN *** [Ad 8c 6c] [2h]
+Valdo1959: checks 
+semjaaza: checks 
+*** RIVER *** [Ad 8c 6c 2h] [Jh]
+Valdo1959: checks 
+semjaaza: checks 
+*** SHOW DOWN ***
+Valdo1959: shows [4c 3h] (high card Ace)
+semjaaza: shows [8d Kc] (a pair of Eights)
+semjaaza collected 428 from side pot
+J.Petermin: shows [Ah Qc] (a pair of Aces)
+J.Petermin collected 4158 from main pot
+*** SUMMARY ***
+Total pot 4586 Main pot 4158. Side pot 428. | Rake 0 
+Board [Ad 8c 6c 2h Jh]
+Seat 1: semjaaza showed [8d Kc] and won (428) with a pair of Eights
+Seat 2: luckxkcul (button) folded before Flop (didn't bet)
+Seat 4: CARLETTOB (small blind) folded before Flop
+Seat 5: Valdo1959 (big blind) showed [4c 3h] and lost with high card Ace
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 7: rumin637 folded before Flop (didn't bet)
+Seat 8: J.Petermin showed [Ah Qc] and won (4158) with a pair of Aces
+Seat 9: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281943946: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/10/17 11:26:44 ET
+Table '2433509040 1' 9-max Seat #4 is the button
+Seat 1: semjaaza (30683 in chips) 
+Seat 2: luckxkcul (2078 in chips) 
+Seat 4: CARLETTOB (4777 in chips) 
+Seat 5: Valdo1959 (6162 in chips) 
+Seat 6: rossi184 (9471 in chips) 
+Seat 7: rumin637 (575 in chips) 
+Seat 8: J.Petermin (4158 in chips) 
+Seat 9: nicholasj25 (9596 in chips) 
+semjaaza: posts the ante 75
+luckxkcul: posts the ante 75
+CARLETTOB: posts the ante 75
+Valdo1959: posts the ante 75
+rossi184: posts the ante 75
+rumin637: posts the ante 75
+J.Petermin: posts the ante 75
+nicholasj25: posts the ante 75
+Valdo1959: posts small blind 600
+rossi184: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2s 7c]
+rumin637: folds 
+J.Petermin: folds 
+nicholasj25: folds 
+semjaaza: calls 1200
+luckxkcul: raises 803 to 2003 and is all-in
+CARLETTOB: folds 
+Valdo1959: folds 
+rossi184: folds 
+semjaaza: calls 803
+*** FLOP *** [6h 7d 3s]
+*** TURN *** [6h 7d 3s] [8c]
+*** RIVER *** [6h 7d 3s 8c] [2h]
+*** SHOW DOWN ***
+semjaaza: shows [Js Ts] (high card Jack)
+luckxkcul: shows [Qs Th] (high card Queen)
+luckxkcul collected 6406 from pot
+*** SUMMARY ***
+Total pot 6406 | Rake 0 
+Board [6h 7d 3s 8c 2h]
+Seat 1: semjaaza showed [Js Ts] and lost with high card Jack
+Seat 2: luckxkcul showed [Qs Th] and won (6406) with high card Queen
+Seat 4: CARLETTOB (button) folded before Flop (didn't bet)
+Seat 5: Valdo1959 (small blind) folded before Flop
+Seat 6: rossi184 (big blind) folded before Flop
+Seat 7: rumin637 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281961213: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/10/17 11:27:17 ET
+Table '2433509040 1' 9-max Seat #5 is the button
+Seat 1: semjaaza (28605 in chips) 
+Seat 2: luckxkcul (6406 in chips) 
+Seat 4: CARLETTOB (4702 in chips) 
+Seat 5: Valdo1959 (5487 in chips) 
+Seat 6: rossi184 (8196 in chips) 
+Seat 7: rumin637 (500 in chips) 
+Seat 8: J.Petermin (4083 in chips) 
+Seat 9: nicholasj25 (9521 in chips) 
+semjaaza: posts the ante 75
+luckxkcul: posts the ante 75
+CARLETTOB: posts the ante 75
+Valdo1959: posts the ante 75
+rossi184: posts the ante 75
+rumin637: posts the ante 75
+J.Petermin: posts the ante 75
+nicholasj25: posts the ante 75
+rossi184: posts small blind 600
+rumin637: posts big blind 425 and is all-in
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6h 9d]
+J.Petermin: folds 
+nicholasj25: folds 
+semjaaza: calls 1200
+luckxkcul: folds 
+CARLETTOB: folds 
+Valdo1959: folds 
+rossi184: calls 600
+*** FLOP *** [6s 4d 2c]
+rossi184: checks 
+semjaaza: checks 
+*** TURN *** [6s 4d 2c] [2d]
+rossi184: checks 
+semjaaza: checks 
+*** RIVER *** [6s 4d 2c 2d] [Jd]
+rossi184: checks 
+semjaaza: checks 
+*** SHOW DOWN ***
+rossi184: shows [9s Qh] (a pair of Deuces)
+semjaaza: shows [3h Ah] (a pair of Deuces - Ace kicker)
+semjaaza collected 1550 from side pot
+rumin637: mucks hand 
+semjaaza collected 1875 from main pot
+rumin637 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 3425 Main pot 1875. Side pot 1550. | Rake 0 
+Board [6s 4d 2c 2d Jd]
+Seat 1: semjaaza showed [3h Ah] and won (3425) with a pair of Deuces
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 4: CARLETTOB folded before Flop (didn't bet)
+Seat 5: Valdo1959 (button) folded before Flop (didn't bet)
+Seat 6: rossi184 (small blind) showed [9s Qh] and lost with a pair of Deuces
+Seat 7: rumin637 (big blind) mucked [3d 7h]
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192281976945: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/10/17 11:27:47 ET
+Table '2433509040 1' 9-max Seat #6 is the button
+Seat 1: semjaaza (30755 in chips) 
+Seat 2: luckxkcul (6331 in chips) 
+Seat 4: CARLETTOB (4627 in chips) 
+Seat 5: Valdo1959 (5412 in chips) 
+Seat 6: rossi184 (6921 in chips) 
+Seat 8: J.Petermin (4008 in chips) 
+Seat 9: nicholasj25 (9446 in chips) 
+semjaaza: posts the ante 75
+luckxkcul: posts the ante 75
+CARLETTOB: posts the ante 75
+Valdo1959: posts the ante 75
+rossi184: posts the ante 75
+J.Petermin: posts the ante 75
+nicholasj25: posts the ante 75
+J.Petermin: posts small blind 600
+nicholasj25: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7c 5c]
+semjaaza: folds 
+luckxkcul: folds 
+CARLETTOB: calls 1200
+Valdo1959: raises 4137 to 5337 and is all-in
+rossi184: folds 
+J.Petermin: folds 
+nicholasj25: folds 
+CARLETTOB: calls 3352 and is all-in
+Uncalled bet (785) returned to Valdo1959
+*** FLOP *** [Jc 2c 9d]
+*** TURN *** [Jc 2c 9d] [8s]
+*** RIVER *** [Jc 2c 9d 8s] [5s]
+*** SHOW DOWN ***
+CARLETTOB: shows [Ac Jd] (a pair of Jacks)
+Valdo1959: shows [Qc Kh] (high card King)
+CARLETTOB collected 11429 from pot
+*** SUMMARY ***
+Total pot 11429 | Rake 0 
+Board [Jc 2c 9d 8s 5s]
+Seat 1: semjaaza folded before Flop (didn't bet)
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 4: CARLETTOB showed [Ac Jd] and won (11429) with a pair of Jacks
+Seat 5: Valdo1959 showed [Qc Kh] and lost with high card King
+Seat 6: rossi184 (button) folded before Flop (didn't bet)
+Seat 8: J.Petermin (small blind) folded before Flop
+Seat 9: nicholasj25 (big blind) folded before Flop
+
+
+
+PokerStars Hand #192281992131: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/10/17 11:28:15 ET
+Table '2433509040 1' 9-max Seat #8 is the button
+Seat 1: semjaaza (30680 in chips) 
+Seat 2: luckxkcul (6256 in chips) 
+Seat 4: CARLETTOB (11429 in chips) 
+Seat 5: Valdo1959 (785 in chips) 
+Seat 6: rossi184 (6846 in chips) 
+Seat 8: J.Petermin (3333 in chips) 
+Seat 9: nicholasj25 (8171 in chips) 
+semjaaza: posts the ante 75
+luckxkcul: posts the ante 75
+CARLETTOB: posts the ante 75
+Valdo1959: posts the ante 75
+rossi184: posts the ante 75
+J.Petermin: posts the ante 75
+nicholasj25: posts the ante 75
+nicholasj25: posts small blind 600
+semjaaza: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7c As]
+luckxkcul: folds 
+CARLETTOB: folds 
+Valdo1959: calls 710 and is all-in
+rossi184: folds 
+J.Petermin: folds 
+nicholasj25: raises 1200 to 2400
+semjaaza has timed out
+semjaaza: folds 
+Uncalled bet (1200) returned to nicholasj25
+*** FLOP *** [4h 3s 2h]
+*** TURN *** [4h 3s 2h] [Kh]
+*** RIVER *** [4h 3s 2h Kh] [Th]
+*** SHOW DOWN ***
+nicholasj25: shows [7c As] (high card Ace)
+nicholasj25 collected 980 from side pot
+Valdo1959: shows [Ks Qh] (a flush, King high)
+Valdo1959 collected 2655 from main pot
+*** SUMMARY ***
+Total pot 3635 Main pot 2655. Side pot 980. | Rake 0 
+Board [4h 3s 2h Kh Th]
+Seat 1: semjaaza (big blind) folded before Flop
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 4: CARLETTOB folded before Flop (didn't bet)
+Seat 5: Valdo1959 showed [Ks Qh] and won (2655) with a flush, King high
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 8: J.Petermin (button) folded before Flop (didn't bet)
+Seat 9: nicholasj25 (small blind) showed [7c As] and won (980) with high card Ace
+
+
+
+PokerStars Hand #192282016883: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/10/17 11:29:02 ET
+Table '2433509040 1' 9-max Seat #9 is the button
+Seat 1: semjaaza (29405 in chips) is sitting out
+Seat 2: luckxkcul (6181 in chips) 
+Seat 4: CARLETTOB (11354 in chips) 
+Seat 5: Valdo1959 (2655 in chips) 
+Seat 6: rossi184 (6771 in chips) 
+Seat 8: J.Petermin (3258 in chips) 
+Seat 9: nicholasj25 (7876 in chips) 
+semjaaza: posts the ante 75
+luckxkcul: posts the ante 75
+CARLETTOB: posts the ante 75
+Valdo1959: posts the ante 75
+rossi184: posts the ante 75
+J.Petermin: posts the ante 75
+nicholasj25: posts the ante 75
+semjaaza: posts small blind 800
+luckxkcul: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kc Tc]
+CARLETTOB: folds 
+Valdo1959: folds 
+rossi184: calls 1600
+J.Petermin: folds 
+nicholasj25: calls 1600
+semjaaza: folds 
+luckxkcul: checks 
+*** FLOP *** [Td 3h 9h]
+luckxkcul: bets 1600
+rossi184: folds 
+nicholasj25: raises 3200 to 4800
+luckxkcul: calls 2906 and is all-in
+Uncalled bet (294) returned to nicholasj25
+*** TURN *** [Td 3h 9h] [3c]
+*** RIVER *** [Td 3h 9h 3c] [5h]
+*** SHOW DOWN ***
+luckxkcul: shows [3d Qh] (three of a kind, Threes)
+nicholasj25: shows [Kc Tc] (two pair, Tens and Threes)
+luckxkcul collected 15137 from pot
+*** SUMMARY ***
+Total pot 15137 | Rake 0 
+Board [Td 3h 9h 3c 5h]
+Seat 1: semjaaza (small blind) folded before Flop
+Seat 2: luckxkcul (big blind) showed [3d Qh] and won (15137) with three of a kind, Threes
+Seat 4: CARLETTOB folded before Flop (didn't bet)
+Seat 5: Valdo1959 folded before Flop (didn't bet)
+Seat 6: rossi184 folded on the Flop
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: nicholasj25 (button) showed [Kc Tc] and lost with two pair, Tens and Threes
+
+
+
+PokerStars Hand #192282031871: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/10/17 11:29:30 ET
+Table '2433509040 1' 9-max Seat #1 is the button
+Seat 1: semjaaza (28530 in chips) is sitting out
+Seat 2: luckxkcul (15137 in chips) 
+Seat 4: CARLETTOB (11279 in chips) 
+Seat 5: Valdo1959 (2580 in chips) 
+Seat 6: rossi184 (5096 in chips) 
+Seat 8: J.Petermin (3183 in chips) 
+Seat 9: nicholasj25 (1695 in chips) 
+semjaaza: posts the ante 75
+luckxkcul: posts the ante 75
+CARLETTOB: posts the ante 75
+Valdo1959: posts the ante 75
+rossi184: posts the ante 75
+J.Petermin: posts the ante 75
+nicholasj25: posts the ante 75
+luckxkcul: posts small blind 800
+CARLETTOB: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ks 7h]
+Valdo1959: raises 905 to 2505 and is all-in
+rossi184: folds 
+J.Petermin: folds 
+nicholasj25: folds 
+semjaaza: folds 
+luckxkcul: calls 1705
+CARLETTOB: folds 
+*** FLOP *** [9d Kd Ac]
+*** TURN *** [9d Kd Ac] [Ah]
+*** RIVER *** [9d Kd Ac Ah] [6s]
+*** SHOW DOWN ***
+luckxkcul: shows [Kc 9c] (two pair, Aces and Kings)
+Valdo1959: shows [9h 8d] (two pair, Aces and Nines)
+luckxkcul collected 7135 from pot
+Valdo1959 finished the tournament in 7th place and received 26775.00.
+*** SUMMARY ***
+Total pot 7135 | Rake 0 
+Board [9d Kd Ac Ah 6s]
+Seat 1: semjaaza (button) folded before Flop (didn't bet)
+Seat 2: luckxkcul (small blind) showed [Kc 9c] and won (7135) with two pair, Aces and Kings
+Seat 4: CARLETTOB (big blind) folded before Flop
+Seat 5: Valdo1959 showed [9h 8d] and lost with two pair, Aces and Nines
+Seat 6: rossi184 folded before Flop (didn't bet)
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192282045576: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/10/17 11:29:57 ET
+Table '2433509040 1' 9-max Seat #2 is the button
+Seat 1: semjaaza (28455 in chips) is sitting out
+Seat 2: luckxkcul (19692 in chips) 
+Seat 4: CARLETTOB (9604 in chips) 
+Seat 6: rossi184 (5021 in chips) 
+Seat 8: J.Petermin (3108 in chips) 
+Seat 9: nicholasj25 (1620 in chips) 
+semjaaza: posts the ante 75
+luckxkcul: posts the ante 75
+CARLETTOB: posts the ante 75
+rossi184: posts the ante 75
+J.Petermin: posts the ante 75
+nicholasj25: posts the ante 75
+CARLETTOB: posts small blind 800
+rossi184: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4s 7h]
+J.Petermin: folds 
+nicholasj25: folds 
+semjaaza: folds 
+luckxkcul: folds 
+CARLETTOB: calls 800
+rossi184: checks 
+*** FLOP *** [4h 6c Qc]
+CARLETTOB: checks 
+rossi184: checks 
+*** TURN *** [4h 6c Qc] [6h]
+CARLETTOB: checks 
+rossi184: checks 
+*** RIVER *** [4h 6c Qc 6h] [7c]
+CARLETTOB: checks 
+rossi184: checks 
+*** SHOW DOWN ***
+CARLETTOB: shows [4d Jh] (two pair, Sixes and Fours)
+rossi184: mucks hand 
+CARLETTOB collected 3650 from pot
+*** SUMMARY ***
+Total pot 3650 | Rake 0 
+Board [4h 6c Qc 6h 7c]
+Seat 1: semjaaza folded before Flop (didn't bet)
+Seat 2: luckxkcul (button) folded before Flop (didn't bet)
+Seat 4: CARLETTOB (small blind) showed [4d Jh] and won (3650) with two pair, Sixes and Fours
+Seat 6: rossi184 (big blind) mucked [9h Ac]
+Seat 8: J.Petermin folded before Flop (didn't bet)
+Seat 9: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192282060023: Tournament #2433509040, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/10/17 11:30:24 ET
+Table '2433509040 1' 9-max Seat #4 is the button
+Seat 1: semjaaza (28380 in chips) is sitting out
+Seat 2: luckxkcul (19617 in chips) 
+Seat 4: CARLETTOB (11579 in chips) 
+Seat 6: rossi184 (3346 in chips) 
+Seat 8: J.Petermin (3033 in chips) 
+Seat 9: nicholasj25 (1545 in chips) 
+semjaaza: posts the ante 75
+luckxkcul: posts the ante 75
+CARLETTOB: posts the ante 75
+rossi184: posts the ante 75
+J.Petermin: posts the ante 75
+nicholasj25: posts the ante 75
+rossi184: posts small blind 800
+J.Petermin: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ad Qs]
+nicholasj25: calls 1470 and is all-in
+semjaaza: folds 
+luckxkcul: folds 
+CARLETTOB: folds 
+rossi184: calls 800
+J.Petermin: checks 
+*** FLOP *** [6d 5c Qc]
+rossi184: bets 1600
+J.Petermin: calls 1358 and is all-in
+Uncalled bet (242) returned to rossi184
+*** TURN *** [6d 5c Qc] [7d]
+*** RIVER *** [6d 5c Qc 7d] [8s]
+*** SHOW DOWN ***
+rossi184: shows [6s 5s] (two pair, Sixes and Fives)
+J.Petermin: shows [6h 5h] (two pair, Sixes and Fives)
+rossi184 collected 1488 from side pot
+J.Petermin collected 1488 from side pot
+nicholasj25: shows [Ad Qs] (a pair of Queens)
+rossi184 collected 2430 from main pot
+J.Petermin collected 2430 from main pot
+nicholasj25 finished the tournament in 6th place and received 45900.00.
+*** SUMMARY ***
+Total pot 7836 Main pot 4860. Side pot 2976. | Rake 0 
+Board [6d 5c Qc 7d 8s]
+Seat 1: semjaaza folded before Flop (didn't bet)
+Seat 2: luckxkcul folded before Flop (didn't bet)
+Seat 4: CARLETTOB (button) folded before Flop (didn't bet)
+Seat 6: rossi184 (small blind) showed [6s 5s] and won (3918) with two pair, Sixes and Fives
+Seat 8: J.Petermin (big blind) showed [6h 5h] and won (3918) with two pair, Sixes and Fives
+Seat 9: nicholasj25 showed [Ad Qs] and lost with a pair of Queens
+
+
+

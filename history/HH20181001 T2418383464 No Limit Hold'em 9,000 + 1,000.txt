@@ -1,0 +1,4631 @@
+﻿PokerStars Hand #191677666943: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level I (10/20) - 2018/10/01 3:15:03 ET
+Table '2418383464 3' 9-max Seat #2 is the button
+Seat 2: 600819202 (1500 in chips) 
+Seat 3: anisimovp (1500 in chips) 
+Seat 4: lorks09 (1500 in chips) 
+Seat 5: Marcius.com (1500 in chips) 
+Seat 6: Malikiu16 (1500 in chips) 
+Seat 7: tuzonda69 (1500 in chips) 
+Seat 8: nicholasj25 (1500 in chips) 
+Seat 9: hamylion01 (1500 in chips) 
+anisimovp: posts small blind 10
+lorks09: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4c 6d]
+Marcius.com: folds 
+Malikiu16: calls 20
+tuzonda69: folds 
+nicholasj25: folds 
+hamylion01: calls 20
+600819202: calls 20
+anisimovp: folds 
+lorks09: checks 
+*** FLOP *** [6h 3c Ac]
+lorks09: checks 
+Malikiu16: checks 
+hamylion01: bets 20
+600819202: calls 20
+lorks09: folds 
+Malikiu16: calls 20
+*** TURN *** [6h 3c Ac] [5d]
+Malikiu16: checks 
+hamylion01: checks 
+600819202: checks 
+*** RIVER *** [6h 3c Ac 5d] [4s]
+Malikiu16: bets 150
+hamylion01: folds 
+600819202: calls 150
+*** SHOW DOWN ***
+Malikiu16: shows [2c Tc] (a straight, Deuce to Six)
+600819202: shows [3h 2h] (a straight, Deuce to Six)
+Malikiu16 collected 225 from pot
+600819202 collected 225 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [6h 3c Ac 5d 4s]
+Seat 2: 600819202 (button) showed [3h 2h] and won (225) with a straight, Deuce to Six
+Seat 3: anisimovp (small blind) folded before Flop
+Seat 4: lorks09 (big blind) folded on the Flop
+Seat 5: Marcius.com folded before Flop (didn't bet)
+Seat 6: Malikiu16 showed [2c Tc] and won (225) with a straight, Deuce to Six
+Seat 7: tuzonda69 folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: hamylion01 folded on the River
+
+
+
+PokerStars Hand #191677679525: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level I (10/20) - 2018/10/01 3:16:05 ET
+Table '2418383464 3' 9-max Seat #3 is the button
+Seat 1: Reiner49 (1500 in chips) 
+Seat 2: 600819202 (1535 in chips) 
+Seat 3: anisimovp (1490 in chips) 
+Seat 4: lorks09 (1480 in chips) 
+Seat 6: Malikiu16 (1535 in chips) 
+Seat 7: tuzonda69 (1500 in chips) 
+Seat 8: nicholasj25 (1500 in chips) 
+Seat 9: hamylion01 (1460 in chips) 
+lorks09: posts small blind 10
+Malikiu16: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9h Kh]
+tuzonda69: calls 20
+nicholasj25: calls 20
+hamylion01: folds 
+Reiner49: calls 20
+600819202: calls 20
+anisimovp: calls 20
+lorks09: calls 10
+Malikiu16: checks 
+*** FLOP *** [Th 9s 6d]
+lorks09: checks 
+Malikiu16: checks 
+tuzonda69: checks 
+nicholasj25: bets 40
+Reiner49: calls 40
+600819202: folds 
+anisimovp: folds 
+lorks09: calls 40
+Malikiu16: folds 
+tuzonda69: folds 
+*** TURN *** [Th 9s 6d] [Ks]
+lorks09: checks 
+nicholasj25: bets 40
+Reiner49: calls 40
+lorks09: calls 40
+*** RIVER *** [Th 9s 6d Ks] [8s]
+lorks09: checks 
+nicholasj25: bets 190
+Reiner49: calls 190
+lorks09: folds 
+*** SHOW DOWN ***
+nicholasj25: shows [9h Kh] (two pair, Kings and Nines)
+Reiner49: mucks hand 
+nicholasj25 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [Th 9s 6d Ks 8s]
+Seat 1: Reiner49 mucked [Qd Td]
+Seat 2: 600819202 folded on the Flop
+Seat 3: anisimovp (button) folded on the Flop
+Seat 4: lorks09 (small blind) folded on the River
+Seat 6: Malikiu16 (big blind) folded on the Flop
+Seat 7: tuzonda69 folded on the Flop
+Seat 8: nicholasj25 showed [9h Kh] and won (760) with two pair, Kings and Nines
+Seat 9: hamylion01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191677696005: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level I (10/20) - 2018/10/01 3:17:24 ET
+Table '2418383464 3' 9-max Seat #4 is the button
+Seat 1: Reiner49 (1210 in chips) 
+Seat 2: 600819202 (1515 in chips) 
+Seat 3: anisimovp (1470 in chips) 
+Seat 4: lorks09 (1380 in chips) 
+Seat 6: Malikiu16 (1515 in chips) 
+Seat 7: tuzonda69 (1480 in chips) 
+Seat 8: nicholasj25 (1970 in chips) 
+Seat 9: hamylion01 (1460 in chips) 
+Malikiu16: posts small blind 10
+tuzonda69: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ac 6c]
+nicholasj25: raises 20 to 40
+hamylion01: folds 
+Reiner49: calls 40
+600819202: calls 40
+anisimovp: calls 40
+lorks09: calls 40
+Malikiu16: folds 
+tuzonda69: calls 20
+*** FLOP *** [Jh Ks 2h]
+tuzonda69: bets 1440 and is all-in
+nicholasj25: folds 
+Reiner49: calls 1170 and is all-in
+600819202: folds 
+anisimovp: folds 
+lorks09: calls 1340 and is all-in
+Uncalled bet (100) returned to tuzonda69
+*** TURN *** [Jh Ks 2h] [As]
+*** RIVER *** [Jh Ks 2h As] [7s]
+*** SHOW DOWN ***
+tuzonda69: shows [Kd Qs] (a pair of Kings)
+lorks09: shows [Kc Th] (a pair of Kings - lower kicker)
+tuzonda69 collected 340 from side pot
+Reiner49: shows [6h Js] (a pair of Jacks)
+tuzonda69 collected 3760 from main pot
+lorks09 finished the tournament
+Reiner49 finished the tournament
+*** SUMMARY ***
+Total pot 4100 Main pot 3760. Side pot 340. | Rake 0 
+Board [Jh Ks 2h As 7s]
+Seat 1: Reiner49 showed [6h Js] and lost with a pair of Jacks
+Seat 2: 600819202 folded on the Flop
+Seat 3: anisimovp folded on the Flop
+Seat 4: lorks09 (button) showed [Kc Th] and lost with a pair of Kings
+Seat 6: Malikiu16 (small blind) folded before Flop
+Seat 7: tuzonda69 (big blind) showed [Kd Qs] and won (4100) with a pair of Kings
+Seat 8: nicholasj25 folded on the Flop
+Seat 9: hamylion01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191677705501: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level II (12/24) - 2018/10/01 3:18:11 ET
+Table '2418383464 3' 9-max Seat #6 is the button
+Seat 2: 600819202 (1475 in chips) 
+Seat 3: anisimovp (1430 in chips) 
+Seat 5: marina 10247 (1500 in chips) 
+Seat 6: Malikiu16 (1505 in chips) 
+Seat 7: tuzonda69 (4200 in chips) 
+Seat 8: nicholasj25 (1930 in chips) 
+Seat 9: hamylion01 (1460 in chips) 
+tuzonda69: posts small blind 12
+nicholasj25: posts big blind 24
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2s 3h]
+hamylion01: folds 
+600819202: calls 24
+anisimovp: folds 
+marina 10247: folds 
+Malikiu16: calls 24
+tuzonda69: calls 12
+nicholasj25: checks 
+*** FLOP *** [8h Qc 9d]
+tuzonda69: checks 
+nicholasj25: checks 
+600819202: bets 96
+Malikiu16: calls 96
+tuzonda69: calls 96
+nicholasj25: folds 
+*** TURN *** [8h Qc 9d] [6d]
+tuzonda69: checks 
+600819202: bets 192
+Malikiu16: calls 192
+tuzonda69: calls 192
+*** RIVER *** [8h Qc 9d 6d] [3d]
+tuzonda69: checks 
+600819202: bets 480
+Malikiu16: raises 713 to 1193 and is all-in
+tuzonda69: folds 
+600819202: calls 683 and is all-in
+Uncalled bet (30) returned to Malikiu16
+*** SHOW DOWN ***
+Malikiu16: shows [Td Ad] (a flush, Ace high)
+600819202: shows [8d 9s] (two pair, Nines and Eights)
+Malikiu16 collected 3286 from pot
+600819202 finished the tournament
+*** SUMMARY ***
+Total pot 3286 | Rake 0 
+Board [8h Qc 9d 6d 3d]
+Seat 2: 600819202 showed [8d 9s] and lost with two pair, Nines and Eights
+Seat 3: anisimovp folded before Flop (didn't bet)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 (button) showed [Td Ad] and won (3286) with a flush, Ace high
+Seat 7: tuzonda69 (small blind) folded on the River
+Seat 8: nicholasj25 (big blind) folded on the Flop
+Seat 9: hamylion01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191677719239: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level II (12/24) - 2018/10/01 3:19:17 ET
+Table '2418383464 3' 9-max Seat #7 is the button
+Seat 1: olive90 (1500 in chips) 
+Seat 3: anisimovp (1430 in chips) 
+Seat 4: africa1965 (1500 in chips) 
+Seat 5: marina 10247 (1500 in chips) is sitting out
+Seat 6: Malikiu16 (3316 in chips) 
+Seat 7: tuzonda69 (3888 in chips) 
+Seat 8: nicholasj25 (1906 in chips) 
+Seat 9: hamylion01 (1460 in chips) 
+nicholasj25: posts small blind 12
+hamylion01: posts big blind 24
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Jh 9c]
+olive90: folds 
+anisimovp: calls 24
+africa1965: folds 
+marina 10247: folds 
+Malikiu16: calls 24
+tuzonda69: calls 24
+nicholasj25: calls 12
+hamylion01: checks 
+*** FLOP *** [Kd Jc Kc]
+nicholasj25: bets 72
+hamylion01: folds 
+anisimovp: folds 
+Malikiu16: calls 72
+tuzonda69: folds 
+*** TURN *** [Kd Jc Kc] [Td]
+nicholasj25: checks 
+Malikiu16: checks 
+*** RIVER *** [Kd Jc Kc Td] [7s]
+nicholasj25: bets 96
+Malikiu16: folds 
+Uncalled bet (96) returned to nicholasj25
+nicholasj25 collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | Rake 0 
+Board [Kd Jc Kc Td 7s]
+Seat 1: olive90 folded before Flop (didn't bet)
+Seat 3: anisimovp folded on the Flop
+Seat 4: africa1965 folded before Flop (didn't bet)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 folded on the River
+Seat 7: tuzonda69 (button) folded on the Flop
+Seat 8: nicholasj25 (small blind) collected (264)
+Seat 9: hamylion01 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #191677730041: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level II (12/24) - 2018/10/01 3:20:08 ET
+Table '2418383464 3' 9-max Seat #8 is the button
+Seat 1: olive90 (1500 in chips) 
+Seat 2: ace_moby123456 (1500 in chips) 
+Seat 3: anisimovp (1406 in chips) 
+Seat 5: marina 10247 (1500 in chips) is sitting out
+Seat 6: Malikiu16 (3220 in chips) 
+Seat 7: tuzonda69 (3864 in chips) 
+Seat 8: nicholasj25 (2074 in chips) 
+Seat 9: hamylion01 (1436 in chips) 
+hamylion01: posts small blind 12
+olive90: posts big blind 24
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4c 3c]
+ace_moby123456: folds 
+anisimovp: calls 24
+marina 10247: folds 
+Malikiu16: calls 24
+tuzonda69: calls 24
+nicholasj25: calls 24
+hamylion01: folds 
+olive90: checks 
+*** FLOP *** [5d 2c 8d]
+olive90: checks 
+anisimovp: checks 
+Malikiu16: checks 
+tuzonda69: checks 
+nicholasj25: checks 
+*** TURN *** [5d 2c 8d] [Qh]
+olive90: checks 
+anisimovp: checks 
+Malikiu16: checks 
+tuzonda69: checks 
+nicholasj25: checks 
+*** RIVER *** [5d 2c 8d Qh] [8s]
+olive90: checks 
+anisimovp: bets 120
+Malikiu16: folds 
+tuzonda69: folds 
+nicholasj25: folds 
+olive90: folds 
+Uncalled bet (120) returned to anisimovp
+anisimovp collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | Rake 0 
+Board [5d 2c 8d Qh 8s]
+Seat 1: olive90 (big blind) folded on the River
+Seat 2: ace_moby123456 folded before Flop (didn't bet)
+Seat 3: anisimovp collected (132)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 folded on the River
+Seat 7: tuzonda69 folded on the River
+Seat 8: nicholasj25 (button) folded on the River
+Seat 9: hamylion01 (small blind) folded before Flop
+
+
+
+PokerStars Hand #191677739620: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level II (12/24) - 2018/10/01 3:20:54 ET
+Table '2418383464 3' 9-max Seat #9 is the button
+Seat 1: olive90 (1476 in chips) 
+Seat 2: ace_moby123456 (1500 in chips) 
+Seat 3: anisimovp (1514 in chips) 
+Seat 5: marina 10247 (1500 in chips) is sitting out
+Seat 6: Malikiu16 (3196 in chips) 
+Seat 7: tuzonda69 (3840 in chips) 
+Seat 8: nicholasj25 (2050 in chips) 
+Seat 9: hamylion01 (1424 in chips) 
+olive90: posts small blind 12
+ace_moby123456: posts big blind 24
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8h 8c]
+anisimovp: calls 24
+marina 10247: folds 
+Malikiu16: calls 24
+tuzonda69: folds 
+nicholasj25: raises 48 to 72
+hamylion01: calls 72
+olive90: calls 60
+ace_moby123456: calls 48
+anisimovp: calls 48
+Malikiu16: calls 48
+*** FLOP *** [6d 7h 7c]
+olive90: checks 
+ace_moby123456: checks 
+anisimovp: bets 432
+Malikiu16: folds 
+nicholasj25 has timed out
+nicholasj25: folds 
+hamylion01: calls 432
+olive90: calls 432
+ace_moby123456: folds 
+*** TURN *** [6d 7h 7c] [9h]
+olive90: checks 
+anisimovp: bets 1010 and is all-in
+hamylion01: calls 920 and is all-in
+olive90: folds 
+Uncalled bet (90) returned to anisimovp
+*** RIVER *** [6d 7h 7c 9h] [Td]
+*** SHOW DOWN ***
+anisimovp: shows [2c As] (a pair of Sevens)
+hamylion01: shows [7s 9s] (a full house, Sevens full of Nines)
+hamylion01 collected 3568 from pot
+*** SUMMARY ***
+Total pot 3568 | Rake 0 
+Board [6d 7h 7c 9h Td]
+Seat 1: olive90 (small blind) folded on the Turn
+Seat 2: ace_moby123456 (big blind) folded on the Flop
+Seat 3: anisimovp showed [2c As] and lost with a pair of Sevens
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 folded on the Flop
+Seat 7: tuzonda69 folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded on the Flop
+Seat 9: hamylion01 (button) showed [7s 9s] and won (3568) with a full house, Sevens full of Nines
+
+
+
+PokerStars Hand #191677754548: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level III (14/28) - 2018/10/01 3:22:05 ET
+Table '2418383464 3' 9-max Seat #1 is the button
+Seat 1: olive90 (972 in chips) 
+Seat 2: ace_moby123456 (1428 in chips) 
+Seat 3: anisimovp (90 in chips) 
+Seat 4: luckypuffer (1500 in chips) 
+Seat 5: marina 10247 (1500 in chips) is sitting out
+Seat 6: Malikiu16 (3124 in chips) 
+Seat 7: tuzonda69 (3840 in chips) 
+Seat 8: nicholasj25 (1978 in chips) is sitting out
+Seat 9: hamylion01 (3568 in chips) 
+ace_moby123456: posts small blind 14
+anisimovp: posts big blind 28
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ts Ad]
+luckypuffer: folds 
+marina 10247: folds 
+Malikiu16: calls 28
+tuzonda69: folds 
+nicholasj25: raises 28 to 56
+hamylion01: folds 
+olive90: calls 56
+ace_moby123456: calls 42
+anisimovp: raises 34 to 90 and is all-in
+Malikiu16: calls 62
+nicholasj25: calls 34
+olive90: calls 34
+ace_moby123456: calls 34
+*** FLOP *** [8c Qc Ah]
+ace_moby123456: checks 
+Malikiu16: checks 
+nicholasj25: bets 56
+olive90: calls 56
+ace_moby123456: folds 
+Malikiu16: calls 56
+*** TURN *** [8c Qc Ah] [9c]
+Malikiu16: checks 
+nicholasj25: bets 84
+olive90: folds 
+Malikiu16: folds 
+Uncalled bet (84) returned to nicholasj25
+*** RIVER *** [8c Qc Ah 9c] [7h]
+*** SHOW DOWN ***
+nicholasj25: shows [Ts Ad] (a pair of Aces)
+nicholasj25 collected 168 from side pot
+anisimovp: shows [7s Js] (a pair of Sevens)
+nicholasj25 collected 450 from main pot
+anisimovp finished the tournament
+*** SUMMARY ***
+Total pot 618 Main pot 450. Side pot 168. | Rake 0 
+Board [8c Qc Ah 9c 7h]
+Seat 1: olive90 (button) folded on the Turn
+Seat 2: ace_moby123456 (small blind) folded on the Flop
+Seat 3: anisimovp (big blind) showed [7s Js] and lost with a pair of Sevens
+Seat 4: luckypuffer folded before Flop (didn't bet)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 folded on the Turn
+Seat 7: tuzonda69 folded before Flop (didn't bet)
+Seat 8: nicholasj25 showed [Ts Ad] and won (618) with a pair of Aces
+Seat 9: hamylion01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191677768572: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level III (14/28) - 2018/10/01 3:23:12 ET
+Table '2418383464 3' 9-max Seat #2 is the button
+Seat 1: olive90 (826 in chips) 
+Seat 2: ace_moby123456 (1338 in chips) 
+Seat 4: luckypuffer (1500 in chips) 
+Seat 5: marina 10247 (1500 in chips) is sitting out
+Seat 6: Malikiu16 (2978 in chips) 
+Seat 7: tuzonda69 (3840 in chips) 
+Seat 8: nicholasj25 (2450 in chips) 
+Seat 9: hamylion01 (3568 in chips) 
+luckypuffer: posts small blind 14
+marina 10247: posts big blind 28
+*** HOLE CARDS ***
+Dealt to nicholasj25 [As Qs]
+Malikiu16: calls 28
+tuzonda69: calls 28
+nicholasj25: raises 56 to 84
+hamylion01: folds 
+olive90: folds 
+ace_moby123456: calls 84
+luckypuffer: folds 
+marina 10247: folds 
+Malikiu16: calls 56
+tuzonda69: calls 56
+*** FLOP *** [6c 8s 6d]
+Malikiu16: checks 
+tuzonda69: checks 
+nicholasj25: bets 112
+ace_moby123456: folds 
+Malikiu16: calls 112
+tuzonda69: calls 112
+*** TURN *** [6c 8s 6d] [7h]
+Malikiu16: checks 
+tuzonda69: bets 112
+nicholasj25 has timed out
+nicholasj25: folds 
+Malikiu16: folds 
+Uncalled bet (112) returned to tuzonda69
+tuzonda69 collected 714 from pot
+*** SUMMARY ***
+Total pot 714 | Rake 0 
+Board [6c 8s 6d 7h]
+Seat 1: olive90 folded before Flop (didn't bet)
+Seat 2: ace_moby123456 (button) folded on the Flop
+Seat 4: luckypuffer (small blind) folded before Flop
+Seat 5: marina 10247 (big blind) folded before Flop
+Seat 6: Malikiu16 folded on the Turn
+Seat 7: tuzonda69 collected (714)
+Seat 8: nicholasj25 folded on the Turn
+Seat 9: hamylion01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191677783393: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level IV (16/32) - 2018/10/01 3:24:23 ET
+Table '2418383464 3' 9-max Seat #4 is the button
+Seat 1: olive90 (826 in chips) 
+Seat 2: ace_moby123456 (1254 in chips) 
+Seat 4: luckypuffer (1486 in chips) 
+Seat 5: marina 10247 (1472 in chips) is sitting out
+Seat 6: Malikiu16 (2782 in chips) 
+Seat 7: tuzonda69 (4358 in chips) 
+Seat 8: nicholasj25 (2254 in chips) 
+Seat 9: hamylion01 (3568 in chips) 
+marina 10247: posts small blind 16
+Malikiu16: posts big blind 32
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3s Js]
+tuzonda69: folds 
+nicholasj25: calls 32
+hamylion01: folds 
+olive90: folds 
+ace_moby123456: calls 32
+luckypuffer: calls 32
+marina 10247: folds 
+Malikiu16: checks 
+*** FLOP *** [5s 8c 5h]
+Malikiu16: checks 
+nicholasj25: checks 
+ace_moby123456: bets 96
+luckypuffer: calls 96
+Malikiu16: calls 96
+nicholasj25: folds 
+*** TURN *** [5s 8c 5h] [Jc]
+Malikiu16: checks 
+ace_moby123456: checks 
+luckypuffer: checks 
+*** RIVER *** [5s 8c 5h Jc] [2s]
+Malikiu16: bets 432
+ace_moby123456: folds 
+luckypuffer: folds 
+Uncalled bet (432) returned to Malikiu16
+Malikiu16 collected 432 from pot
+Malikiu16: doesn't show hand 
+*** SUMMARY ***
+Total pot 432 | Rake 0 
+Board [5s 8c 5h Jc 2s]
+Seat 1: olive90 folded before Flop (didn't bet)
+Seat 2: ace_moby123456 folded on the River
+Seat 4: luckypuffer (button) folded on the River
+Seat 5: marina 10247 (small blind) folded before Flop
+Seat 6: Malikiu16 (big blind) collected (432)
+Seat 7: tuzonda69 folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded on the Flop
+Seat 9: hamylion01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191677797695: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level IV (16/32) - 2018/10/01 3:25:31 ET
+Table '2418383464 3' 9-max Seat #5 is the button
+Seat 1: olive90 (826 in chips) 
+Seat 2: ace_moby123456 (1126 in chips) 
+Seat 3: 58COOLCATS (1500 in chips) 
+Seat 4: luckypuffer (1358 in chips) 
+Seat 5: marina 10247 (1456 in chips) is sitting out
+Seat 6: Malikiu16 (3086 in chips) 
+Seat 8: nicholasj25 (2222 in chips) 
+Seat 9: hamylion01 (3568 in chips) 
+Malikiu16: posts small blind 16
+nicholasj25: posts big blind 32
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4s 2s]
+hamylion01: folds 
+olive90: folds 
+ace_moby123456: folds 
+58COOLCATS: folds 
+luckypuffer: calls 32
+marina 10247: folds 
+Malikiu16: calls 16
+nicholasj25: checks 
+*** FLOP *** [4c 7d 3d]
+Malikiu16: checks 
+nicholasj25: bets 64
+luckypuffer: folds 
+Malikiu16: folds 
+Uncalled bet (64) returned to nicholasj25
+nicholasj25 collected 96 from pot
+*** SUMMARY ***
+Total pot 96 | Rake 0 
+Board [4c 7d 3d]
+Seat 1: olive90 folded before Flop (didn't bet)
+Seat 2: ace_moby123456 folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: luckypuffer folded on the Flop
+Seat 5: marina 10247 (button) folded before Flop (didn't bet)
+Seat 6: Malikiu16 (small blind) folded on the Flop
+Seat 8: nicholasj25 (big blind) collected (96)
+Seat 9: hamylion01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191677804068: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level IV (16/32) - 2018/10/01 3:26:01 ET
+Table '2418383464 3' 9-max Seat #6 is the button
+Seat 1: olive90 (826 in chips) 
+Seat 2: ace_moby123456 (1126 in chips) 
+Seat 3: 58COOLCATS (1500 in chips) 
+Seat 4: luckypuffer (1326 in chips) 
+Seat 5: marina 10247 (1456 in chips) is sitting out
+Seat 6: Malikiu16 (3054 in chips) 
+Seat 8: nicholasj25 (2286 in chips) 
+Seat 9: hamylion01 (3568 in chips) 
+nicholasj25: posts small blind 16
+hamylion01: posts big blind 32
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2d 8d]
+olive90: calls 32
+ace_moby123456: raises 64 to 96
+58COOLCATS: folds 
+luckypuffer: folds 
+marina 10247: folds 
+Malikiu16: calls 96
+nicholasj25: folds 
+hamylion01: folds 
+olive90: calls 64
+*** FLOP *** [4d 8s 7s]
+olive90: checks 
+ace_moby123456: checks 
+Malikiu16: checks 
+*** TURN *** [4d 8s 7s] [As]
+olive90: checks 
+ace_moby123456: bets 160
+Malikiu16: folds 
+olive90: folds 
+Uncalled bet (160) returned to ace_moby123456
+ace_moby123456 collected 336 from pot
+ace_moby123456: doesn't show hand 
+*** SUMMARY ***
+Total pot 336 | Rake 0 
+Board [4d 8s 7s As]
+Seat 1: olive90 folded on the Turn
+Seat 2: ace_moby123456 collected (336)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: luckypuffer folded before Flop (didn't bet)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 (button) folded on the Turn
+Seat 8: nicholasj25 (small blind) folded before Flop
+Seat 9: hamylion01 (big blind) folded before Flop
+
+
+
+PokerStars Hand #191677820217: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level V (20/40) - 2018/10/01 3:27:17 ET
+Table '2418383464 3' 9-max Seat #8 is the button
+Seat 2: ace_moby123456 (1366 in chips) 
+Seat 3: 58COOLCATS (1500 in chips) 
+Seat 4: luckypuffer (1326 in chips) 
+Seat 5: marina 10247 (1456 in chips) is sitting out
+Seat 6: Malikiu16 (2958 in chips) 
+Seat 7: beernoser (1500 in chips) 
+Seat 8: nicholasj25 (2270 in chips) 
+Seat 9: hamylion01 (3536 in chips) 
+ace_moby123456: posts the ante 4
+58COOLCATS: posts the ante 4
+luckypuffer: posts the ante 4
+marina 10247: posts the ante 4
+Malikiu16: posts the ante 4
+beernoser: posts the ante 4
+nicholasj25: posts the ante 4
+hamylion01: posts the ante 4
+hamylion01: posts small blind 20
+ace_moby123456: posts big blind 40
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5h 8c]
+58COOLCATS: calls 40
+luckypuffer: raises 172 to 212
+marina 10247: folds 
+Malikiu16: calls 212
+beernoser: folds 
+nicholasj25: folds 
+hamylion01: folds 
+ace_moby123456: folds 
+58COOLCATS: folds 
+*** FLOP *** [Ac Tc 5c]
+luckypuffer: bets 560
+Malikiu16: folds 
+Uncalled bet (560) returned to luckypuffer
+luckypuffer collected 556 from pot
+*** SUMMARY ***
+Total pot 556 | Rake 0 
+Board [Ac Tc 5c]
+Seat 2: ace_moby123456 (big blind) folded before Flop
+Seat 3: 58COOLCATS folded before Flop
+Seat 4: luckypuffer collected (556)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 folded on the Flop
+Seat 7: beernoser folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 9: hamylion01 (small blind) folded before Flop
+
+
+
+PokerStars Hand #191677826523: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level V (20/40) - 2018/10/01 3:27:46 ET
+Table '2418383464 3' 9-max Seat #9 is the button
+Seat 2: ace_moby123456 (1322 in chips) 
+Seat 3: 58COOLCATS (1456 in chips) 
+Seat 4: luckypuffer (1666 in chips) 
+Seat 5: marina 10247 (1452 in chips) is sitting out
+Seat 6: Malikiu16 (2742 in chips) 
+Seat 7: beernoser (1496 in chips) 
+Seat 8: nicholasj25 (2266 in chips) 
+Seat 9: hamylion01 (3512 in chips) 
+ace_moby123456: posts the ante 4
+58COOLCATS: posts the ante 4
+luckypuffer: posts the ante 4
+marina 10247: posts the ante 4
+Malikiu16: posts the ante 4
+beernoser: posts the ante 4
+nicholasj25: posts the ante 4
+hamylion01: posts the ante 4
+ace_moby123456: posts small blind 20
+58COOLCATS: posts big blind 40
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3d Th]
+luckypuffer: raises 132 to 172
+marina 10247: folds 
+Malikiu16: calls 172
+beernoser: folds 
+nicholasj25: folds 
+hamylion01: folds 
+ace_moby123456: calls 152
+58COOLCATS: folds 
+*** FLOP *** [Kc 6s 5h]
+ace_moby123456: checks 
+luckypuffer: bets 600
+Malikiu16: calls 600
+ace_moby123456: folds 
+*** TURN *** [Kc 6s 5h] [3h]
+luckypuffer: bets 890 and is all-in
+Malikiu16: calls 890
+*** RIVER *** [Kc 6s 5h 3h] [6c]
+*** SHOW DOWN ***
+luckypuffer: shows [Kh As] (two pair, Kings and Sixes)
+Malikiu16: shows [6h 7h] (three of a kind, Sixes)
+Malikiu16 collected 3568 from pot
+luckypuffer finished the tournament
+*** SUMMARY ***
+Total pot 3568 | Rake 0 
+Board [Kc 6s 5h 3h 6c]
+Seat 2: ace_moby123456 (small blind) folded on the Flop
+Seat 3: 58COOLCATS (big blind) folded before Flop
+Seat 4: luckypuffer showed [Kh As] and lost with two pair, Kings and Sixes
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 showed [6h 7h] and won (3568) with three of a kind, Sixes
+Seat 7: beernoser folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: hamylion01 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191677836323: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level V (20/40) - 2018/10/01 3:28:32 ET
+Table '2418383464 3' 9-max Seat #2 is the button
+Seat 1: Kralle988 (1500 in chips) 
+Seat 2: ace_moby123456 (1146 in chips) 
+Seat 3: 58COOLCATS (1412 in chips) 
+Seat 4: tryharder29 (1500 in chips) 
+Seat 5: marina 10247 (1448 in chips) is sitting out
+Seat 6: Malikiu16 (4644 in chips) 
+Seat 8: nicholasj25 (2262 in chips) 
+Seat 9: hamylion01 (3508 in chips) 
+Kralle988: posts the ante 4
+ace_moby123456: posts the ante 4
+58COOLCATS: posts the ante 4
+tryharder29: posts the ante 4
+marina 10247: posts the ante 4
+Malikiu16: posts the ante 4
+nicholasj25: posts the ante 4
+hamylion01: posts the ante 4
+58COOLCATS: posts small blind 20
+tryharder29: posts big blind 40
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kd 5c]
+marina 10247: folds 
+Malikiu16: calls 40
+nicholasj25: folds 
+hamylion01: folds 
+Kralle988: folds 
+ace_moby123456: raises 80 to 120
+58COOLCATS: calls 100
+tryharder29: calls 80
+Malikiu16: calls 80
+*** FLOP *** [Ah 5s Jd]
+58COOLCATS: bets 256
+tryharder29: folds 
+Malikiu16: folds 
+ace_moby123456: calls 256
+*** TURN *** [Ah 5s Jd] [8c]
+58COOLCATS: bets 1032 and is all-in
+ace_moby123456: calls 766 and is all-in
+Uncalled bet (266) returned to 58COOLCATS
+*** RIVER *** [Ah 5s Jd 8c] [7c]
+*** SHOW DOWN ***
+58COOLCATS: shows [Ac 6d] (a pair of Aces)
+ace_moby123456: shows [8h 9c] (a pair of Eights)
+58COOLCATS collected 2556 from pot
+ace_moby123456 finished the tournament
+*** SUMMARY ***
+Total pot 2556 | Rake 0 
+Board [Ah 5s Jd 8c 7c]
+Seat 1: Kralle988 folded before Flop (didn't bet)
+Seat 2: ace_moby123456 (button) showed [8h 9c] and lost with a pair of Eights
+Seat 3: 58COOLCATS (small blind) showed [Ac 6d] and won (2556) with a pair of Aces
+Seat 4: tryharder29 (big blind) folded on the Flop
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 folded on the Flop
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: hamylion01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191677851817: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level V (20/40) - 2018/10/01 3:29:45 ET
+Table '2418383464 3' 9-max Seat #3 is the button
+Seat 1: Kralle988 (1496 in chips) 
+Seat 3: 58COOLCATS (2822 in chips) 
+Seat 4: tryharder29 (1376 in chips) 
+Seat 5: marina 10247 (1444 in chips) is sitting out
+Seat 6: Malikiu16 (4520 in chips) 
+Seat 7: gerry55709 (1500 in chips) 
+Seat 8: nicholasj25 (2258 in chips) 
+Seat 9: hamylion01 (3504 in chips) 
+Kralle988: posts the ante 4
+58COOLCATS: posts the ante 4
+tryharder29: posts the ante 4
+marina 10247: posts the ante 4
+Malikiu16: posts the ante 4
+gerry55709: posts the ante 4
+nicholasj25: posts the ante 4
+hamylion01: posts the ante 4
+tryharder29: posts small blind 20
+marina 10247: posts big blind 40
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2d 3c]
+Malikiu16: calls 40
+gerry55709: raises 200 to 240
+nicholasj25: folds 
+hamylion01: folds 
+Kralle988: folds 
+58COOLCATS: calls 240
+tryharder29: calls 220
+marina 10247: folds 
+Malikiu16: calls 200
+*** FLOP *** [Qd 3h 9s]
+tryharder29: checks 
+Malikiu16: bets 1032
+gerry55709: raises 224 to 1256 and is all-in
+58COOLCATS: raises 1322 to 2578 and is all-in
+tryharder29: folds 
+Malikiu16: calls 1546
+*** TURN *** [Qd 3h 9s] [Th]
+*** RIVER *** [Qd 3h 9s Th] [Jd]
+*** SHOW DOWN ***
+Malikiu16: shows [5c 9h] (a pair of Nines)
+58COOLCATS: shows [Jc Jh] (three of a kind, Jacks)
+58COOLCATS collected 2644 from side pot
+gerry55709: shows [Qc Tc] (two pair, Queens and Tens)
+58COOLCATS collected 4800 from main pot
+gerry55709 finished the tournament
+*** SUMMARY ***
+Total pot 7444 Main pot 4800. Side pot 2644. | Rake 0 
+Board [Qd 3h 9s Th Jd]
+Seat 1: Kralle988 folded before Flop (didn't bet)
+Seat 3: 58COOLCATS (button) showed [Jc Jh] and won (7444) with three of a kind, Jacks
+Seat 4: tryharder29 (small blind) folded on the Flop
+Seat 5: marina 10247 (big blind) folded before Flop
+Seat 6: Malikiu16 showed [5c 9h] and lost with a pair of Nines
+Seat 7: gerry55709 showed [Qc Tc] and lost with two pair, Queens and Tens
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: hamylion01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191677863901: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level VI (25/50) - 2018/10/01 3:30:42 ET
+Table '2418383464 3' 9-max Seat #4 is the button
+Seat 1: Kralle988 (1492 in chips) 
+Seat 2: malletodecampo (1500 in chips) 
+Seat 3: 58COOLCATS (7444 in chips) 
+Seat 4: tryharder29 (1132 in chips) 
+Seat 5: marina 10247 (1400 in chips) is sitting out
+Seat 6: Malikiu16 (1698 in chips) 
+Seat 8: nicholasj25 (2254 in chips) 
+Seat 9: hamylion01 (3500 in chips) 
+Kralle988: posts the ante 5
+malletodecampo: posts the ante 5
+58COOLCATS: posts the ante 5
+tryharder29: posts the ante 5
+marina 10247: posts the ante 5
+Malikiu16: posts the ante 5
+nicholasj25: posts the ante 5
+hamylion01: posts the ante 5
+marina 10247: posts small blind 25
+Malikiu16: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qh 4d]
+nicholasj25: folds 
+hamylion01: folds 
+Kralle988: calls 50
+malletodecampo: calls 50
+58COOLCATS: calls 50
+tryharder29: raises 1077 to 1127 and is all-in
+marina 10247: folds 
+Malikiu16: raises 566 to 1693 and is all-in
+Kralle988: folds 
+malletodecampo: folds 
+58COOLCATS: folds 
+Uncalled bet (566) returned to Malikiu16
+*** FLOP *** [7h 5s 3c]
+*** TURN *** [7h 5s 3c] [9d]
+*** RIVER *** [7h 5s 3c 9d] [6c]
+*** SHOW DOWN ***
+Malikiu16: shows [Jc 4c] (a straight, Three to Seven)
+tryharder29: shows [Js Qs] (high card Queen)
+Malikiu16 collected 2469 from pot
+tryharder29 finished the tournament
+*** SUMMARY ***
+Total pot 2469 | Rake 0 
+Board [7h 5s 3c 9d 6c]
+Seat 1: Kralle988 folded before Flop
+Seat 2: malletodecampo folded before Flop
+Seat 3: 58COOLCATS folded before Flop
+Seat 4: tryharder29 (button) showed [Js Qs] and lost with high card Queen
+Seat 5: marina 10247 (small blind) folded before Flop
+Seat 6: Malikiu16 (big blind) showed [Jc 4c] and won (2469) with a straight, Three to Seven
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: hamylion01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191677871000: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level VI (25/50) - 2018/10/01 3:31:16 ET
+Table '2418383464 3' 9-max Seat #5 is the button
+Seat 1: Kralle988 (1437 in chips) 
+Seat 2: malletodecampo (1445 in chips) 
+Seat 3: 58COOLCATS (7389 in chips) 
+Seat 5: marina 10247 (1370 in chips) is sitting out
+Seat 6: Malikiu16 (3035 in chips) 
+Seat 7: donald86nv (1500 in chips) 
+Seat 8: nicholasj25 (2249 in chips) 
+Seat 9: hamylion01 (3495 in chips) 
+Kralle988: posts the ante 5
+malletodecampo: posts the ante 5
+58COOLCATS: posts the ante 5
+marina 10247: posts the ante 5
+Malikiu16: posts the ante 5
+donald86nv: posts the ante 5
+nicholasj25: posts the ante 5
+hamylion01: posts the ante 5
+Malikiu16: posts small blind 25
+donald86nv: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7h 4c]
+nicholasj25: folds 
+hamylion01: raises 50 to 100
+Kralle988: folds 
+malletodecampo: calls 100
+58COOLCATS: calls 100
+marina 10247: folds 
+Malikiu16: calls 75
+donald86nv: calls 50
+*** FLOP *** [Jc 3s Kh]
+Malikiu16: checks 
+donald86nv: checks 
+hamylion01: bets 50
+malletodecampo: raises 200 to 250
+58COOLCATS: calls 250
+Malikiu16: folds 
+donald86nv: calls 250
+hamylion01: folds 
+*** TURN *** [Jc 3s Kh] [9s]
+donald86nv: checks 
+malletodecampo: bets 1090 and is all-in
+58COOLCATS: folds 
+donald86nv: folds 
+Uncalled bet (1090) returned to malletodecampo
+malletodecampo collected 1340 from pot
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [Jc 3s Kh 9s]
+Seat 1: Kralle988 folded before Flop (didn't bet)
+Seat 2: malletodecampo collected (1340)
+Seat 3: 58COOLCATS folded on the Turn
+Seat 5: marina 10247 (button) folded before Flop (didn't bet)
+Seat 6: Malikiu16 (small blind) folded on the Flop
+Seat 7: donald86nv (big blind) folded on the Turn
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: hamylion01 folded on the Flop
+
+
+
+PokerStars Hand #191677886076: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level VI (25/50) - 2018/10/01 3:32:25 ET
+Table '2418383464 3' 9-max Seat #6 is the button
+Seat 2: malletodecampo (2430 in chips) 
+Seat 3: 58COOLCATS (7034 in chips) 
+Seat 4: ryanaust82 (1500 in chips) 
+Seat 5: marina 10247 (1365 in chips) is sitting out
+Seat 6: Malikiu16 (2930 in chips) 
+Seat 7: donald86nv (1145 in chips) 
+Seat 8: nicholasj25 (2244 in chips) 
+Seat 9: hamylion01 (3340 in chips) 
+malletodecampo: posts the ante 5
+58COOLCATS: posts the ante 5
+ryanaust82: posts the ante 5
+marina 10247: posts the ante 5
+Malikiu16: posts the ante 5
+donald86nv: posts the ante 5
+nicholasj25: posts the ante 5
+hamylion01: posts the ante 5
+donald86nv: posts small blind 25
+nicholasj25: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kh Kc]
+hamylion01: calls 50
+malletodecampo: calls 50
+58COOLCATS: folds 
+ryanaust82: folds 
+marina 10247: folds 
+Malikiu16: calls 50
+donald86nv: calls 25
+nicholasj25: raises 250 to 300
+hamylion01: calls 250
+malletodecampo: calls 250
+Malikiu16: calls 250
+donald86nv: folds 
+*** FLOP *** [4d 3c Qd]
+nicholasj25: bets 600
+hamylion01: calls 600
+malletodecampo: calls 600
+Malikiu16: folds 
+*** TURN *** [4d 3c Qd] [7h]
+nicholasj25: bets 600
+hamylion01: raises 1835 to 2435 and is all-in
+malletodecampo: calls 1525 and is all-in
+nicholasj25: calls 739 and is all-in
+Uncalled bet (910) returned to hamylion01
+*** RIVER *** [4d 3c Qd 7h] [9h]
+*** SHOW DOWN ***
+hamylion01: shows [Qc Tc] (a pair of Queens)
+malletodecampo: shows [Jd Kd] (high card King)
+hamylion01 collected 372 from side pot
+nicholasj25: shows [Kh Kc] (a pair of Kings)
+nicholasj25 collected 7107 from main pot
+malletodecampo finished the tournament
+*** SUMMARY ***
+Total pot 7479 Main pot 7107. Side pot 372. | Rake 0 
+Board [4d 3c Qd 7h 9h]
+Seat 2: malletodecampo showed [Jd Kd] and lost with high card King
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: ryanaust82 folded before Flop (didn't bet)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 (button) folded on the Flop
+Seat 7: donald86nv (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) showed [Kh Kc] and won (7107) with a pair of Kings
+Seat 9: hamylion01 showed [Qc Tc] and won (372) with a pair of Queens
+
+
+
+PokerStars Hand #191677903088: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level VII (30/60) - 2018/10/01 3:33:44 ET
+Table '2418383464 3' 9-max Seat #7 is the button
+Seat 1: jesser2018 (1500 in chips) 
+Seat 3: 58COOLCATS (7029 in chips) 
+Seat 4: ryanaust82 (1495 in chips) 
+Seat 5: marina 10247 (1360 in chips) is sitting out
+Seat 6: Malikiu16 (2625 in chips) 
+Seat 7: donald86nv (1090 in chips) 
+Seat 8: nicholasj25 (7107 in chips) 
+Seat 9: hamylion01 (1282 in chips) 
+jesser2018: posts the ante 6
+58COOLCATS: posts the ante 6
+ryanaust82: posts the ante 6
+marina 10247: posts the ante 6
+Malikiu16: posts the ante 6
+donald86nv: posts the ante 6
+nicholasj25: posts the ante 6
+hamylion01: posts the ante 6
+nicholasj25: posts small blind 30
+hamylion01: posts big blind 60
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qd Jh]
+jesser2018: folds 
+58COOLCATS: folds 
+ryanaust82: calls 60
+marina 10247: folds 
+Malikiu16: calls 60
+donald86nv: calls 60
+nicholasj25: calls 30
+hamylion01: raises 1216 to 1276 and is all-in
+ryanaust82: folds 
+Malikiu16: folds 
+donald86nv: calls 1024 and is all-in
+nicholasj25: folds 
+Uncalled bet (192) returned to hamylion01
+*** FLOP *** [Ts 7c 7s]
+*** TURN *** [Ts 7c 7s] [6s]
+*** RIVER *** [Ts 7c 7s 6s] [As]
+*** SHOW DOWN ***
+hamylion01: shows [Ad 9c] (two pair, Aces and Sevens)
+donald86nv: shows [Jc Qs] (a flush, Ace high)
+donald86nv collected 2396 from pot
+*** SUMMARY ***
+Total pot 2396 | Rake 0 
+Board [Ts 7c 7s 6s As]
+Seat 1: jesser2018 folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: ryanaust82 folded before Flop
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 folded before Flop
+Seat 7: donald86nv (button) showed [Jc Qs] and won (2396) with a flush, Ace high
+Seat 8: nicholasj25 (small blind) folded before Flop
+Seat 9: hamylion01 (big blind) showed [Ad 9c] and lost with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #191677916161: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level VII (30/60) - 2018/10/01 3:34:45 ET
+Table '2418383464 3' 9-max Seat #8 is the button
+Seat 2: haegar28 (1500 in chips) 
+Seat 3: 58COOLCATS (7023 in chips) 
+Seat 4: ryanaust82 (1429 in chips) 
+Seat 5: marina 10247 (1354 in chips) is sitting out
+Seat 6: Malikiu16 (2559 in chips) 
+Seat 7: donald86nv (2396 in chips) 
+Seat 8: nicholasj25 (7041 in chips) 
+Seat 9: hamylion01 (192 in chips) 
+haegar28: posts the ante 6
+58COOLCATS: posts the ante 6
+ryanaust82: posts the ante 6
+marina 10247: posts the ante 6
+Malikiu16: posts the ante 6
+donald86nv: posts the ante 6
+nicholasj25: posts the ante 6
+hamylion01: posts the ante 6
+hamylion01: posts small blind 30
+haegar28: posts big blind 60
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3s 6d]
+58COOLCATS: calls 60
+ryanaust82: folds 
+marina 10247: folds 
+Malikiu16: calls 60
+donald86nv: folds 
+nicholasj25: folds 
+hamylion01 said, "vnh ivan!!!"
+hamylion01 has timed out
+hamylion01: folds 
+haegar28: checks 
+*** FLOP *** [3c 6c 7d]
+haegar28: checks 
+58COOLCATS: checks 
+Malikiu16: checks 
+*** TURN *** [3c 6c 7d] [3d]
+haegar28: bets 129
+58COOLCATS: folds 
+Malikiu16: calls 129
+*** RIVER *** [3c 6c 7d 3d] [5d]
+haegar28: checks 
+Malikiu16: checks 
+*** SHOW DOWN ***
+haegar28: shows [Th 6h] (two pair, Sixes and Threes)
+Malikiu16: shows [7s 4s] (a straight, Three to Seven)
+Malikiu16 collected 516 from pot
+*** SUMMARY ***
+Total pot 516 | Rake 0 
+Board [3c 6c 7d 3d 5d]
+Seat 2: haegar28 (big blind) showed [Th 6h] and lost with two pair, Sixes and Threes
+Seat 3: 58COOLCATS folded on the Turn
+Seat 4: ryanaust82 folded before Flop (didn't bet)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 showed [7s 4s] and won (516) with a straight, Three to Seven
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 9: hamylion01 (small blind) folded before Flop
+
+
+
+PokerStars Hand #191677926576: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level VII (30/60) - 2018/10/01 3:35:33 ET
+Table '2418383464 3' 9-max Seat #9 is the button
+Seat 2: haegar28 (1305 in chips) 
+Seat 3: 58COOLCATS (6957 in chips) 
+Seat 4: ryanaust82 (1423 in chips) 
+Seat 5: marina 10247 (1348 in chips) is sitting out
+Seat 6: Malikiu16 (2880 in chips) 
+Seat 7: donald86nv (2390 in chips) 
+Seat 8: nicholasj25 (7035 in chips) 
+Seat 9: hamylion01 (156 in chips) is sitting out
+haegar28: posts the ante 6
+58COOLCATS: posts the ante 6
+ryanaust82: posts the ante 6
+marina 10247: posts the ante 6
+Malikiu16: posts the ante 6
+donald86nv: posts the ante 6
+nicholasj25: posts the ante 6
+hamylion01: posts the ante 6
+haegar28: posts small blind 30
+58COOLCATS: posts big blind 60
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6s 2d]
+ryanaust82: calls 60
+marina 10247: folds 
+Malikiu16: calls 60
+donald86nv: folds 
+nicholasj25: folds 
+hamylion01: raises 90 to 150 and is all-in
+haegar28: raises 528 to 678
+58COOLCATS: folds 
+ryanaust82: folds 
+Malikiu16: calls 618
+*** FLOP *** [4d 6d 7c]
+haegar28: bets 621 and is all-in
+Malikiu16: calls 621
+*** TURN *** [4d 6d 7c] [Qc]
+*** RIVER *** [4d 6d 7c Qc] [Kh]
+*** SHOW DOWN ***
+haegar28: shows [Ah Qh] (a pair of Queens)
+Malikiu16: shows [6c 9s] (a pair of Sixes)
+haegar28 collected 2298 from side pot
+hamylion01: shows [7h 9d] (a pair of Sevens)
+haegar28 collected 618 from main pot
+hamylion01 finished the tournament in 104th place
+*** SUMMARY ***
+Total pot 2916 Main pot 618. Side pot 2298. | Rake 0 
+Board [4d 6d 7c Qc Kh]
+Seat 2: haegar28 (small blind) showed [Ah Qh] and won (2916) with a pair of Queens
+Seat 3: 58COOLCATS (big blind) folded before Flop
+Seat 4: ryanaust82 folded before Flop
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 showed [6c 9s] and lost with a pair of Sixes
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: hamylion01 (button) showed [7h 9d] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #191677936512: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level VIII (35/70) - 2018/10/01 3:36:19 ET
+Table '2418383464 3' 9-max Seat #2 is the button
+Seat 1: Lauqis (321 in chips) 
+Seat 2: haegar28 (2916 in chips) 
+Seat 3: 58COOLCATS (6891 in chips) 
+Seat 4: ryanaust82 (1357 in chips) 
+Seat 5: marina 10247 (1342 in chips) is sitting out
+Seat 6: Malikiu16 (1575 in chips) 
+Seat 7: donald86nv (2384 in chips) 
+Seat 8: nicholasj25 (7029 in chips) 
+Lauqis: posts the ante 7
+haegar28: posts the ante 7
+58COOLCATS: posts the ante 7
+ryanaust82: posts the ante 7
+marina 10247: posts the ante 7
+Malikiu16: posts the ante 7
+donald86nv: posts the ante 7
+nicholasj25: posts the ante 7
+58COOLCATS: posts small blind 35
+ryanaust82: posts big blind 70
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5h 6c]
+marina 10247: folds 
+Malikiu16: calls 70
+donald86nv: calls 70
+nicholasj25: folds 
+Lauqis: folds 
+haegar28: folds 
+58COOLCATS: calls 35
+ryanaust82: checks 
+*** FLOP *** [9h 3c 7s]
+58COOLCATS: checks 
+ryanaust82: checks 
+Malikiu16: checks 
+donald86nv: bets 150
+58COOLCATS: folds 
+ryanaust82: calls 150
+Malikiu16: calls 150
+*** TURN *** [9h 3c 7s] [3h]
+ryanaust82: checks 
+Malikiu16: checks 
+donald86nv: bets 500
+ryanaust82: raises 500 to 1000
+Malikiu16: folds 
+donald86nv has timed out
+donald86nv: folds 
+Uncalled bet (500) returned to ryanaust82
+ryanaust82 collected 1786 from pot
+ryanaust82: doesn't show hand 
+*** SUMMARY ***
+Total pot 1786 | Rake 0 
+Board [9h 3c 7s 3h]
+Seat 1: Lauqis folded before Flop (didn't bet)
+Seat 2: haegar28 (button) folded before Flop (didn't bet)
+Seat 3: 58COOLCATS (small blind) folded on the Flop
+Seat 4: ryanaust82 (big blind) collected (1786)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 folded on the Turn
+Seat 7: donald86nv folded on the Turn
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191677950726: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level VIII (35/70) - 2018/10/01 3:37:24 ET
+Table '2418383464 3' 9-max Seat #3 is the button
+Seat 1: Lauqis (314 in chips) 
+Seat 2: haegar28 (2909 in chips) 
+Seat 3: 58COOLCATS (6814 in chips) 
+Seat 4: ryanaust82 (2416 in chips) 
+Seat 5: marina 10247 (1335 in chips) is sitting out
+Seat 6: Malikiu16 (1348 in chips) 
+Seat 7: donald86nv (1657 in chips) is sitting out
+Seat 8: nicholasj25 (7022 in chips) 
+Seat 9: Schüppe0815 (3869 in chips) 
+Lauqis: posts the ante 7
+haegar28: posts the ante 7
+58COOLCATS: posts the ante 7
+ryanaust82: posts the ante 7
+marina 10247: posts the ante 7
+Malikiu16: posts the ante 7
+donald86nv: posts the ante 7
+nicholasj25: posts the ante 7
+Schüppe0815: posts the ante 7
+ryanaust82: posts small blind 35
+marina 10247: posts big blind 70
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qc 9s]
+Malikiu16: calls 70
+donald86nv: folds 
+nicholasj25: calls 70
+Schüppe0815: folds 
+Lauqis: calls 70
+haegar28: folds 
+58COOLCATS: calls 70
+ryanaust82: calls 35
+marina 10247: folds 
+*** FLOP *** [3c Jh Ac]
+ryanaust82: checks 
+Malikiu16: checks 
+nicholasj25: checks 
+Lauqis: checks 
+58COOLCATS: checks 
+*** TURN *** [3c Jh Ac] [9d]
+ryanaust82: checks 
+Malikiu16: checks 
+nicholasj25: bets 140
+Lauqis: folds 
+58COOLCATS: calls 140
+ryanaust82: calls 140
+Malikiu16: calls 140
+*** RIVER *** [3c Jh Ac 9d] [Ts]
+ryanaust82: checks 
+Malikiu16: checks 
+nicholasj25: checks 
+58COOLCATS: checks 
+*** SHOW DOWN ***
+ryanaust82: shows [Jd 2d] (a pair of Jacks)
+Malikiu16: mucks hand 
+nicholasj25: mucks hand 
+58COOLCATS: mucks hand 
+ryanaust82 collected 1043 from pot
+*** SUMMARY ***
+Total pot 1043 | Rake 0 
+Board [3c Jh Ac 9d Ts]
+Seat 1: Lauqis folded on the Turn
+Seat 2: haegar28 folded before Flop (didn't bet)
+Seat 3: 58COOLCATS (button) mucked [5c 7c]
+Seat 4: ryanaust82 (small blind) showed [Jd 2d] and won (1043) with a pair of Jacks
+Seat 5: marina 10247 (big blind) folded before Flop
+Seat 6: Malikiu16 mucked [3h 4d]
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 mucked [Qc 9s]
+Seat 9: Schüppe0815 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191677963891: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level VIII (35/70) - 2018/10/01 3:38:23 ET
+Table '2418383464 3' 9-max Seat #4 is the button
+Seat 1: Lauqis (237 in chips) 
+Seat 2: haegar28 (2902 in chips) 
+Seat 3: 58COOLCATS (6597 in chips) 
+Seat 4: ryanaust82 (3242 in chips) 
+Seat 5: marina 10247 (1258 in chips) is sitting out
+Seat 6: Malikiu16 (1131 in chips) 
+Seat 7: donald86nv (1650 in chips) 
+Seat 8: nicholasj25 (6805 in chips) 
+Seat 9: Schüppe0815 (3862 in chips) 
+Lauqis: posts the ante 7
+haegar28: posts the ante 7
+58COOLCATS: posts the ante 7
+ryanaust82: posts the ante 7
+marina 10247: posts the ante 7
+Malikiu16: posts the ante 7
+donald86nv: posts the ante 7
+nicholasj25: posts the ante 7
+Schüppe0815: posts the ante 7
+marina 10247: posts small blind 35
+Malikiu16: posts big blind 70
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3d Ac]
+donald86nv: folds 
+nicholasj25: calls 70
+Schüppe0815: calls 70
+Lauqis: folds 
+haegar28: calls 70
+58COOLCATS: folds 
+ryanaust82: folds 
+marina 10247: folds 
+Malikiu16: checks 
+*** FLOP *** [9c 9d As]
+Malikiu16: checks 
+nicholasj25: bets 140
+Schüppe0815: calls 140
+haegar28: folds 
+Malikiu16: folds 
+*** TURN *** [9c 9d As] [Jc]
+nicholasj25: checks 
+Schüppe0815: checks 
+*** RIVER *** [9c 9d As Jc] [Ts]
+nicholasj25: bets 210
+Schüppe0815: calls 210
+*** SHOW DOWN ***
+nicholasj25: shows [3d Ac] (two pair, Aces and Nines)
+Schüppe0815: shows [Ah 4s] (two pair, Aces and Nines)
+nicholasj25 collected 539 from pot
+Schüppe0815 collected 539 from pot
+*** SUMMARY ***
+Total pot 1078 | Rake 0 
+Board [9c 9d As Jc Ts]
+Seat 1: Lauqis folded before Flop (didn't bet)
+Seat 2: haegar28 folded on the Flop
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: ryanaust82 (button) folded before Flop (didn't bet)
+Seat 5: marina 10247 (small blind) folded before Flop
+Seat 6: Malikiu16 (big blind) folded on the Flop
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 showed [3d Ac] and won (539) with two pair, Aces and Nines
+Seat 9: Schüppe0815 showed [Ah 4s] and won (539) with two pair, Aces and Nines
+
+
+
+PokerStars Hand #191677975480: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level IX (40/80) - 2018/10/01 3:39:15 ET
+Table '2418383464 3' 9-max Seat #5 is the button
+Seat 2: haegar28 (2825 in chips) 
+Seat 3: 58COOLCATS (6590 in chips) 
+Seat 4: ryanaust82 (3235 in chips) 
+Seat 5: marina 10247 (1216 in chips) is sitting out
+Seat 6: Malikiu16 (1054 in chips) 
+Seat 7: donald86nv (1643 in chips) 
+Seat 8: nicholasj25 (6917 in chips) 
+Seat 9: Schüppe0815 (3974 in chips) 
+haegar28: posts the ante 8
+58COOLCATS: posts the ante 8
+ryanaust82: posts the ante 8
+marina 10247: posts the ante 8
+Malikiu16: posts the ante 8
+donald86nv: posts the ante 8
+nicholasj25: posts the ante 8
+Schüppe0815: posts the ante 8
+Malikiu16: posts small blind 40
+donald86nv: posts big blind 80
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3s 2c]
+nicholasj25: folds 
+Schüppe0815: calls 80
+haegar28: folds 
+58COOLCATS: calls 80
+ryanaust82: folds 
+marina 10247: folds 
+Malikiu16: calls 40
+donald86nv: checks 
+*** FLOP *** [9c 4h Qh]
+Malikiu16: checks 
+donald86nv: bets 80
+Schüppe0815: calls 80
+58COOLCATS: calls 80
+Malikiu16: calls 80
+*** TURN *** [9c 4h Qh] [5s]
+Malikiu16: checks 
+donald86nv: bets 250
+Schüppe0815: calls 250
+58COOLCATS: calls 250
+Malikiu16: raises 636 to 886 and is all-in
+donald86nv: calls 636
+Schüppe0815: folds 
+58COOLCATS: raises 3612 to 4498
+donald86nv: calls 589 and is all-in
+Uncalled bet (3023) returned to 58COOLCATS
+*** RIVER *** [9c 4h Qh 5s] [3d]
+*** SHOW DOWN ***
+donald86nv: shows [Qs 8d] (a pair of Queens)
+58COOLCATS: shows [Kh 9s] (a pair of Nines)
+donald86nv collected 1178 from side pot
+Malikiu16: shows [Ac Ad] (a pair of Aces)
+Malikiu16 collected 3612 from main pot
+*** SUMMARY ***
+Total pot 4790 Main pot 3612. Side pot 1178. | Rake 0 
+Board [9c 4h Qh 5s 3d]
+Seat 2: haegar28 folded before Flop (didn't bet)
+Seat 3: 58COOLCATS showed [Kh 9s] and lost with a pair of Nines
+Seat 4: ryanaust82 folded before Flop (didn't bet)
+Seat 5: marina 10247 (button) folded before Flop (didn't bet)
+Seat 6: Malikiu16 (small blind) showed [Ac Ad] and won (3612) with a pair of Aces
+Seat 7: donald86nv (big blind) showed [Qs 8d] and won (1178) with a pair of Queens
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: Schüppe0815 folded on the Turn
+
+
+
+PokerStars Hand #191677988845: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level IX (40/80) - 2018/10/01 3:40:16 ET
+Table '2418383464 3' 9-max Seat #6 is the button
+Seat 2: haegar28 (2817 in chips) 
+Seat 3: 58COOLCATS (4947 in chips) 
+Seat 4: ryanaust82 (3227 in chips) 
+Seat 5: marina 10247 (1208 in chips) is sitting out
+Seat 6: Malikiu16 (3612 in chips) 
+Seat 7: donald86nv (1178 in chips) 
+Seat 8: nicholasj25 (6909 in chips) 
+Seat 9: Schüppe0815 (3556 in chips) 
+haegar28: posts the ante 8
+58COOLCATS: posts the ante 8
+ryanaust82: posts the ante 8
+marina 10247: posts the ante 8
+Malikiu16: posts the ante 8
+donald86nv: posts the ante 8
+nicholasj25: posts the ante 8
+Schüppe0815: posts the ante 8
+donald86nv: posts small blind 40
+nicholasj25: posts big blind 80
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kd Qc]
+Schüppe0815: calls 80
+haegar28: folds 
+58COOLCATS: folds 
+ryanaust82: calls 80
+marina 10247: folds 
+Malikiu16: calls 80
+donald86nv: calls 40
+nicholasj25: raises 80 to 160
+Schüppe0815: calls 80
+ryanaust82: calls 80
+Malikiu16: calls 80
+donald86nv: calls 80
+*** FLOP *** [Ks Ts Jh]
+donald86nv: checks 
+nicholasj25: bets 160
+Schüppe0815: folds 
+ryanaust82: calls 160
+Malikiu16: folds 
+donald86nv: folds 
+*** TURN *** [Ks Ts Jh] [Qs]
+nicholasj25: bets 80
+ryanaust82: raises 640 to 720
+nicholasj25: raises 640 to 1360
+ryanaust82: calls 640
+*** RIVER *** [Ks Ts Jh Qs] [Qd]
+nicholasj25: bets 960
+ryanaust82: calls 960
+*** SHOW DOWN ***
+nicholasj25: shows [Kd Qc] (a full house, Queens full of Kings)
+ryanaust82: mucks hand 
+nicholasj25 collected 5824 from pot
+*** SUMMARY ***
+Total pot 5824 | Rake 0 
+Board [Ks Ts Jh Qs Qd]
+Seat 2: haegar28 folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: ryanaust82 mucked [Th 9s]
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 (button) folded on the Flop
+Seat 7: donald86nv (small blind) folded on the Flop
+Seat 8: nicholasj25 (big blind) showed [Kd Qc] and won (5824) with a full house, Queens full of Kings
+Seat 9: Schüppe0815 folded on the Flop
+
+
+
+PokerStars Hand #191678004019: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level IX (40/80) - 2018/10/01 3:41:25 ET
+Table '2418383464 3' 9-max Seat #7 is the button
+Seat 1: shazbaat (2367 in chips) 
+Seat 2: haegar28 (2809 in chips) 
+Seat 3: 58COOLCATS (4939 in chips) 
+Seat 4: ryanaust82 (579 in chips) 
+Seat 5: marina 10247 (1200 in chips) is sitting out
+Seat 6: Malikiu16 (3444 in chips) 
+Seat 7: donald86nv (1010 in chips) 
+Seat 8: nicholasj25 (10085 in chips) 
+Seat 9: Schüppe0815 (3388 in chips) 
+shazbaat: posts the ante 8
+haegar28: posts the ante 8
+58COOLCATS: posts the ante 8
+ryanaust82: posts the ante 8
+marina 10247: posts the ante 8
+Malikiu16: posts the ante 8
+donald86nv: posts the ante 8
+nicholasj25: posts the ante 8
+Schüppe0815: posts the ante 8
+nicholasj25: posts small blind 40
+Schüppe0815: posts big blind 80
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6h 3c]
+shazbaat: calls 80
+haegar28: folds 
+58COOLCATS: folds 
+ryanaust82: calls 80
+marina 10247: folds 
+Malikiu16: calls 80
+donald86nv: folds 
+nicholasj25: calls 40
+Schüppe0815: checks 
+*** FLOP *** [Jc 2s 2c]
+nicholasj25: checks 
+Schüppe0815: checks 
+shazbaat: checks 
+ryanaust82: checks 
+Malikiu16: checks 
+*** TURN *** [Jc 2s 2c] [9h]
+nicholasj25: checks 
+Schüppe0815: checks 
+shazbaat: checks 
+ryanaust82: checks 
+Malikiu16: checks 
+*** RIVER *** [Jc 2s 2c 9h] [Js]
+nicholasj25: checks 
+Schüppe0815: checks 
+shazbaat: bets 180
+ryanaust82: folds 
+Malikiu16: calls 180
+nicholasj25: folds 
+Schüppe0815: folds 
+*** SHOW DOWN ***
+shazbaat: shows [8d Ad] (two pair, Jacks and Deuces)
+Malikiu16: shows [7s Ac] (two pair, Jacks and Deuces)
+shazbaat collected 416 from pot
+Malikiu16 collected 416 from pot
+*** SUMMARY ***
+Total pot 832 | Rake 0 
+Board [Jc 2s 2c 9h Js]
+Seat 1: shazbaat showed [8d Ad] and won (416) with two pair, Jacks and Deuces
+Seat 2: haegar28 folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: ryanaust82 folded on the River
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 showed [7s Ac] and won (416) with two pair, Jacks and Deuces
+Seat 7: donald86nv (button) folded before Flop (didn't bet)
+Seat 8: nicholasj25 (small blind) folded on the River
+Seat 9: Schüppe0815 (big blind) folded on the River
+
+
+
+PokerStars Hand #191678020793: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level X (50/100) - 2018/10/01 3:42:42 ET
+Table '2418383464 3' 9-max Seat #8 is the button
+Seat 1: shazbaat (2515 in chips) 
+Seat 2: haegar28 (2801 in chips) 
+Seat 3: 58COOLCATS (4931 in chips) 
+Seat 4: ryanaust82 (491 in chips) 
+Seat 5: marina 10247 (1192 in chips) is sitting out
+Seat 6: Malikiu16 (3592 in chips) 
+Seat 7: donald86nv (1002 in chips) 
+Seat 8: nicholasj25 (9997 in chips) 
+Seat 9: Schüppe0815 (3300 in chips) 
+shazbaat: posts the ante 10
+haegar28: posts the ante 10
+58COOLCATS: posts the ante 10
+ryanaust82: posts the ante 10
+marina 10247: posts the ante 10
+Malikiu16: posts the ante 10
+donald86nv: posts the ante 10
+nicholasj25: posts the ante 10
+Schüppe0815: posts the ante 10
+Schüppe0815: posts small blind 50
+shazbaat: posts big blind 100
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3h 2c]
+haegar28: folds 
+58COOLCATS: folds 
+ryanaust82: calls 100
+marina 10247: folds 
+Malikiu16: calls 100
+donald86nv: folds 
+nicholasj25: folds 
+Schüppe0815: calls 50
+shazbaat: checks 
+*** FLOP *** [Jc 6s As]
+Schüppe0815: checks 
+shazbaat: checks 
+ryanaust82: checks 
+Malikiu16: bets 490
+Schüppe0815: folds 
+shazbaat: folds 
+ryanaust82: calls 381 and is all-in
+Uncalled bet (109) returned to Malikiu16
+*** TURN *** [Jc 6s As] [2s]
+*** RIVER *** [Jc 6s As 2s] [7h]
+*** SHOW DOWN ***
+ryanaust82: shows [Kh Qs] (high card Ace)
+Malikiu16: shows [8c 6c] (a pair of Sixes)
+Malikiu16 collected 1252 from pot
+ryanaust82 finished the tournament in 76th place
+*** SUMMARY ***
+Total pot 1252 | Rake 0 
+Board [Jc 6s As 2s 7h]
+Seat 1: shazbaat (big blind) folded on the Flop
+Seat 2: haegar28 folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: ryanaust82 showed [Kh Qs] and lost with high card Ace
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 showed [8c 6c] and won (1252) with a pair of Sixes
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 9: Schüppe0815 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #191678032237: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level X (50/100) - 2018/10/01 3:43:34 ET
+Table '2418383464 3' 9-max Seat #9 is the button
+Seat 1: shazbaat (2405 in chips) 
+Seat 2: haegar28 (2791 in chips) 
+Seat 3: 58COOLCATS (4921 in chips) 
+Seat 5: marina 10247 (1182 in chips) is sitting out
+Seat 6: Malikiu16 (4353 in chips) 
+Seat 7: donald86nv (992 in chips) 
+Seat 8: nicholasj25 (9987 in chips) 
+Seat 9: Schüppe0815 (3190 in chips) 
+shazbaat: posts the ante 10
+haegar28: posts the ante 10
+58COOLCATS: posts the ante 10
+marina 10247: posts the ante 10
+Malikiu16: posts the ante 10
+donald86nv: posts the ante 10
+nicholasj25: posts the ante 10
+Schüppe0815: posts the ante 10
+shazbaat: posts small blind 50
+haegar28: posts big blind 100
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7s 8d]
+58COOLCATS: raises 100 to 200
+marina 10247: folds 
+Malikiu16: folds 
+donald86nv: folds 
+nicholasj25: calls 200
+Schüppe0815: calls 200
+shazbaat: folds 
+haegar28: folds 
+*** FLOP *** [4c 5s Qd]
+58COOLCATS: bets 830
+nicholasj25: folds 
+Schüppe0815: folds 
+Uncalled bet (830) returned to 58COOLCATS
+58COOLCATS collected 830 from pot
+58COOLCATS: doesn't show hand 
+*** SUMMARY ***
+Total pot 830 | Rake 0 
+Board [4c 5s Qd]
+Seat 1: shazbaat (small blind) folded before Flop
+Seat 2: haegar28 (big blind) folded before Flop
+Seat 3: 58COOLCATS collected (830)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 folded before Flop (didn't bet)
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded on the Flop
+Seat 9: Schüppe0815 (button) folded on the Flop
+
+
+
+PokerStars Hand #191678041122: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level X (50/100) - 2018/10/01 3:44:13 ET
+Table '2418383464 3' 9-max Seat #1 is the button
+Seat 1: shazbaat (2345 in chips) 
+Seat 2: haegar28 (2681 in chips) 
+Seat 3: 58COOLCATS (5541 in chips) 
+Seat 5: marina 10247 (1172 in chips) is sitting out
+Seat 6: Malikiu16 (4343 in chips) 
+Seat 7: donald86nv (982 in chips) 
+Seat 8: nicholasj25 (9777 in chips) 
+Seat 9: Schüppe0815 (2980 in chips) 
+shazbaat: posts the ante 10
+haegar28: posts the ante 10
+58COOLCATS: posts the ante 10
+marina 10247: posts the ante 10
+Malikiu16: posts the ante 10
+donald86nv: posts the ante 10
+nicholasj25: posts the ante 10
+Schüppe0815: posts the ante 10
+haegar28: posts small blind 50
+58COOLCATS: posts big blind 100
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2c Qc]
+marina 10247: folds 
+Malikiu16: calls 100
+donald86nv: folds 
+nicholasj25: folds 
+Schüppe0815: folds 
+shazbaat: calls 100
+haegar28: folds 
+58COOLCATS: checks 
+*** FLOP *** [5s 3d Js]
+58COOLCATS: checks 
+Malikiu16: bets 100
+shazbaat: folds 
+58COOLCATS: folds 
+Uncalled bet (100) returned to Malikiu16
+Malikiu16 collected 430 from pot
+Malikiu16: doesn't show hand 
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [5s 3d Js]
+Seat 1: shazbaat (button) folded on the Flop
+Seat 2: haegar28 (small blind) folded before Flop
+Seat 3: 58COOLCATS (big blind) folded on the Flop
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 collected (430)
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: Schüppe0815 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678048988: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level X (50/100) - 2018/10/01 3:44:48 ET
+Table '2418383464 3' 9-max Seat #2 is the button
+Seat 1: shazbaat (2235 in chips) 
+Seat 2: haegar28 (2621 in chips) 
+Seat 3: 58COOLCATS (5431 in chips) 
+Seat 5: marina 10247 (1162 in chips) is sitting out
+Seat 6: Malikiu16 (4663 in chips) 
+Seat 7: donald86nv (972 in chips) 
+Seat 8: nicholasj25 (9767 in chips) 
+Seat 9: Schüppe0815 (2970 in chips) 
+shazbaat: posts the ante 10
+haegar28: posts the ante 10
+58COOLCATS: posts the ante 10
+marina 10247: posts the ante 10
+Malikiu16: posts the ante 10
+donald86nv: posts the ante 10
+nicholasj25: posts the ante 10
+Schüppe0815: posts the ante 10
+58COOLCATS: posts small blind 50
+marina 10247: posts big blind 100
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3s 5s]
+Malikiu16: calls 100
+donald86nv: folds 
+nicholasj25: calls 100
+Schüppe0815: folds 
+shazbaat: calls 100
+haegar28: folds 
+58COOLCATS: calls 50
+marina 10247: folds 
+*** FLOP *** [8h 2s As]
+58COOLCATS: checks 
+Malikiu16: bets 100
+nicholasj25: calls 100
+shazbaat: calls 100
+58COOLCATS: folds 
+*** TURN *** [8h 2s As] [Th]
+Malikiu16: bets 100
+nicholasj25: calls 100
+shazbaat: calls 100
+*** RIVER *** [8h 2s As Th] [Ad]
+Malikiu16: bets 1180
+nicholasj25: folds 
+shazbaat: calls 1180
+*** SHOW DOWN ***
+Malikiu16: shows [Qc Qs] (two pair, Aces and Queens)
+shazbaat: shows [9s Ac] (three of a kind, Aces)
+shazbaat collected 3540 from pot
+*** SUMMARY ***
+Total pot 3540 | Rake 0 
+Board [8h 2s As Th Ad]
+Seat 1: shazbaat showed [9s Ac] and won (3540) with three of a kind, Aces
+Seat 2: haegar28 (button) folded before Flop (didn't bet)
+Seat 3: 58COOLCATS (small blind) folded on the Flop
+Seat 5: marina 10247 (big blind) folded before Flop
+Seat 6: Malikiu16 showed [Qc Qs] and lost with two pair, Aces and Queens
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded on the River
+Seat 9: Schüppe0815 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678062578: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XI (60/120) - 2018/10/01 3:45:48 ET
+Table '2418383464 3' 9-max Seat #3 is the button
+Seat 1: shazbaat (4285 in chips) 
+Seat 2: haegar28 (2611 in chips) 
+Seat 3: 58COOLCATS (5321 in chips) 
+Seat 5: marina 10247 (1052 in chips) is sitting out
+Seat 6: Malikiu16 (3173 in chips) 
+Seat 7: donald86nv (962 in chips) 
+Seat 8: nicholasj25 (9457 in chips) 
+Seat 9: Schüppe0815 (2960 in chips) 
+shazbaat: posts the ante 12
+haegar28: posts the ante 12
+58COOLCATS: posts the ante 12
+marina 10247: posts the ante 12
+Malikiu16: posts the ante 12
+donald86nv: posts the ante 12
+nicholasj25: posts the ante 12
+Schüppe0815: posts the ante 12
+marina 10247: posts small blind 60
+Malikiu16: posts big blind 120
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qd 4d]
+donald86nv: folds 
+nicholasj25: folds 
+Schüppe0815: calls 120
+shazbaat: folds 
+haegar28: folds 
+58COOLCATS: calls 120
+marina 10247: folds 
+Malikiu16: checks 
+*** FLOP *** [4h 2d 3s]
+Malikiu16: checks 
+Schüppe0815: checks 
+58COOLCATS: checks 
+*** TURN *** [4h 2d 3s] [3h]
+Malikiu16: checks 
+Schüppe0815: checks 
+58COOLCATS: checks 
+*** RIVER *** [4h 2d 3s 3h] [5h]
+Malikiu16: bets 120
+Schüppe0815: calls 120
+58COOLCATS: raises 438 to 558
+Malikiu16: folds 
+Schüppe0815: calls 438
+*** SHOW DOWN ***
+58COOLCATS: shows [6s As] (a straight, Deuce to Six)
+Schüppe0815: mucks hand 
+58COOLCATS collected 1752 from pot
+*** SUMMARY ***
+Total pot 1752 | Rake 0 
+Board [4h 2d 3s 3h 5h]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 2: haegar28 folded before Flop (didn't bet)
+Seat 3: 58COOLCATS (button) showed [6s As] and won (1752) with a straight, Deuce to Six
+Seat 5: marina 10247 (small blind) folded before Flop
+Seat 6: Malikiu16 (big blind) folded on the River
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: Schüppe0815 mucked [Ac Ks]
+
+
+
+PokerStars Hand #191678071026: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XI (60/120) - 2018/10/01 3:46:26 ET
+Table '2418383464 3' 9-max Seat #5 is the button
+Seat 1: shazbaat (4273 in chips) 
+Seat 2: haegar28 (2599 in chips) 
+Seat 3: 58COOLCATS (6383 in chips) 
+Seat 4: Zubs999 (2654 in chips) 
+Seat 5: marina 10247 (980 in chips) is sitting out
+Seat 6: Malikiu16 (2921 in chips) 
+Seat 7: donald86nv (950 in chips) 
+Seat 8: nicholasj25 (9445 in chips) 
+Seat 9: Schüppe0815 (2270 in chips) 
+shazbaat: posts the ante 12
+haegar28: posts the ante 12
+58COOLCATS: posts the ante 12
+Zubs999: posts the ante 12
+marina 10247: posts the ante 12
+Malikiu16: posts the ante 12
+donald86nv: posts the ante 12
+nicholasj25: posts the ante 12
+Schüppe0815: posts the ante 12
+Malikiu16: posts small blind 60
+donald86nv: posts big blind 120
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8d 8s]
+nicholasj25: raises 120 to 240
+Schüppe0815: folds 
+shazbaat: folds 
+haegar28: folds 
+58COOLCATS: folds 
+Zubs999: raises 2402 to 2642 and is all-in
+marina 10247: folds 
+Malikiu16: raises 267 to 2909 and is all-in
+donald86nv: calls 818 and is all-in
+nicholasj25: folds 
+Uncalled bet (267) returned to Malikiu16
+*** FLOP *** [7s 2h 9c]
+*** TURN *** [7s 2h 9c] [Tc]
+*** RIVER *** [7s 2h 9c Tc] [8c]
+*** SHOW DOWN ***
+Malikiu16: shows [6s 9s] (a straight, Six to Ten)
+Zubs999: shows [Jc Ah] (a straight, Seven to Jack)
+Zubs999 collected 3408 from side pot
+donald86nv: shows [Ts Js] (a straight, Seven to Jack)
+donald86nv collected 1581 from main pot
+Zubs999 collected 1581 from main pot
+*** SUMMARY ***
+Total pot 6570 Main pot 3162. Side pot 3408. | Rake 0 
+Board [7s 2h 9c Tc 8c]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 2: haegar28 folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 showed [Jc Ah] and won (4989) with a straight, Seven to Jack
+Seat 5: marina 10247 (button) folded before Flop (didn't bet)
+Seat 6: Malikiu16 (small blind) showed [6s 9s] and lost with a straight, Six to Ten
+Seat 7: donald86nv (big blind) showed [Ts Js] and won (1581) with a straight, Seven to Jack
+Seat 8: nicholasj25 folded before Flop
+Seat 9: Schüppe0815 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678080664: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XI (60/120) - 2018/10/01 3:47:09 ET
+Table '2418383464 3' 9-max Seat #6 is the button
+Seat 1: shazbaat (4261 in chips) 
+Seat 2: haegar28 (2587 in chips) 
+Seat 3: 58COOLCATS (6371 in chips) 
+Seat 4: Zubs999 (4989 in chips) 
+Seat 5: marina 10247 (968 in chips) is sitting out
+Seat 6: Malikiu16 (267 in chips) 
+Seat 7: donald86nv (1581 in chips) 
+Seat 8: nicholasj25 (9193 in chips) 
+Seat 9: Schüppe0815 (2258 in chips) 
+shazbaat: posts the ante 12
+haegar28: posts the ante 12
+58COOLCATS: posts the ante 12
+Zubs999: posts the ante 12
+marina 10247: posts the ante 12
+Malikiu16: posts the ante 12
+donald86nv: posts the ante 12
+nicholasj25: posts the ante 12
+Schüppe0815: posts the ante 12
+donald86nv: posts small blind 60
+nicholasj25: posts big blind 120
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Jh 8s]
+Schüppe0815: folds 
+shazbaat: folds 
+haegar28: folds 
+58COOLCATS: folds 
+Zubs999: calls 120
+marina 10247: folds 
+Malikiu16: raises 135 to 255 and is all-in
+donald86nv: calls 195
+nicholasj25: folds 
+Zubs999: calls 135
+*** FLOP *** [4c Kc 7h]
+donald86nv: bets 497
+Zubs999: calls 497
+*** TURN *** [4c Kc 7h] [Ts]
+donald86nv: bets 817 and is all-in
+Zubs999: folds 
+Uncalled bet (817) returned to donald86nv
+*** RIVER *** [4c Kc 7h Ts] [9h]
+*** SHOW DOWN ***
+donald86nv: shows [Kd Qs] (a pair of Kings)
+donald86nv collected 994 from side pot
+Malikiu16: shows [Ac Ad] (a pair of Aces)
+Malikiu16 collected 993 from main pot
+*** SUMMARY ***
+Total pot 1987 Main pot 993. Side pot 994. | Rake 0 
+Board [4c Kc 7h Ts 9h]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 2: haegar28 folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 folded on the Turn
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: Malikiu16 (button) showed [Ac Ad] and won (993) with a pair of Aces
+Seat 7: donald86nv (small blind) showed [Kd Qs] and won (994) with a pair of Kings
+Seat 8: nicholasj25 (big blind) folded before Flop
+Seat 9: Schüppe0815 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678092884: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XI (60/120) - 2018/10/01 3:48:03 ET
+Table '2418383464 3' 9-max Seat #7 is the button
+Seat 1: shazbaat (4249 in chips) 
+Seat 2: haegar28 (2575 in chips) 
+Seat 3: 58COOLCATS (6359 in chips) 
+Seat 4: Zubs999 (4225 in chips) 
+Seat 5: marina 10247 (956 in chips) is sitting out
+Seat 7: donald86nv (1811 in chips) 
+Seat 8: nicholasj25 (9061 in chips) 
+Seat 9: Schüppe0815 (2246 in chips) 
+shazbaat: posts the ante 12
+haegar28: posts the ante 12
+58COOLCATS: posts the ante 12
+Zubs999: posts the ante 12
+marina 10247: posts the ante 12
+donald86nv: posts the ante 12
+nicholasj25: posts the ante 12
+Schüppe0815: posts the ante 12
+nicholasj25: posts small blind 60
+Schüppe0815: posts big blind 120
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Jd Qs]
+shazbaat: folds 
+haegar28 has timed out
+haegar28: folds 
+58COOLCATS: calls 120
+Zubs999: folds 
+marina 10247: folds 
+donald86nv: folds 
+nicholasj25: calls 60
+Schüppe0815: checks 
+*** FLOP *** [3h 3c 6d]
+nicholasj25: checks 
+Schüppe0815: checks 
+58COOLCATS: checks 
+*** TURN *** [3h 3c 6d] [4d]
+nicholasj25: bets 120
+Schüppe0815: folds 
+58COOLCATS: calls 120
+*** RIVER *** [3h 3c 6d 4d] [7h]
+nicholasj25: bets 360
+58COOLCATS: folds 
+Uncalled bet (360) returned to nicholasj25
+nicholasj25 collected 696 from pot
+*** SUMMARY ***
+Total pot 696 | Rake 0 
+Board [3h 3c 6d 4d 7h]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 2: haegar28 folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded on the River
+Seat 4: Zubs999 folded before Flop (didn't bet)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 7: donald86nv (button) folded before Flop (didn't bet)
+Seat 8: nicholasj25 (small blind) collected (696)
+Seat 9: Schüppe0815 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #191678104384: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XII (70/140) - 2018/10/01 3:48:53 ET
+Table '2418383464 3' 9-max Seat #8 is the button
+Seat 1: shazbaat (4237 in chips) 
+Seat 2: haegar28 (2563 in chips) is sitting out
+Seat 3: 58COOLCATS (6107 in chips) 
+Seat 4: Zubs999 (4213 in chips) 
+Seat 5: marina 10247 (944 in chips) is sitting out
+Seat 7: donald86nv (1799 in chips) 
+Seat 8: nicholasj25 (9505 in chips) 
+Seat 9: Schüppe0815 (2114 in chips) 
+shazbaat: posts the ante 14
+haegar28: posts the ante 14
+58COOLCATS: posts the ante 14
+Zubs999: posts the ante 14
+marina 10247: posts the ante 14
+donald86nv: posts the ante 14
+nicholasj25: posts the ante 14
+Schüppe0815: posts the ante 14
+Schüppe0815: posts small blind 70
+shazbaat: posts big blind 140
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kc 7s]
+haegar28: folds 
+58COOLCATS: folds 
+Zubs999: raises 280 to 420
+marina 10247: folds 
+donald86nv: folds 
+nicholasj25: folds 
+Schüppe0815: folds 
+shazbaat: folds 
+Uncalled bet (280) returned to Zubs999
+Zubs999 collected 462 from pot
+*** SUMMARY ***
+Total pot 462 | Rake 0 
+Seat 1: shazbaat (big blind) folded before Flop
+Seat 2: haegar28 folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 collected (462)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 9: Schüppe0815 (small blind) folded before Flop
+
+
+
+PokerStars Hand #191678107973: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XII (70/140) - 2018/10/01 3:49:09 ET
+Table '2418383464 3' 9-max Seat #9 is the button
+Seat 1: shazbaat (4083 in chips) 
+Seat 2: haegar28 (2549 in chips) 
+Seat 3: 58COOLCATS (6093 in chips) 
+Seat 4: Zubs999 (4521 in chips) 
+Seat 5: marina 10247 (930 in chips) is sitting out
+Seat 6: chipyu (6804 in chips) 
+Seat 7: donald86nv (1785 in chips) 
+Seat 8: nicholasj25 (9491 in chips) 
+Seat 9: Schüppe0815 (2030 in chips) 
+shazbaat: posts the ante 14
+haegar28: posts the ante 14
+58COOLCATS: posts the ante 14
+Zubs999: posts the ante 14
+marina 10247: posts the ante 14
+chipyu: posts the ante 14
+donald86nv: posts the ante 14
+nicholasj25: posts the ante 14
+Schüppe0815: posts the ante 14
+shazbaat: posts small blind 70
+haegar28: posts big blind 140
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7s 2d]
+58COOLCATS: folds 
+Zubs999: folds 
+marina 10247: folds 
+chipyu: folds 
+donald86nv: folds 
+nicholasj25: folds 
+Schüppe0815: calls 140
+shazbaat: calls 70
+haegar28: checks 
+*** FLOP *** [Td Kh 6d]
+shazbaat: bets 273
+haegar28: raises 2122 to 2395 and is all-in
+Schüppe0815: calls 1876 and is all-in
+shazbaat: calls 2122
+*** TURN *** [Td Kh 6d] [7h]
+*** RIVER *** [Td Kh 6d 7h] [Kd]
+*** SHOW DOWN ***
+shazbaat: shows [Ks Th] (a full house, Kings full of Tens)
+haegar28: shows [Kc 8d] (three of a kind, Kings)
+shazbaat collected 1038 from side pot
+Schüppe0815: shows [Ad 9d] (a flush, Ace high)
+shazbaat collected 6174 from main pot
+haegar28 finished the tournament in 62nd place
+Schüppe0815 finished the tournament in 63rd place
+*** SUMMARY ***
+Total pot 7212 Main pot 6174. Side pot 1038. | Rake 0 
+Board [Td Kh 6d 7h Kd]
+Seat 1: shazbaat (small blind) showed [Ks Th] and won (7212) with a full house, Kings full of Tens
+Seat 2: haegar28 (big blind) showed [Kc 8d] and lost with three of a kind, Kings
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 folded before Flop (didn't bet)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: chipyu folded before Flop (didn't bet)
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: Schüppe0815 (button) showed [Ad 9d] and lost with a flush, Ace high
+
+
+
+PokerStars Hand #191678117644: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XII (70/140) - 2018/10/01 3:49:52 ET
+Table '2418383464 3' 9-max Seat #1 is the button
+Seat 1: shazbaat (8746 in chips) 
+Seat 3: 58COOLCATS (6079 in chips) 
+Seat 4: Zubs999 (4507 in chips) 
+Seat 5: marina 10247 (916 in chips) is sitting out
+Seat 6: chipyu (6790 in chips) 
+Seat 7: donald86nv (1771 in chips) 
+Seat 8: nicholasj25 (9477 in chips) 
+shazbaat: posts the ante 14
+58COOLCATS: posts the ante 14
+Zubs999: posts the ante 14
+marina 10247: posts the ante 14
+chipyu: posts the ante 14
+donald86nv: posts the ante 14
+nicholasj25: posts the ante 14
+58COOLCATS: posts small blind 70
+Zubs999: posts big blind 140
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9c Jc]
+marina 10247: folds 
+chipyu: calls 140
+donald86nv: folds 
+nicholasj25: calls 140
+shazbaat: folds 
+58COOLCATS: folds 
+Zubs999: checks 
+*** FLOP *** [2s 5h Ah]
+Zubs999: checks 
+chipyu: bets 140
+nicholasj25 is disconnected 
+nicholasj25 has timed out while being disconnected
+nicholasj25: folds 
+Zubs999: folds 
+Uncalled bet (140) returned to chipyu
+chipyu collected 588 from pot
+*** SUMMARY ***
+Total pot 588 | Rake 0 
+Board [2s 5h Ah]
+Seat 1: shazbaat (button) folded before Flop (didn't bet)
+Seat 3: 58COOLCATS (small blind) folded before Flop
+Seat 4: Zubs999 (big blind) folded on the Flop
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: chipyu collected (588)
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded on the Flop
+
+
+
+PokerStars Hand #191678129717: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XII (70/140) - 2018/10/01 3:50:45 ET
+Table '2418383464 3' 9-max Seat #3 is the button
+Seat 1: shazbaat (8732 in chips) 
+Seat 3: 58COOLCATS (5995 in chips) 
+Seat 4: Zubs999 (4353 in chips) 
+Seat 5: marina 10247 (902 in chips) is sitting out
+Seat 6: chipyu (7224 in chips) 
+Seat 7: donald86nv (1757 in chips) 
+Seat 8: nicholasj25 (9323 in chips) is sitting out
+Seat 9: gdyates (1266 in chips) 
+shazbaat: posts the ante 14
+58COOLCATS: posts the ante 14
+Zubs999: posts the ante 14
+marina 10247: posts the ante 14
+chipyu: posts the ante 14
+donald86nv: posts the ante 14
+nicholasj25: posts the ante 14
+gdyates: posts the ante 14
+Zubs999: posts small blind 70
+marina 10247: posts big blind 140
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3d 5s]
+chipyu: folds 
+donald86nv: calls 140
+nicholasj25: folds 
+gdyates: folds 
+shazbaat: folds 
+58COOLCATS: calls 140
+Zubs999: raises 4199 to 4339 and is all-in
+marina 10247: folds 
+donald86nv: folds 
+58COOLCATS: folds 
+Uncalled bet (4199) returned to Zubs999
+Zubs999 collected 672 from pot
+*** SUMMARY ***
+Total pot 672 | Rake 0 
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 3: 58COOLCATS (button) folded before Flop
+Seat 4: Zubs999 (small blind) collected (672)
+Seat 5: marina 10247 (big blind) folded before Flop
+Seat 6: chipyu folded before Flop (didn't bet)
+Seat 7: donald86nv folded before Flop
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678137591: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XIII (80/160) - 2018/10/01 3:51:19 ET
+Table '2418383464 3' 9-max Seat #4 is the button
+Seat 1: shazbaat (8718 in chips) 
+Seat 3: 58COOLCATS (5841 in chips) 
+Seat 4: Zubs999 (4871 in chips) 
+Seat 5: marina 10247 (748 in chips) is sitting out
+Seat 6: chipyu (7210 in chips) 
+Seat 7: donald86nv (1603 in chips) 
+Seat 8: nicholasj25 (9309 in chips) 
+Seat 9: gdyates (1252 in chips) 
+shazbaat: posts the ante 16
+58COOLCATS: posts the ante 16
+Zubs999: posts the ante 16
+marina 10247: posts the ante 16
+chipyu: posts the ante 16
+donald86nv: posts the ante 16
+nicholasj25: posts the ante 16
+gdyates: posts the ante 16
+marina 10247: posts small blind 80
+chipyu: posts big blind 160
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6h 8s]
+donald86nv: folds 
+nicholasj25: folds 
+gdyates: folds 
+shazbaat: calls 160
+58COOLCATS: folds 
+Zubs999: calls 160
+marina 10247: folds 
+chipyu: checks 
+*** FLOP *** [3h Kh Jh]
+chipyu: bets 160
+shazbaat: folds 
+Zubs999: calls 160
+*** TURN *** [3h Kh Jh] [3s]
+chipyu: bets 160
+Zubs999: calls 160
+*** RIVER *** [3h Kh Jh 3s] [Qs]
+chipyu: bets 160
+Zubs999: calls 160
+*** SHOW DOWN ***
+chipyu: shows [As Kc] (two pair, Kings and Threes)
+Zubs999: mucks hand 
+chipyu collected 1648 from pot
+*** SUMMARY ***
+Total pot 1648 | Rake 0 
+Board [3h Kh Jh 3s Qs]
+Seat 1: shazbaat folded on the Flop
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 (button) mucked [9d Kd]
+Seat 5: marina 10247 (small blind) folded before Flop
+Seat 6: chipyu (big blind) showed [As Kc] and won (1648) with two pair, Kings and Threes
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678150215: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XIII (80/160) - 2018/10/01 3:52:15 ET
+Table '2418383464 3' 9-max Seat #5 is the button
+Seat 1: shazbaat (8542 in chips) 
+Seat 3: 58COOLCATS (5825 in chips) 
+Seat 4: Zubs999 (4215 in chips) 
+Seat 5: marina 10247 (652 in chips) is sitting out
+Seat 6: chipyu (8202 in chips) 
+Seat 7: donald86nv (1587 in chips) 
+Seat 8: nicholasj25 (9293 in chips) 
+Seat 9: gdyates (1236 in chips) 
+shazbaat: posts the ante 16
+58COOLCATS: posts the ante 16
+Zubs999: posts the ante 16
+marina 10247: posts the ante 16
+chipyu: posts the ante 16
+donald86nv: posts the ante 16
+nicholasj25: posts the ante 16
+gdyates: posts the ante 16
+chipyu: posts small blind 80
+donald86nv: posts big blind 160
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8s 8h]
+nicholasj25: raises 160 to 320
+gdyates: folds 
+shazbaat: folds 
+58COOLCATS: folds 
+Zubs999: folds 
+marina 10247: folds 
+chipyu: folds 
+donald86nv: folds 
+Uncalled bet (160) returned to nicholasj25
+nicholasj25 collected 528 from pot
+*** SUMMARY ***
+Total pot 528 | Rake 0 
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 folded before Flop (didn't bet)
+Seat 5: marina 10247 (button) folded before Flop (didn't bet)
+Seat 6: chipyu (small blind) folded before Flop
+Seat 7: donald86nv (big blind) folded before Flop
+Seat 8: nicholasj25 collected (528)
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678154890: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XIII (80/160) - 2018/10/01 3:52:36 ET
+Table '2418383464 3' 9-max Seat #6 is the button
+Seat 1: shazbaat (8526 in chips) 
+Seat 3: 58COOLCATS (5809 in chips) 
+Seat 4: Zubs999 (4199 in chips) 
+Seat 5: marina 10247 (636 in chips) is sitting out
+Seat 6: chipyu (8106 in chips) 
+Seat 7: donald86nv (1411 in chips) 
+Seat 8: nicholasj25 (9645 in chips) 
+Seat 9: gdyates (1220 in chips) 
+shazbaat: posts the ante 16
+58COOLCATS: posts the ante 16
+Zubs999: posts the ante 16
+marina 10247: posts the ante 16
+chipyu: posts the ante 16
+donald86nv: posts the ante 16
+nicholasj25: posts the ante 16
+gdyates: posts the ante 16
+donald86nv: posts small blind 80
+nicholasj25: posts big blind 160
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kh 8c]
+gdyates: folds 
+shazbaat: folds 
+58COOLCATS: folds 
+Zubs999: calls 160
+marina 10247: folds 
+chipyu: folds 
+donald86nv: calls 80
+nicholasj25: checks 
+*** FLOP *** [6d 8s 7s]
+donald86nv: checks 
+nicholasj25: bets 320
+Zubs999: calls 320
+donald86nv: calls 320
+*** TURN *** [6d 8s 7s] [As]
+donald86nv: checks 
+nicholasj25: bets 640
+Zubs999: calls 640
+donald86nv: raises 275 to 915 and is all-in
+nicholasj25: folds 
+Zubs999: calls 275
+*** RIVER *** [6d 8s 7s As] [3h]
+*** SHOW DOWN ***
+donald86nv: shows [Qd Js] (high card Ace)
+Zubs999: shows [9c Jd] (high card Ace - lower kicker)
+donald86nv collected 4038 from pot
+*** SUMMARY ***
+Total pot 4038 | Rake 0 
+Board [6d 8s 7s As 3h]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 showed [9c Jd] and lost with high card Ace
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: chipyu (button) folded before Flop (didn't bet)
+Seat 7: donald86nv (small blind) showed [Qd Js] and won (4038) with high card Ace
+Seat 8: nicholasj25 (big blind) folded on the Turn
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678171153: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XIII (80/160) - 2018/10/01 3:53:47 ET
+Table '2418383464 3' 9-max Seat #7 is the button
+Seat 1: shazbaat (8510 in chips) 
+Seat 3: 58COOLCATS (5793 in chips) 
+Seat 4: Zubs999 (2788 in chips) 
+Seat 5: marina 10247 (620 in chips) is sitting out
+Seat 6: chipyu (8090 in chips) 
+Seat 7: donald86nv (4038 in chips) 
+Seat 8: nicholasj25 (8509 in chips) 
+Seat 9: gdyates (1204 in chips) 
+shazbaat: posts the ante 16
+58COOLCATS: posts the ante 16
+Zubs999: posts the ante 16
+marina 10247: posts the ante 16
+chipyu: posts the ante 16
+donald86nv: posts the ante 16
+nicholasj25: posts the ante 16
+gdyates: posts the ante 16
+nicholasj25: posts small blind 80
+gdyates: posts big blind 160
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Td As]
+shazbaat: folds 
+58COOLCATS: calls 160
+Zubs999: folds 
+marina 10247: folds 
+chipyu: calls 160
+donald86nv: calls 160
+nicholasj25: calls 80
+gdyates: checks 
+*** FLOP *** [Tc 4d 7h]
+nicholasj25: bets 480
+gdyates: folds 
+58COOLCATS: folds 
+chipyu: folds 
+donald86nv has timed out
+donald86nv: folds 
+Uncalled bet (480) returned to nicholasj25
+nicholasj25 collected 928 from pot
+*** SUMMARY ***
+Total pot 928 | Rake 0 
+Board [Tc 4d 7h]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded on the Flop
+Seat 4: Zubs999 folded before Flop (didn't bet)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: chipyu folded on the Flop
+Seat 7: donald86nv (button) folded on the Flop
+Seat 8: nicholasj25 (small blind) collected (928)
+Seat 9: gdyates (big blind) folded on the Flop
+
+
+
+PokerStars Hand #191678186696: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XIV (100/200) - 2018/10/01 3:54:54 ET
+Table '2418383464 3' 9-max Seat #8 is the button
+Seat 1: shazbaat (8494 in chips) 
+Seat 3: 58COOLCATS (5617 in chips) 
+Seat 4: Zubs999 (2772 in chips) 
+Seat 5: marina 10247 (604 in chips) is sitting out
+Seat 6: chipyu (7914 in chips) 
+Seat 7: donald86nv (3862 in chips) 
+Seat 8: nicholasj25 (9261 in chips) 
+Seat 9: gdyates (1028 in chips) 
+shazbaat: posts the ante 20
+58COOLCATS: posts the ante 20
+Zubs999: posts the ante 20
+marina 10247: posts the ante 20
+chipyu: posts the ante 20
+donald86nv: posts the ante 20
+nicholasj25: posts the ante 20
+gdyates: posts the ante 20
+gdyates: posts small blind 100
+shazbaat: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3c As]
+58COOLCATS: folds 
+Zubs999: folds 
+marina 10247: folds 
+chipyu: folds 
+donald86nv: folds 
+nicholasj25: raises 200 to 400
+gdyates: folds 
+shazbaat: folds 
+Uncalled bet (200) returned to nicholasj25
+nicholasj25 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Seat 1: shazbaat (big blind) folded before Flop
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 folded before Flop (didn't bet)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: chipyu folded before Flop (didn't bet)
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) collected (660)
+Seat 9: gdyates (small blind) folded before Flop
+
+
+
+PokerStars Hand #191678265457: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XIV (100/200) - 2018/10/01 4:01:14 ET
+Table '2418383464 3' 9-max Seat #9 is the button
+Seat 1: shazbaat (8274 in chips) 
+Seat 2: Horaciomg317 (1142 in chips) 
+Seat 3: 58COOLCATS (5597 in chips) 
+Seat 4: Zubs999 (2752 in chips) 
+Seat 5: marina 10247 (584 in chips) is sitting out
+Seat 6: chipyu (7894 in chips) 
+Seat 7: donald86nv (3842 in chips) 
+Seat 8: nicholasj25 (9701 in chips) 
+Seat 9: gdyates (908 in chips) 
+shazbaat: posts the ante 20
+Horaciomg317: posts the ante 20
+58COOLCATS: posts the ante 20
+Zubs999: posts the ante 20
+marina 10247: posts the ante 20
+chipyu: posts the ante 20
+donald86nv: posts the ante 20
+nicholasj25: posts the ante 20
+gdyates: posts the ante 20
+shazbaat: posts small blind 100
+Horaciomg317: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8h 3d]
+58COOLCATS: folds 
+Zubs999: folds 
+marina 10247: folds 
+chipyu: calls 200
+donald86nv has timed out
+donald86nv: folds 
+nicholasj25 has timed out
+nicholasj25: folds 
+gdyates: folds 
+shazbaat: calls 100
+Horaciomg317: checks 
+*** FLOP *** [Jh 7d 9s]
+shazbaat: bets 200
+Horaciomg317: raises 722 to 922 and is all-in
+chipyu: folds 
+shazbaat: folds 
+Uncalled bet (722) returned to Horaciomg317
+Horaciomg317 collected 1180 from pot
+Horaciomg317: doesn't show hand 
+*** SUMMARY ***
+Total pot 1180 | Rake 0 
+Board [Jh 7d 9s]
+Seat 1: shazbaat (small blind) folded on the Flop
+Seat 2: Horaciomg317 (big blind) collected (1180)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 folded before Flop (didn't bet)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: chipyu folded on the Flop
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: gdyates (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678281936: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XIV (100/200) - 2018/10/01 4:02:26 ET
+Table '2418383464 3' 9-max Seat #1 is the button
+Seat 1: shazbaat (7854 in chips) 
+Seat 2: Horaciomg317 (1902 in chips) 
+Seat 3: 58COOLCATS (5577 in chips) 
+Seat 4: Zubs999 (2732 in chips) 
+Seat 5: marina 10247 (564 in chips) is sitting out
+Seat 6: chipyu (7674 in chips) 
+Seat 7: donald86nv (3822 in chips) 
+Seat 8: nicholasj25 (9681 in chips) is sitting out
+Seat 9: gdyates (888 in chips) 
+shazbaat: posts the ante 20
+Horaciomg317: posts the ante 20
+58COOLCATS: posts the ante 20
+Zubs999: posts the ante 20
+marina 10247: posts the ante 20
+chipyu: posts the ante 20
+donald86nv: posts the ante 20
+nicholasj25: posts the ante 20
+gdyates: posts the ante 20
+Horaciomg317: posts small blind 100
+58COOLCATS: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8s Qs]
+Zubs999: calls 200
+marina 10247: folds 
+chipyu: calls 200
+donald86nv: calls 200
+nicholasj25: folds 
+gdyates: folds 
+shazbaat: folds 
+Horaciomg317: calls 100
+58COOLCATS: checks 
+*** FLOP *** [Tc 9s 5h]
+Horaciomg317: checks 
+58COOLCATS: bets 1180
+Zubs999: raises 1332 to 2512 and is all-in
+chipyu: folds 
+donald86nv: folds 
+Horaciomg317: folds 
+58COOLCATS: calls 1332
+*** TURN *** [Tc 9s 5h] [Qd]
+*** RIVER *** [Tc 9s 5h Qd] [Kd]
+*** SHOW DOWN ***
+58COOLCATS: shows [9d 5s] (two pair, Nines and Fives)
+Zubs999: shows [Qc 9c] (two pair, Queens and Nines)
+Zubs999 collected 6204 from pot
+*** SUMMARY ***
+Total pot 6204 | Rake 0 
+Board [Tc 9s 5h Qd Kd]
+Seat 1: shazbaat (button) folded before Flop (didn't bet)
+Seat 2: Horaciomg317 (small blind) folded on the Flop
+Seat 3: 58COOLCATS (big blind) showed [9d 5s] and lost with two pair, Nines and Fives
+Seat 4: Zubs999 showed [Qc 9c] and won (6204) with two pair, Queens and Nines
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: chipyu folded on the Flop
+Seat 7: donald86nv folded on the Flop
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678294012: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XV (120/240) - 2018/10/01 4:03:18 ET
+Table '2418383464 3' 9-max Seat #3 is the button
+Seat 1: shazbaat (7834 in chips) 
+Seat 3: 58COOLCATS (2845 in chips) 
+Seat 4: Zubs999 (6204 in chips) 
+Seat 5: marina 10247 (544 in chips) is sitting out
+Seat 6: chipyu (7454 in chips) 
+Seat 7: donald86nv (3602 in chips) 
+Seat 8: nicholasj25 (9661 in chips) is sitting out
+Seat 9: gdyates (868 in chips) 
+shazbaat: posts the ante 24
+58COOLCATS: posts the ante 24
+Zubs999: posts the ante 24
+marina 10247: posts the ante 24
+chipyu: posts the ante 24
+donald86nv: posts the ante 24
+nicholasj25: posts the ante 24
+gdyates: posts the ante 24
+Zubs999: posts small blind 120
+marina 10247: posts big blind 240
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3c Qs]
+chipyu: folds 
+donald86nv: folds 
+nicholasj25: folds 
+gdyates: folds 
+shazbaat: folds 
+58COOLCATS has timed out
+58COOLCATS: folds 
+Zubs999: calls 120
+marina 10247: folds 
+Zubs999 collected 672 from pot
+*** SUMMARY ***
+Total pot 672 | Rake 0 
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 3: 58COOLCATS (button) folded before Flop (didn't bet)
+Seat 4: Zubs999 (small blind) collected (672)
+Seat 5: marina 10247 (big blind) folded before Flop
+Seat 6: chipyu folded before Flop (didn't bet)
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678301111: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XV (120/240) - 2018/10/01 4:03:48 ET
+Table '2418383464 3' 9-max Seat #4 is the button
+Seat 1: shazbaat (7810 in chips) 
+Seat 3: 58COOLCATS (2821 in chips) is sitting out
+Seat 4: Zubs999 (6612 in chips) 
+Seat 5: marina 10247 (280 in chips) is sitting out
+Seat 6: chipyu (7430 in chips) 
+Seat 7: donald86nv (3578 in chips) 
+Seat 8: nicholasj25 (9637 in chips) is sitting out
+Seat 9: gdyates (844 in chips) 
+shazbaat: posts the ante 24
+58COOLCATS: posts the ante 24
+Zubs999: posts the ante 24
+marina 10247: posts the ante 24
+chipyu: posts the ante 24
+donald86nv: posts the ante 24
+nicholasj25: posts the ante 24
+gdyates: posts the ante 24
+marina 10247: posts small blind 120
+chipyu: posts big blind 240
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ts 3d]
+donald86nv: folds 
+nicholasj25: folds 
+gdyates: folds 
+shazbaat: folds 
+58COOLCATS: folds 
+Zubs999: calls 240
+marina 10247: folds 
+chipyu: checks 
+*** FLOP *** [5s 9s Js]
+chipyu: bets 240
+Zubs999: calls 240
+*** TURN *** [5s 9s Js] [2h]
+chipyu: bets 240
+Zubs999: calls 240
+*** RIVER *** [5s 9s Js 2h] [Ad]
+chipyu: bets 240
+Zubs999: raises 5628 to 5868 and is all-in
+chipyu: folds 
+Uncalled bet (5628) returned to Zubs999
+Zubs999 collected 2232 from pot
+*** SUMMARY ***
+Total pot 2232 | Rake 0 
+Board [5s 9s Js 2h Ad]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 (button) collected (2232)
+Seat 5: marina 10247 (small blind) folded before Flop
+Seat 6: chipyu (big blind) folded on the River
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678318521: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XV (120/240) - 2018/10/01 4:05:02 ET
+Table '2418383464 3' 9-max Seat #5 is the button
+Seat 1: shazbaat (7786 in chips) 
+Seat 3: 58COOLCATS (2797 in chips) 
+Seat 4: Zubs999 (7860 in chips) 
+Seat 5: marina 10247 (136 in chips) is sitting out
+Seat 6: chipyu (6446 in chips) 
+Seat 7: donald86nv (3554 in chips) 
+Seat 8: nicholasj25 (9613 in chips) 
+Seat 9: gdyates (820 in chips) 
+shazbaat: posts the ante 24
+58COOLCATS: posts the ante 24
+Zubs999: posts the ante 24
+marina 10247: posts the ante 24
+chipyu: posts the ante 24
+donald86nv: posts the ante 24
+nicholasj25: posts the ante 24
+gdyates: posts the ante 24
+chipyu: posts small blind 120
+donald86nv: posts big blind 240
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8c Qd]
+nicholasj25: folds 
+gdyates: folds 
+shazbaat: folds 
+58COOLCATS: folds 
+Zubs999: calls 240
+marina 10247: folds 
+chipyu: folds 
+donald86nv: checks 
+*** FLOP *** [Ah 6s 9h]
+donald86nv: checks 
+Zubs999: bets 240
+donald86nv: calls 240
+*** TURN *** [Ah 6s 9h] [2s]
+donald86nv: bets 636
+Zubs999: raises 636 to 1272
+donald86nv: calls 636
+*** RIVER *** [Ah 6s 9h 2s] [Th]
+donald86nv: checks 
+Zubs999: checks 
+*** SHOW DOWN ***
+donald86nv: shows [6d Kd] (a pair of Sixes)
+Zubs999: shows [Ac Js] (a pair of Aces)
+Zubs999 collected 3816 from pot
+*** SUMMARY ***
+Total pot 3816 | Rake 0 
+Board [Ah 6s 9h 2s Th]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 showed [Ac Js] and won (3816) with a pair of Aces
+Seat 5: marina 10247 (button) folded before Flop (didn't bet)
+Seat 6: chipyu (small blind) folded before Flop
+Seat 7: donald86nv (big blind) showed [6d Kd] and lost with a pair of Sixes
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678341930: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XVI (140/280) - 2018/10/01 4:06:41 ET
+Table '2418383464 3' 9-max Seat #6 is the button
+Seat 1: shazbaat (7762 in chips) 
+Seat 3: 58COOLCATS (2773 in chips) 
+Seat 4: Zubs999 (9900 in chips) 
+Seat 5: marina 10247 (112 in chips) is sitting out
+Seat 6: chipyu (6302 in chips) 
+Seat 7: donald86nv (1778 in chips) 
+Seat 8: nicholasj25 (9589 in chips) 
+Seat 9: gdyates (796 in chips) 
+shazbaat: posts the ante 28
+58COOLCATS: posts the ante 28
+Zubs999: posts the ante 28
+marina 10247: posts the ante 28
+chipyu: posts the ante 28
+donald86nv: posts the ante 28
+nicholasj25: posts the ante 28
+gdyates: posts the ante 28
+donald86nv: posts small blind 140
+nicholasj25: posts big blind 280
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2h Js]
+gdyates: folds 
+shazbaat: folds 
+58COOLCATS: folds 
+Zubs999: folds 
+marina 10247: folds 
+chipyu: calls 280
+donald86nv: calls 140
+nicholasj25: checks 
+*** FLOP *** [Jd 3s 9h]
+donald86nv: checks 
+nicholasj25: bets 560
+chipyu: folds 
+donald86nv: folds 
+Uncalled bet (560) returned to nicholasj25
+nicholasj25 collected 1064 from pot
+*** SUMMARY ***
+Total pot 1064 | Rake 0 
+Board [Jd 3s 9h]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 folded before Flop (didn't bet)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: chipyu (button) folded on the Flop
+Seat 7: donald86nv (small blind) folded on the Flop
+Seat 8: nicholasj25 (big blind) collected (1064)
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678360894: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XVI (140/280) - 2018/10/01 4:08:00 ET
+Table '2418383464 3' 9-max Seat #7 is the button
+Seat 1: shazbaat (7734 in chips) 
+Seat 2: Marcius.com (1930 in chips) is sitting out
+Seat 3: 58COOLCATS (2745 in chips) 
+Seat 4: Zubs999 (9872 in chips) 
+Seat 5: marina 10247 (84 in chips) is sitting out
+Seat 6: chipyu (5994 in chips) 
+Seat 7: donald86nv (1470 in chips) 
+Seat 8: nicholasj25 (10345 in chips) 
+Seat 9: gdyates (768 in chips) 
+shazbaat: posts the ante 28
+Marcius.com: posts the ante 28
+58COOLCATS: posts the ante 28
+Zubs999: posts the ante 28
+marina 10247: posts the ante 28
+chipyu: posts the ante 28
+donald86nv: posts the ante 28
+nicholasj25: posts the ante 28
+gdyates: posts the ante 28
+nicholasj25: posts small blind 140
+gdyates: posts big blind 280
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ah 2d]
+shazbaat: folds 
+Marcius.com: folds 
+58COOLCATS: folds 
+Zubs999: folds 
+marina 10247: folds 
+chipyu: calls 280
+donald86nv: folds 
+nicholasj25: calls 140
+gdyates: checks 
+*** FLOP *** [5s 6d 3s]
+nicholasj25: checks 
+gdyates: checks 
+chipyu: bets 1092
+nicholasj25: folds 
+gdyates: folds 
+Uncalled bet (1092) returned to chipyu
+chipyu collected 1092 from pot
+*** SUMMARY ***
+Total pot 1092 | Rake 0 
+Board [5s 6d 3s]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 2: Marcius.com folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 folded before Flop (didn't bet)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: chipyu collected (1092)
+Seat 7: donald86nv (button) folded before Flop (didn't bet)
+Seat 8: nicholasj25 (small blind) folded on the Flop
+Seat 9: gdyates (big blind) folded on the Flop
+
+
+
+PokerStars Hand #191678369254: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XVI (140/280) - 2018/10/01 4:08:35 ET
+Table '2418383464 3' 9-max Seat #8 is the button
+Seat 1: shazbaat (7706 in chips) 
+Seat 2: Marcius.com (1902 in chips) is sitting out
+Seat 3: 58COOLCATS (2717 in chips) 
+Seat 4: Zubs999 (9844 in chips) 
+Seat 5: marina 10247 (56 in chips) is sitting out
+Seat 6: chipyu (6778 in chips) 
+Seat 7: donald86nv (1442 in chips) 
+Seat 8: nicholasj25 (10037 in chips) 
+Seat 9: gdyates (460 in chips) 
+shazbaat: posts the ante 28
+Marcius.com: posts the ante 28
+58COOLCATS: posts the ante 28
+Zubs999: posts the ante 28
+marina 10247: posts the ante 28
+chipyu: posts the ante 28
+donald86nv: posts the ante 28
+nicholasj25: posts the ante 28
+gdyates: posts the ante 28
+gdyates: posts small blind 140
+shazbaat: posts big blind 280
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Jd 9s]
+Marcius.com: folds 
+58COOLCATS: folds 
+Zubs999: raises 280 to 560
+marina 10247: folds 
+chipyu: folds 
+donald86nv: folds 
+nicholasj25: folds 
+gdyates: folds 
+shazbaat: folds 
+Uncalled bet (280) returned to Zubs999
+Zubs999 collected 952 from pot
+*** SUMMARY ***
+Total pot 952 | Rake 0 
+Seat 1: shazbaat (big blind) folded before Flop
+Seat 2: Marcius.com folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 collected (952)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 6: chipyu folded before Flop (didn't bet)
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 9: gdyates (small blind) folded before Flop
+
+
+
+PokerStars Hand #191678374591: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XVI (140/280) - 2018/10/01 4:08:58 ET
+Table '2418383464 3' 9-max Seat #9 is the button
+Seat 1: shazbaat (7398 in chips) 
+Seat 2: Marcius.com (1874 in chips) is sitting out
+Seat 3: 58COOLCATS (2689 in chips) 
+Seat 4: Zubs999 (10488 in chips) 
+Seat 5: marina 10247 (28 in chips) is sitting out
+Seat 7: donald86nv (1414 in chips) 
+Seat 8: nicholasj25 (10009 in chips) 
+Seat 9: gdyates (292 in chips) 
+shazbaat: posts the ante 28
+Marcius.com: posts the ante 28
+58COOLCATS: posts the ante 28
+Zubs999: posts the ante 28
+marina 10247: posts the ante 28 and is all-in
+donald86nv: posts the ante 28
+nicholasj25: posts the ante 28
+gdyates: posts the ante 28
+shazbaat: posts small blind 140
+Marcius.com: posts big blind 280
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7h 2d]
+58COOLCATS: folds 
+Zubs999: folds 
+donald86nv: calls 280
+nicholasj25: folds 
+gdyates: folds 
+shazbaat: calls 140
+Marcius.com: folds 
+marina 10247: folds 
+*** FLOP *** [6c Js Ks]
+shazbaat: bets 532
+donald86nv: raises 574 to 1106 and is all-in
+shazbaat: calls 574
+*** TURN *** [6c Js Ks] [9c]
+*** RIVER *** [6c Js Ks 9c] [8c]
+*** SHOW DOWN ***
+shazbaat: shows [As 4c] (high card Ace)
+donald86nv: shows [Ad Qh] (high card Ace - King+Queen kicker)
+donald86nv collected 3276 from pot
+marina 10247 finished the tournament in 40th place and received 17000.
+*** SUMMARY ***
+Total pot 3276 | Rake 0 
+Board [6c Js Ks 9c 8c]
+Seat 1: shazbaat (small blind) showed [As 4c] and lost with high card Ace
+Seat 2: Marcius.com (big blind) folded before Flop
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 folded before Flop (didn't bet)
+Seat 5: marina 10247 folded before Flop (didn't bet)
+Seat 7: donald86nv showed [Ad Qh] and won (3276) with high card Ace
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: gdyates (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678385326: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XVII (160/320) - 2018/10/01 4:09:42 ET
+Table '2418383464 3' 9-max Seat #1 is the button
+Seat 1: shazbaat (5984 in chips) 
+Seat 2: Marcius.com (1566 in chips) is sitting out
+Seat 3: 58COOLCATS (2661 in chips) 
+Seat 4: Zubs999 (10460 in chips) 
+Seat 7: donald86nv (3276 in chips) 
+Seat 8: nicholasj25 (9981 in chips) 
+Seat 9: gdyates (264 in chips) 
+shazbaat: posts the ante 32
+Marcius.com: posts the ante 32
+58COOLCATS: posts the ante 32
+Zubs999: posts the ante 32
+donald86nv: posts the ante 32
+nicholasj25: posts the ante 32
+gdyates: posts the ante 32
+Marcius.com: posts small blind 160
+58COOLCATS: posts big blind 320
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kh Js]
+Zubs999: folds 
+donald86nv: folds 
+nicholasj25: raises 320 to 640
+gdyates: folds 
+shazbaat: folds 
+Marcius.com: folds 
+58COOLCATS: folds 
+Uncalled bet (320) returned to nicholasj25
+nicholasj25 collected 1024 from pot
+*** SUMMARY ***
+Total pot 1024 | Rake 0 
+Seat 1: shazbaat (button) folded before Flop (didn't bet)
+Seat 2: Marcius.com (small blind) folded before Flop
+Seat 3: 58COOLCATS (big blind) folded before Flop
+Seat 4: Zubs999 folded before Flop (didn't bet)
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 collected (1024)
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678394938: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XVII (160/320) - 2018/10/01 4:10:23 ET
+Table '2418383464 3' 9-max Seat #2 is the button
+Seat 1: shazbaat (5952 in chips) 
+Seat 2: Marcius.com (1374 in chips) is sitting out
+Seat 3: 58COOLCATS (2309 in chips) 
+Seat 4: Zubs999 (10428 in chips) 
+Seat 7: donald86nv (3244 in chips) 
+Seat 8: nicholasj25 (10653 in chips) 
+Seat 9: gdyates (232 in chips) 
+shazbaat: posts the ante 32
+Marcius.com: posts the ante 32
+58COOLCATS: posts the ante 32
+Zubs999: posts the ante 32
+donald86nv: posts the ante 32
+nicholasj25: posts the ante 32
+gdyates: posts the ante 32
+58COOLCATS: posts small blind 160
+Zubs999: posts big blind 320
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9c 2s]
+donald86nv: folds 
+nicholasj25: folds 
+gdyates: calls 200 and is all-in
+shazbaat: raises 640 to 960
+Marcius.com: folds 
+58COOLCATS: folds 
+Zubs999: calls 640
+*** FLOP *** [Ac 3h Kc]
+Zubs999: checks 
+shazbaat: bets 320
+Zubs999: folds 
+Uncalled bet (320) returned to shazbaat
+*** TURN *** [Ac 3h Kc] [7s]
+*** RIVER *** [Ac 3h Kc 7s] [8s]
+*** SHOW DOWN ***
+shazbaat: shows [Ah Qh] (a pair of Aces)
+shazbaat collected 1520 from side pot
+gdyates: shows [7h Ad] (two pair, Aces and Sevens)
+gdyates collected 984 from main pot
+*** SUMMARY ***
+Total pot 2504 Main pot 984. Side pot 1520. | Rake 0 
+Board [Ac 3h Kc 7s 8s]
+Seat 1: shazbaat showed [Ah Qh] and won (1520) with a pair of Aces
+Seat 2: Marcius.com (button) folded before Flop (didn't bet)
+Seat 3: 58COOLCATS (small blind) folded before Flop
+Seat 4: Zubs999 (big blind) folded on the Flop
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: gdyates showed [7h Ad] and won (984) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #191678406826: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XVII (160/320) - 2018/10/01 4:11:12 ET
+Table '2418383464 3' 9-max Seat #3 is the button
+Seat 1: shazbaat (6480 in chips) 
+Seat 2: Marcius.com (1342 in chips) is sitting out
+Seat 3: 58COOLCATS (2117 in chips) 
+Seat 4: Zubs999 (9436 in chips) 
+Seat 7: donald86nv (3212 in chips) 
+Seat 8: nicholasj25 (10621 in chips) 
+Seat 9: gdyates (984 in chips) 
+shazbaat: posts the ante 32
+Marcius.com: posts the ante 32
+58COOLCATS: posts the ante 32
+Zubs999: posts the ante 32
+donald86nv: posts the ante 32
+nicholasj25: posts the ante 32
+gdyates: posts the ante 32
+Zubs999: posts small blind 160
+donald86nv: posts big blind 320
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Th 8s]
+nicholasj25: folds 
+gdyates: folds 
+shazbaat: calls 320
+Marcius.com: folds 
+58COOLCATS: folds 
+Zubs999: calls 160
+donald86nv: checks 
+*** FLOP *** [Qh 4c 2c]
+Zubs999: checks 
+donald86nv has timed out
+donald86nv: checks 
+shazbaat: bets 592
+Zubs999: folds 
+donald86nv: folds 
+Uncalled bet (592) returned to shazbaat
+shazbaat collected 1184 from pot
+shazbaat: doesn't show hand 
+*** SUMMARY ***
+Total pot 1184 | Rake 0 
+Board [Qh 4c 2c]
+Seat 1: shazbaat collected (1184)
+Seat 2: Marcius.com folded before Flop (didn't bet)
+Seat 3: 58COOLCATS (button) folded before Flop (didn't bet)
+Seat 4: Zubs999 (small blind) folded on the Flop
+Seat 7: donald86nv (big blind) folded on the Flop
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678416882: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XVII (160/320) - 2018/10/01 4:11:54 ET
+Table '2418383464 3' 9-max Seat #4 is the button
+Seat 1: shazbaat (7312 in chips) 
+Seat 2: Marcius.com (1310 in chips) is sitting out
+Seat 3: 58COOLCATS (2085 in chips) 
+Seat 4: Zubs999 (9084 in chips) 
+Seat 7: donald86nv (2860 in chips) 
+Seat 8: nicholasj25 (10589 in chips) 
+Seat 9: gdyates (952 in chips) 
+shazbaat: posts the ante 32
+Marcius.com: posts the ante 32
+58COOLCATS: posts the ante 32
+Zubs999: posts the ante 32
+donald86nv: posts the ante 32
+nicholasj25: posts the ante 32
+gdyates: posts the ante 32
+donald86nv: posts small blind 160
+nicholasj25: posts big blind 320
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2s Ad]
+gdyates: folds 
+shazbaat: folds 
+Marcius.com: folds 
+58COOLCATS: folds 
+Zubs999: calls 320
+donald86nv: calls 160
+nicholasj25: checks 
+*** FLOP *** [3d 9d 5c]
+donald86nv has timed out
+donald86nv: checks 
+nicholasj25: checks 
+Zubs999: bets 640
+donald86nv: calls 640
+nicholasj25: folds 
+*** TURN *** [3d 9d 5c] [Kh]
+donald86nv: checks 
+Zubs999: bets 1920
+donald86nv: calls 1868 and is all-in
+Uncalled bet (52) returned to Zubs999
+*** RIVER *** [3d 9d 5c Kh] [Qs]
+*** SHOW DOWN ***
+donald86nv: shows [Ts Kc] (a pair of Kings)
+Zubs999: shows [9s As] (a pair of Nines)
+donald86nv collected 6200 from pot
+*** SUMMARY ***
+Total pot 6200 | Rake 0 
+Board [3d 9d 5c Kh Qs]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 2: Marcius.com folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 (button) showed [9s As] and lost with a pair of Nines
+Seat 7: donald86nv (small blind) showed [Ts Kc] and won (6200) with a pair of Kings
+Seat 8: nicholasj25 (big blind) folded on the Flop
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678431039: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XVIII (200/400) - 2018/10/01 4:12:53 ET
+Table '2418383464 3' 9-max Seat #7 is the button
+Seat 1: shazbaat (7280 in chips) 
+Seat 2: Marcius.com (1278 in chips) is sitting out
+Seat 3: 58COOLCATS (2053 in chips) 
+Seat 4: Zubs999 (6224 in chips) 
+Seat 5: giovanni1171 (16052 in chips) 
+Seat 6: foxat378 (6256 in chips) 
+Seat 7: donald86nv (6200 in chips) 
+Seat 8: nicholasj25 (10237 in chips) 
+Seat 9: gdyates (920 in chips) 
+shazbaat: posts the ante 40
+Marcius.com: posts the ante 40
+58COOLCATS: posts the ante 40
+Zubs999: posts the ante 40
+giovanni1171: posts the ante 40
+foxat378: posts the ante 40
+donald86nv: posts the ante 40
+nicholasj25: posts the ante 40
+gdyates: posts the ante 40
+nicholasj25: posts small blind 200
+gdyates: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4d 3d]
+shazbaat: folds 
+Marcius.com: folds 
+58COOLCATS: raises 1613 to 2013 and is all-in
+Zubs999: calls 2013
+giovanni1171: folds 
+foxat378: folds 
+donald86nv: folds 
+nicholasj25: folds 
+gdyates: folds 
+*** FLOP *** [2d Td 8s]
+*** TURN *** [2d Td 8s] [Qc]
+*** RIVER *** [2d Td 8s Qc] [Kd]
+*** SHOW DOWN ***
+58COOLCATS: shows [Kc Qs] (two pair, Kings and Queens)
+Zubs999: shows [Ad 6s] (high card Ace)
+58COOLCATS collected 4986 from pot
+*** SUMMARY ***
+Total pot 4986 | Rake 0 
+Board [2d Td 8s Qc Kd]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 2: Marcius.com folded before Flop (didn't bet)
+Seat 3: 58COOLCATS showed [Kc Qs] and won (4986) with two pair, Kings and Queens
+Seat 4: Zubs999 showed [Ad 6s] and lost with high card Ace
+Seat 5: giovanni1171 folded before Flop (didn't bet)
+Seat 6: foxat378 folded before Flop (didn't bet)
+Seat 7: donald86nv (button) folded before Flop (didn't bet)
+Seat 8: nicholasj25 (small blind) folded before Flop
+Seat 9: gdyates (big blind) folded before Flop
+
+
+
+PokerStars Hand #191678436849: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XVIII (200/400) - 2018/10/01 4:13:16 ET
+Table '2418383464 3' 9-max Seat #8 is the button
+Seat 1: shazbaat (7240 in chips) 
+Seat 2: Marcius.com (1238 in chips) is sitting out
+Seat 3: 58COOLCATS (4986 in chips) 
+Seat 4: Zubs999 (4171 in chips) 
+Seat 5: giovanni1171 (16012 in chips) 
+Seat 6: foxat378 (6216 in chips) 
+Seat 7: donald86nv (6160 in chips) 
+Seat 8: nicholasj25 (9997 in chips) 
+Seat 9: gdyates (480 in chips) 
+shazbaat: posts the ante 40
+Marcius.com: posts the ante 40
+58COOLCATS: posts the ante 40
+Zubs999: posts the ante 40
+giovanni1171: posts the ante 40
+foxat378: posts the ante 40
+donald86nv: posts the ante 40
+nicholasj25: posts the ante 40
+gdyates: posts the ante 40
+gdyates: posts small blind 200
+shazbaat: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5s Qh]
+Marcius.com: folds 
+58COOLCATS: folds 
+Zubs999: raises 3731 to 4131 and is all-in
+giovanni1171: folds 
+foxat378: folds 
+donald86nv: folds 
+nicholasj25: folds 
+gdyates is connected 
+gdyates is connected 
+gdyates: calls 240 and is all-in
+shazbaat: folds 
+Uncalled bet (3691) returned to Zubs999
+*** FLOP *** [Kh 5d Js]
+*** TURN *** [Kh 5d Js] [Ah]
+*** RIVER *** [Kh 5d Js Ah] [As]
+*** SHOW DOWN ***
+gdyates: shows [Ks 8d] (two pair, Aces and Kings)
+Zubs999: shows [Tc 9d] (a pair of Aces)
+gdyates collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | Rake 0 
+Board [Kh 5d Js Ah As]
+Seat 1: shazbaat (big blind) folded before Flop
+Seat 2: Marcius.com folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 showed [Tc 9d] and lost with a pair of Aces
+Seat 5: giovanni1171 folded before Flop (didn't bet)
+Seat 6: foxat378 folded before Flop (didn't bet)
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 9: gdyates (small blind) showed [Ks 8d] and won (1640) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #191678444445: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XVIII (200/400) - 2018/10/01 4:13:47 ET
+Table '2418383464 3' 9-max Seat #9 is the button
+Seat 1: shazbaat (6800 in chips) 
+Seat 2: Marcius.com (1198 in chips) is sitting out
+Seat 3: 58COOLCATS (4946 in chips) 
+Seat 4: Zubs999 (3691 in chips) 
+Seat 5: giovanni1171 (15972 in chips) 
+Seat 6: foxat378 (6176 in chips) 
+Seat 7: donald86nv (6120 in chips) 
+Seat 8: nicholasj25 (9957 in chips) 
+Seat 9: gdyates (1640 in chips) 
+shazbaat: posts the ante 40
+Marcius.com: posts the ante 40
+58COOLCATS: posts the ante 40
+Zubs999: posts the ante 40
+giovanni1171: posts the ante 40
+foxat378: posts the ante 40
+donald86nv: posts the ante 40
+nicholasj25: posts the ante 40
+gdyates: posts the ante 40
+shazbaat: posts small blind 200
+Marcius.com: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2d Tc]
+58COOLCATS: folds 
+Zubs999: folds 
+giovanni1171: raises 15532 to 15932 and is all-in
+foxat378: folds 
+donald86nv: calls 6080 and is all-in
+nicholasj25: folds 
+gdyates: folds 
+shazbaat: folds 
+Marcius.com: folds 
+Uncalled bet (9852) returned to giovanni1171
+*** FLOP *** [Js 9s Qd]
+*** TURN *** [Js 9s Qd] [7d]
+*** RIVER *** [Js 9s Qd 7d] [3h]
+*** SHOW DOWN ***
+giovanni1171: shows [Ad Kh] (high card Ace)
+donald86nv: shows [Kd As] (high card Ace)
+giovanni1171 collected 6560 from pot
+donald86nv collected 6560 from pot
+*** SUMMARY ***
+Total pot 13120 | Rake 0 
+Board [Js 9s Qd 7d 3h]
+Seat 1: shazbaat (small blind) folded before Flop
+Seat 2: Marcius.com (big blind) folded before Flop
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 4: Zubs999 folded before Flop (didn't bet)
+Seat 5: giovanni1171 showed [Ad Kh] and won (6560) with high card Ace
+Seat 6: foxat378 folded before Flop (didn't bet)
+Seat 7: donald86nv showed [Kd As] and won (6560) with high card Ace
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: gdyates (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678449719: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XVIII (200/400) - 2018/10/01 4:14:09 ET
+Table '2418383464 3' 9-max Seat #1 is the button
+Seat 1: shazbaat (6560 in chips) 
+Seat 2: Marcius.com (758 in chips) is sitting out
+Seat 3: 58COOLCATS (4906 in chips) 
+Seat 4: Zubs999 (3651 in chips) 
+Seat 5: giovanni1171 (16412 in chips) 
+Seat 6: foxat378 (6136 in chips) 
+Seat 7: donald86nv (6560 in chips) 
+Seat 8: nicholasj25 (9917 in chips) 
+Seat 9: gdyates (1600 in chips) 
+shazbaat: posts the ante 40
+Marcius.com: posts the ante 40
+58COOLCATS: posts the ante 40
+Zubs999: posts the ante 40
+giovanni1171: posts the ante 40
+foxat378: posts the ante 40
+donald86nv: posts the ante 40
+nicholasj25: posts the ante 40
+gdyates: posts the ante 40
+Marcius.com: posts small blind 200
+58COOLCATS: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2d Qs]
+Zubs999: raises 3211 to 3611 and is all-in
+giovanni1171: folds 
+foxat378: folds 
+donald86nv: folds 
+nicholasj25: folds 
+gdyates: folds 
+shazbaat: folds 
+Marcius.com: folds 
+58COOLCATS: folds 
+Uncalled bet (3211) returned to Zubs999
+Zubs999 collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | Rake 0 
+Seat 1: shazbaat (button) folded before Flop (didn't bet)
+Seat 2: Marcius.com (small blind) folded before Flop
+Seat 3: 58COOLCATS (big blind) folded before Flop
+Seat 4: Zubs999 collected (1360)
+Seat 5: giovanni1171 folded before Flop (didn't bet)
+Seat 6: foxat378 folded before Flop (didn't bet)
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678454702: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XVIII (200/400) - 2018/10/01 4:14:29 ET
+Table '2418383464 3' 9-max Seat #2 is the button
+Seat 1: shazbaat (6520 in chips) 
+Seat 2: Marcius.com (518 in chips) is sitting out
+Seat 3: 58COOLCATS (4466 in chips) 
+Seat 4: Zubs999 (4571 in chips) 
+Seat 5: giovanni1171 (16372 in chips) 
+Seat 6: foxat378 (6096 in chips) 
+Seat 7: donald86nv (6520 in chips) 
+Seat 8: nicholasj25 (9877 in chips) 
+Seat 9: gdyates (1560 in chips) 
+shazbaat: posts the ante 40
+Marcius.com: posts the ante 40
+58COOLCATS: posts the ante 40
+Zubs999: posts the ante 40
+giovanni1171: posts the ante 40
+foxat378: posts the ante 40
+donald86nv: posts the ante 40
+nicholasj25: posts the ante 40
+gdyates: posts the ante 40
+58COOLCATS: posts small blind 200
+Zubs999: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [As Qc]
+giovanni1171: calls 400
+foxat378: folds 
+donald86nv has timed out
+donald86nv: folds 
+nicholasj25: raises 400 to 800
+gdyates: folds 
+shazbaat: folds 
+Marcius.com: folds 
+58COOLCATS: folds 
+Zubs999: folds 
+giovanni1171: calls 400
+*** FLOP *** [6s 6d 4d]
+giovanni1171: checks 
+nicholasj25: bets 1200
+giovanni1171: calls 1200
+*** TURN *** [6s 6d 4d] [Kc]
+giovanni1171: checks 
+nicholasj25: bets 7837 and is all-in
+giovanni1171: folds 
+Uncalled bet (7837) returned to nicholasj25
+nicholasj25 collected 4960 from pot
+*** SUMMARY ***
+Total pot 4960 | Rake 0 
+Board [6s 6d 4d Kc]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 2: Marcius.com (button) folded before Flop (didn't bet)
+Seat 3: 58COOLCATS (small blind) folded before Flop
+Seat 4: Zubs999 (big blind) folded before Flop
+Seat 5: giovanni1171 folded on the Turn
+Seat 6: foxat378 folded before Flop (didn't bet)
+Seat 7: donald86nv folded before Flop (didn't bet)
+Seat 8: nicholasj25 collected (4960)
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678465839: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XIX (250/500) - 2018/10/01 4:15:15 ET
+Table '2418383464 3' 9-max Seat #3 is the button
+Seat 1: shazbaat (6480 in chips) 
+Seat 2: Marcius.com (478 in chips) is sitting out
+Seat 3: 58COOLCATS (4226 in chips) 
+Seat 4: Zubs999 (4131 in chips) 
+Seat 5: giovanni1171 (14332 in chips) 
+Seat 6: foxat378 (6056 in chips) 
+Seat 7: donald86nv (6480 in chips) 
+Seat 8: nicholasj25 (12797 in chips) 
+Seat 9: gdyates (1520 in chips) 
+shazbaat: posts the ante 50
+Marcius.com: posts the ante 50
+58COOLCATS: posts the ante 50
+Zubs999: posts the ante 50
+giovanni1171: posts the ante 50
+foxat378: posts the ante 50
+donald86nv: posts the ante 50
+nicholasj25: posts the ante 50
+gdyates: posts the ante 50
+Zubs999: posts small blind 250
+giovanni1171: posts big blind 500
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6s Js]
+foxat378: folds 
+donald86nv: calls 500
+nicholasj25: folds 
+gdyates: folds 
+shazbaat: folds 
+Marcius.com: folds 
+58COOLCATS: folds 
+Zubs999: calls 250
+giovanni1171: checks 
+*** FLOP *** [Qd Qh Ts]
+Zubs999: checks 
+giovanni1171: checks 
+donald86nv: bets 975
+Zubs999: raises 2606 to 3581 and is all-in
+giovanni1171: calls 3581
+donald86nv: calls 2606
+*** TURN *** [Qd Qh Ts] [Ac]
+giovanni1171: bets 10201 and is all-in
+donald86nv: calls 2349 and is all-in
+Uncalled bet (7852) returned to giovanni1171
+*** RIVER *** [Qd Qh Ts Ac] [Jh]
+*** SHOW DOWN ***
+giovanni1171: shows [Qs 7h] (three of a kind, Queens)
+donald86nv: shows [Ks As] (a straight, Ten to Ace)
+donald86nv collected 4698 from side pot
+Zubs999: shows [4c Td] (two pair, Queens and Tens)
+donald86nv collected 12693 from main pot
+Zubs999 finished the tournament in 33rd place and received 20000.
+*** SUMMARY ***
+Total pot 17391 Main pot 12693. Side pot 4698. | Rake 0 
+Board [Qd Qh Ts Ac Jh]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 2: Marcius.com folded before Flop (didn't bet)
+Seat 3: 58COOLCATS (button) folded before Flop (didn't bet)
+Seat 4: Zubs999 (small blind) showed [4c Td] and lost with two pair, Queens and Tens
+Seat 5: giovanni1171 (big blind) showed [Qs 7h] and lost with three of a kind, Queens
+Seat 6: foxat378 folded before Flop (didn't bet)
+Seat 7: donald86nv showed [Ks As] and won (17391) with a straight, Ten to Ace
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678477892: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XIX (250/500) - 2018/10/01 4:16:05 ET
+Table '2418383464 3' 9-max Seat #5 is the button
+Seat 1: shazbaat (6430 in chips) 
+Seat 2: Marcius.com (428 in chips) is sitting out
+Seat 3: 58COOLCATS (4176 in chips) 
+Seat 5: giovanni1171 (7852 in chips) 
+Seat 6: foxat378 (6006 in chips) 
+Seat 7: donald86nv (17391 in chips) 
+Seat 8: nicholasj25 (12747 in chips) 
+Seat 9: gdyates (1470 in chips) 
+shazbaat: posts the ante 50
+Marcius.com: posts the ante 50
+58COOLCATS: posts the ante 50
+giovanni1171: posts the ante 50
+foxat378: posts the ante 50
+donald86nv: posts the ante 50
+nicholasj25: posts the ante 50
+gdyates: posts the ante 50
+foxat378: posts small blind 250
+donald86nv: posts big blind 500
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7d Kh]
+nicholasj25: folds 
+gdyates: calls 500
+shazbaat: folds 
+Marcius.com: folds 
+58COOLCATS: folds 
+giovanni1171: raises 7302 to 7802 and is all-in
+foxat378: folds 
+donald86nv: folds 
+gdyates: calls 920 and is all-in
+Uncalled bet (6382) returned to giovanni1171
+*** FLOP *** [2d 9c Kc]
+*** TURN *** [2d 9c Kc] [Js]
+*** RIVER *** [2d 9c Kc Js] [Ad]
+*** SHOW DOWN ***
+gdyates: shows [Th Tc] (a pair of Tens)
+giovanni1171: shows [4c 5c] (high card Ace)
+gdyates collected 3990 from pot
+*** SUMMARY ***
+Total pot 3990 | Rake 0 
+Board [2d 9c Kc Js Ad]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 2: Marcius.com folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 5: giovanni1171 (button) showed [4c 5c] and lost with high card Ace
+Seat 6: foxat378 (small blind) folded before Flop
+Seat 7: donald86nv (big blind) folded before Flop
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: gdyates showed [Th Tc] and won (3990) with a pair of Tens
+
+
+
+PokerStars Hand #191678484629: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XIX (250/500) - 2018/10/01 4:16:32 ET
+Table '2418383464 3' 9-max Seat #6 is the button
+Seat 1: shazbaat (6380 in chips) 
+Seat 2: Marcius.com (378 in chips) is sitting out
+Seat 3: 58COOLCATS (4126 in chips) 
+Seat 5: giovanni1171 (6382 in chips) 
+Seat 6: foxat378 (5706 in chips) 
+Seat 7: donald86nv (16841 in chips) 
+Seat 8: nicholasj25 (12697 in chips) 
+Seat 9: gdyates (3990 in chips) 
+shazbaat: posts the ante 50
+Marcius.com: posts the ante 50
+58COOLCATS: posts the ante 50
+giovanni1171: posts the ante 50
+foxat378: posts the ante 50
+donald86nv: posts the ante 50
+nicholasj25: posts the ante 50
+gdyates: posts the ante 50
+donald86nv: posts small blind 250
+nicholasj25: posts big blind 500
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3c Ac]
+gdyates: folds 
+shazbaat: folds 
+Marcius.com: folds 
+58COOLCATS: folds 
+giovanni1171: calls 500
+foxat378: folds 
+donald86nv: calls 250
+nicholasj25: checks 
+*** FLOP *** [Js Td Qc]
+donald86nv: bets 950
+nicholasj25: calls 950
+giovanni1171: calls 950
+*** TURN *** [Js Td Qc] [6c]
+donald86nv: bets 3000
+nicholasj25: calls 3000
+giovanni1171: calls 3000
+*** RIVER *** [Js Td Qc 6c] [4h]
+donald86nv: bets 5000
+nicholasj25: folds 
+giovanni1171: folds 
+Uncalled bet (5000) returned to donald86nv
+donald86nv collected 13750 from pot
+donald86nv: doesn't show hand 
+*** SUMMARY ***
+Total pot 13750 | Rake 0 
+Board [Js Td Qc 6c 4h]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 2: Marcius.com folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 5: giovanni1171 folded on the River
+Seat 6: foxat378 (button) folded before Flop (didn't bet)
+Seat 7: donald86nv (small blind) collected (13750)
+Seat 8: nicholasj25 (big blind) folded on the River
+Seat 9: gdyates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678498761: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XIX (250/500) - 2018/10/01 4:17:30 ET
+Table '2418383464 3' 9-max Seat #7 is the button
+Seat 1: shazbaat (6330 in chips) 
+Seat 2: Marcius.com (328 in chips) is sitting out
+Seat 3: 58COOLCATS (4076 in chips) 
+Seat 5: giovanni1171 (1882 in chips) 
+Seat 6: foxat378 (5656 in chips) 
+Seat 7: donald86nv (26091 in chips) 
+Seat 8: nicholasj25 (8197 in chips) 
+Seat 9: gdyates (3940 in chips) 
+shazbaat: posts the ante 50
+Marcius.com: posts the ante 50
+58COOLCATS: posts the ante 50
+giovanni1171: posts the ante 50
+foxat378: posts the ante 50
+donald86nv: posts the ante 50
+nicholasj25: posts the ante 50
+gdyates: posts the ante 50
+nicholasj25: posts small blind 250
+gdyates: posts big blind 500
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6h Ad]
+shazbaat: folds 
+Marcius.com: folds 
+58COOLCATS: folds 
+giovanni1171: folds 
+foxat378: folds 
+donald86nv: calls 500
+nicholasj25: calls 250
+gdyates: checks 
+*** FLOP *** [Kc 3s 9d]
+nicholasj25: checks 
+gdyates: bets 500
+donald86nv: raises 1000 to 1500
+nicholasj25: folds 
+gdyates: raises 1890 to 3390 and is all-in
+donald86nv: calls 1890
+*** TURN *** [Kc 3s 9d] [4h]
+*** RIVER *** [Kc 3s 9d 4h] [7h]
+*** SHOW DOWN ***
+gdyates: shows [Qd 9s] (a pair of Nines)
+donald86nv: shows [Kd Th] (a pair of Kings)
+donald86nv collected 8680 from pot
+gdyates finished the tournament in 28th place and received 20000.
+*** SUMMARY ***
+Total pot 8680 | Rake 0 
+Board [Kc 3s 9d 4h 7h]
+Seat 1: shazbaat folded before Flop (didn't bet)
+Seat 2: Marcius.com folded before Flop (didn't bet)
+Seat 3: 58COOLCATS folded before Flop (didn't bet)
+Seat 5: giovanni1171 folded before Flop (didn't bet)
+Seat 6: foxat378 folded before Flop (didn't bet)
+Seat 7: donald86nv (button) showed [Kd Th] and won (8680) with a pair of Kings
+Seat 8: nicholasj25 (small blind) folded on the Flop
+Seat 9: gdyates (big blind) showed [Qd 9s] and lost with a pair of Nines
+
+
+
+PokerStars Hand #191678512844: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XX (300/600) - 2018/10/01 4:18:27 ET
+Table '2418383464 16' 9-max Seat #9 is the button
+Seat 2: invernal_1991 (21649 in chips) 
+Seat 3: Marcius.com (278 in chips) is sitting out
+Seat 4: kmyi (13138 in chips) 
+Seat 5: Drufoxy (10187 in chips) 
+Seat 6: texanne63 (19398 in chips) 
+Seat 7: batyabatut (8236 in chips) 
+Seat 8: nicholasj25 (7647 in chips) 
+Seat 9: 1sensfan1 (5823 in chips) 
+invernal_1991: posts the ante 60
+Marcius.com: posts the ante 60
+kmyi: posts the ante 60
+Drufoxy: posts the ante 60
+texanne63: posts the ante 60
+batyabatut: posts the ante 60
+nicholasj25: posts the ante 60
+1sensfan1: posts the ante 60
+invernal_1991: posts small blind 300
+Marcius.com: posts big blind 218 and is all-in
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6h 5s]
+kmyi: calls 600
+Drufoxy: folds 
+texanne63: folds 
+batyabatut: calls 600
+nicholasj25: folds 
+1sensfan1: folds 
+invernal_1991: folds 
+Marcius.com: folds 
+*** FLOP *** [4h Tc 7s]
+kmyi: bets 600
+batyabatut: folds 
+Uncalled bet (600) returned to kmyi
+kmyi collected 2198 from pot
+Marcius.com finished the tournament in 25th place and received 23000.
+kmyi: doesn't show hand 
+*** SUMMARY ***
+Total pot 2198 | Rake 0 
+Board [4h Tc 7s]
+Seat 2: invernal_1991 (small blind) folded before Flop
+Seat 3: Marcius.com (big blind) folded before Flop
+Seat 4: kmyi collected (2198)
+Seat 5: Drufoxy folded before Flop (didn't bet)
+Seat 6: texanne63 folded before Flop (didn't bet)
+Seat 7: batyabatut folded on the Flop
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: 1sensfan1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678520405: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XX (300/600) - 2018/10/01 4:18:58 ET
+Table '2418383464 16' 9-max Seat #2 is the button
+Seat 2: invernal_1991 (21289 in chips) 
+Seat 4: kmyi (14676 in chips) 
+Seat 5: Drufoxy (10127 in chips) 
+Seat 6: texanne63 (19338 in chips) 
+Seat 7: batyabatut (7576 in chips) 
+Seat 8: nicholasj25 (7587 in chips) 
+Seat 9: 1sensfan1 (5763 in chips) 
+invernal_1991: posts the ante 60
+kmyi: posts the ante 60
+Drufoxy: posts the ante 60
+texanne63: posts the ante 60
+batyabatut: posts the ante 60
+nicholasj25: posts the ante 60
+1sensfan1: posts the ante 60
+kmyi: posts small blind 300
+Drufoxy: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4h 9c]
+texanne63: folds 
+batyabatut: calls 600
+nicholasj25: folds 
+1sensfan1: folds 
+invernal_1991: folds 
+kmyi: calls 300
+Drufoxy: checks 
+*** FLOP *** [Ad Th 7d]
+kmyi: checks 
+Drufoxy: bets 600
+batyabatut: calls 600
+kmyi: folds 
+*** TURN *** [Ad Th 7d] [Jc]
+Drufoxy: checks 
+batyabatut: bets 600
+Drufoxy: calls 600
+*** RIVER *** [Ad Th 7d Jc] [Kc]
+Drufoxy: checks 
+batyabatut: bets 5716 and is all-in
+Drufoxy: folds 
+Uncalled bet (5716) returned to batyabatut
+batyabatut collected 4620 from pot
+*** SUMMARY ***
+Total pot 4620 | Rake 0 
+Board [Ad Th 7d Jc Kc]
+Seat 2: invernal_1991 (button) folded before Flop (didn't bet)
+Seat 4: kmyi (small blind) folded on the Flop
+Seat 5: Drufoxy (big blind) folded on the River
+Seat 6: texanne63 folded before Flop (didn't bet)
+Seat 7: batyabatut collected (4620)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: 1sensfan1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678530705: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XX (300/600) - 2018/10/01 4:19:40 ET
+Table '2418383464 16' 9-max Seat #4 is the button
+Seat 1: fredo8593 (1258 in chips) 
+Seat 2: invernal_1991 (21229 in chips) 
+Seat 4: kmyi (14016 in chips) 
+Seat 5: Drufoxy (8267 in chips) 
+Seat 6: texanne63 (19278 in chips) 
+Seat 7: batyabatut (10336 in chips) 
+Seat 8: nicholasj25 (7527 in chips) 
+Seat 9: 1sensfan1 (5703 in chips) 
+fredo8593: posts the ante 60
+invernal_1991: posts the ante 60
+kmyi: posts the ante 60
+Drufoxy: posts the ante 60
+texanne63: posts the ante 60
+batyabatut: posts the ante 60
+nicholasj25: posts the ante 60
+1sensfan1: posts the ante 60
+Drufoxy: posts small blind 300
+texanne63: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4s 9d]
+batyabatut: folds 
+nicholasj25: folds 
+1sensfan1: calls 600
+fredo8593 has timed out
+fredo8593: folds 
+invernal_1991: raises 600 to 1200
+kmyi: folds 
+Drufoxy: folds 
+texanne63: folds 
+1sensfan1: calls 600
+*** FLOP *** [9c Ts 3s]
+1sensfan1: checks 
+invernal_1991: checks 
+*** TURN *** [9c Ts 3s] [Qd]
+1sensfan1: checks 
+invernal_1991: checks 
+*** RIVER *** [9c Ts 3s Qd] [Ad]
+1sensfan1: checks 
+invernal_1991: checks 
+*** SHOW DOWN ***
+1sensfan1: shows [Jc Jd] (a pair of Jacks)
+invernal_1991: shows [7h Ah] (a pair of Aces)
+invernal_1991 collected 3780 from pot
+*** SUMMARY ***
+Total pot 3780 | Rake 0 
+Board [9c Ts 3s Qd Ad]
+Seat 1: fredo8593 folded before Flop (didn't bet)
+Seat 2: invernal_1991 showed [7h Ah] and won (3780) with a pair of Aces
+Seat 4: kmyi (button) folded before Flop (didn't bet)
+Seat 5: Drufoxy (small blind) folded before Flop
+Seat 6: texanne63 (big blind) folded before Flop
+Seat 7: batyabatut folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: 1sensfan1 showed [Jc Jd] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #191678542928: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XX (300/600) - 2018/10/01 4:20:29 ET
+Table '2418383464 16' 9-max Seat #5 is the button
+Seat 1: fredo8593 (1198 in chips) is sitting out
+Seat 2: invernal_1991 (23749 in chips) 
+Seat 4: kmyi (13956 in chips) 
+Seat 5: Drufoxy (7907 in chips) 
+Seat 6: texanne63 (18618 in chips) 
+Seat 7: batyabatut (10276 in chips) 
+Seat 8: nicholasj25 (7467 in chips) 
+Seat 9: 1sensfan1 (4443 in chips) 
+fredo8593: posts the ante 60
+invernal_1991: posts the ante 60
+kmyi: posts the ante 60
+Drufoxy: posts the ante 60
+texanne63: posts the ante 60
+batyabatut: posts the ante 60
+nicholasj25: posts the ante 60
+1sensfan1: posts the ante 60
+texanne63: posts small blind 300
+batyabatut: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [As 6c]
+nicholasj25: folds 
+1sensfan1: folds 
+fredo8593: folds 
+invernal_1991: folds 
+kmyi: folds 
+Drufoxy: folds 
+texanne63: calls 300
+batyabatut: checks 
+*** FLOP *** [Qd 5s Js]
+texanne63: bets 600
+batyabatut: folds 
+Uncalled bet (600) returned to texanne63
+texanne63 collected 1680 from pot
+texanne63: doesn't show hand 
+*** SUMMARY ***
+Total pot 1680 | Rake 0 
+Board [Qd 5s Js]
+Seat 1: fredo8593 folded before Flop (didn't bet)
+Seat 2: invernal_1991 folded before Flop (didn't bet)
+Seat 4: kmyi folded before Flop (didn't bet)
+Seat 5: Drufoxy (button) folded before Flop (didn't bet)
+Seat 6: texanne63 (small blind) collected (1680)
+Seat 7: batyabatut (big blind) folded on the Flop
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: 1sensfan1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678551711: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XX (300/600) - 2018/10/01 4:21:05 ET
+Table '2418383464 8' 9-max Seat #7 is the button
+Seat 1: nicholasj25 (7407 in chips) 
+Seat 2: igorivani665 (11318 in chips) 
+Seat 3: mickym007 (28055 in chips) 
+Seat 4: freben8310 (2634 in chips) 
+Seat 6: 58COOLCATS (5766 in chips) 
+Seat 7: shazbaat (8302 in chips) 
+Seat 9: munidani (24754 in chips) 
+nicholasj25: posts the ante 60
+igorivani665: posts the ante 60
+mickym007: posts the ante 60
+freben8310: posts the ante 60
+58COOLCATS: posts the ante 60
+shazbaat: posts the ante 60
+munidani: posts the ante 60
+munidani: posts small blind 300
+nicholasj25: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5c 6d]
+igorivani665: folds 
+mickym007: folds 
+freben8310: folds 
+58COOLCATS: folds 
+shazbaat: folds 
+munidani: calls 300
+nicholasj25: checks 
+*** FLOP *** [Th As 3d]
+munidani: checks 
+nicholasj25: bets 600
+munidani: folds 
+Uncalled bet (600) returned to nicholasj25
+nicholasj25 collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | Rake 0 
+Board [Th As 3d]
+Seat 1: nicholasj25 (big blind) collected (1620)
+Seat 2: igorivani665 folded before Flop (didn't bet)
+Seat 3: mickym007 folded before Flop (didn't bet)
+Seat 4: freben8310 folded before Flop (didn't bet)
+Seat 6: 58COOLCATS folded before Flop (didn't bet)
+Seat 7: shazbaat (button) folded before Flop (didn't bet)
+Seat 9: munidani (small blind) folded on the Flop
+
+
+
+PokerStars Hand #191678561314: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XXI (350/700) - 2018/10/01 4:21:43 ET
+Table '2418383464 8' 9-max Seat #9 is the button
+Seat 1: nicholasj25 (8367 in chips) 
+Seat 2: igorivani665 (11258 in chips) 
+Seat 3: mickym007 (27995 in chips) 
+Seat 4: freben8310 (2574 in chips) 
+Seat 6: 58COOLCATS (5706 in chips) 
+Seat 7: shazbaat (8242 in chips) 
+Seat 9: munidani (24094 in chips) 
+nicholasj25: posts the ante 70
+igorivani665: posts the ante 70
+mickym007: posts the ante 70
+freben8310: posts the ante 70
+58COOLCATS: posts the ante 70
+shazbaat: posts the ante 70
+munidani: posts the ante 70
+nicholasj25: posts small blind 350
+igorivani665: posts big blind 700
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qc Tc]
+mickym007: folds 
+freben8310: folds 
+58COOLCATS: folds 
+shazbaat: calls 700
+munidani: folds 
+nicholasj25: calls 350
+igorivani665: raises 2590 to 3290
+shazbaat: folds 
+nicholasj25: folds 
+Uncalled bet (2590) returned to igorivani665
+igorivani665 collected 2590 from pot
+igorivani665: doesn't show hand 
+*** SUMMARY ***
+Total pot 2590 | Rake 0 
+Seat 1: nicholasj25 (small blind) folded before Flop
+Seat 2: igorivani665 (big blind) collected (2590)
+Seat 3: mickym007 folded before Flop (didn't bet)
+Seat 4: freben8310 folded before Flop (didn't bet)
+Seat 6: 58COOLCATS folded before Flop (didn't bet)
+Seat 7: shazbaat folded before Flop
+Seat 9: munidani (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678567717: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XXI (350/700) - 2018/10/01 4:22:09 ET
+Table '2418383464 8' 9-max Seat #1 is the button
+Seat 1: nicholasj25 (7597 in chips) 
+Seat 2: igorivani665 (13078 in chips) 
+Seat 3: mickym007 (27925 in chips) 
+Seat 4: freben8310 (2504 in chips) 
+Seat 6: 58COOLCATS (5636 in chips) 
+Seat 7: shazbaat (7472 in chips) 
+Seat 9: munidani (24024 in chips) 
+nicholasj25: posts the ante 70
+igorivani665: posts the ante 70
+mickym007: posts the ante 70
+freben8310: posts the ante 70
+58COOLCATS: posts the ante 70
+shazbaat: posts the ante 70
+munidani: posts the ante 70
+igorivani665: posts small blind 350
+mickym007: posts big blind 700
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6d 8c]
+freben8310: calls 700
+58COOLCATS: folds 
+shazbaat: folds 
+munidani: folds 
+nicholasj25: folds 
+igorivani665: calls 350
+mickym007: checks 
+*** FLOP *** [8d 8h 3d]
+igorivani665: checks 
+mickym007: checks 
+freben8310: checks 
+*** TURN *** [8d 8h 3d] [2s]
+igorivani665: checks 
+mickym007: checks 
+freben8310: checks 
+*** RIVER *** [8d 8h 3d 2s] [3c]
+igorivani665: bets 700
+mickym007: folds 
+freben8310: calls 700
+*** SHOW DOWN ***
+igorivani665: shows [9s Qh] (two pair, Eights and Threes)
+freben8310: shows [Js Kh] (two pair, Eights and Threes - King kicker)
+freben8310 collected 3990 from pot
+*** SUMMARY ***
+Total pot 3990 | Rake 0 
+Board [8d 8h 3d 2s 3c]
+Seat 1: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 2: igorivani665 (small blind) showed [9s Qh] and lost with two pair, Eights and Threes
+Seat 3: mickym007 (big blind) folded on the River
+Seat 4: freben8310 showed [Js Kh] and won (3990) with two pair, Eights and Threes
+Seat 6: 58COOLCATS folded before Flop (didn't bet)
+Seat 7: shazbaat folded before Flop (didn't bet)
+Seat 9: munidani folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678578539: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XXI (350/700) - 2018/10/01 4:22:52 ET
+Table '2418383464 8' 9-max Seat #2 is the button
+Seat 1: nicholasj25 (7527 in chips) 
+Seat 2: igorivani665 (11608 in chips) 
+Seat 3: mickym007 (27155 in chips) 
+Seat 4: freben8310 (5024 in chips) 
+Seat 6: 58COOLCATS (5566 in chips) 
+Seat 7: shazbaat (7402 in chips) 
+Seat 9: munidani (23954 in chips) 
+nicholasj25: posts the ante 70
+igorivani665: posts the ante 70
+mickym007: posts the ante 70
+freben8310: posts the ante 70
+58COOLCATS: posts the ante 70
+shazbaat: posts the ante 70
+munidani: posts the ante 70
+mickym007: posts small blind 350
+freben8310: posts big blind 700
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7c 4h]
+58COOLCATS: folds 
+shazbaat: folds 
+munidani: folds 
+nicholasj25: folds 
+igorivani665: calls 700
+mickym007: calls 350
+freben8310: checks 
+*** FLOP *** [8c 4s Qd]
+mickym007: checks 
+freben8310: checks 
+igorivani665: bets 700
+mickym007: folds 
+freben8310: folds 
+Uncalled bet (700) returned to igorivani665
+igorivani665 collected 2590 from pot
+igorivani665: doesn't show hand 
+*** SUMMARY ***
+Total pot 2590 | Rake 0 
+Board [8c 4s Qd]
+Seat 1: nicholasj25 folded before Flop (didn't bet)
+Seat 2: igorivani665 (button) collected (2590)
+Seat 3: mickym007 (small blind) folded on the Flop
+Seat 4: freben8310 (big blind) folded on the Flop
+Seat 6: 58COOLCATS folded before Flop (didn't bet)
+Seat 7: shazbaat folded before Flop (didn't bet)
+Seat 9: munidani folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678587307: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XXI (350/700) - 2018/10/01 4:23:27 ET
+Table '2418383464 8' 9-max Seat #3 is the button
+Seat 1: nicholasj25 (7457 in chips) 
+Seat 2: igorivani665 (13428 in chips) 
+Seat 3: mickym007 (26385 in chips) 
+Seat 4: freben8310 (4254 in chips) 
+Seat 6: 58COOLCATS (5496 in chips) 
+Seat 7: shazbaat (7332 in chips) 
+Seat 9: munidani (23884 in chips) 
+nicholasj25: posts the ante 70
+igorivani665: posts the ante 70
+mickym007: posts the ante 70
+freben8310: posts the ante 70
+58COOLCATS: posts the ante 70
+shazbaat: posts the ante 70
+munidani: posts the ante 70
+freben8310: posts small blind 350
+58COOLCATS: posts big blind 700
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qh As]
+shazbaat: folds 
+munidani: folds 
+nicholasj25: raises 700 to 1400
+igorivani665: folds 
+mickym007: folds 
+freben8310: calls 1050
+58COOLCATS: folds 
+*** FLOP *** [8d 5h 8c]
+freben8310: checks 
+nicholasj25: bets 5987 and is all-in
+freben8310: calls 2784 and is all-in
+Uncalled bet (3203) returned to nicholasj25
+*** TURN *** [8d 5h 8c] [Ac]
+*** RIVER *** [8d 5h 8c Ac] [6d]
+*** SHOW DOWN ***
+freben8310: shows [Jh Kc] (a pair of Eights)
+nicholasj25: shows [Qh As] (two pair, Aces and Eights)
+nicholasj25 collected 9558 from pot
+freben8310 finished the tournament in 19th place and received 23000.
+*** SUMMARY ***
+Total pot 9558 | Rake 0 
+Board [8d 5h 8c Ac 6d]
+Seat 1: nicholasj25 showed [Qh As] and won (9558) with two pair, Aces and Eights
+Seat 2: igorivani665 folded before Flop (didn't bet)
+Seat 3: mickym007 (button) folded before Flop (didn't bet)
+Seat 4: freben8310 (small blind) showed [Jh Kc] and lost with a pair of Eights
+Seat 6: 58COOLCATS (big blind) folded before Flop
+Seat 7: shazbaat folded before Flop (didn't bet)
+Seat 9: munidani folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678603910: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XXII (400/800) - 2018/10/01 4:24:33 ET
+Table '2418383464 16' 9-max Seat #7 is the button
+Seat 2: invernal_1991 (26359 in chips) 
+Seat 3: nicholasj25 (12761 in chips) 
+Seat 4: kmyi (27377 in chips) 
+Seat 5: Drufoxy (8487 in chips) 
+Seat 6: texanne63 (11248 in chips) 
+Seat 7: batyabatut (6736 in chips) 
+invernal_1991: posts the ante 80
+nicholasj25: posts the ante 80
+kmyi: posts the ante 80
+Drufoxy: posts the ante 80
+texanne63: posts the ante 80
+batyabatut: posts the ante 80
+invernal_1991: posts small blind 400
+nicholasj25: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3s Kd]
+kmyi: folds 
+Drufoxy: folds 
+texanne63: folds 
+batyabatut: calls 800
+invernal_1991: calls 400
+nicholasj25: checks 
+*** FLOP *** [Ac 9c Qd]
+invernal_1991: checks 
+nicholasj25: bets 800
+batyabatut: calls 800
+invernal_1991: folds 
+*** TURN *** [Ac 9c Qd] [3d]
+nicholasj25: checks 
+batyabatut: bets 800
+nicholasj25: folds 
+Uncalled bet (800) returned to batyabatut
+batyabatut collected 4480 from pot
+*** SUMMARY ***
+Total pot 4480 | Rake 0 
+Board [Ac 9c Qd 3d]
+Seat 2: invernal_1991 (small blind) folded on the Flop
+Seat 3: nicholasj25 (big blind) folded on the Turn
+Seat 4: kmyi folded before Flop (didn't bet)
+Seat 5: Drufoxy folded before Flop (didn't bet)
+Seat 6: texanne63 folded before Flop (didn't bet)
+Seat 7: batyabatut (button) collected (4480)
+
+
+
+PokerStars Hand #191678615943: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XXII (400/800) - 2018/10/01 4:25:21 ET
+Table '2418383464 16' 9-max Seat #3 is the button
+Seat 3: nicholasj25 (11081 in chips) 
+Seat 4: kmyi (27297 in chips) 
+Seat 5: Drufoxy (8407 in chips) 
+Seat 6: texanne63 (11168 in chips) 
+Seat 7: batyabatut (9536 in chips) 
+Seat 8: 58COOLCATS (4726 in chips) 
+Seat 9: shazbaat (7262 in chips) 
+nicholasj25: posts the ante 80
+kmyi: posts the ante 80
+Drufoxy: posts the ante 80
+texanne63: posts the ante 80
+batyabatut: posts the ante 80
+58COOLCATS: posts the ante 80
+shazbaat: posts the ante 80
+kmyi: posts small blind 400
+Drufoxy: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2h Th]
+texanne63: raises 10288 to 11088 and is all-in
+batyabatut: folds 
+58COOLCATS: folds 
+shazbaat: folds 
+nicholasj25: folds 
+kmyi: folds 
+Drufoxy: folds 
+Uncalled bet (10288) returned to texanne63
+texanne63 collected 2560 from pot
+texanne63: doesn't show hand 
+*** SUMMARY ***
+Total pot 2560 | Rake 0 
+Seat 3: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 4: kmyi (small blind) folded before Flop
+Seat 5: Drufoxy (big blind) folded before Flop
+Seat 6: texanne63 collected (2560)
+Seat 7: batyabatut folded before Flop (didn't bet)
+Seat 8: 58COOLCATS folded before Flop (didn't bet)
+Seat 9: shazbaat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678619849: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XXII (400/800) - 2018/10/01 4:25:37 ET
+Table '2418383464 16' 9-max Seat #4 is the button
+Seat 3: nicholasj25 (11001 in chips) 
+Seat 4: kmyi (26817 in chips) 
+Seat 5: Drufoxy (7527 in chips) 
+Seat 6: texanne63 (12848 in chips) 
+Seat 7: batyabatut (9456 in chips) 
+Seat 8: 58COOLCATS (4646 in chips) 
+Seat 9: shazbaat (7182 in chips) 
+nicholasj25: posts the ante 80
+kmyi: posts the ante 80
+Drufoxy: posts the ante 80
+texanne63: posts the ante 80
+batyabatut: posts the ante 80
+58COOLCATS: posts the ante 80
+shazbaat: posts the ante 80
+Drufoxy: posts small blind 400
+texanne63: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6s 9d]
+batyabatut: folds 
+58COOLCATS: raises 3766 to 4566 and is all-in
+shazbaat: folds 
+nicholasj25: folds 
+kmyi: folds 
+Drufoxy: folds 
+texanne63: folds 
+Uncalled bet (3766) returned to 58COOLCATS
+58COOLCATS collected 2560 from pot
+58COOLCATS: doesn't show hand 
+*** SUMMARY ***
+Total pot 2560 | Rake 0 
+Seat 3: nicholasj25 folded before Flop (didn't bet)
+Seat 4: kmyi (button) folded before Flop (didn't bet)
+Seat 5: Drufoxy (small blind) folded before Flop
+Seat 6: texanne63 (big blind) folded before Flop
+Seat 7: batyabatut folded before Flop (didn't bet)
+Seat 8: 58COOLCATS collected (2560)
+Seat 9: shazbaat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678623869: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XXII (400/800) - 2018/10/01 4:25:53 ET
+Table '2418383464 16' 9-max Seat #5 is the button
+Seat 3: nicholasj25 (10921 in chips) 
+Seat 4: kmyi (26737 in chips) 
+Seat 5: Drufoxy (7047 in chips) 
+Seat 6: texanne63 (11968 in chips) 
+Seat 7: batyabatut (9376 in chips) 
+Seat 8: 58COOLCATS (6326 in chips) 
+Seat 9: shazbaat (7102 in chips) 
+nicholasj25: posts the ante 80
+kmyi: posts the ante 80
+Drufoxy: posts the ante 80
+texanne63: posts the ante 80
+batyabatut: posts the ante 80
+58COOLCATS: posts the ante 80
+shazbaat: posts the ante 80
+texanne63: posts small blind 400
+batyabatut: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kh Ac]
+58COOLCATS: raises 5446 to 6246 and is all-in
+shazbaat: folds 
+nicholasj25: folds 
+kmyi: folds 
+Drufoxy: folds 
+texanne63: folds 
+batyabatut: folds 
+Uncalled bet (5446) returned to 58COOLCATS
+58COOLCATS collected 2560 from pot
+58COOLCATS: doesn't show hand 
+*** SUMMARY ***
+Total pot 2560 | Rake 0 
+Seat 3: nicholasj25 folded before Flop (didn't bet)
+Seat 4: kmyi folded before Flop (didn't bet)
+Seat 5: Drufoxy (button) folded before Flop (didn't bet)
+Seat 6: texanne63 (small blind) folded before Flop
+Seat 7: batyabatut (big blind) folded before Flop
+Seat 8: 58COOLCATS collected (2560)
+Seat 9: shazbaat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678630649: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XXII (400/800) - 2018/10/01 4:26:20 ET
+Table '2418383464 16' 9-max Seat #6 is the button
+Seat 3: nicholasj25 (10841 in chips) 
+Seat 4: kmyi (26657 in chips) 
+Seat 5: Drufoxy (6967 in chips) 
+Seat 6: texanne63 (11488 in chips) 
+Seat 7: batyabatut (8496 in chips) 
+Seat 8: 58COOLCATS (8006 in chips) 
+Seat 9: shazbaat (7022 in chips) 
+nicholasj25: posts the ante 80
+kmyi: posts the ante 80
+Drufoxy: posts the ante 80
+texanne63: posts the ante 80
+batyabatut: posts the ante 80
+58COOLCATS: posts the ante 80
+shazbaat: posts the ante 80
+batyabatut: posts small blind 400
+58COOLCATS: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kh 4d]
+shazbaat: folds 
+nicholasj25: folds 
+kmyi has timed out
+kmyi: folds 
+Drufoxy: raises 1200 to 2000
+texanne63: folds 
+batyabatut: folds 
+58COOLCATS: folds 
+Uncalled bet (1200) returned to Drufoxy
+Drufoxy collected 2560 from pot
+Drufoxy: doesn't show hand 
+*** SUMMARY ***
+Total pot 2560 | Rake 0 
+Seat 3: nicholasj25 folded before Flop (didn't bet)
+Seat 4: kmyi folded before Flop (didn't bet)
+Seat 5: Drufoxy collected (2560)
+Seat 6: texanne63 (button) folded before Flop (didn't bet)
+Seat 7: batyabatut (small blind) folded before Flop
+Seat 8: 58COOLCATS (big blind) folded before Flop
+Seat 9: shazbaat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #191678640869: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XXII (400/800) - 2018/10/01 4:27:00 ET
+Table '2418383464 16' 9-max Seat #7 is the button
+Seat 3: nicholasj25 (10761 in chips) 
+Seat 4: kmyi (26577 in chips) is sitting out
+Seat 5: Drufoxy (8647 in chips) 
+Seat 6: texanne63 (11408 in chips) 
+Seat 7: batyabatut (8016 in chips) 
+Seat 8: 58COOLCATS (7126 in chips) 
+Seat 9: shazbaat (6942 in chips) 
+nicholasj25: posts the ante 80
+kmyi: posts the ante 80
+Drufoxy: posts the ante 80
+texanne63: posts the ante 80
+batyabatut: posts the ante 80
+58COOLCATS: posts the ante 80
+shazbaat: posts the ante 80
+58COOLCATS: posts small blind 400
+shazbaat: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6c 4d]
+nicholasj25: folds 
+kmyi: folds 
+Drufoxy: folds 
+texanne63: calls 800
+batyabatut: folds 
+58COOLCATS: folds 
+shazbaat: checks 
+*** FLOP *** [3s Jh Qd]
+shazbaat: checks 
+texanne63: bets 800
+shazbaat: calls 800
+*** TURN *** [3s Jh Qd] [7d]
+shazbaat: checks 
+texanne63: bets 800
+shazbaat: calls 800
+*** RIVER *** [3s Jh Qd 7d] [6h]
+shazbaat: checks 
+texanne63: bets 5760
+shazbaat: folds 
+Uncalled bet (5760) returned to texanne63
+texanne63 collected 5760 from pot
+texanne63: doesn't show hand 
+*** SUMMARY ***
+Total pot 5760 | Rake 0 
+Board [3s Jh Qd 7d 6h]
+Seat 3: nicholasj25 folded before Flop (didn't bet)
+Seat 4: kmyi folded before Flop (didn't bet)
+Seat 5: Drufoxy folded before Flop (didn't bet)
+Seat 6: texanne63 collected (5760)
+Seat 7: batyabatut (button) folded before Flop (didn't bet)
+Seat 8: 58COOLCATS (small blind) folded before Flop
+Seat 9: shazbaat (big blind) folded on the River
+
+
+
+PokerStars Hand #191678652417: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XXIII (500/1000) - 2018/10/01 4:27:46 ET
+Table '2418383464 16' 9-max Seat #8 is the button
+Seat 3: nicholasj25 (10681 in chips) 
+Seat 4: kmyi (26497 in chips) is sitting out
+Seat 5: Drufoxy (8567 in chips) 
+Seat 6: texanne63 (14688 in chips) 
+Seat 7: batyabatut (7936 in chips) 
+Seat 8: 58COOLCATS (6646 in chips) 
+Seat 9: shazbaat (4462 in chips) 
+nicholasj25: posts the ante 100
+kmyi: posts the ante 100
+Drufoxy: posts the ante 100
+texanne63: posts the ante 100
+batyabatut: posts the ante 100
+58COOLCATS: posts the ante 100
+shazbaat: posts the ante 100
+shazbaat: posts small blind 500
+nicholasj25: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ks 5d]
+kmyi: folds 
+Drufoxy: folds 
+texanne63: calls 1000
+batyabatut: calls 1000
+58COOLCATS: folds 
+shazbaat: raises 3362 to 4362 and is all-in
+nicholasj25: folds 
+texanne63: calls 3362
+batyabatut: folds 
+*** FLOP *** [5s 6s 5c]
+*** TURN *** [5s 6s 5c] [Td]
+*** RIVER *** [5s 6s 5c Td] [2c]
+*** SHOW DOWN ***
+shazbaat: shows [Ac 8s] (a pair of Fives)
+texanne63: shows [Qh Kd] (a pair of Fives - lower kicker)
+shazbaat collected 11424 from pot
+*** SUMMARY ***
+Total pot 11424 | Rake 0 
+Board [5s 6s 5c Td 2c]
+Seat 3: nicholasj25 (big blind) folded before Flop
+Seat 4: kmyi folded before Flop (didn't bet)
+Seat 5: Drufoxy folded before Flop (didn't bet)
+Seat 6: texanne63 showed [Qh Kd] and lost with a pair of Fives
+Seat 7: batyabatut folded before Flop
+Seat 8: 58COOLCATS (button) folded before Flop (didn't bet)
+Seat 9: shazbaat (small blind) showed [Ac 8s] and won (11424) with a pair of Fives
+
+
+
+PokerStars Hand #191678660598: Tournament #2418383464, 9000+1000 Hold'em No Limit - Level XXIII (500/1000) - 2018/10/01 4:28:18 ET
+Table '2418383464 16' 9-max Seat #9 is the button
+Seat 3: nicholasj25 (9581 in chips) 
+Seat 4: kmyi (26397 in chips) is sitting out
+Seat 5: Drufoxy (8467 in chips) 
+Seat 6: texanne63 (10226 in chips) 
+Seat 8: 58COOLCATS (6546 in chips) 
+Seat 9: shazbaat (11424 in chips) 
+nicholasj25: posts the ante 100
+kmyi: posts the ante 100
+Drufoxy: posts the ante 100
+texanne63: posts the ante 100
+58COOLCATS: posts the ante 100
+shazbaat: posts the ante 100
+nicholasj25: posts small blind 500
+kmyi: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9d Js]
+Drufoxy has timed out
+Drufoxy: folds 
+texanne63: folds 
+58COOLCATS: folds 
+shazbaat: folds 
+nicholasj25: calls 500
+kmyi: checks 
+*** FLOP *** [Th Jh 3s]
+nicholasj25: bets 1000
+kmyi: calls 1000
+*** TURN *** [Th Jh 3s] [Kc]
+nicholasj25: bets 2000
+kmyi: calls 2000
+*** RIVER *** [Th Jh 3s Kc] [Ac]
+nicholasj25: checks 
+kmyi: bets 1000
+nicholasj25: raises 4481 to 5481 and is all-in
+kmyi: calls 4481
+*** SHOW DOWN ***
+nicholasj25: shows [9d Js] (a pair of Jacks)
+kmyi: shows [6h Qh] (a straight, Ten to Ace)
+kmyi collected 19562 from pot
+nicholasj25 finished the tournament in 12th place and received 32000.
+*** SUMMARY ***
+Total pot 19562 | Rake 0 
+Board [Th Jh 3s Kc Ac]
+Seat 3: nicholasj25 (small blind) showed [9d Js] and lost with a pair of Jacks
+Seat 4: kmyi (big blind) showed [6h Qh] and won (19562) with a straight, Ten to Ace
+Seat 5: Drufoxy folded before Flop (didn't bet)
+Seat 6: texanne63 folded before Flop (didn't bet)
+Seat 8: 58COOLCATS folded before Flop (didn't bet)
+Seat 9: shazbaat (button) folded before Flop (didn't bet)
+
+
+

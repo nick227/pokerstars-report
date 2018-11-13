@@ -1,0 +1,20 @@
+{
+  "name": "pokerlook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "poker",
+    "data"
+  ],
+  "author": "nrios",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "underscore": "^1.9.1"
+  }
+}

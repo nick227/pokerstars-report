@@ -1,0 +1,5404 @@
+﻿PokerStars Hand #189800483327: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level I (10/20) - 2018/08/12 9:20:43 ET
+Table '2380581917 2' 9-max Seat #1 is the button
+Seat 1: Jadon006 (1500 in chips) 
+Seat 2: RandyTAB (1500 in chips) 
+Seat 3: Toro1133 (1500 in chips) is sitting out
+Seat 4: hcvfla (1500 in chips) is sitting out
+Seat 5: hzane (1500 in chips) 
+Seat 6: willeyson (1500 in chips) 
+Seat 7: ZaloUltra40 (1500 in chips) 
+Seat 8: ArmaliteLemon84 (1500 in chips) 
+Seat 9: darrelelpert (1500 in chips) 
+RandyTAB: posts small blind 10
+Toro1133: posts big blind 20
+*** HOLE CARDS ***
+Dealt to hzane [Kc 6c]
+hcvfla: folds 
+hzane: calls 20
+willeyson: folds 
+ZaloUltra40: folds 
+ArmaliteLemon84: folds 
+darrelelpert: raises 70 to 90
+Jadon006: calls 90
+RandyTAB: folds 
+Toro1133: calls 70
+hzane: calls 70
+*** FLOP *** [Kd Jc 2c]
+Toro1133: checks 
+hzane: bets 60
+darrelelpert: calls 60
+Jadon006: folds 
+Toro1133: calls 60
+*** TURN *** [Kd Jc 2c] [9c]
+Toro1133: checks 
+hzane: bets 80
+darrelelpert: calls 80
+Toro1133: calls 80
+*** RIVER *** [Kd Jc 2c 9c] [4d]
+Toro1133: checks 
+hzane: bets 200
+darrelelpert: calls 200
+Toro1133: calls 200
+*** SHOW DOWN ***
+hzane: shows [Kc 6c] (a flush, King high)
+darrelelpert: mucks hand 
+Toro1133: mucks hand 
+hzane collected 1390 from pot
+*** SUMMARY ***
+Total pot 1390 | Rake 0 
+Board [Kd Jc 2c 9c 4d]
+Seat 1: Jadon006 (button) folded on the Flop
+Seat 2: RandyTAB (small blind) folded before Flop
+Seat 3: Toro1133 (big blind) mucked [4h 2h]
+Seat 4: hcvfla folded before Flop (didn't bet)
+Seat 5: hzane showed [Kc 6c] and won (1390) with a flush, King high
+Seat 6: willeyson folded before Flop (didn't bet)
+Seat 7: ZaloUltra40 folded before Flop (didn't bet)
+Seat 8: ArmaliteLemon84 folded before Flop (didn't bet)
+Seat 9: darrelelpert mucked [Qd Qs]
+
+
+
+PokerStars Hand #189800526214: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level I (10/20) - 2018/08/12 9:22:09 ET
+Table '2380581917 2' 9-max Seat #2 is the button
+Seat 1: Jadon006 (1410 in chips) 
+Seat 2: RandyTAB (1490 in chips) 
+Seat 3: Toro1133 (1070 in chips) 
+Seat 4: hcvfla (1500 in chips) 
+Seat 5: hzane (2460 in chips) 
+Seat 6: willeyson (1500 in chips) 
+Seat 7: ZaloUltra40 (1500 in chips) 
+Seat 8: ArmaliteLemon84 (1500 in chips) 
+Seat 9: darrelelpert (1070 in chips) 
+Toro1133: posts small blind 10
+hcvfla: posts big blind 20
+*** HOLE CARDS ***
+Dealt to hzane [8c 8d]
+hzane: calls 20
+willeyson has timed out
+willeyson: folds 
+ZaloUltra40: calls 20
+ArmaliteLemon84: calls 20
+darrelelpert: calls 20
+Jadon006: calls 20
+RandyTAB: folds 
+Toro1133: calls 10
+hcvfla: checks 
+*** FLOP *** [6h Kd Jc]
+Toro1133: checks 
+hcvfla: checks 
+hzane: checks 
+ZaloUltra40: checks 
+ArmaliteLemon84: checks 
+darrelelpert: checks 
+Jadon006: checks 
+*** TURN *** [6h Kd Jc] [Ah]
+Toro1133: checks 
+hcvfla: checks 
+hzane: checks 
+ZaloUltra40: bets 140
+ArmaliteLemon84: folds 
+darrelelpert: calls 140
+Jadon006: folds 
+Toro1133: folds 
+hcvfla: folds 
+hzane: folds 
+*** RIVER *** [6h Kd Jc Ah] [Qs]
+ZaloUltra40: bets 420
+darrelelpert: raises 420 to 840
+ZaloUltra40: calls 420
+*** SHOW DOWN ***
+darrelelpert: shows [Tc Jh] (a straight, Ten to Ace)
+ZaloUltra40: mucks hand 
+darrelelpert collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | Rake 0 
+Board [6h Kd Jc Ah Qs]
+Seat 1: Jadon006 folded on the Turn
+Seat 2: RandyTAB (button) folded before Flop (didn't bet)
+Seat 3: Toro1133 (small blind) folded on the Turn
+Seat 4: hcvfla (big blind) folded on the Turn
+Seat 5: hzane folded on the Turn
+Seat 6: willeyson folded before Flop (didn't bet)
+Seat 7: ZaloUltra40 mucked [Qd Ac]
+Seat 8: ArmaliteLemon84 folded on the Turn
+Seat 9: darrelelpert showed [Tc Jh] and won (2100) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #189800595048: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level I (10/20) - 2018/08/12 9:24:26 ET
+Table '2380581917 2' 9-max Seat #3 is the button
+Seat 1: Jadon006 (1390 in chips) 
+Seat 2: RandyTAB (1490 in chips) 
+Seat 3: Toro1133 (1050 in chips) 
+Seat 4: hcvfla (1480 in chips) 
+Seat 5: hzane (2440 in chips) 
+Seat 6: willeyson (1500 in chips) 
+Seat 7: ZaloUltra40 (500 in chips) 
+Seat 8: ArmaliteLemon84 (1480 in chips) 
+Seat 9: darrelelpert (2170 in chips) 
+hcvfla: posts small blind 10
+hzane: posts big blind 20
+*** HOLE CARDS ***
+Dealt to hzane [7s 7d]
+willeyson: calls 20
+ZaloUltra40: raises 480 to 500 and is all-in
+ArmaliteLemon84: folds 
+darrelelpert: folds 
+Jadon006: folds 
+RandyTAB: folds 
+Toro1133: calls 500
+hcvfla: folds 
+hzane: calls 480
+willeyson: folds 
+*** FLOP *** [Qd 7h 2h]
+hzane: bets 80
+Toro1133: calls 80
+*** TURN *** [Qd 7h 2h] [Qs]
+hzane: bets 40
+Toro1133: calls 40
+*** RIVER *** [Qd 7h 2h Qs] [Qh]
+hzane: bets 100
+Toro1133: calls 100
+*** SHOW DOWN ***
+hzane: shows [7s 7d] (a full house, Queens full of Sevens)
+Toro1133: mucks hand 
+hzane collected 440 from side pot
+ZaloUltra40: mucks hand 
+hzane collected 1530 from main pot
+ZaloUltra40 finished the tournament in 38th place
+*** SUMMARY ***
+Total pot 1970 Main pot 1530. Side pot 440. | Rake 0 
+Board [Qd 7h 2h Qs Qh]
+Seat 1: Jadon006 folded before Flop (didn't bet)
+Seat 2: RandyTAB folded before Flop (didn't bet)
+Seat 3: Toro1133 (button) mucked [6d Kd]
+Seat 4: hcvfla (small blind) folded before Flop
+Seat 5: hzane (big blind) showed [7s 7d] and won (1970) with a full house, Queens full of Sevens
+Seat 6: willeyson folded before Flop
+Seat 7: ZaloUltra40 mucked [Kc Jh]
+Seat 8: ArmaliteLemon84 folded before Flop (didn't bet)
+Seat 9: darrelelpert folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189800632629: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level I (10/20) - 2018/08/12 9:25:40 ET
+Table '2380581917 2' 9-max Seat #4 is the button
+Seat 1: Jadon006 (1390 in chips) 
+Seat 2: RandyTAB (1490 in chips) 
+Seat 3: Toro1133 (330 in chips) 
+Seat 4: hcvfla (1470 in chips) 
+Seat 5: hzane (3690 in chips) 
+Seat 8: ArmaliteLemon84 (1480 in chips) 
+Seat 9: darrelelpert (2170 in chips) 
+hzane: posts small blind 10
+ArmaliteLemon84: posts big blind 20
+*** HOLE CARDS ***
+Dealt to hzane [4s 8h]
+darrelelpert: folds 
+Jadon006: calls 20
+RandyTAB: folds 
+Toro1133: raises 310 to 330 and is all-in
+hcvfla: folds 
+hzane: folds 
+ArmaliteLemon84: calls 310
+Jadon006: folds 
+*** FLOP *** [9d 7c 5c]
+*** TURN *** [9d 7c 5c] [2c]
+Toro1133 is disconnected 
+*** RIVER *** [9d 7c 5c 2c] [5h]
+*** SHOW DOWN ***
+ArmaliteLemon84: shows [Ac As] (two pair, Aces and Fives)
+Toro1133: shows [Td 2d] (two pair, Fives and Deuces)
+ArmaliteLemon84 collected 690 from pot
+Toro1133 finished the tournament in 37th place
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [9d 7c 5c 2c 5h]
+Seat 1: Jadon006 folded before Flop
+Seat 2: RandyTAB folded before Flop (didn't bet)
+Seat 3: Toro1133 showed [Td 2d] and lost with two pair, Fives and Deuces
+Seat 4: hcvfla (button) folded before Flop (didn't bet)
+Seat 5: hzane (small blind) folded before Flop
+Seat 8: ArmaliteLemon84 (big blind) showed [Ac As] and won (690) with two pair, Aces and Fives
+Seat 9: darrelelpert folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189800677165: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/08/12 9:27:08 ET
+Table '2380581917 5' 9-max Seat #8 is the button
+Seat 1: coringäo (1470 in chips) 
+Seat 2: ToniErdmann (1400 in chips) 
+Seat 3: AndreyMohov (880 in chips) 
+Seat 4: Nicki765 (1410 in chips) 
+Seat 5: rafaelaf54 (3040 in chips) 
+Seat 6: hzane (3680 in chips) 
+Seat 7: manu0063 (1570 in chips) 
+Seat 8: dlb287 (2065 in chips) 
+Seat 9: HausenIsMe (1665 in chips) 
+HausenIsMe: posts small blind 15
+coringäo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to hzane [4c Ts]
+ToniErdmann: folds 
+AndreyMohov: raises 850 to 880 and is all-in
+Nicki765: folds 
+rafaelaf54: folds 
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+HausenIsMe: folds 
+coringäo: folds 
+Uncalled bet (850) returned to AndreyMohov
+AndreyMohov collected 75 from pot
+AndreyMohov: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: coringäo (big blind) folded before Flop
+Seat 2: ToniErdmann folded before Flop (didn't bet)
+Seat 3: AndreyMohov collected (75)
+Seat 4: Nicki765 folded before Flop (didn't bet)
+Seat 5: rafaelaf54 folded before Flop (didn't bet)
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 (button) folded before Flop (didn't bet)
+Seat 9: HausenIsMe (small blind) folded before Flop
+
+
+
+PokerStars Hand #189800684234: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/08/12 9:27:22 ET
+Table '2380581917 5' 9-max Seat #9 is the button
+Seat 1: coringäo (1440 in chips) 
+Seat 2: ToniErdmann (1400 in chips) 
+Seat 3: AndreyMohov (925 in chips) 
+Seat 4: Nicki765 (1410 in chips) 
+Seat 5: rafaelaf54 (3040 in chips) 
+Seat 6: hzane (3680 in chips) 
+Seat 7: manu0063 (1570 in chips) 
+Seat 8: dlb287 (2065 in chips) 
+Seat 9: HausenIsMe (1650 in chips) 
+coringäo: posts small blind 15
+ToniErdmann: posts big blind 30
+*** HOLE CARDS ***
+Dealt to hzane [Kc 9d]
+AndreyMohov: folds 
+Nicki765: folds 
+rafaelaf54: folds 
+hzane: calls 30
+manu0063: calls 30
+dlb287: calls 30
+HausenIsMe: folds 
+coringäo: raises 30 to 60
+ToniErdmann: calls 30
+hzane: calls 30
+manu0063: calls 30
+dlb287: calls 30
+*** FLOP *** [3c 5c Ah]
+coringäo: bets 90
+ToniErdmann: folds 
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+Uncalled bet (90) returned to coringäo
+coringäo collected 300 from pot
+coringäo: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [3c 5c Ah]
+Seat 1: coringäo (small blind) collected (300)
+Seat 2: ToniErdmann (big blind) folded on the Flop
+Seat 3: AndreyMohov folded before Flop (didn't bet)
+Seat 4: Nicki765 folded before Flop (didn't bet)
+Seat 5: rafaelaf54 folded before Flop (didn't bet)
+Seat 6: hzane folded on the Flop
+Seat 7: manu0063 folded on the Flop
+Seat 8: dlb287 folded on the Flop
+Seat 9: HausenIsMe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189800710065: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/08/12 9:28:13 ET
+Table '2380581917 5' 9-max Seat #1 is the button
+Seat 1: coringäo (1680 in chips) 
+Seat 2: ToniErdmann (1340 in chips) 
+Seat 3: AndreyMohov (925 in chips) 
+Seat 4: Nicki765 (1410 in chips) 
+Seat 5: rafaelaf54 (3040 in chips) 
+Seat 6: hzane (3620 in chips) 
+Seat 7: manu0063 (1510 in chips) 
+Seat 8: dlb287 (2005 in chips) 
+Seat 9: HausenIsMe (1650 in chips) 
+ToniErdmann: posts small blind 15
+AndreyMohov: posts big blind 30
+*** HOLE CARDS ***
+Dealt to hzane [2s 9s]
+Nicki765: folds 
+rafaelaf54: calls 30
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+HausenIsMe: folds 
+coringäo: calls 30
+ToniErdmann: raises 120 to 150
+AndreyMohov: calls 120
+rafaelaf54: calls 120
+coringäo: calls 120
+*** FLOP *** [Ad Qh 7c]
+ToniErdmann: bets 1190 and is all-in
+AndreyMohov: calls 775 and is all-in
+rafaelaf54: folds 
+coringäo: calls 1190
+*** TURN *** [Ad Qh 7c] [9c]
+*** RIVER *** [Ad Qh 7c 9c] [6c]
+*** SHOW DOWN ***
+ToniErdmann: shows [As Jc] (a pair of Aces)
+coringäo: shows [Jd Ah] (a pair of Aces)
+ToniErdmann collected 415 from side pot
+coringäo collected 415 from side pot
+AndreyMohov: shows [Qc Kd] (a pair of Queens)
+ToniErdmann collected 1463 from main pot
+coringäo collected 1462 from main pot
+AndreyMohov finished the tournament in 34th place
+*** SUMMARY ***
+Total pot 3755 Main pot 2925. Side pot 830. | Rake 0 
+Board [Ad Qh 7c 9c 6c]
+Seat 1: coringäo (button) showed [Jd Ah] and won (1877) with a pair of Aces
+Seat 2: ToniErdmann (small blind) showed [As Jc] and won (1878) with a pair of Aces
+Seat 3: AndreyMohov (big blind) showed [Qc Kd] and lost with a pair of Queens
+Seat 4: Nicki765 folded before Flop (didn't bet)
+Seat 5: rafaelaf54 folded on the Flop
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 folded before Flop (didn't bet)
+Seat 9: HausenIsMe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189800731775: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/08/12 9:28:56 ET
+Table '2380581917 5' 9-max Seat #2 is the button
+Seat 1: coringäo (2217 in chips) 
+Seat 2: ToniErdmann (1878 in chips) 
+Seat 4: Nicki765 (1410 in chips) 
+Seat 5: rafaelaf54 (2890 in chips) 
+Seat 6: hzane (3620 in chips) 
+Seat 7: manu0063 (1510 in chips) 
+Seat 8: dlb287 (2005 in chips) 
+Seat 9: HausenIsMe (1650 in chips) 
+Nicki765: posts small blind 15
+rafaelaf54: posts big blind 30
+*** HOLE CARDS ***
+Dealt to hzane [Td Kd]
+hzane: raises 30 to 60
+manu0063: calls 60
+dlb287: folds 
+HausenIsMe: folds 
+coringäo: calls 60
+ToniErdmann: folds 
+Nicki765: folds 
+rafaelaf54: raises 2830 to 2890 and is all-in
+hzane: folds 
+manu0063: folds 
+coringäo: calls 2157 and is all-in
+Uncalled bet (673) returned to rafaelaf54
+*** FLOP *** [8s Qd 3h]
+*** TURN *** [8s Qd 3h] [2d]
+*** RIVER *** [8s Qd 3h 2d] [9c]
+*** SHOW DOWN ***
+rafaelaf54: shows [Qc Qs] (three of a kind, Queens)
+coringäo: shows [Ac Tc] (high card Ace)
+rafaelaf54 collected 4569 from pot
+coringäo finished the tournament in 32nd place
+*** SUMMARY ***
+Total pot 4569 | Rake 0 
+Board [8s Qd 3h 2d 9c]
+Seat 1: coringäo showed [Ac Tc] and lost with high card Ace
+Seat 2: ToniErdmann (button) folded before Flop (didn't bet)
+Seat 4: Nicki765 (small blind) folded before Flop
+Seat 5: rafaelaf54 (big blind) showed [Qc Qs] and won (4569) with three of a kind, Queens
+Seat 6: hzane folded before Flop
+Seat 7: manu0063 folded before Flop
+Seat 8: dlb287 folded before Flop (didn't bet)
+Seat 9: HausenIsMe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189800747649: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/08/12 9:29:27 ET
+Table '2380581917 5' 9-max Seat #4 is the button
+Seat 2: ToniErdmann (1878 in chips) 
+Seat 4: Nicki765 (1395 in chips) 
+Seat 5: rafaelaf54 (5242 in chips) 
+Seat 6: hzane (3560 in chips) 
+Seat 7: manu0063 (1450 in chips) 
+Seat 8: dlb287 (2005 in chips) 
+Seat 9: HausenIsMe (1650 in chips) 
+rafaelaf54: posts small blind 15
+hzane: posts big blind 30
+*** HOLE CARDS ***
+Dealt to hzane [9c 5s]
+manu0063: calls 30
+dlb287: folds 
+HausenIsMe: folds 
+ToniErdmann: folds 
+Nicki765: calls 30
+rafaelaf54: calls 15
+hzane: checks 
+*** FLOP *** [8s Td 2h]
+rafaelaf54: checks 
+hzane: checks 
+manu0063: checks 
+Nicki765: checks 
+*** TURN *** [8s Td 2h] [Ks]
+rafaelaf54: checks 
+hzane: checks 
+manu0063: checks 
+Nicki765: checks 
+*** RIVER *** [8s Td 2h Ks] [Ac]
+rafaelaf54: checks 
+hzane: checks 
+manu0063: bets 30
+Nicki765: folds 
+rafaelaf54: folds 
+hzane: folds 
+Uncalled bet (30) returned to manu0063
+manu0063 collected 120 from pot
+manu0063: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8s Td 2h Ks Ac]
+Seat 2: ToniErdmann folded before Flop (didn't bet)
+Seat 4: Nicki765 (button) folded on the River
+Seat 5: rafaelaf54 (small blind) folded on the River
+Seat 6: hzane (big blind) folded on the River
+Seat 7: manu0063 collected (120)
+Seat 8: dlb287 folded before Flop (didn't bet)
+Seat 9: HausenIsMe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189800778001: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/08/12 9:30:27 ET
+Table '2380581917 5' 9-max Seat #5 is the button
+Seat 2: ToniErdmann (1878 in chips) 
+Seat 4: Nicki765 (1365 in chips) 
+Seat 5: rafaelaf54 (5212 in chips) 
+Seat 6: hzane (3530 in chips) 
+Seat 7: manu0063 (1540 in chips) 
+Seat 8: dlb287 (2005 in chips) 
+Seat 9: HausenIsMe (1650 in chips) 
+hzane: posts small blind 15
+manu0063: posts big blind 30
+*** HOLE CARDS ***
+Dealt to hzane [4s Kd]
+dlb287: calls 30
+HausenIsMe: raises 60 to 90
+ToniErdmann: folds 
+Nicki765: folds 
+rafaelaf54: calls 90
+hzane: folds 
+manu0063: folds 
+dlb287: calls 60
+*** FLOP *** [3h 2s 5c]
+dlb287: checks 
+HausenIsMe: bets 90
+rafaelaf54: folds 
+dlb287: calls 90
+*** TURN *** [3h 2s 5c] [9c]
+dlb287: checks 
+HausenIsMe: bets 90
+dlb287: calls 90
+*** RIVER *** [3h 2s 5c 9c] [Kc]
+dlb287: checks 
+HausenIsMe: bets 120
+dlb287: folds 
+Uncalled bet (120) returned to HausenIsMe
+HausenIsMe collected 675 from pot
+HausenIsMe: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [3h 2s 5c 9c Kc]
+Seat 2: ToniErdmann folded before Flop (didn't bet)
+Seat 4: Nicki765 folded before Flop (didn't bet)
+Seat 5: rafaelaf54 (button) folded on the Flop
+Seat 6: hzane (small blind) folded before Flop
+Seat 7: manu0063 (big blind) folded before Flop
+Seat 8: dlb287 folded on the River
+Seat 9: HausenIsMe collected (675)
+
+
+
+PokerStars Hand #189800806210: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/08/12 9:31:22 ET
+Table '2380581917 5' 9-max Seat #6 is the button
+Seat 2: ToniErdmann (1878 in chips) 
+Seat 4: Nicki765 (1365 in chips) is sitting out
+Seat 5: rafaelaf54 (5122 in chips) 
+Seat 6: hzane (3515 in chips) 
+Seat 7: manu0063 (1510 in chips) 
+Seat 8: dlb287 (1735 in chips) 
+Seat 9: HausenIsMe (2055 in chips) 
+manu0063: posts small blind 25
+dlb287: posts big blind 50
+*** HOLE CARDS ***
+Dealt to hzane [Qs 3d]
+HausenIsMe: folds 
+ToniErdmann: folds 
+Nicki765: folds 
+rafaelaf54: folds 
+hzane is disconnected 
+hzane is connected 
+hzane: folds 
+manu0063: raises 50 to 100
+dlb287: calls 50
+*** FLOP *** [Qc Qd 6h]
+manu0063: bets 50
+dlb287: folds 
+Uncalled bet (50) returned to manu0063
+manu0063 collected 200 from pot
+manu0063: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Qc Qd 6h]
+Seat 2: ToniErdmann folded before Flop (didn't bet)
+Seat 4: Nicki765 folded before Flop (didn't bet)
+Seat 5: rafaelaf54 folded before Flop (didn't bet)
+Seat 6: hzane (button) folded before Flop (didn't bet)
+Seat 7: manu0063 (small blind) collected (200)
+Seat 8: dlb287 (big blind) folded on the Flop
+Seat 9: HausenIsMe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189800822814: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/08/12 9:31:54 ET
+Table '2380581917 5' 9-max Seat #7 is the button
+Seat 2: ToniErdmann (1878 in chips) 
+Seat 4: Nicki765 (1365 in chips) is sitting out
+Seat 5: rafaelaf54 (5122 in chips) 
+Seat 6: hzane (3515 in chips) 
+Seat 7: manu0063 (1610 in chips) 
+Seat 8: dlb287 (1635 in chips) 
+Seat 9: HausenIsMe (2055 in chips) 
+dlb287: posts small blind 25
+HausenIsMe: posts big blind 50
+*** HOLE CARDS ***
+Dealt to hzane [2d 6h]
+ToniErdmann: folds 
+Nicki765: folds 
+rafaelaf54: raises 5072 to 5122 and is all-in
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+HausenIsMe: folds 
+Uncalled bet (5072) returned to rafaelaf54
+rafaelaf54 collected 125 from pot
+rafaelaf54: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 2: ToniErdmann folded before Flop (didn't bet)
+Seat 4: Nicki765 folded before Flop (didn't bet)
+Seat 5: rafaelaf54 collected (125)
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 (button) folded before Flop (didn't bet)
+Seat 8: dlb287 (small blind) folded before Flop
+Seat 9: HausenIsMe (big blind) folded before Flop
+
+
+
+PokerStars Hand #189800829261: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/08/12 9:32:07 ET
+Table '2380581917 5' 9-max Seat #8 is the button
+Seat 2: ToniErdmann (1878 in chips) 
+Seat 4: Nicki765 (1365 in chips) 
+Seat 5: rafaelaf54 (5197 in chips) 
+Seat 6: hzane (3515 in chips) 
+Seat 7: manu0063 (1610 in chips) 
+Seat 8: dlb287 (1610 in chips) 
+Seat 9: HausenIsMe (2005 in chips) 
+HausenIsMe: posts small blind 25
+ToniErdmann: posts big blind 50
+*** HOLE CARDS ***
+Dealt to hzane [Th 7s]
+Nicki765: folds 
+rafaelaf54: calls 50
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+HausenIsMe: calls 25
+ToniErdmann: checks 
+*** FLOP *** [Ah Jd 3d]
+HausenIsMe: checks 
+ToniErdmann: checks 
+rafaelaf54: checks 
+*** TURN *** [Ah Jd 3d] [Qh]
+HausenIsMe: bets 75
+ToniErdmann: calls 75
+rafaelaf54: calls 75
+*** RIVER *** [Ah Jd 3d Qh] [7c]
+HausenIsMe: checks 
+ToniErdmann: checks 
+rafaelaf54: checks 
+*** SHOW DOWN ***
+HausenIsMe: shows [Kc 8s] (high card Ace)
+ToniErdmann: shows [Qc 9h] (a pair of Queens)
+rafaelaf54: mucks hand 
+ToniErdmann collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [Ah Jd 3d Qh 7c]
+Seat 2: ToniErdmann (big blind) showed [Qc 9h] and won (375) with a pair of Queens
+Seat 4: Nicki765 folded before Flop (didn't bet)
+Seat 5: rafaelaf54 mucked [7d Td]
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 (button) folded before Flop (didn't bet)
+Seat 9: HausenIsMe (small blind) showed [Kc 8s] and lost with high card Ace
+
+
+
+PokerStars Hand #189800851360: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/08/12 9:32:50 ET
+Table '2380581917 5' 9-max Seat #9 is the button
+Seat 2: ToniErdmann (2128 in chips) 
+Seat 4: Nicki765 (1365 in chips) 
+Seat 5: rafaelaf54 (5072 in chips) 
+Seat 6: hzane (3515 in chips) 
+Seat 7: manu0063 (1610 in chips) 
+Seat 8: dlb287 (1610 in chips) 
+Seat 9: HausenIsMe (1880 in chips) 
+ToniErdmann: posts small blind 25
+Nicki765: posts big blind 50
+*** HOLE CARDS ***
+Dealt to hzane [Qs 4c]
+rafaelaf54: folds 
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+HausenIsMe: folds 
+ToniErdmann: calls 25
+Nicki765: checks 
+*** FLOP *** [Ks Jd 9d]
+ToniErdmann: checks 
+Nicki765: checks 
+*** TURN *** [Ks Jd 9d] [Js]
+ToniErdmann: checks 
+Nicki765: checks 
+*** RIVER *** [Ks Jd 9d Js] [5c]
+ToniErdmann: checks 
+Nicki765: checks 
+*** SHOW DOWN ***
+ToniErdmann: shows [3h Ts] (a pair of Jacks)
+Nicki765: mucks hand 
+ToniErdmann collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Ks Jd 9d Js 5c]
+Seat 2: ToniErdmann (small blind) showed [3h Ts] and won (100) with a pair of Jacks
+Seat 4: Nicki765 (big blind) mucked [3c 8h]
+Seat 5: rafaelaf54 folded before Flop (didn't bet)
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 folded before Flop (didn't bet)
+Seat 9: HausenIsMe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189800874844: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/08/12 9:33:35 ET
+Table '2380581917 5' 9-max Seat #2 is the button
+Seat 1: Gunti54 (3295 in chips) 
+Seat 2: ToniErdmann (2178 in chips) 
+Seat 4: Nicki765 (1315 in chips) 
+Seat 5: rafaelaf54 (5072 in chips) 
+Seat 6: hzane (3515 in chips) 
+Seat 7: manu0063 (1610 in chips) 
+Seat 8: dlb287 (1610 in chips) 
+Seat 9: HausenIsMe (1880 in chips) 
+Nicki765: posts small blind 25
+rafaelaf54: posts big blind 50
+*** HOLE CARDS ***
+Dealt to hzane [4s 4h]
+hzane: raises 100 to 150
+manu0063: folds 
+dlb287: folds 
+HausenIsMe: raises 100 to 250
+Gunti54: folds 
+ToniErdmann: folds 
+Nicki765: calls 225
+rafaelaf54: folds 
+hzane: calls 100
+*** FLOP *** [Ac 7s Ks]
+Nicki765: checks 
+hzane: bets 200
+HausenIsMe: folds 
+Nicki765: calls 200
+*** TURN *** [Ac 7s Ks] [2c]
+Nicki765: checks 
+hzane: checks 
+*** RIVER *** [Ac 7s Ks 2c] [Ah]
+Nicki765: checks 
+hzane: bets 350
+Nicki765: calls 350
+*** SHOW DOWN ***
+hzane: shows [4s 4h] (two pair, Aces and Fours)
+Nicki765: shows [As Qd] (three of a kind, Aces)
+Nicki765 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Board [Ac 7s Ks 2c Ah]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 2: ToniErdmann (button) folded before Flop (didn't bet)
+Seat 4: Nicki765 (small blind) showed [As Qd] and won (1900) with three of a kind, Aces
+Seat 5: rafaelaf54 (big blind) folded before Flop
+Seat 6: hzane showed [4s 4h] and lost with two pair, Aces and Fours
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 folded before Flop (didn't bet)
+Seat 9: HausenIsMe folded on the Flop
+
+
+
+PokerStars Hand #189800903794: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/08/12 9:34:32 ET
+Table '2380581917 5' 9-max Seat #4 is the button
+Seat 1: Gunti54 (3295 in chips) 
+Seat 3: sammysmith87 (5240 in chips) 
+Seat 4: Nicki765 (2415 in chips) 
+Seat 5: rafaelaf54 (5022 in chips) 
+Seat 6: hzane (2715 in chips) 
+Seat 7: manu0063 (1610 in chips) 
+Seat 8: dlb287 (1610 in chips) 
+Seat 9: HausenIsMe (1630 in chips) 
+rafaelaf54: posts small blind 25
+hzane: posts big blind 50
+*** HOLE CARDS ***
+Dealt to hzane [Jd Ts]
+manu0063: folds 
+dlb287: calls 50
+HausenIsMe: folds 
+Gunti54: folds 
+sammysmith87: calls 50
+Nicki765: folds 
+rafaelaf54: calls 25
+hzane: checks 
+*** FLOP *** [6d 9d Kh]
+rafaelaf54: checks 
+hzane: checks 
+dlb287: checks 
+sammysmith87: checks 
+*** TURN *** [6d 9d Kh] [2h]
+rafaelaf54: checks 
+hzane: checks 
+dlb287: checks 
+sammysmith87: checks 
+*** RIVER *** [6d 9d Kh 2h] [4d]
+rafaelaf54: checks 
+hzane: bets 50
+dlb287: folds 
+sammysmith87: folds 
+rafaelaf54: calls 50
+*** SHOW DOWN ***
+hzane: shows [Jd Ts] (high card King)
+rafaelaf54: shows [2s Ks] (two pair, Kings and Deuces)
+rafaelaf54 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [6d 9d Kh 2h 4d]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 folded on the River
+Seat 4: Nicki765 (button) folded before Flop (didn't bet)
+Seat 5: rafaelaf54 (small blind) showed [2s Ks] and won (300) with two pair, Kings and Deuces
+Seat 6: hzane (big blind) showed [Jd Ts] and lost with high card King
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 folded on the River
+Seat 9: HausenIsMe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189800932315: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/08/12 9:35:28 ET
+Table '2380581917 5' 9-max Seat #5 is the button
+Seat 1: Gunti54 (3295 in chips) 
+Seat 3: sammysmith87 (5190 in chips) 
+Seat 4: Nicki765 (2415 in chips) is sitting out
+Seat 5: rafaelaf54 (5222 in chips) 
+Seat 6: hzane (2615 in chips) 
+Seat 7: manu0063 (1610 in chips) 
+Seat 8: dlb287 (1560 in chips) 
+Seat 9: HausenIsMe (1630 in chips) 
+hzane: posts small blind 25
+manu0063: posts big blind 50
+*** HOLE CARDS ***
+Dealt to hzane [Qc 8s]
+dlb287: calls 50
+HausenIsMe: folds 
+Gunti54: folds 
+sammysmith87: calls 50
+Nicki765: folds 
+rafaelaf54: folds 
+hzane: calls 25
+manu0063: checks 
+*** FLOP *** [9s Kc 8h]
+hzane: bets 50
+manu0063: folds 
+dlb287: raises 150 to 200
+sammysmith87: folds 
+hzane: folds 
+Uncalled bet (150) returned to dlb287
+dlb287 collected 300 from pot
+dlb287: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [9s Kc 8h]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 folded on the Flop
+Seat 4: Nicki765 folded before Flop (didn't bet)
+Seat 5: rafaelaf54 (button) folded before Flop (didn't bet)
+Seat 6: hzane (small blind) folded on the Flop
+Seat 7: manu0063 (big blind) folded on the Flop
+Seat 8: dlb287 collected (300)
+Seat 9: HausenIsMe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189800951778: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/08/12 9:36:06 ET
+Table '2380581917 5' 9-max Seat #6 is the button
+Seat 1: Gunti54 (3295 in chips) 
+Seat 3: sammysmith87 (5140 in chips) 
+Seat 4: Nicki765 (2415 in chips) is sitting out
+Seat 6: hzane (2515 in chips) 
+Seat 7: manu0063 (1560 in chips) 
+Seat 8: dlb287 (1760 in chips) 
+Seat 9: HausenIsMe (1630 in chips) 
+manu0063: posts small blind 50
+dlb287: posts big blind 100
+*** HOLE CARDS ***
+Dealt to hzane [Ks Jd]
+HausenIsMe: folds 
+Gunti54: folds 
+sammysmith87: calls 100
+Nicki765: folds 
+hzane: raises 200 to 300
+manu0063: folds 
+dlb287: calls 200
+sammysmith87: calls 200
+*** FLOP *** [Ac 3d 4h]
+dlb287: checks 
+sammysmith87: checks 
+hzane: bets 300
+dlb287: folds 
+sammysmith87: calls 300
+*** TURN *** [Ac 3d 4h] [3c]
+sammysmith87: checks 
+hzane: checks 
+*** RIVER *** [Ac 3d 4h 3c] [Ad]
+sammysmith87: checks 
+hzane: checks 
+*** SHOW DOWN ***
+sammysmith87: shows [4c Kc] (two pair, Aces and Fours)
+hzane: mucks hand 
+sammysmith87 collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | Rake 0 
+Board [Ac 3d 4h 3c Ad]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 showed [4c Kc] and won (1550) with two pair, Aces and Fours
+Seat 4: Nicki765 folded before Flop (didn't bet)
+Seat 6: hzane (button) mucked [Ks Jd]
+Seat 7: manu0063 (small blind) folded before Flop
+Seat 8: dlb287 (big blind) folded on the Flop
+Seat 9: HausenIsMe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189800981494: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/08/12 9:37:04 ET
+Table '2380581917 5' 9-max Seat #7 is the button
+Seat 1: Gunti54 (3295 in chips) 
+Seat 3: sammysmith87 (6090 in chips) 
+Seat 4: Nicki765 (2415 in chips) 
+Seat 6: hzane (1915 in chips) 
+Seat 7: manu0063 (1510 in chips) 
+Seat 8: dlb287 (1460 in chips) 
+Seat 9: HausenIsMe (1630 in chips) 
+dlb287: posts small blind 50
+HausenIsMe: posts big blind 100
+*** HOLE CARDS ***
+Dealt to hzane [2h 8d]
+Gunti54: calls 100
+sammysmith87: calls 100
+Nicki765: folds 
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+HausenIsMe: checks 
+*** FLOP *** [6h 4h 4d]
+HausenIsMe: checks 
+Gunti54: checks 
+sammysmith87: checks 
+*** TURN *** [6h 4h 4d] [Ad]
+HausenIsMe: checks 
+Gunti54: bets 100
+sammysmith87: calls 100
+HausenIsMe: folds 
+*** RIVER *** [6h 4h 4d Ad] [5s]
+Gunti54: bets 100
+sammysmith87: calls 100
+*** SHOW DOWN ***
+Gunti54: shows [Ac Kc] (two pair, Aces and Fours)
+sammysmith87: mucks hand 
+Gunti54 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [6h 4h 4d Ad 5s]
+Seat 1: Gunti54 showed [Ac Kc] and won (750) with two pair, Aces and Fours
+Seat 3: sammysmith87 mucked [Jd 5d]
+Seat 4: Nicki765 folded before Flop (didn't bet)
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 (button) folded before Flop (didn't bet)
+Seat 8: dlb287 (small blind) folded before Flop
+Seat 9: HausenIsMe (big blind) folded on the Turn
+
+
+
+PokerStars Hand #189801004539: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/08/12 9:37:49 ET
+Table '2380581917 5' 9-max Seat #8 is the button
+Seat 1: Gunti54 (3745 in chips) 
+Seat 3: sammysmith87 (5790 in chips) 
+Seat 4: Nicki765 (2415 in chips) 
+Seat 6: hzane (1915 in chips) 
+Seat 7: manu0063 (1510 in chips) 
+Seat 8: dlb287 (1410 in chips) 
+Seat 9: HausenIsMe (1530 in chips) 
+HausenIsMe: posts small blind 50
+Gunti54: posts big blind 100
+*** HOLE CARDS ***
+Dealt to hzane [4c 9s]
+sammysmith87: calls 100
+Nicki765: calls 100
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+HausenIsMe: raises 200 to 300
+Gunti54: folds 
+sammysmith87: calls 200
+Nicki765: raises 2115 to 2415 and is all-in
+HausenIsMe: calls 1230 and is all-in
+sammysmith87: folds 
+Uncalled bet (885) returned to Nicki765
+*** FLOP *** [6h 2d 6c]
+*** TURN *** [6h 2d 6c] [Qs]
+*** RIVER *** [6h 2d 6c Qs] [8s]
+*** SHOW DOWN ***
+HausenIsMe: shows [Qc Qh] (a full house, Queens full of Sixes)
+Nicki765: shows [Kh Kd] (two pair, Kings and Sixes)
+HausenIsMe collected 3460 from pot
+*** SUMMARY ***
+Total pot 3460 | Rake 0 
+Board [6h 2d 6c Qs 8s]
+Seat 1: Gunti54 (big blind) folded before Flop
+Seat 3: sammysmith87 folded before Flop
+Seat 4: Nicki765 showed [Kh Kd] and lost with two pair, Kings and Sixes
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 (button) folded before Flop (didn't bet)
+Seat 9: HausenIsMe (small blind) showed [Qc Qh] and won (3460) with a full house, Queens full of Sixes
+
+
+
+PokerStars Hand #189801023359: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/08/12 9:38:26 ET
+Table '2380581917 5' 9-max Seat #9 is the button
+Seat 1: Gunti54 (3645 in chips) 
+Seat 3: sammysmith87 (5490 in chips) 
+Seat 4: Nicki765 (885 in chips) 
+Seat 6: hzane (1915 in chips) 
+Seat 7: manu0063 (1510 in chips) 
+Seat 8: dlb287 (1410 in chips) 
+Seat 9: HausenIsMe (3460 in chips) 
+Gunti54: posts small blind 50
+sammysmith87: posts big blind 100
+*** HOLE CARDS ***
+Dealt to hzane [5h 3s]
+Nicki765: folds 
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+HausenIsMe: raises 150 to 250
+Gunti54: folds 
+sammysmith87: calls 150
+*** FLOP *** [6h 6d Kc]
+sammysmith87: bets 500
+HausenIsMe: calls 500
+*** TURN *** [6h 6d Kc] [Jh]
+sammysmith87: bets 500
+HausenIsMe: calls 500
+*** RIVER *** [6h 6d Kc Jh] [9c]
+sammysmith87: bets 1000
+HausenIsMe: calls 1000
+*** SHOW DOWN ***
+sammysmith87: shows [Ks Qc] (two pair, Kings and Sixes)
+HausenIsMe: mucks hand 
+sammysmith87 collected 4550 from pot
+*** SUMMARY ***
+Total pot 4550 | Rake 0 
+Board [6h 6d Kc Jh 9c]
+Seat 1: Gunti54 (small blind) folded before Flop
+Seat 3: sammysmith87 (big blind) showed [Ks Qc] and won (4550) with two pair, Kings and Sixes
+Seat 4: Nicki765 folded before Flop (didn't bet)
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 folded before Flop (didn't bet)
+Seat 9: HausenIsMe (button) mucked [Kh 2s]
+
+
+
+PokerStars Hand #189801050747: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/08/12 9:39:20 ET
+Table '2380581917 5' 9-max Seat #1 is the button
+Seat 1: Gunti54 (3595 in chips) 
+Seat 3: sammysmith87 (7790 in chips) 
+Seat 4: Nicki765 (885 in chips) 
+Seat 6: hzane (1915 in chips) 
+Seat 7: manu0063 (1510 in chips) 
+Seat 8: dlb287 (1410 in chips) 
+Seat 9: HausenIsMe (1210 in chips) 
+sammysmith87: posts small blind 50
+Nicki765: posts big blind 100
+*** HOLE CARDS ***
+Dealt to hzane [7c 9d]
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+HausenIsMe: raises 120 to 220
+Gunti54: folds 
+sammysmith87: folds 
+Nicki765: calls 120
+*** FLOP *** [8c 5c 5h]
+Nicki765: bets 100
+HausenIsMe: calls 100
+*** TURN *** [8c 5c 5h] [6c]
+Nicki765: bets 100
+HausenIsMe: calls 100
+*** RIVER *** [8c 5c 5h 6c] [Th]
+Nicki765: bets 100
+HausenIsMe: raises 690 to 790 and is all-in
+Nicki765: folds 
+Uncalled bet (690) returned to HausenIsMe
+HausenIsMe collected 1090 from pot
+HausenIsMe: doesn't show hand 
+*** SUMMARY ***
+Total pot 1090 | Rake 0 
+Board [8c 5c 5h 6c Th]
+Seat 1: Gunti54 (button) folded before Flop (didn't bet)
+Seat 3: sammysmith87 (small blind) folded before Flop
+Seat 4: Nicki765 (big blind) folded on the River
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 folded before Flop (didn't bet)
+Seat 9: HausenIsMe collected (1090)
+
+
+
+PokerStars Hand #189801071896: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/08/12 9:40:01 ET
+Table '2380581917 5' 9-max Seat #3 is the button
+Seat 1: Gunti54 (3595 in chips) 
+Seat 3: sammysmith87 (7740 in chips) 
+Seat 4: Nicki765 (365 in chips) 
+Seat 6: hzane (1915 in chips) 
+Seat 7: manu0063 (1510 in chips) 
+Seat 8: dlb287 (1410 in chips) 
+Seat 9: HausenIsMe (1780 in chips) 
+Nicki765: posts small blind 50
+hzane: posts big blind 100
+*** HOLE CARDS ***
+Dealt to hzane [5s 3s]
+manu0063: folds 
+dlb287: folds 
+HausenIsMe: raises 120 to 220
+Gunti54: folds 
+sammysmith87: folds 
+Nicki765: raises 120 to 340
+hzane: folds 
+HausenIsMe: calls 120
+*** FLOP *** [2h Kh 9c]
+Nicki765: bets 25 and is all-in
+HausenIsMe: calls 25
+*** TURN *** [2h Kh 9c] [3h]
+*** RIVER *** [2h Kh 9c 3h] [6c]
+*** SHOW DOWN ***
+Nicki765: shows [Ad Tc] (high card Ace)
+HausenIsMe: shows [Jd 9h] (a pair of Nines)
+HausenIsMe collected 830 from pot
+Nicki765 finished the tournament in 20th place
+*** SUMMARY ***
+Total pot 830 | Rake 0 
+Board [2h Kh 9c 3h 6c]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 (button) folded before Flop (didn't bet)
+Seat 4: Nicki765 (small blind) showed [Ad Tc] and lost with high card Ace
+Seat 6: hzane (big blind) folded before Flop
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 folded before Flop (didn't bet)
+Seat 9: HausenIsMe showed [Jd 9h] and won (830) with a pair of Nines
+
+
+
+PokerStars Hand #189801088148: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/08/12 9:40:33 ET
+Table '2380581917 5' 9-max Seat #6 is the button
+Seat 1: Gunti54 (3595 in chips) 
+Seat 3: sammysmith87 (7740 in chips) 
+Seat 6: hzane (1815 in chips) 
+Seat 7: manu0063 (1510 in chips) 
+Seat 8: dlb287 (1410 in chips) 
+Seat 9: HausenIsMe (2245 in chips) 
+manu0063: posts small blind 50
+dlb287: posts big blind 100
+*** HOLE CARDS ***
+Dealt to hzane [5h Qd]
+HausenIsMe: raises 150 to 250
+Gunti54: folds 
+sammysmith87: folds 
+hzane: calls 250
+manu0063: folds 
+dlb287: calls 150
+*** FLOP *** [4c Ac 2s]
+dlb287: checks 
+HausenIsMe: bets 256
+hzane: folds 
+dlb287: calls 256
+*** TURN *** [4c Ac 2s] [Kc]
+dlb287: checks 
+HausenIsMe: bets 1312
+dlb287: calls 904 and is all-in
+Uncalled bet (408) returned to HausenIsMe
+*** RIVER *** [4c Ac 2s Kc] [Tc]
+*** SHOW DOWN ***
+dlb287: shows [9c 9d] (a flush, Ace high)
+HausenIsMe: shows [As Ts] (two pair, Aces and Tens)
+dlb287 collected 3120 from pot
+*** SUMMARY ***
+Total pot 3120 | Rake 0 
+Board [4c Ac 2s Kc Tc]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 folded before Flop (didn't bet)
+Seat 6: hzane (button) folded on the Flop
+Seat 7: manu0063 (small blind) folded before Flop
+Seat 8: dlb287 (big blind) showed [9c 9d] and won (3120) with a flush, Ace high
+Seat 9: HausenIsMe showed [As Ts] and lost with two pair, Aces and Tens
+
+
+
+PokerStars Hand #189801112553: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/08/12 9:41:20 ET
+Table '2380581917 5' 9-max Seat #7 is the button
+Seat 1: Gunti54 (3595 in chips) 
+Seat 3: sammysmith87 (7740 in chips) 
+Seat 6: hzane (1565 in chips) 
+Seat 7: manu0063 (1460 in chips) 
+Seat 8: dlb287 (3120 in chips) 
+Seat 9: HausenIsMe (835 in chips) 
+dlb287: posts small blind 75
+HausenIsMe: posts big blind 150
+*** HOLE CARDS ***
+Dealt to hzane [Js 7d]
+Gunti54: folds 
+sammysmith87: folds 
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+Uncalled bet (75) returned to HausenIsMe
+HausenIsMe collected 150 from pot
+HausenIsMe: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 folded before Flop (didn't bet)
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 (button) folded before Flop (didn't bet)
+Seat 8: dlb287 (small blind) folded before Flop
+Seat 9: HausenIsMe (big blind) collected (150)
+
+
+
+PokerStars Hand #189801117976: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/08/12 9:41:31 ET
+Table '2380581917 5' 9-max Seat #8 is the button
+Seat 1: Gunti54 (3595 in chips) 
+Seat 3: sammysmith87 (7740 in chips) 
+Seat 6: hzane (1565 in chips) 
+Seat 7: manu0063 (1460 in chips) 
+Seat 8: dlb287 (3045 in chips) 
+Seat 9: HausenIsMe (910 in chips) 
+HausenIsMe: posts small blind 75
+Gunti54: posts big blind 150
+*** HOLE CARDS ***
+Dealt to hzane [5h 6s]
+sammysmith87: folds 
+hzane: folds 
+manu0063: calls 150
+dlb287: calls 150
+HausenIsMe: raises 760 to 910 and is all-in
+Gunti54: folds 
+manu0063: folds 
+dlb287: folds 
+Uncalled bet (760) returned to HausenIsMe
+HausenIsMe collected 600 from pot
+HausenIsMe: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Seat 1: Gunti54 (big blind) folded before Flop
+Seat 3: sammysmith87 folded before Flop (didn't bet)
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 folded before Flop
+Seat 8: dlb287 (button) folded before Flop
+Seat 9: HausenIsMe (small blind) collected (600)
+
+
+
+PokerStars Hand #189801131413: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/08/12 9:41:57 ET
+Table '2380581917 5' 9-max Seat #9 is the button
+Seat 1: Gunti54 (3445 in chips) 
+Seat 2: bingo947 (1820 in chips) 
+Seat 3: sammysmith87 (7740 in chips) 
+Seat 4: darrelelpert (3230 in chips) 
+Seat 5: ArmaliteLemon84 (3545 in chips) 
+Seat 6: hzane (1565 in chips) 
+Seat 7: manu0063 (1310 in chips) 
+Seat 8: dlb287 (2895 in chips) 
+Seat 9: HausenIsMe (1360 in chips) 
+Gunti54: posts small blind 75
+bingo947: posts big blind 150
+*** HOLE CARDS ***
+Dealt to hzane [8d Ad]
+sammysmith87: folds 
+darrelelpert: folds 
+ArmaliteLemon84: folds 
+hzane: calls 150
+manu0063: folds 
+dlb287: calls 150
+HausenIsMe: folds 
+Gunti54: calls 75
+bingo947: checks 
+*** FLOP *** [Ac 8h Qs]
+Gunti54: checks 
+bingo947: bets 1670 and is all-in
+hzane: calls 1415 and is all-in
+dlb287: folds 
+Gunti54: folds 
+Uncalled bet (255) returned to bingo947
+*** TURN *** [Ac 8h Qs] [9d]
+*** RIVER *** [Ac 8h Qs 9d] [7d]
+*** SHOW DOWN ***
+bingo947: shows [7h As] (two pair, Aces and Sevens)
+hzane: shows [8d Ad] (two pair, Aces and Eights)
+hzane collected 3430 from pot
+*** SUMMARY ***
+Total pot 3430 | Rake 0 
+Board [Ac 8h Qs 9d 7d]
+Seat 1: Gunti54 (small blind) folded on the Flop
+Seat 2: bingo947 (big blind) showed [7h As] and lost with two pair, Aces and Sevens
+Seat 3: sammysmith87 folded before Flop (didn't bet)
+Seat 4: darrelelpert folded before Flop (didn't bet)
+Seat 5: ArmaliteLemon84 folded before Flop (didn't bet)
+Seat 6: hzane showed [8d Ad] and won (3430) with two pair, Aces and Eights
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 folded on the Flop
+Seat 9: HausenIsMe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801154810: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/08/12 9:42:42 ET
+Table '2380581917 5' 9-max Seat #1 is the button
+Seat 1: Gunti54 (3295 in chips) 
+Seat 2: bingo947 (255 in chips) 
+Seat 3: sammysmith87 (7740 in chips) 
+Seat 4: darrelelpert (3230 in chips) 
+Seat 5: ArmaliteLemon84 (3545 in chips) 
+Seat 6: hzane (3430 in chips) 
+Seat 7: manu0063 (1310 in chips) 
+Seat 8: dlb287 (2745 in chips) 
+Seat 9: HausenIsMe (1360 in chips) 
+bingo947: posts small blind 75
+sammysmith87: posts big blind 150
+*** HOLE CARDS ***
+Dealt to hzane [3d 8d]
+darrelelpert: calls 150
+ArmaliteLemon84: raises 525 to 675
+hzane has timed out
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+HausenIsMe: folds 
+Gunti54: folds 
+bingo947: calls 180 and is all-in
+sammysmith87: folds 
+darrelelpert: folds 
+Uncalled bet (420) returned to ArmaliteLemon84
+*** FLOP *** [8c 4d 7c]
+*** TURN *** [8c 4d 7c] [Ad]
+*** RIVER *** [8c 4d 7c Ad] [3s]
+*** SHOW DOWN ***
+bingo947: shows [9h Ah] (a pair of Aces)
+ArmaliteLemon84: shows [Ks Js] (high card Ace)
+bingo947 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [8c 4d 7c Ad 3s]
+Seat 1: Gunti54 (button) folded before Flop (didn't bet)
+Seat 2: bingo947 (small blind) showed [9h Ah] and won (810) with a pair of Aces
+Seat 3: sammysmith87 (big blind) folded before Flop
+Seat 4: darrelelpert folded before Flop
+Seat 5: ArmaliteLemon84 showed [Ks Js] and lost with high card Ace
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 folded before Flop (didn't bet)
+Seat 9: HausenIsMe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801180886: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/08/12 9:43:33 ET
+Table '2380581917 5' 9-max Seat #2 is the button
+Seat 1: Gunti54 (3295 in chips) 
+Seat 2: bingo947 (810 in chips) 
+Seat 3: sammysmith87 (7590 in chips) 
+Seat 4: darrelelpert (3080 in chips) 
+Seat 5: ArmaliteLemon84 (3290 in chips) 
+Seat 6: hzane (3430 in chips) 
+Seat 7: manu0063 (1310 in chips) 
+Seat 8: dlb287 (2745 in chips) is sitting out
+Seat 9: HausenIsMe (1360 in chips) 
+sammysmith87: posts small blind 75
+darrelelpert: posts big blind 150
+*** HOLE CARDS ***
+Dealt to hzane [6h 9d]
+ArmaliteLemon84: raises 150 to 300
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+HausenIsMe: folds 
+Gunti54: folds 
+bingo947: raises 510 to 810 and is all-in
+sammysmith87: folds 
+darrelelpert: folds 
+ArmaliteLemon84: calls 510
+*** FLOP *** [5h 9h 2c]
+*** TURN *** [5h 9h 2c] [Ad]
+*** RIVER *** [5h 9h 2c Ad] [6c]
+*** SHOW DOWN ***
+ArmaliteLemon84: shows [Ah 3h] (a pair of Aces)
+bingo947: shows [9s Kc] (a pair of Nines)
+ArmaliteLemon84 collected 1845 from pot
+bingo947 finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 1845 | Rake 0 
+Board [5h 9h 2c Ad 6c]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 2: bingo947 (button) showed [9s Kc] and lost with a pair of Nines
+Seat 3: sammysmith87 (small blind) folded before Flop
+Seat 4: darrelelpert (big blind) folded before Flop
+Seat 5: ArmaliteLemon84 showed [Ah 3h] and won (1845) with a pair of Aces
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 folded before Flop (didn't bet)
+Seat 9: HausenIsMe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801194631: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/08/12 9:44:00 ET
+Table '2380581917 5' 9-max Seat #3 is the button
+Seat 1: Gunti54 (3295 in chips) 
+Seat 3: sammysmith87 (7515 in chips) 
+Seat 4: darrelelpert (2930 in chips) 
+Seat 5: ArmaliteLemon84 (4325 in chips) 
+Seat 6: hzane (3430 in chips) 
+Seat 7: manu0063 (1310 in chips) 
+Seat 8: dlb287 (2745 in chips) is sitting out
+Seat 9: HausenIsMe (1360 in chips) 
+darrelelpert: posts small blind 75
+ArmaliteLemon84: posts big blind 150
+*** HOLE CARDS ***
+Dealt to hzane [Th 8s]
+hzane: folds 
+manu0063: calls 150
+dlb287: folds 
+HausenIsMe: folds 
+Gunti54: folds 
+sammysmith87: calls 150
+darrelelpert: calls 75
+ArmaliteLemon84: checks 
+*** FLOP *** [7h 3h 2h]
+darrelelpert: checks 
+ArmaliteLemon84: checks 
+manu0063: checks 
+sammysmith87: checks 
+*** TURN *** [7h 3h 2h] [Js]
+darrelelpert: checks 
+ArmaliteLemon84: bets 150
+manu0063: folds 
+sammysmith87: calls 150
+darrelelpert: calls 150
+*** RIVER *** [7h 3h 2h Js] [Jc]
+darrelelpert: checks 
+ArmaliteLemon84: bets 150
+sammysmith87: calls 150
+darrelelpert: folds 
+*** SHOW DOWN ***
+ArmaliteLemon84: shows [5s 7d] (two pair, Jacks and Sevens)
+sammysmith87: mucks hand 
+ArmaliteLemon84 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Board [7h 3h 2h Js Jc]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 (button) mucked [9d 3d]
+Seat 4: darrelelpert (small blind) folded on the River
+Seat 5: ArmaliteLemon84 (big blind) showed [5s 7d] and won (1350) with two pair, Jacks and Sevens
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 folded on the Turn
+Seat 8: dlb287 folded before Flop (didn't bet)
+Seat 9: HausenIsMe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801228238: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/08/12 9:45:05 ET
+Table '2380581917 5' 9-max Seat #4 is the button
+Seat 1: Gunti54 (3295 in chips) 
+Seat 3: sammysmith87 (7065 in chips) 
+Seat 4: darrelelpert (2630 in chips) 
+Seat 5: ArmaliteLemon84 (5225 in chips) 
+Seat 6: hzane (3430 in chips) 
+Seat 7: manu0063 (1160 in chips) 
+Seat 8: dlb287 (2745 in chips) is sitting out
+Seat 9: HausenIsMe (1360 in chips) 
+ArmaliteLemon84: posts small blind 75
+hzane: posts big blind 150
+*** HOLE CARDS ***
+Dealt to hzane [Td Ts]
+manu0063: folds 
+dlb287: folds 
+HausenIsMe: raises 225 to 375
+Gunti54: folds 
+sammysmith87: folds 
+darrelelpert: folds 
+ArmaliteLemon84: folds 
+hzane: raises 225 to 600
+HausenIsMe: calls 225
+*** FLOP *** [8s 6h 9c]
+hzane: bets 2830 and is all-in
+HausenIsMe: folds 
+Uncalled bet (2830) returned to hzane
+hzane collected 1275 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 1275 | Rake 0 
+Board [8s 6h 9c]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 folded before Flop (didn't bet)
+Seat 4: darrelelpert (button) folded before Flop (didn't bet)
+Seat 5: ArmaliteLemon84 (small blind) folded before Flop
+Seat 6: hzane (big blind) collected (1275)
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 folded before Flop (didn't bet)
+Seat 9: HausenIsMe folded on the Flop
+
+
+
+PokerStars Hand #189801261328: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/08/12 9:46:08 ET
+Table '2380581917 5' 9-max Seat #5 is the button
+Seat 1: Gunti54 (3295 in chips) 
+Seat 3: sammysmith87 (7065 in chips) 
+Seat 4: darrelelpert (2630 in chips) 
+Seat 5: ArmaliteLemon84 (5150 in chips) 
+Seat 6: hzane (4105 in chips) 
+Seat 7: manu0063 (1160 in chips) 
+Seat 8: dlb287 (2745 in chips) is sitting out
+Seat 9: HausenIsMe (760 in chips) 
+hzane: posts small blind 100
+manu0063: posts big blind 200
+*** HOLE CARDS ***
+Dealt to hzane [2d As]
+dlb287: folds 
+HausenIsMe: folds 
+Gunti54: folds 
+sammysmith87: folds 
+darrelelpert: calls 200
+ArmaliteLemon84: raises 200 to 400
+hzane: calls 300
+manu0063: calls 200
+darrelelpert: calls 200
+*** FLOP *** [3d 9d 9s]
+hzane: checks 
+manu0063: checks 
+darrelelpert: checks 
+ArmaliteLemon84: bets 1600
+hzane: folds 
+manu0063: folds 
+darrelelpert: folds 
+Uncalled bet (1600) returned to ArmaliteLemon84
+ArmaliteLemon84 collected 1600 from pot
+ArmaliteLemon84: shows [2h Qh] (a pair of Nines)
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Board [3d 9d 9s]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 folded before Flop (didn't bet)
+Seat 4: darrelelpert folded on the Flop
+Seat 5: ArmaliteLemon84 (button) collected (1600)
+Seat 6: hzane (small blind) folded on the Flop
+Seat 7: manu0063 (big blind) folded on the Flop
+Seat 8: dlb287 folded before Flop (didn't bet)
+Seat 9: HausenIsMe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801283195: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/08/12 9:46:50 ET
+Table '2380581917 5' 9-max Seat #6 is the button
+Seat 1: Gunti54 (3295 in chips) 
+Seat 3: sammysmith87 (7065 in chips) 
+Seat 4: darrelelpert (2230 in chips) 
+Seat 5: ArmaliteLemon84 (6350 in chips) 
+Seat 6: hzane (3705 in chips) 
+Seat 7: manu0063 (760 in chips) 
+Seat 8: dlb287 (2745 in chips) 
+Seat 9: HausenIsMe (760 in chips) 
+manu0063: posts small blind 100
+dlb287: posts big blind 200
+*** HOLE CARDS ***
+Dealt to hzane [9c Td]
+HausenIsMe: raises 560 to 760 and is all-in
+Gunti54: folds 
+sammysmith87: folds 
+darrelelpert: folds 
+ArmaliteLemon84: folds 
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+Uncalled bet (560) returned to HausenIsMe
+HausenIsMe collected 500 from pot
+HausenIsMe: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 folded before Flop (didn't bet)
+Seat 4: darrelelpert folded before Flop (didn't bet)
+Seat 5: ArmaliteLemon84 folded before Flop (didn't bet)
+Seat 6: hzane (button) folded before Flop (didn't bet)
+Seat 7: manu0063 (small blind) folded before Flop
+Seat 8: dlb287 (big blind) folded before Flop
+Seat 9: HausenIsMe collected (500)
+
+
+
+PokerStars Hand #189801293281: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/08/12 9:47:09 ET
+Table '2380581917 5' 9-max Seat #7 is the button
+Seat 1: Gunti54 (3295 in chips) 
+Seat 3: sammysmith87 (7065 in chips) 
+Seat 4: darrelelpert (2230 in chips) 
+Seat 5: ArmaliteLemon84 (6350 in chips) 
+Seat 6: hzane (3705 in chips) 
+Seat 7: manu0063 (660 in chips) 
+Seat 8: dlb287 (2545 in chips) 
+Seat 9: HausenIsMe (1060 in chips) 
+dlb287: posts small blind 100
+HausenIsMe: posts big blind 200
+*** HOLE CARDS ***
+Dealt to hzane [Qd 6h]
+Gunti54: calls 200
+sammysmith87: calls 200
+darrelelpert: calls 200
+ArmaliteLemon84: folds 
+hzane: folds 
+manu0063: folds 
+dlb287: calls 100
+HausenIsMe: checks 
+*** FLOP *** [6s 4c 2h]
+dlb287: checks 
+HausenIsMe: checks 
+Gunti54: checks 
+sammysmith87: bets 1000
+darrelelpert: folds 
+dlb287: folds 
+HausenIsMe: calls 860 and is all-in
+Gunti54: folds 
+Uncalled bet (140) returned to sammysmith87
+*** TURN *** [6s 4c 2h] [Th]
+*** RIVER *** [6s 4c 2h Th] [9s]
+*** SHOW DOWN ***
+HausenIsMe: shows [Kc 2c] (a pair of Deuces)
+sammysmith87: shows [5c 5s] (a pair of Fives)
+sammysmith87 collected 2720 from pot
+HausenIsMe finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 2720 | Rake 0 
+Board [6s 4c 2h Th 9s]
+Seat 1: Gunti54 folded on the Flop
+Seat 3: sammysmith87 showed [5c 5s] and won (2720) with a pair of Fives
+Seat 4: darrelelpert folded on the Flop
+Seat 5: ArmaliteLemon84 folded before Flop (didn't bet)
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 (button) folded before Flop (didn't bet)
+Seat 8: dlb287 (small blind) folded on the Flop
+Seat 9: HausenIsMe (big blind) showed [Kc 2c] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #189801323124: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/08/12 9:48:06 ET
+Table '2380581917 5' 9-max Seat #8 is the button
+Seat 1: Gunti54 (3095 in chips) 
+Seat 3: sammysmith87 (8725 in chips) 
+Seat 4: darrelelpert (2030 in chips) 
+Seat 5: ArmaliteLemon84 (6350 in chips) 
+Seat 6: hzane (3705 in chips) 
+Seat 7: manu0063 (660 in chips) 
+Seat 8: dlb287 (2345 in chips) 
+Gunti54: posts small blind 100
+sammysmith87: posts big blind 200
+*** HOLE CARDS ***
+Dealt to hzane [9h Ts]
+darrelelpert: calls 200
+ArmaliteLemon84: folds 
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+Gunti54: calls 100
+sammysmith87: raises 600 to 800
+darrelelpert: calls 600
+Gunti54: folds 
+*** FLOP *** [8c 4c Jc]
+sammysmith87: checks 
+darrelelpert: bets 1230 and is all-in
+sammysmith87: folds 
+Uncalled bet (1230) returned to darrelelpert
+darrelelpert collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Board [8c 4c Jc]
+Seat 1: Gunti54 (small blind) folded before Flop
+Seat 3: sammysmith87 (big blind) folded on the Flop
+Seat 4: darrelelpert collected (1800)
+Seat 5: ArmaliteLemon84 folded before Flop (didn't bet)
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801342244: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/08/12 9:48:42 ET
+Table '2380581917 5' 9-max Seat #1 is the button
+Seat 1: Gunti54 (2895 in chips) 
+Seat 3: sammysmith87 (7925 in chips) 
+Seat 4: darrelelpert (3030 in chips) 
+Seat 5: ArmaliteLemon84 (6350 in chips) 
+Seat 6: hzane (3705 in chips) 
+Seat 7: manu0063 (660 in chips) 
+Seat 8: dlb287 (2345 in chips) 
+sammysmith87: posts small blind 100
+darrelelpert: posts big blind 200
+*** HOLE CARDS ***
+Dealt to hzane [9d 5h]
+ArmaliteLemon84: raises 200 to 400
+hzane: folds 
+manu0063: folds 
+dlb287: folds 
+Gunti54: folds 
+sammysmith87: calls 300
+darrelelpert: folds 
+*** FLOP *** [Th 6c Ah]
+sammysmith87: checks 
+ArmaliteLemon84: checks 
+*** TURN *** [Th 6c Ah] [4d]
+sammysmith87: checks 
+ArmaliteLemon84: checks 
+*** RIVER *** [Th 6c Ah 4d] [Qc]
+sammysmith87: checks 
+ArmaliteLemon84: checks 
+*** SHOW DOWN ***
+sammysmith87: shows [Kc Ts] (a pair of Tens)
+ArmaliteLemon84: mucks hand 
+sammysmith87 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Th 6c Ah 4d Qc]
+Seat 1: Gunti54 (button) folded before Flop (didn't bet)
+Seat 3: sammysmith87 (small blind) showed [Kc Ts] and won (1000) with a pair of Tens
+Seat 4: darrelelpert (big blind) folded before Flop
+Seat 5: ArmaliteLemon84 mucked [7s 7c]
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801361147: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/08/12 9:49:18 ET
+Table '2380581917 5' 9-max Seat #3 is the button
+Seat 1: Gunti54 (2895 in chips) 
+Seat 3: sammysmith87 (8525 in chips) 
+Seat 4: darrelelpert (2830 in chips) 
+Seat 5: ArmaliteLemon84 (5950 in chips) 
+Seat 6: hzane (3705 in chips) 
+Seat 7: manu0063 (660 in chips) 
+Seat 8: dlb287 (2345 in chips) 
+darrelelpert: posts small blind 100
+ArmaliteLemon84: posts big blind 200
+*** HOLE CARDS ***
+Dealt to hzane [Qh Jd]
+hzane: raises 200 to 400
+manu0063: folds 
+dlb287: folds 
+Gunti54: folds 
+sammysmith87: calls 400
+darrelelpert: raises 2430 to 2830 and is all-in
+ArmaliteLemon84: folds 
+hzane: folds 
+sammysmith87: folds 
+Uncalled bet (2430) returned to darrelelpert
+darrelelpert collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 (button) folded before Flop
+Seat 4: darrelelpert (small blind) collected (1400)
+Seat 5: ArmaliteLemon84 (big blind) folded before Flop
+Seat 6: hzane folded before Flop
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801374358: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/08/12 9:49:43 ET
+Table '2380581917 5' 9-max Seat #4 is the button
+Seat 1: Gunti54 (2895 in chips) 
+Seat 3: sammysmith87 (8125 in chips) 
+Seat 4: darrelelpert (3830 in chips) 
+Seat 5: ArmaliteLemon84 (5750 in chips) 
+Seat 6: hzane (3305 in chips) 
+Seat 7: manu0063 (660 in chips) 
+Seat 8: dlb287 (2345 in chips) 
+ArmaliteLemon84: posts small blind 100
+hzane: posts big blind 200
+*** HOLE CARDS ***
+Dealt to hzane [9c 2h]
+manu0063: folds 
+dlb287: calls 200
+Gunti54: folds 
+sammysmith87: folds 
+darrelelpert: folds 
+ArmaliteLemon84: calls 100
+hzane: checks 
+*** FLOP *** [Jh 3s Qd]
+ArmaliteLemon84: bets 200
+hzane: folds 
+dlb287: raises 500 to 700
+ArmaliteLemon84: calls 500
+*** TURN *** [Jh 3s Qd] [7h]
+ArmaliteLemon84: checks 
+dlb287: bets 1000
+ArmaliteLemon84: folds 
+Uncalled bet (1000) returned to dlb287
+dlb287 collected 2000 from pot
+dlb287: doesn't show hand 
+*** SUMMARY ***
+Total pot 2000 | Rake 0 
+Board [Jh 3s Qd 7h]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 folded before Flop (didn't bet)
+Seat 4: darrelelpert (button) folded before Flop (didn't bet)
+Seat 5: ArmaliteLemon84 (small blind) folded on the Turn
+Seat 6: hzane (big blind) folded on the Flop
+Seat 7: manu0063 folded before Flop (didn't bet)
+Seat 8: dlb287 collected (2000)
+
+
+
+PokerStars Hand #189801397157: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/08/12 9:50:25 ET
+Table '2380581917 5' 9-max Seat #5 is the button
+Seat 1: Gunti54 (2895 in chips) 
+Seat 3: sammysmith87 (8125 in chips) 
+Seat 4: darrelelpert (3830 in chips) 
+Seat 5: ArmaliteLemon84 (4850 in chips) 
+Seat 6: hzane (3105 in chips) 
+Seat 7: manu0063 (660 in chips) 
+Seat 8: dlb287 (3445 in chips) 
+hzane: posts small blind 100
+manu0063: posts big blind 200
+*** HOLE CARDS ***
+Dealt to hzane [8h 4h]
+dlb287: folds 
+Gunti54: folds 
+sammysmith87: folds 
+darrelelpert has timed out
+darrelelpert: folds 
+ArmaliteLemon84: raises 500 to 700
+hzane: folds 
+manu0063: calls 460 and is all-in
+Uncalled bet (40) returned to ArmaliteLemon84
+*** FLOP *** [7s 5s 5d]
+*** TURN *** [7s 5s 5d] [8d]
+*** RIVER *** [7s 5s 5d 8d] [5h]
+*** SHOW DOWN ***
+manu0063: shows [3d Ad] (three of a kind, Fives)
+ArmaliteLemon84: shows [7c Kc] (a full house, Fives full of Sevens)
+ArmaliteLemon84 collected 1420 from pot
+manu0063 finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Board [7s 5s 5d 8d 5h]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 folded before Flop (didn't bet)
+Seat 4: darrelelpert folded before Flop (didn't bet)
+Seat 5: ArmaliteLemon84 (button) showed [7c Kc] and won (1420) with a full house, Fives full of Sevens
+Seat 6: hzane (small blind) folded before Flop
+Seat 7: manu0063 (big blind) showed [3d Ad] and lost with three of a kind, Fives
+Seat 8: dlb287 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801422633: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/08/12 9:51:14 ET
+Table '2380581917 5' 9-max Seat #6 is the button
+Seat 1: Gunti54 (2895 in chips) 
+Seat 3: sammysmith87 (8125 in chips) 
+Seat 4: darrelelpert (3830 in chips) 
+Seat 5: ArmaliteLemon84 (5610 in chips) 
+Seat 6: hzane (3005 in chips) 
+Seat 8: dlb287 (3445 in chips) 
+Gunti54: posts the ante 25
+sammysmith87: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+dlb287: posts small blind 100
+Gunti54: posts big blind 200
+*** HOLE CARDS ***
+Dealt to hzane [6c Qc]
+sammysmith87: calls 200
+darrelelpert: folds 
+ArmaliteLemon84: raises 800 to 1000
+hzane: folds 
+dlb287: raises 2420 to 3420 and is all-in
+Gunti54: folds 
+sammysmith87: raises 4680 to 8100 and is all-in
+ArmaliteLemon84: folds [Js Ks]
+Uncalled bet (4680) returned to sammysmith87
+*** FLOP *** [3h Ts 4s]
+*** TURN *** [3h Ts 4s] [6s]
+*** RIVER *** [3h Ts 4s 6s] [3s]
+*** SHOW DOWN ***
+dlb287: shows [Kh Kc] (two pair, Kings and Threes)
+sammysmith87: shows [Kd Ah] (a pair of Threes)
+dlb287 collected 8190 from pot
+*** SUMMARY ***
+Total pot 8190 | Rake 0 
+Board [3h Ts 4s 6s 3s]
+Seat 1: Gunti54 (big blind) folded before Flop
+Seat 3: sammysmith87 showed [Kd Ah] and lost with a pair of Threes
+Seat 4: darrelelpert folded before Flop (didn't bet)
+Seat 5: ArmaliteLemon84 folded before Flop
+Seat 6: hzane (button) folded before Flop (didn't bet)
+Seat 8: dlb287 (small blind) showed [Kh Kc] and won (8190) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #189801449800: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/08/12 9:52:05 ET
+Table '2380581917 5' 9-max Seat #8 is the button
+Seat 1: Gunti54 (2670 in chips) 
+Seat 3: sammysmith87 (4680 in chips) 
+Seat 4: darrelelpert (3805 in chips) 
+Seat 5: ArmaliteLemon84 (4585 in chips) 
+Seat 6: hzane (2980 in chips) 
+Seat 8: dlb287 (8190 in chips) 
+Gunti54: posts the ante 25
+sammysmith87: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+Gunti54: posts small blind 100
+sammysmith87: posts big blind 200
+*** HOLE CARDS ***
+Dealt to hzane [3c Jc]
+darrelelpert: folds 
+ArmaliteLemon84: folds 
+hzane: folds 
+dlb287: folds 
+Gunti54: calls 100
+sammysmith87: checks 
+*** FLOP *** [4s 8h Js]
+Gunti54: bets 200
+sammysmith87: folds 
+Uncalled bet (200) returned to Gunti54
+Gunti54 collected 550 from pot
+Gunti54: doesn't show hand 
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [4s 8h Js]
+Seat 1: Gunti54 (small blind) collected (550)
+Seat 3: sammysmith87 (big blind) folded on the Flop
+Seat 4: darrelelpert folded before Flop (didn't bet)
+Seat 5: ArmaliteLemon84 folded before Flop (didn't bet)
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 8: dlb287 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801460573: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/08/12 9:52:26 ET
+Table '2380581917 5' 9-max Seat #1 is the button
+Seat 1: Gunti54 (2995 in chips) 
+Seat 3: sammysmith87 (4455 in chips) 
+Seat 4: darrelelpert (3780 in chips) 
+Seat 5: ArmaliteLemon84 (4560 in chips) 
+Seat 6: hzane (2955 in chips) 
+Seat 8: dlb287 (8165 in chips) 
+Gunti54: posts the ante 25
+sammysmith87: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+sammysmith87: posts small blind 100
+darrelelpert: posts big blind 200
+*** HOLE CARDS ***
+Dealt to hzane [9s Th]
+ArmaliteLemon84: raises 200 to 400
+hzane: folds 
+dlb287: calls 400
+Gunti54: folds 
+sammysmith87: calls 300
+darrelelpert: folds 
+*** FLOP *** [5h 9d 8c]
+sammysmith87: checks 
+ArmaliteLemon84: bets 4135 and is all-in
+dlb287: folds 
+sammysmith87: folds 
+Uncalled bet (4135) returned to ArmaliteLemon84
+ArmaliteLemon84 collected 1550 from pot
+ArmaliteLemon84: shows [As 7h] (high card Ace)
+*** SUMMARY ***
+Total pot 1550 | Rake 0 
+Board [5h 9d 8c]
+Seat 1: Gunti54 (button) folded before Flop (didn't bet)
+Seat 3: sammysmith87 (small blind) folded on the Flop
+Seat 4: darrelelpert (big blind) folded before Flop
+Seat 5: ArmaliteLemon84 collected (1550)
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 8: dlb287 folded on the Flop
+
+
+
+PokerStars Hand #189801481742: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/08/12 9:53:06 ET
+Table '2380581917 5' 9-max Seat #3 is the button
+Seat 1: Gunti54 (2970 in chips) 
+Seat 3: sammysmith87 (4030 in chips) 
+Seat 4: darrelelpert (3555 in chips) 
+Seat 5: ArmaliteLemon84 (5685 in chips) 
+Seat 6: hzane (2930 in chips) 
+Seat 8: dlb287 (7740 in chips) 
+Gunti54: posts the ante 25
+sammysmith87: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+darrelelpert: posts small blind 100
+ArmaliteLemon84: posts big blind 200
+*** HOLE CARDS ***
+Dealt to hzane [Ah 9d]
+hzane: calls 200
+dlb287: calls 200
+Gunti54: calls 200
+sammysmith87: folds 
+darrelelpert: folds 
+ArmaliteLemon84: checks 
+*** FLOP *** [3c 4h 8c]
+ArmaliteLemon84: checks 
+hzane: checks 
+dlb287: checks 
+Gunti54: checks 
+*** TURN *** [3c 4h 8c] [Td]
+ArmaliteLemon84: checks 
+hzane: checks 
+dlb287: checks 
+Gunti54: bets 200
+ArmaliteLemon84: calls 200
+hzane: calls 200
+dlb287: calls 200
+*** RIVER *** [3c 4h 8c Td] [6c]
+ArmaliteLemon84: checks 
+hzane: bets 200
+dlb287: folds 
+Gunti54: calls 200
+ArmaliteLemon84: folds 
+*** SHOW DOWN ***
+hzane: shows [Ah 9d] (high card Ace)
+Gunti54: shows [Ts As] (a pair of Tens)
+Gunti54 collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | Rake 0 
+Board [3c 4h 8c Td 6c]
+Seat 1: Gunti54 showed [Ts As] and won (2250) with a pair of Tens
+Seat 3: sammysmith87 (button) folded before Flop (didn't bet)
+Seat 4: darrelelpert (small blind) folded before Flop
+Seat 5: ArmaliteLemon84 (big blind) folded on the River
+Seat 6: hzane showed [Ah 9d] and lost with high card Ace
+Seat 8: dlb287 folded on the River
+
+
+
+PokerStars Hand #189801524106: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/08/12 9:54:26 ET
+Table '2380581917 5' 9-max Seat #4 is the button
+Seat 1: Gunti54 (4595 in chips) 
+Seat 3: sammysmith87 (4005 in chips) 
+Seat 4: darrelelpert (3430 in chips) 
+Seat 5: ArmaliteLemon84 (5260 in chips) 
+Seat 6: hzane (2305 in chips) 
+Seat 8: dlb287 (7315 in chips) 
+Gunti54: posts the ante 25
+sammysmith87: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+ArmaliteLemon84: posts small blind 100
+hzane: posts big blind 200
+*** HOLE CARDS ***
+Dealt to hzane [6d 8s]
+dlb287: calls 200
+Gunti54: folds 
+sammysmith87: calls 200
+darrelelpert: calls 200
+ArmaliteLemon84: calls 100
+hzane: checks 
+*** FLOP *** [4h 5d 3h]
+ArmaliteLemon84: checks 
+hzane: checks 
+dlb287: checks 
+sammysmith87: checks 
+darrelelpert: bets 1150
+ArmaliteLemon84: calls 1150
+hzane: folds 
+dlb287: folds 
+sammysmith87: folds 
+*** TURN *** [4h 5d 3h] [Js]
+ArmaliteLemon84: checks 
+darrelelpert: bets 2055 and is all-in
+ArmaliteLemon84: calls 2055
+*** RIVER *** [4h 5d 3h Js] [Qc]
+*** SHOW DOWN ***
+ArmaliteLemon84: shows [2d 4s] (a pair of Fours)
+darrelelpert: shows [Ts Tc] (a pair of Tens)
+darrelelpert collected 7560 from pot
+*** SUMMARY ***
+Total pot 7560 | Rake 0 
+Board [4h 5d 3h Js Qc]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 folded on the Flop
+Seat 4: darrelelpert (button) showed [Ts Tc] and won (7560) with a pair of Tens
+Seat 5: ArmaliteLemon84 (small blind) showed [2d 4s] and lost with a pair of Fours
+Seat 6: hzane (big blind) folded on the Flop
+Seat 8: dlb287 folded on the Flop
+
+
+
+PokerStars Hand #189801556550: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/08/12 9:55:33 ET
+Table '2380581917 5' 9-max Seat #5 is the button
+Seat 1: Gunti54 (4570 in chips) 
+Seat 3: sammysmith87 (3780 in chips) 
+Seat 4: darrelelpert (7560 in chips) 
+Seat 5: ArmaliteLemon84 (1830 in chips) 
+Seat 6: hzane (2080 in chips) 
+Seat 8: dlb287 (7090 in chips) 
+Gunti54: posts the ante 25
+sammysmith87: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+hzane: posts small blind 100
+dlb287: posts big blind 200
+*** HOLE CARDS ***
+Dealt to hzane [Js Qc]
+Gunti54: folds 
+sammysmith87: calls 200
+darrelelpert: folds 
+ArmaliteLemon84: calls 200
+hzane: raises 400 to 600
+dlb287: folds 
+sammysmith87: calls 400
+ArmaliteLemon84: calls 400
+*** FLOP *** [8h 9s 5h]
+hzane: checks 
+sammysmith87: checks 
+ArmaliteLemon84: checks 
+*** TURN *** [8h 9s 5h] [2s]
+hzane: checks 
+sammysmith87: checks 
+ArmaliteLemon84: bets 1205 and is all-in
+hzane: folds 
+sammysmith87: calls 1205
+*** RIVER *** [8h 9s 5h 2s] [9d]
+*** SHOW DOWN ***
+sammysmith87: shows [Td 7h] (a pair of Nines)
+ArmaliteLemon84: shows [4h 2c] (two pair, Nines and Deuces)
+ArmaliteLemon84 collected 4560 from pot
+*** SUMMARY ***
+Total pot 4560 | Rake 0 
+Board [8h 9s 5h 2s 9d]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 showed [Td 7h] and lost with a pair of Nines
+Seat 4: darrelelpert folded before Flop (didn't bet)
+Seat 5: ArmaliteLemon84 (button) showed [4h 2c] and won (4560) with two pair, Nines and Deuces
+Seat 6: hzane (small blind) folded on the Turn
+Seat 8: dlb287 (big blind) folded before Flop
+
+
+
+PokerStars Hand #189801581616: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/08/12 9:56:30 ET
+Table '2380581917 5' 9-max Seat #6 is the button
+Seat 1: Gunti54 (4545 in chips) 
+Seat 3: sammysmith87 (1950 in chips) 
+Seat 4: darrelelpert (7535 in chips) 
+Seat 5: ArmaliteLemon84 (4560 in chips) 
+Seat 6: hzane (1455 in chips) 
+Seat 8: dlb287 (6865 in chips) 
+Gunti54: posts the ante 25
+sammysmith87: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+dlb287: posts small blind 150
+Gunti54: posts big blind 300
+*** HOLE CARDS ***
+Dealt to hzane [2c 3s]
+sammysmith87: folds 
+darrelelpert: folds 
+ArmaliteLemon84: raises 600 to 900
+hzane: folds 
+sammysmith87 said, "nh"
+dlb287: folds 
+Gunti54: folds 
+Uncalled bet (600) returned to ArmaliteLemon84
+ArmaliteLemon84 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: Gunti54 (big blind) folded before Flop
+Seat 3: sammysmith87 folded before Flop (didn't bet)
+Seat 4: darrelelpert folded before Flop (didn't bet)
+Seat 5: ArmaliteLemon84 collected (900)
+Seat 6: hzane (button) folded before Flop (didn't bet)
+Seat 8: dlb287 (small blind) folded before Flop
+
+
+
+PokerStars Hand #189801588955: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/08/12 9:56:47 ET
+Table '2380581917 5' 9-max Seat #8 is the button
+Seat 1: Gunti54 (4220 in chips) 
+Seat 3: sammysmith87 (1925 in chips) 
+Seat 4: darrelelpert (7510 in chips) 
+Seat 5: ArmaliteLemon84 (5135 in chips) 
+Seat 6: hzane (1430 in chips) 
+Seat 8: dlb287 (6690 in chips) 
+Gunti54: posts the ante 25
+sammysmith87: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+Gunti54: posts small blind 150
+sammysmith87: posts big blind 300
+*** HOLE CARDS ***
+Dealt to hzane [7d Kh]
+darrelelpert: calls 300
+ArmaliteLemon84: calls 300
+ArmaliteLemon84 said, "ty"
+hzane: folds 
+dlb287: folds 
+Gunti54: folds 
+sammysmith87: checks 
+*** FLOP *** [5s 8d 8h]
+sammysmith87: checks 
+darrelelpert: checks 
+ArmaliteLemon84: checks 
+*** TURN *** [5s 8d 8h] [Js]
+sammysmith87: bets 300
+darrelelpert: folds 
+ArmaliteLemon84: folds 
+Uncalled bet (300) returned to sammysmith87
+sammysmith87 collected 1200 from pot
+sammysmith87: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [5s 8d 8h Js]
+Seat 1: Gunti54 (small blind) folded before Flop
+Seat 3: sammysmith87 (big blind) collected (1200)
+Seat 4: darrelelpert folded on the Turn
+Seat 5: ArmaliteLemon84 folded on the Turn
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 8: dlb287 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801603469: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/08/12 9:57:20 ET
+Table '2380581917 5' 9-max Seat #1 is the button
+Seat 1: Gunti54 (4045 in chips) 
+Seat 3: sammysmith87 (2800 in chips) 
+Seat 4: darrelelpert (7185 in chips) 
+Seat 5: ArmaliteLemon84 (4810 in chips) 
+Seat 6: hzane (1405 in chips) 
+Seat 8: dlb287 (6665 in chips) 
+Gunti54: posts the ante 25
+sammysmith87: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+sammysmith87: posts small blind 150
+darrelelpert: posts big blind 300
+*** HOLE CARDS ***
+Dealt to hzane [Tc 8s]
+ArmaliteLemon84: folds 
+hzane: folds 
+dlb287: folds 
+Gunti54: calls 300
+sammysmith87: calls 150
+darrelelpert: checks 
+*** FLOP *** [Jd Qd 9s]
+sammysmith87: bets 300
+darrelelpert: folds 
+Gunti54: calls 300
+*** TURN *** [Jd Qd 9s] [6h]
+sammysmith87: bets 300
+Gunti54: calls 300
+*** RIVER *** [Jd Qd 9s 6h] [6c]
+sammysmith87: bets 300
+Gunti54: folds 
+Uncalled bet (300) returned to sammysmith87
+sammysmith87 collected 2250 from pot
+sammysmith87: doesn't show hand 
+*** SUMMARY ***
+Total pot 2250 | Rake 0 
+Board [Jd Qd 9s 6h 6c]
+Seat 1: Gunti54 (button) folded on the River
+Seat 3: sammysmith87 (small blind) collected (2250)
+Seat 4: darrelelpert (big blind) folded on the Flop
+Seat 5: ArmaliteLemon84 folded before Flop (didn't bet)
+Seat 6: hzane folded before Flop (didn't bet)
+Seat 8: dlb287 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801620473: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/08/12 9:57:59 ET
+Table '2380581917 5' 9-max Seat #3 is the button
+Seat 1: Gunti54 (3120 in chips) 
+Seat 3: sammysmith87 (4125 in chips) 
+Seat 4: darrelelpert (6860 in chips) 
+Seat 5: ArmaliteLemon84 (4785 in chips) 
+Seat 6: hzane (1380 in chips) 
+Seat 8: dlb287 (6640 in chips) 
+Gunti54: posts the ante 25
+sammysmith87: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+darrelelpert: posts small blind 150
+ArmaliteLemon84: posts big blind 300
+*** HOLE CARDS ***
+Dealt to hzane [Ad 8d]
+hzane: calls 300
+dlb287: folds 
+Gunti54: folds 
+sammysmith87: calls 300
+darrelelpert: folds 
+ArmaliteLemon84: raises 2100 to 2400
+hzane: folds 
+sammysmith87: raises 1700 to 4100 and is all-in
+ArmaliteLemon84: calls 1700
+*** FLOP *** [3c Qc 4s]
+*** TURN *** [3c Qc 4s] [3h]
+*** RIVER *** [3c Qc 4s 3h] [8h]
+*** SHOW DOWN ***
+ArmaliteLemon84: shows [Qd Qh] (a full house, Queens full of Threes)
+sammysmith87: shows [Kc Ah] (a pair of Threes)
+ArmaliteLemon84 collected 8800 from pot
+sammysmith87 finished the tournament in 12th place
+*** SUMMARY ***
+Total pot 8800 | Rake 0 
+Board [3c Qc 4s 3h 8h]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 3: sammysmith87 (button) showed [Kc Ah] and lost with a pair of Threes
+Seat 4: darrelelpert (small blind) folded before Flop
+Seat 5: ArmaliteLemon84 (big blind) showed [Qd Qh] and won (8800) with a full house, Queens full of Threes
+Seat 6: hzane folded before Flop
+Seat 8: dlb287 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801640475: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/08/12 9:58:44 ET
+Table '2380581917 5' 9-max Seat #4 is the button
+Seat 1: Gunti54 (3095 in chips) 
+Seat 4: darrelelpert (6685 in chips) 
+Seat 5: ArmaliteLemon84 (9460 in chips) 
+Seat 6: hzane (1055 in chips) 
+Seat 8: dlb287 (6615 in chips) 
+Gunti54: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+ArmaliteLemon84: posts small blind 150
+hzane: posts big blind 300
+*** HOLE CARDS ***
+Dealt to hzane [Th 2c]
+dlb287: calls 300
+Gunti54: folds 
+darrelelpert: folds 
+ArmaliteLemon84: raises 1025 to 1325
+hzane: folds 
+dlb287: folds 
+Uncalled bet (1025) returned to ArmaliteLemon84
+ArmaliteLemon84 collected 1025 from pot
+ArmaliteLemon84: shows [8d Td] (high card Ten)
+*** SUMMARY ***
+Total pot 1025 | Rake 0 
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 4: darrelelpert (button) folded before Flop (didn't bet)
+Seat 5: ArmaliteLemon84 (small blind) collected (1025)
+Seat 6: hzane (big blind) folded before Flop
+Seat 8: dlb287 folded before Flop
+
+
+
+PokerStars Hand #189801649524: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/08/12 9:59:04 ET
+Table '2380581917 5' 9-max Seat #5 is the button
+Seat 1: Gunti54 (3070 in chips) 
+Seat 4: darrelelpert (6660 in chips) 
+Seat 5: ArmaliteLemon84 (10160 in chips) 
+Seat 6: hzane (730 in chips) 
+Seat 8: dlb287 (6290 in chips) 
+Gunti54: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+hzane: posts small blind 150
+dlb287: posts big blind 300
+*** HOLE CARDS ***
+Dealt to hzane [5h 5s]
+Gunti54: folds 
+darrelelpert: folds 
+ArmaliteLemon84: raises 1200 to 1500
+hzane: calls 555 and is all-in
+dlb287: folds 
+Uncalled bet (795) returned to ArmaliteLemon84
+*** FLOP *** [5d 9d 3s]
+*** TURN *** [5d 9d 3s] [Ts]
+*** RIVER *** [5d 9d 3s Ts] [9s]
+*** SHOW DOWN ***
+hzane: shows [5h 5s] (a full house, Fives full of Nines)
+ArmaliteLemon84: shows [Ad Qc] (a pair of Nines)
+hzane collected 1835 from pot
+*** SUMMARY ***
+Total pot 1835 | Rake 0 
+Board [5d 9d 3s Ts 9s]
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 4: darrelelpert folded before Flop (didn't bet)
+Seat 5: ArmaliteLemon84 (button) showed [Ad Qc] and lost with a pair of Nines
+Seat 6: hzane (small blind) showed [5h 5s] and won (1835) with a full house, Fives full of Nines
+Seat 8: dlb287 (big blind) folded before Flop
+
+
+
+PokerStars Hand #189801662152: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/08/12 9:59:32 ET
+Table '2380581917 5' 9-max Seat #6 is the button
+Seat 1: Gunti54 (3045 in chips) 
+Seat 4: darrelelpert (6635 in chips) 
+Seat 5: ArmaliteLemon84 (9430 in chips) 
+Seat 6: hzane (1835 in chips) 
+Seat 8: dlb287 (5965 in chips) 
+Gunti54: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+dlb287: posts small blind 150
+Gunti54: posts big blind 300
+*** HOLE CARDS ***
+Dealt to hzane [4h 6c]
+darrelelpert: folds 
+ArmaliteLemon84: folds 
+hzane: folds 
+dlb287: folds 
+Uncalled bet (150) returned to Gunti54
+Gunti54 collected 425 from pot
+Gunti54: doesn't show hand 
+*** SUMMARY ***
+Total pot 425 | Rake 0 
+Seat 1: Gunti54 (big blind) collected (425)
+Seat 4: darrelelpert folded before Flop (didn't bet)
+Seat 5: ArmaliteLemon84 folded before Flop (didn't bet)
+Seat 6: hzane (button) folded before Flop (didn't bet)
+Seat 8: dlb287 (small blind) folded before Flop
+
+
+
+PokerStars Hand #189801670825: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/08/12 9:59:52 ET
+Table '2380581917 5' 9-max Seat #8 is the button
+Seat 1: Gunti54 (3295 in chips) 
+Seat 4: darrelelpert (6610 in chips) 
+Seat 5: ArmaliteLemon84 (9405 in chips) is sitting out
+Seat 6: hzane (1810 in chips) 
+Seat 8: dlb287 (5790 in chips) 
+Gunti54: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+Gunti54: posts small blind 150
+darrelelpert: posts big blind 300
+*** HOLE CARDS ***
+Dealt to hzane [Jh Ad]
+ArmaliteLemon84: folds 
+hzane: calls 300
+dlb287: folds 
+Gunti54: folds 
+darrelelpert: checks 
+*** FLOP *** [7h 7s Ac]
+darrelelpert: checks 
+hzane: bets 300
+darrelelpert: folds 
+Uncalled bet (300) returned to hzane
+hzane collected 875 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Board [7h 7s Ac]
+Seat 1: Gunti54 (small blind) folded before Flop
+Seat 4: darrelelpert (big blind) folded on the Flop
+Seat 5: ArmaliteLemon84 folded before Flop (didn't bet)
+Seat 6: hzane collected (875)
+Seat 8: dlb287 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801680373: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/08/12 10:00:13 ET
+Table '2380581917 5' 9-max Seat #1 is the button
+Seat 1: Gunti54 (3120 in chips) 
+Seat 4: darrelelpert (6285 in chips) 
+Seat 5: ArmaliteLemon84 (9380 in chips) is sitting out
+Seat 6: hzane (2360 in chips) 
+Seat 8: dlb287 (5765 in chips) 
+Gunti54: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+darrelelpert: posts small blind 150
+ArmaliteLemon84: posts big blind 300
+*** HOLE CARDS ***
+Dealt to hzane [Js Ks]
+hzane: raises 300 to 600
+dlb287: folds 
+Gunti54: folds 
+darrelelpert: folds 
+ArmaliteLemon84: folds 
+Uncalled bet (300) returned to hzane
+hzane collected 875 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Seat 1: Gunti54 (button) folded before Flop (didn't bet)
+Seat 4: darrelelpert (small blind) folded before Flop
+Seat 5: ArmaliteLemon84 (big blind) folded before Flop
+Seat 6: hzane collected (875)
+Seat 8: dlb287 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801686318: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/08/12 10:00:26 ET
+Table '2380581917 5' 9-max Seat #4 is the button
+Seat 1: Gunti54 (3095 in chips) 
+Seat 4: darrelelpert (6110 in chips) 
+Seat 5: ArmaliteLemon84 (9055 in chips) is sitting out
+Seat 6: hzane (2910 in chips) 
+Seat 8: dlb287 (5740 in chips) 
+Gunti54: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+ArmaliteLemon84: posts small blind 150
+hzane: posts big blind 300
+*** HOLE CARDS ***
+Dealt to hzane [5d 3h]
+dlb287: folds 
+Gunti54: calls 300
+darrelelpert: folds 
+ArmaliteLemon84: folds 
+hzane: checks 
+*** FLOP *** [5h 2c 6s]
+hzane: bets 300
+Gunti54: calls 300
+*** TURN *** [5h 2c 6s] [9s]
+hzane: checks 
+Gunti54: checks 
+*** RIVER *** [5h 2c 6s 9s] [7c]
+hzane: bets 600
+Gunti54: folds 
+Uncalled bet (600) returned to hzane
+hzane collected 1475 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 1475 | Rake 0 
+Board [5h 2c 6s 9s 7c]
+Seat 1: Gunti54 folded on the River
+Seat 4: darrelelpert (button) folded before Flop (didn't bet)
+Seat 5: ArmaliteLemon84 (small blind) folded before Flop
+Seat 6: hzane (big blind) collected (1475)
+Seat 8: dlb287 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801703820: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/08/12 10:01:02 ET
+Table '2380581917 5' 9-max Seat #5 is the button
+Seat 1: Gunti54 (2470 in chips) 
+Seat 4: darrelelpert (6085 in chips) 
+Seat 5: ArmaliteLemon84 (8880 in chips) is sitting out
+Seat 6: hzane (3760 in chips) 
+Seat 8: dlb287 (5715 in chips) 
+Gunti54: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+hzane: posts small blind 200
+dlb287: posts big blind 400
+*** HOLE CARDS ***
+Dealt to hzane [Jc 6s]
+Gunti54: folds 
+darrelelpert: folds 
+ArmaliteLemon84: folds 
+hzane: folds 
+Uncalled bet (200) returned to dlb287
+dlb287 collected 525 from pot
+dlb287: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 1: Gunti54 folded before Flop (didn't bet)
+Seat 4: darrelelpert folded before Flop (didn't bet)
+Seat 5: ArmaliteLemon84 (button) folded before Flop (didn't bet)
+Seat 6: hzane (small blind) folded before Flop
+Seat 8: dlb287 (big blind) collected (525)
+
+
+
+PokerStars Hand #189801711693: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/08/12 10:01:19 ET
+Table '2380581917 5' 9-max Seat #6 is the button
+Seat 1: Gunti54 (2445 in chips) 
+Seat 4: darrelelpert (6060 in chips) 
+Seat 5: ArmaliteLemon84 (8855 in chips) is sitting out
+Seat 6: hzane (3535 in chips) 
+Seat 8: dlb287 (6015 in chips) 
+Gunti54: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+dlb287: posts small blind 200
+Gunti54: posts big blind 400
+*** HOLE CARDS ***
+Dealt to hzane [As Kc]
+darrelelpert: folds 
+ArmaliteLemon84: folds 
+hzane: calls 400
+dlb287: folds 
+Gunti54: checks 
+*** FLOP *** [Qc 6h Ac]
+Gunti54: checks 
+hzane: checks 
+*** TURN *** [Qc 6h Ac] [Qs]
+Gunti54: checks 
+hzane: checks 
+*** RIVER *** [Qc 6h Ac Qs] [Ah]
+Gunti54: checks 
+hzane: bets 563
+Gunti54: folds 
+Uncalled bet (563) returned to hzane
+hzane collected 1125 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Board [Qc 6h Ac Qs Ah]
+Seat 1: Gunti54 (big blind) folded on the River
+Seat 4: darrelelpert folded before Flop (didn't bet)
+Seat 5: ArmaliteLemon84 folded before Flop (didn't bet)
+Seat 6: hzane (button) collected (1125)
+Seat 8: dlb287 (small blind) folded before Flop
+
+
+
+PokerStars Hand #189801731044: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/08/12 10:01:57 ET
+Table '2380581917 5' 9-max Seat #8 is the button
+Seat 1: Gunti54 (2020 in chips) 
+Seat 4: darrelelpert (6035 in chips) 
+Seat 5: ArmaliteLemon84 (8830 in chips) 
+Seat 6: hzane (4235 in chips) 
+Seat 8: dlb287 (5790 in chips) 
+Gunti54: posts the ante 25
+darrelelpert: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+hzane: posts the ante 25
+dlb287: posts the ante 25
+Gunti54: posts small blind 200
+darrelelpert: posts big blind 400
+*** HOLE CARDS ***
+Dealt to hzane [Kd Js]
+ArmaliteLemon84: raises 400 to 800
+hzane: calls 800
+dlb287: folds 
+Gunti54: raises 1195 to 1995 and is all-in
+darrelelpert: folds 
+ArmaliteLemon84: calls 1195
+hzane: calls 1195
+*** FLOP *** [Qh Jc 3h]
+ArmaliteLemon84: checks 
+hzane: checks 
+*** TURN *** [Qh Jc 3h] [2d]
+ArmaliteLemon84: checks 
+hzane: bets 400
+ArmaliteLemon84: calls 400
+*** RIVER *** [Qh Jc 3h 2d] [8c]
+ArmaliteLemon84: checks 
+hzane: bets 400
+ArmaliteLemon84: folds 
+Uncalled bet (400) returned to hzane
+*** SHOW DOWN ***
+hzane: shows [Kd Js] (a pair of Jacks)
+hzane collected 800 from side pot
+Gunti54: shows [Ad Td] (high card Ace)
+hzane collected 6510 from main pot
+Gunti54 finished the tournament in 10th place
+*** SUMMARY ***
+Total pot 7310 Main pot 6510. Side pot 800. | Rake 0 
+Board [Qh Jc 3h 2d 8c]
+Seat 1: Gunti54 (small blind) showed [Ad Td] and lost with high card Ace
+Seat 4: darrelelpert (big blind) folded before Flop
+Seat 5: ArmaliteLemon84 folded on the River
+Seat 6: hzane showed [Kd Js] and won (7310) with a pair of Jacks
+Seat 8: dlb287 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801796711: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/08/12 10:04:00 ET
+Table '2380581917 4' 9-max Seat #1 is the button
+Seat 1: ToniErdmann (9614 in chips) 
+Seat 2: dlb287 (4940 in chips) 
+Seat 3: Wenzel914 (8401 in chips) 
+Seat 4: pinchaviejo (17655 in chips) 
+Seat 5: darrelelpert (5585 in chips) 
+Seat 6: Yo_Dawg2494 (2080 in chips) 
+Seat 7: yoda2305 (3690 in chips) 
+Seat 8: hzane (9125 in chips) 
+Seat 9: ArmaliteLemon84 (6410 in chips) 
+ToniErdmann: posts the ante 25
+dlb287: posts the ante 25
+Wenzel914: posts the ante 25
+pinchaviejo: posts the ante 25
+darrelelpert: posts the ante 25
+Yo_Dawg2494: posts the ante 25
+yoda2305: posts the ante 25
+hzane: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+dlb287: posts small blind 200
+Wenzel914: posts big blind 400
+*** HOLE CARDS ***
+Dealt to hzane [9h Qd]
+pinchaviejo: folds 
+darrelelpert: folds 
+Yo_Dawg2494: folds 
+yoda2305: calls 400
+hzane: calls 400
+ArmaliteLemon84: folds 
+ToniErdmann: folds 
+dlb287: folds 
+Wenzel914: checks 
+*** FLOP *** [Kd Ks 3c]
+Wenzel914: checks 
+yoda2305: checks 
+hzane: bets 400
+Wenzel914: folds 
+yoda2305: folds 
+Uncalled bet (400) returned to hzane
+hzane collected 1625 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 1625 | Rake 0 
+Board [Kd Ks 3c]
+Seat 1: ToniErdmann (button) folded before Flop (didn't bet)
+Seat 2: dlb287 (small blind) folded before Flop
+Seat 3: Wenzel914 (big blind) folded on the Flop
+Seat 4: pinchaviejo folded before Flop (didn't bet)
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 6: Yo_Dawg2494 folded before Flop (didn't bet)
+Seat 7: yoda2305 folded on the Flop
+Seat 8: hzane collected (1625)
+Seat 9: ArmaliteLemon84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801815841: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/08/12 10:04:36 ET
+Table '2380581917 4' 9-max Seat #2 is the button
+Seat 1: ToniErdmann (9589 in chips) 
+Seat 2: dlb287 (4715 in chips) 
+Seat 3: Wenzel914 (7976 in chips) 
+Seat 4: pinchaviejo (17630 in chips) 
+Seat 5: darrelelpert (5560 in chips) 
+Seat 6: Yo_Dawg2494 (2055 in chips) 
+Seat 7: yoda2305 (3265 in chips) 
+Seat 8: hzane (10325 in chips) 
+Seat 9: ArmaliteLemon84 (6385 in chips) 
+ToniErdmann: posts the ante 25
+dlb287: posts the ante 25
+Wenzel914: posts the ante 25
+pinchaviejo: posts the ante 25
+darrelelpert: posts the ante 25
+Yo_Dawg2494: posts the ante 25
+yoda2305: posts the ante 25
+hzane: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+Wenzel914: posts small blind 200
+pinchaviejo: posts big blind 400
+*** HOLE CARDS ***
+Dealt to hzane [3d Ks]
+darrelelpert: folds 
+Yo_Dawg2494: folds 
+yoda2305: folds 
+hzane: folds 
+ArmaliteLemon84: folds 
+ToniErdmann: folds 
+dlb287: folds 
+Wenzel914: raises 400 to 800
+pinchaviejo has timed out
+pinchaviejo: folds 
+Uncalled bet (400) returned to Wenzel914
+Wenzel914 collected 1025 from pot
+Wenzel914: shows [Ad Kc]
+*** SUMMARY ***
+Total pot 1025 | Rake 0 
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 (button) folded before Flop (didn't bet)
+Seat 3: Wenzel914 (small blind) collected (1025)
+Seat 4: pinchaviejo (big blind) folded before Flop
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 6: Yo_Dawg2494 folded before Flop (didn't bet)
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane folded before Flop (didn't bet)
+Seat 9: ArmaliteLemon84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801836244: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/08/12 10:05:13 ET
+Table '2380581917 4' 9-max Seat #3 is the button
+Seat 1: ToniErdmann (9564 in chips) 
+Seat 2: dlb287 (4690 in chips) 
+Seat 3: Wenzel914 (8576 in chips) 
+Seat 4: pinchaviejo (17205 in chips) is sitting out
+Seat 5: darrelelpert (5535 in chips) 
+Seat 6: Yo_Dawg2494 (2030 in chips) 
+Seat 7: yoda2305 (3240 in chips) 
+Seat 8: hzane (10300 in chips) 
+Seat 9: ArmaliteLemon84 (6360 in chips) 
+ToniErdmann: posts the ante 25
+dlb287: posts the ante 25
+Wenzel914: posts the ante 25
+pinchaviejo: posts the ante 25
+darrelelpert: posts the ante 25
+Yo_Dawg2494: posts the ante 25
+yoda2305: posts the ante 25
+hzane: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+pinchaviejo: posts small blind 200
+darrelelpert: posts big blind 400
+*** HOLE CARDS ***
+Dealt to hzane [Qc 6d]
+Yo_Dawg2494: folds 
+yoda2305: raises 800 to 1200
+hzane: folds 
+ArmaliteLemon84: folds 
+ToniErdmann: folds 
+dlb287: folds 
+Wenzel914: calls 1200
+pinchaviejo: folds 
+darrelelpert: folds 
+*** FLOP *** [Th 2h 7h]
+yoda2305: bets 2015 and is all-in
+Wenzel914: folds [Ad 6c]
+Uncalled bet (2015) returned to yoda2305
+yoda2305 collected 3225 from pot
+yoda2305: doesn't show hand 
+*** SUMMARY ***
+Total pot 3225 | Rake 0 
+Board [Th 2h 7h]
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 3: Wenzel914 (button) folded on the Flop
+Seat 4: pinchaviejo (small blind) folded before Flop
+Seat 5: darrelelpert (big blind) folded before Flop
+Seat 6: Yo_Dawg2494 folded before Flop (didn't bet)
+Seat 7: yoda2305 collected (3225)
+Seat 8: hzane folded before Flop (didn't bet)
+Seat 9: ArmaliteLemon84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801852357: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/08/12 10:05:43 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 1: ToniErdmann (9539 in chips) 
+Seat 2: dlb287 (4665 in chips) 
+Seat 3: Wenzel914 (7351 in chips) 
+Seat 4: pinchaviejo (16980 in chips) is sitting out
+Seat 5: darrelelpert (5110 in chips) 
+Seat 6: Yo_Dawg2494 (2005 in chips) 
+Seat 7: yoda2305 (5240 in chips) 
+Seat 8: hzane (10275 in chips) 
+Seat 9: ArmaliteLemon84 (6335 in chips) 
+ToniErdmann: posts the ante 25
+dlb287: posts the ante 25
+Wenzel914: posts the ante 25
+pinchaviejo: posts the ante 25
+darrelelpert: posts the ante 25
+Yo_Dawg2494: posts the ante 25
+yoda2305: posts the ante 25
+hzane: posts the ante 25
+ArmaliteLemon84: posts the ante 25
+darrelelpert: posts small blind 200
+Yo_Dawg2494: posts big blind 400
+*** HOLE CARDS ***
+Dealt to hzane [7d Kc]
+yoda2305: folds 
+hzane: folds 
+ArmaliteLemon84: raises 800 to 1200
+ToniErdmann: folds 
+dlb287: folds 
+Wenzel914: folds 
+pinchaviejo: folds 
+darrelelpert: folds 
+Yo_Dawg2494: raises 780 to 1980 and is all-in
+ArmaliteLemon84: calls 780
+*** FLOP *** [3c Ac 5d]
+*** TURN *** [3c Ac 5d] [6c]
+*** RIVER *** [3c Ac 5d 6c] [Kd]
+*** SHOW DOWN ***
+Yo_Dawg2494: shows [Th Qd] (high card Ace)
+ArmaliteLemon84: shows [8c 5c] (a flush, Ace high)
+ArmaliteLemon84 collected 4385 from pot
+Yo_Dawg2494 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 4385 | Rake 0 
+Board [3c Ac 5d 6c Kd]
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 3: Wenzel914 folded before Flop (didn't bet)
+Seat 4: pinchaviejo (button) folded before Flop (didn't bet)
+Seat 5: darrelelpert (small blind) folded before Flop
+Seat 6: Yo_Dawg2494 (big blind) showed [Th Qd] and lost with high card Ace
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane folded before Flop (didn't bet)
+Seat 9: ArmaliteLemon84 showed [8c 5c] and won (4385) with a flush, Ace high
+
+
+
+PokerStars Hand #189801871615: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/08/12 10:06:19 ET
+Table '2380581917 4' 9-max Seat #5 is the button
+Seat 1: ToniErdmann (9514 in chips) 
+Seat 2: dlb287 (4640 in chips) 
+Seat 3: Wenzel914 (7326 in chips) 
+Seat 4: pinchaviejo (16955 in chips) is sitting out
+Seat 5: darrelelpert (4885 in chips) 
+Seat 7: yoda2305 (5215 in chips) 
+Seat 8: hzane (10250 in chips) 
+Seat 9: ArmaliteLemon84 (8715 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+yoda2305: posts small blind 300
+hzane: posts big blind 600
+*** HOLE CARDS ***
+Dealt to hzane [2h 7d]
+ArmaliteLemon84: folds 
+ToniErdmann: folds 
+dlb287: folds 
+Wenzel914: folds 
+pinchaviejo: folds 
+darrelelpert: raises 1900 to 2500
+yoda2305: folds 
+hzane: folds 
+Uncalled bet (1900) returned to darrelelpert
+darrelelpert collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 3: Wenzel914 folded before Flop (didn't bet)
+Seat 4: pinchaviejo folded before Flop (didn't bet)
+Seat 5: darrelelpert (button) collected (1900)
+Seat 7: yoda2305 (small blind) folded before Flop
+Seat 8: hzane (big blind) folded before Flop
+Seat 9: ArmaliteLemon84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801881188: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/08/12 10:06:36 ET
+Table '2380581917 4' 9-max Seat #7 is the button
+Seat 1: ToniErdmann (9464 in chips) 
+Seat 2: dlb287 (4590 in chips) 
+Seat 3: Wenzel914 (7276 in chips) 
+Seat 4: pinchaviejo (16905 in chips) is sitting out
+Seat 5: darrelelpert (6135 in chips) 
+Seat 7: yoda2305 (4865 in chips) 
+Seat 8: hzane (9600 in chips) 
+Seat 9: ArmaliteLemon84 (8665 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+hzane: posts small blind 300
+ArmaliteLemon84: posts big blind 600
+*** HOLE CARDS ***
+Dealt to hzane [Qh Ts]
+ToniErdmann: folds 
+dlb287: calls 600
+Wenzel914: calls 600
+pinchaviejo: folds 
+darrelelpert: folds 
+yoda2305: folds 
+hzane: folds 
+ArmaliteLemon84: checks 
+*** FLOP *** [Qs 2h Ad]
+ArmaliteLemon84: checks 
+dlb287: bets 1250
+Wenzel914: folds 
+ArmaliteLemon84: folds 
+Uncalled bet (1250) returned to dlb287
+dlb287 collected 2500 from pot
+dlb287: doesn't show hand 
+*** SUMMARY ***
+Total pot 2500 | Rake 0 
+Board [Qs 2h Ad]
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 collected (2500)
+Seat 3: Wenzel914 folded on the Flop
+Seat 4: pinchaviejo folded before Flop (didn't bet)
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 7: yoda2305 (button) folded before Flop (didn't bet)
+Seat 8: hzane (small blind) folded before Flop
+Seat 9: ArmaliteLemon84 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #189801900384: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/08/12 10:07:11 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 1: ToniErdmann (9414 in chips) 
+Seat 2: dlb287 (6440 in chips) 
+Seat 3: Wenzel914 (6626 in chips) 
+Seat 4: pinchaviejo (16855 in chips) is sitting out
+Seat 5: darrelelpert (6085 in chips) 
+Seat 7: yoda2305 (4815 in chips) 
+Seat 8: hzane (9250 in chips) 
+Seat 9: ArmaliteLemon84 (8015 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+ArmaliteLemon84: posts small blind 300
+ToniErdmann: posts big blind 600
+*** HOLE CARDS ***
+Dealt to hzane [Qc Qh]
+dlb287: folds 
+Wenzel914: folds 
+pinchaviejo: folds 
+darrelelpert: folds 
+yoda2305: folds 
+ToniErdmann is disconnected 
+hzane: calls 600
+ArmaliteLemon84: raises 2400 to 3000
+ToniErdmann is connected 
+ToniErdmann: raises 6364 to 9364 and is all-in
+hzane: calls 8600 and is all-in
+ArmaliteLemon84: folds 
+Uncalled bet (164) returned to ToniErdmann
+*** FLOP *** [8h 7d 2c]
+*** TURN *** [8h 7d 2c] [5h]
+*** RIVER *** [8h 7d 2c 5h] [5s]
+*** SHOW DOWN ***
+ToniErdmann: shows [Kh Ad] (a pair of Fives)
+hzane: shows [Qc Qh] (two pair, Queens and Fives)
+hzane collected 21800 from pot
+*** SUMMARY ***
+Total pot 21800 | Rake 0 
+Board [8h 7d 2c 5h 5s]
+Seat 1: ToniErdmann (big blind) showed [Kh Ad] and lost with a pair of Fives
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 3: Wenzel914 folded before Flop (didn't bet)
+Seat 4: pinchaviejo folded before Flop (didn't bet)
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane (button) showed [Qc Qh] and won (21800) with two pair, Queens and Fives
+Seat 9: ArmaliteLemon84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #189801932722: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/08/12 10:08:10 ET
+Table '2380581917 4' 9-max Seat #9 is the button
+Seat 1: ToniErdmann (164 in chips) 
+Seat 2: dlb287 (6390 in chips) 
+Seat 3: Wenzel914 (6576 in chips) 
+Seat 4: pinchaviejo (16805 in chips) 
+Seat 5: darrelelpert (6035 in chips) 
+Seat 7: yoda2305 (4765 in chips) 
+Seat 8: hzane (21800 in chips) 
+Seat 9: ArmaliteLemon84 (4965 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+ToniErdmann: posts small blind 114 and is all-in
+dlb287: posts big blind 600
+*** HOLE CARDS ***
+Dealt to hzane [4d Ad]
+Wenzel914: folds 
+pinchaviejo: folds 
+darrelelpert: folds 
+yoda2305: folds 
+hzane: raises 600 to 1200
+ArmaliteLemon84: calls 1200
+dlb287: folds 
+*** FLOP *** [8d 8h 7s]
+hzane: checks 
+ArmaliteLemon84: checks 
+*** TURN *** [8d 8h 7s] [Js]
+hzane: bets 1200
+ArmaliteLemon84: folds 
+Uncalled bet (1200) returned to hzane
+*** RIVER *** [8d 8h 7s Js] [Jh]
+*** SHOW DOWN ***
+hzane: shows [4d Ad] (two pair, Jacks and Eights)
+hzane collected 2658 from side pot
+ToniErdmann: shows [Jd 4h] (a full house, Jacks full of Eights)
+ToniErdmann collected 856 from main pot
+*** SUMMARY ***
+Total pot 3514 Main pot 856. Side pot 2658. | Rake 0 
+Board [8d 8h 7s Js Jh]
+Seat 1: ToniErdmann (small blind) showed [Jd 4h] and won (856) with a full house, Jacks full of Eights
+Seat 2: dlb287 (big blind) folded before Flop
+Seat 3: Wenzel914 folded before Flop (didn't bet)
+Seat 4: pinchaviejo folded before Flop (didn't bet)
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane showed [4d Ad] and won (2658) with two pair, Jacks and Eights
+Seat 9: ArmaliteLemon84 (button) folded on the Turn
+
+
+
+PokerStars Hand #189801952936: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/08/12 10:08:48 ET
+Table '2380581917 4' 9-max Seat #1 is the button
+Seat 1: ToniErdmann (856 in chips) 
+Seat 2: dlb287 (5740 in chips) 
+Seat 3: Wenzel914 (6526 in chips) 
+Seat 4: pinchaviejo (16755 in chips) 
+Seat 5: darrelelpert (5985 in chips) 
+Seat 7: yoda2305 (4715 in chips) 
+Seat 8: hzane (23208 in chips) 
+Seat 9: ArmaliteLemon84 (3715 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+dlb287: posts small blind 300
+Wenzel914: posts big blind 600
+*** HOLE CARDS ***
+Dealt to hzane [4c 4h]
+pinchaviejo: folds 
+darrelelpert: folds 
+yoda2305: folds 
+hzane is disconnected 
+hzane has timed out while disconnected
+hzane: folds 
+ArmaliteLemon84: folds 
+ToniErdmann: folds 
+dlb287: folds 
+Uncalled bet (300) returned to Wenzel914
+Wenzel914 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Seat 1: ToniErdmann (button) folded before Flop (didn't bet)
+Seat 2: dlb287 (small blind) folded before Flop
+Seat 3: Wenzel914 (big blind) collected (1000)
+Seat 4: pinchaviejo folded before Flop (didn't bet)
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane folded before Flop (didn't bet)
+Seat 9: ArmaliteLemon84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189801971011: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/08/12 10:09:21 ET
+Table '2380581917 4' 9-max Seat #2 is the button
+Seat 1: ToniErdmann (806 in chips) 
+Seat 2: dlb287 (5390 in chips) 
+Seat 3: Wenzel914 (7176 in chips) 
+Seat 4: pinchaviejo (16705 in chips) 
+Seat 5: darrelelpert (5935 in chips) 
+Seat 7: yoda2305 (4665 in chips) 
+Seat 8: hzane (23158 in chips) is sitting out
+Seat 9: ArmaliteLemon84 (3665 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+Wenzel914: posts small blind 300
+pinchaviejo: posts big blind 600
+*** HOLE CARDS ***
+Dealt to hzane [2d Jc]
+darrelelpert: folds 
+yoda2305: folds 
+hzane: folds 
+ArmaliteLemon84: raises 600 to 1200
+ToniErdmann: folds 
+dlb287: calls 1200
+Wenzel914: calls 900
+pinchaviejo: calls 600
+*** FLOP *** [Jd 3s 6h]
+Wenzel914: checks 
+pinchaviejo: checks 
+ArmaliteLemon84: checks 
+dlb287: checks 
+*** TURN *** [Jd 3s 6h] [Th]
+Wenzel914: checks 
+pinchaviejo: checks 
+ArmaliteLemon84: checks 
+dlb287: bets 2600
+Wenzel914: folds 
+pinchaviejo: folds 
+ArmaliteLemon84: folds 
+Uncalled bet (2600) returned to dlb287
+dlb287 collected 5200 from pot
+dlb287: doesn't show hand 
+pinchaviejo said, " good job"
+*** SUMMARY ***
+Total pot 5200 | Rake 0 
+Board [Jd 3s 6h Th]
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 (button) collected (5200)
+Seat 3: Wenzel914 (small blind) folded on the Turn
+Seat 4: pinchaviejo (big blind) folded on the Turn
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane folded before Flop (didn't bet)
+Seat 9: ArmaliteLemon84 folded on the Turn
+
+
+
+PokerStars Hand #189801998584: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/08/12 10:10:11 ET
+Table '2380581917 4' 9-max Seat #3 is the button
+Seat 1: ToniErdmann (756 in chips) 
+Seat 2: dlb287 (9340 in chips) 
+Seat 3: Wenzel914 (5926 in chips) 
+Seat 4: pinchaviejo (15455 in chips) 
+Seat 5: darrelelpert (5885 in chips) 
+Seat 7: yoda2305 (4615 in chips) 
+Seat 8: hzane (23108 in chips) 
+Seat 9: ArmaliteLemon84 (2415 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+pinchaviejo: posts small blind 300
+darrelelpert: posts big blind 600
+*** HOLE CARDS ***
+Dealt to hzane [6c 9s]
+yoda2305: folds 
+hzane: folds 
+ArmaliteLemon84: raises 1765 to 2365 and is all-in
+ToniErdmann: calls 706 and is all-in
+dlb287: folds 
+Wenzel914: calls 2365
+pinchaviejo: folds 
+darrelelpert: folds 
+*** FLOP *** [4h Jc Td]
+*** TURN *** [4h Jc Td] [3c]
+*** RIVER *** [4h Jc Td 3c] [8c]
+*** SHOW DOWN ***
+ArmaliteLemon84: shows [Qh Jh] (a pair of Jacks)
+Wenzel914: shows [5c 5d] (a pair of Fives)
+ArmaliteLemon84 collected 3318 from side pot
+ToniErdmann: shows [Ah Jd] (a pair of Jacks - Ace kicker)
+ToniErdmann collected 3418 from main pot
+*** SUMMARY ***
+Total pot 6736 Main pot 3418. Side pot 3318. | Rake 0 
+Board [4h Jc Td 3c 8c]
+Seat 1: ToniErdmann showed [Ah Jd] and won (3418) with a pair of Jacks
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 3: Wenzel914 (button) showed [5c 5d] and lost with a pair of Fives
+Seat 4: pinchaviejo (small blind) folded before Flop
+Seat 5: darrelelpert (big blind) folded before Flop
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane folded before Flop (didn't bet)
+Seat 9: ArmaliteLemon84 showed [Qh Jh] and won (3318) with a pair of Jacks
+
+
+
+PokerStars Hand #189802012623: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/08/12 10:10:37 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 1: ToniErdmann (3418 in chips) 
+Seat 2: dlb287 (9290 in chips) 
+Seat 3: Wenzel914 (3511 in chips) 
+Seat 4: pinchaviejo (15105 in chips) 
+Seat 5: darrelelpert (5235 in chips) 
+Seat 7: yoda2305 (4565 in chips) 
+Seat 8: hzane (23058 in chips) 
+Seat 9: ArmaliteLemon84 (3318 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+darrelelpert: posts small blind 300
+yoda2305: posts big blind 600
+*** HOLE CARDS ***
+Dealt to hzane [3c 2h]
+hzane: folds 
+ArmaliteLemon84: folds 
+ToniErdmann: raises 2768 to 3368 and is all-in
+dlb287: folds 
+Wenzel914: folds 
+pinchaviejo: folds 
+darrelelpert: folds 
+yoda2305: folds 
+Uncalled bet (2768) returned to ToniErdmann
+ToniErdmann collected 1900 from pot
+ToniErdmann: doesn't show hand 
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Seat 1: ToniErdmann collected (1900)
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 3: Wenzel914 folded before Flop (didn't bet)
+Seat 4: pinchaviejo (button) folded before Flop (didn't bet)
+Seat 5: darrelelpert (small blind) folded before Flop
+Seat 7: yoda2305 (big blind) folded before Flop
+Seat 8: hzane folded before Flop (didn't bet)
+Seat 9: ArmaliteLemon84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189802023511: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/08/12 10:10:56 ET
+Table '2380581917 4' 9-max Seat #5 is the button
+Seat 1: ToniErdmann (4668 in chips) 
+Seat 2: dlb287 (9240 in chips) 
+Seat 3: Wenzel914 (3461 in chips) 
+Seat 4: pinchaviejo (15055 in chips) 
+Seat 5: darrelelpert (4885 in chips) 
+Seat 7: yoda2305 (3915 in chips) 
+Seat 8: hzane (23008 in chips) 
+Seat 9: ArmaliteLemon84 (3268 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+yoda2305: posts small blind 400
+hzane: posts big blind 800
+*** HOLE CARDS ***
+Dealt to hzane [Qd 7c]
+ArmaliteLemon84: folds 
+ToniErdmann: folds 
+dlb287: folds 
+Wenzel914: folds 
+pinchaviejo: folds 
+darrelelpert: calls 800
+yoda2305: folds 
+hzane: checks 
+*** FLOP *** [6s Kc 6d]
+hzane: bets 1600
+darrelelpert: folds 
+Uncalled bet (1600) returned to hzane
+hzane collected 2400 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Board [6s Kc 6d]
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 3: Wenzel914 folded before Flop (didn't bet)
+Seat 4: pinchaviejo folded before Flop (didn't bet)
+Seat 5: darrelelpert (button) folded on the Flop
+Seat 7: yoda2305 (small blind) folded before Flop
+Seat 8: hzane (big blind) collected (2400)
+Seat 9: ArmaliteLemon84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189802048650: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/08/12 10:11:42 ET
+Table '2380581917 4' 9-max Seat #7 is the button
+Seat 1: ToniErdmann (4618 in chips) 
+Seat 2: dlb287 (9190 in chips) 
+Seat 3: Wenzel914 (3411 in chips) 
+Seat 4: pinchaviejo (15005 in chips) 
+Seat 5: darrelelpert (4035 in chips) 
+Seat 7: yoda2305 (3465 in chips) 
+Seat 8: hzane (24558 in chips) 
+Seat 9: ArmaliteLemon84 (3218 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+hzane: posts small blind 400
+ArmaliteLemon84: posts big blind 800
+*** HOLE CARDS ***
+Dealt to hzane [8c 9h]
+ToniErdmann: folds 
+dlb287: raises 1600 to 2400
+Wenzel914: raises 961 to 3361 and is all-in
+pinchaviejo: calls 3361
+darrelelpert: folds 
+yoda2305: folds 
+hzane: folds 
+ArmaliteLemon84: folds 
+dlb287: calls 961
+*** FLOP *** [7h 6d 6s]
+dlb287: bets 5779 and is all-in
+pinchaviejo: folds 
+Uncalled bet (5779) returned to dlb287
+*** TURN *** [7h 6d 6s] [9d]
+*** RIVER *** [7h 6d 6s 9d] [Ad]
+*** SHOW DOWN ***
+dlb287: shows [Tc Th] (two pair, Tens and Sixes)
+Wenzel914: shows [5d Ac] (two pair, Aces and Sixes)
+Wenzel914 collected 11683 from pot
+*** SUMMARY ***
+Total pot 11683 | Rake 0 
+Board [7h 6d 6s 9d Ad]
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 showed [Tc Th] and lost with two pair, Tens and Sixes
+Seat 3: Wenzel914 showed [5d Ac] and won (11683) with two pair, Aces and Sixes
+Seat 4: pinchaviejo folded on the Flop
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 7: yoda2305 (button) folded before Flop (didn't bet)
+Seat 8: hzane (small blind) folded before Flop
+Seat 9: ArmaliteLemon84 (big blind) folded before Flop
+
+
+
+PokerStars Hand #189802073739: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/08/12 10:12:28 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 1: ToniErdmann (4568 in chips) 
+Seat 2: dlb287 (5779 in chips) 
+Seat 3: Wenzel914 (11683 in chips) 
+Seat 4: pinchaviejo (11594 in chips) 
+Seat 5: darrelelpert (3985 in chips) 
+Seat 7: yoda2305 (3415 in chips) 
+Seat 8: hzane (24108 in chips) 
+Seat 9: ArmaliteLemon84 (2368 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+ArmaliteLemon84: posts small blind 400
+ToniErdmann: posts big blind 800
+*** HOLE CARDS ***
+Dealt to hzane [Kd 9c]
+dlb287: folds 
+Wenzel914: calls 800
+pinchaviejo: folds 
+darrelelpert: folds 
+yoda2305: folds 
+hzane: calls 800
+ArmaliteLemon84: raises 1518 to 2318 and is all-in
+ToniErdmann: folds 
+Wenzel914: folds 
+hzane: calls 1518
+*** FLOP *** [7d 6d 5s]
+*** TURN *** [7d 6d 5s] [Jc]
+*** RIVER *** [7d 6d 5s Jc] [Ac]
+*** SHOW DOWN ***
+ArmaliteLemon84: shows [7h Ad] (two pair, Aces and Sevens)
+hzane: shows [Kd 9c] (high card Ace)
+ArmaliteLemon84 collected 6636 from pot
+*** SUMMARY ***
+Total pot 6636 | Rake 0 
+Board [7d 6d 5s Jc Ac]
+Seat 1: ToniErdmann (big blind) folded before Flop
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 3: Wenzel914 folded before Flop
+Seat 4: pinchaviejo folded before Flop (didn't bet)
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane (button) showed [Kd 9c] and lost with high card Ace
+Seat 9: ArmaliteLemon84 (small blind) showed [7h Ad] and won (6636) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #189802091591: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/08/12 10:13:00 ET
+Table '2380581917 4' 9-max Seat #9 is the button
+Seat 1: ToniErdmann (3718 in chips) 
+Seat 2: dlb287 (5729 in chips) 
+Seat 3: Wenzel914 (10833 in chips) 
+Seat 4: pinchaviejo (11544 in chips) 
+Seat 5: darrelelpert (3935 in chips) 
+Seat 7: yoda2305 (3365 in chips) 
+Seat 8: hzane (21740 in chips) 
+Seat 9: ArmaliteLemon84 (6636 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+ToniErdmann: posts small blind 400
+dlb287: posts big blind 800
+*** HOLE CARDS ***
+Dealt to hzane [7c Jc]
+Wenzel914: folds 
+pinchaviejo: raises 800 to 1600
+darrelelpert: folds 
+yoda2305: folds 
+hzane: folds 
+ArmaliteLemon84: folds 
+ToniErdmann: folds 
+dlb287: folds 
+Uncalled bet (800) returned to pinchaviejo
+pinchaviejo collected 2400 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: ToniErdmann (small blind) folded before Flop
+Seat 2: dlb287 (big blind) folded before Flop
+Seat 3: Wenzel914 folded before Flop (didn't bet)
+Seat 4: pinchaviejo collected (2400)
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane folded before Flop (didn't bet)
+Seat 9: ArmaliteLemon84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189802101972: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/08/12 10:13:19 ET
+Table '2380581917 4' 9-max Seat #1 is the button
+Seat 1: ToniErdmann (3268 in chips) 
+Seat 2: dlb287 (4879 in chips) 
+Seat 3: Wenzel914 (10783 in chips) 
+Seat 4: pinchaviejo (13094 in chips) 
+Seat 5: darrelelpert (3885 in chips) 
+Seat 7: yoda2305 (3315 in chips) 
+Seat 8: hzane (21690 in chips) 
+Seat 9: ArmaliteLemon84 (6586 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+dlb287: posts small blind 400
+Wenzel914: posts big blind 800
+*** HOLE CARDS ***
+Dealt to hzane [Kd Qh]
+pinchaviejo: folds 
+darrelelpert: folds 
+yoda2305: folds 
+hzane: raises 800 to 1600
+ArmaliteLemon84: folds 
+ToniErdmann: folds 
+dlb287: folds 
+Wenzel914: calls 800
+*** FLOP *** [Ad 4h Js]
+Wenzel914: bets 800
+hzane: raises 800 to 1600
+Wenzel914: calls 800
+*** TURN *** [Ad 4h Js] [8s]
+Wenzel914: bets 800
+hzane: calls 800
+*** RIVER *** [Ad 4h Js 8s] [Jh]
+Wenzel914: bets 800
+hzane: folds 
+Uncalled bet (800) returned to Wenzel914
+Wenzel914 collected 8800 from pot
+Wenzel914: shows [7d Jd] (three of a kind, Jacks)
+*** SUMMARY ***
+Total pot 8800 | Rake 0 
+Board [Ad 4h Js 8s Jh]
+Seat 1: ToniErdmann (button) folded before Flop (didn't bet)
+Seat 2: dlb287 (small blind) folded before Flop
+Seat 3: Wenzel914 (big blind) collected (8800)
+Seat 4: pinchaviejo folded before Flop (didn't bet)
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane folded on the River
+Seat 9: ArmaliteLemon84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189802130966: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/08/12 10:14:11 ET
+Table '2380581917 4' 9-max Seat #2 is the button
+Seat 1: ToniErdmann (3218 in chips) 
+Seat 2: dlb287 (4429 in chips) 
+Seat 3: Wenzel914 (15533 in chips) 
+Seat 4: pinchaviejo (13044 in chips) 
+Seat 5: darrelelpert (3835 in chips) 
+Seat 7: yoda2305 (3265 in chips) 
+Seat 8: hzane (17640 in chips) 
+Seat 9: ArmaliteLemon84 (6536 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+Wenzel914: posts small blind 400
+pinchaviejo: posts big blind 800
+*** HOLE CARDS ***
+Dealt to hzane [2c 5c]
+darrelelpert: folds 
+yoda2305: folds 
+hzane: folds 
+ArmaliteLemon84: folds 
+ToniErdmann: folds 
+dlb287: folds 
+Wenzel914: folds 
+Uncalled bet (400) returned to pinchaviejo
+pinchaviejo collected 1200 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 (button) folded before Flop (didn't bet)
+Seat 3: Wenzel914 (small blind) folded before Flop
+Seat 4: pinchaviejo (big blind) collected (1200)
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane folded before Flop (didn't bet)
+Seat 9: ArmaliteLemon84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189802142946: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/08/12 10:14:33 ET
+Table '2380581917 4' 9-max Seat #3 is the button
+Seat 1: ToniErdmann (3168 in chips) 
+Seat 2: dlb287 (4379 in chips) 
+Seat 3: Wenzel914 (15083 in chips) 
+Seat 4: pinchaviejo (13794 in chips) 
+Seat 5: darrelelpert (3785 in chips) 
+Seat 7: yoda2305 (3215 in chips) 
+Seat 8: hzane (17590 in chips) 
+Seat 9: ArmaliteLemon84 (6486 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+pinchaviejo: posts small blind 400
+darrelelpert: posts big blind 800
+*** HOLE CARDS ***
+Dealt to hzane [6h 8s]
+yoda2305: folds 
+hzane: folds 
+ArmaliteLemon84: folds 
+ToniErdmann: folds 
+dlb287: folds 
+Wenzel914: calls 800
+pinchaviejo: calls 400
+darrelelpert: checks 
+*** FLOP *** [9s 8d 5d]
+pinchaviejo: bets 800
+darrelelpert: folds 
+Wenzel914: calls 800
+*** TURN *** [9s 8d 5d] [Qc]
+pinchaviejo: bets 800
+Wenzel914: calls 800
+*** RIVER *** [9s 8d 5d Qc] [9c]
+pinchaviejo: bets 800
+Wenzel914: calls 800
+*** SHOW DOWN ***
+pinchaviejo: shows [Th Qs] (two pair, Queens and Nines)
+Wenzel914: mucks hand 
+pinchaviejo collected 7600 from pot
+*** SUMMARY ***
+Total pot 7600 | Rake 0 
+Board [9s 8d 5d Qc 9c]
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 3: Wenzel914 (button) mucked [4s 4c]
+Seat 4: pinchaviejo (small blind) showed [Th Qs] and won (7600) with two pair, Queens and Nines
+Seat 5: darrelelpert (big blind) folded on the Flop
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane folded before Flop (didn't bet)
+Seat 9: ArmaliteLemon84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189802161583: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/08/12 10:15:07 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 1: ToniErdmann (3118 in chips) 
+Seat 2: dlb287 (4329 in chips) 
+Seat 3: Wenzel914 (11833 in chips) 
+Seat 4: pinchaviejo (18144 in chips) 
+Seat 5: darrelelpert (2935 in chips) 
+Seat 7: yoda2305 (3165 in chips) 
+Seat 8: hzane (17540 in chips) 
+Seat 9: ArmaliteLemon84 (6436 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+darrelelpert: posts small blind 400
+yoda2305: posts big blind 800
+*** HOLE CARDS ***
+Dealt to hzane [Jc Qc]
+hzane: calls 800
+ArmaliteLemon84: raises 5586 to 6386 and is all-in
+ToniErdmann: folds 
+dlb287: folds 
+Wenzel914: folds 
+pinchaviejo: folds 
+darrelelpert: folds 
+yoda2305: folds 
+hzane: folds 
+Uncalled bet (5586) returned to ArmaliteLemon84
+ArmaliteLemon84 collected 3200 from pot
+ArmaliteLemon84: doesn't show hand 
+*** SUMMARY ***
+Total pot 3200 | Rake 0 
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 3: Wenzel914 folded before Flop (didn't bet)
+Seat 4: pinchaviejo (button) folded before Flop (didn't bet)
+Seat 5: darrelelpert (small blind) folded before Flop
+Seat 7: yoda2305 (big blind) folded before Flop
+Seat 8: hzane folded before Flop
+Seat 9: ArmaliteLemon84 collected (3200)
+
+
+
+PokerStars Hand #189802182079: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/08/12 10:15:44 ET
+Table '2380581917 4' 9-max Seat #5 is the button
+Seat 1: ToniErdmann (3068 in chips) 
+Seat 2: dlb287 (4279 in chips) 
+Seat 3: Wenzel914 (11783 in chips) 
+Seat 4: pinchaviejo (18094 in chips) 
+Seat 5: darrelelpert (2485 in chips) 
+Seat 7: yoda2305 (2315 in chips) 
+Seat 8: hzane (16690 in chips) 
+Seat 9: ArmaliteLemon84 (8786 in chips) 
+ToniErdmann: posts the ante 50
+dlb287: posts the ante 50
+Wenzel914: posts the ante 50
+pinchaviejo: posts the ante 50
+darrelelpert: posts the ante 50
+yoda2305: posts the ante 50
+hzane: posts the ante 50
+ArmaliteLemon84: posts the ante 50
+yoda2305: posts small blind 400
+hzane: posts big blind 800
+*** HOLE CARDS ***
+Dealt to hzane [3c 6s]
+ArmaliteLemon84: folds 
+ToniErdmann: folds 
+dlb287: folds 
+Wenzel914: calls 800
+pinchaviejo: folds 
+darrelelpert: folds 
+yoda2305: folds 
+hzane: checks 
+*** FLOP *** [6h Ah 9h]
+hzane: bets 800
+Wenzel914: folds 
+Uncalled bet (800) returned to hzane
+hzane collected 2400 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Board [6h Ah 9h]
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 3: Wenzel914 folded on the Flop
+Seat 4: pinchaviejo folded before Flop (didn't bet)
+Seat 5: darrelelpert (button) folded before Flop (didn't bet)
+Seat 7: yoda2305 (small blind) folded before Flop
+Seat 8: hzane (big blind) collected (2400)
+Seat 9: ArmaliteLemon84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189802198619: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/08/12 10:16:14 ET
+Table '2380581917 4' 9-max Seat #7 is the button
+Seat 1: ToniErdmann (3018 in chips) 
+Seat 2: dlb287 (4229 in chips) 
+Seat 3: Wenzel914 (10933 in chips) 
+Seat 4: pinchaviejo (18044 in chips) 
+Seat 5: darrelelpert (2435 in chips) 
+Seat 7: yoda2305 (1865 in chips) 
+Seat 8: hzane (18240 in chips) 
+Seat 9: ArmaliteLemon84 (8736 in chips) 
+ToniErdmann: posts the ante 75
+dlb287: posts the ante 75
+Wenzel914: posts the ante 75
+pinchaviejo: posts the ante 75
+darrelelpert: posts the ante 75
+yoda2305: posts the ante 75
+hzane: posts the ante 75
+ArmaliteLemon84: posts the ante 75
+hzane: posts small blind 600
+ArmaliteLemon84: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to hzane [2d Qs]
+ToniErdmann: raises 1743 to 2943 and is all-in
+dlb287: folds 
+Wenzel914: folds 
+pinchaviejo: folds 
+darrelelpert: folds 
+yoda2305: folds 
+hzane: folds 
+ArmaliteLemon84: folds 
+Uncalled bet (1743) returned to ToniErdmann
+ToniErdmann collected 3600 from pot
+ToniErdmann: doesn't show hand 
+*** SUMMARY ***
+Total pot 3600 | Rake 0 
+Seat 1: ToniErdmann collected (3600)
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 3: Wenzel914 folded before Flop (didn't bet)
+Seat 4: pinchaviejo folded before Flop (didn't bet)
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 7: yoda2305 (button) folded before Flop (didn't bet)
+Seat 8: hzane (small blind) folded before Flop
+Seat 9: ArmaliteLemon84 (big blind) folded before Flop
+
+
+
+PokerStars Hand #189802212265: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/08/12 10:16:38 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 1: ToniErdmann (5343 in chips) 
+Seat 2: dlb287 (4154 in chips) 
+Seat 3: Wenzel914 (10858 in chips) 
+Seat 4: pinchaviejo (17969 in chips) 
+Seat 5: darrelelpert (2360 in chips) 
+Seat 7: yoda2305 (1790 in chips) 
+Seat 8: hzane (17565 in chips) 
+Seat 9: ArmaliteLemon84 (7461 in chips) 
+ToniErdmann: posts the ante 75
+dlb287: posts the ante 75
+Wenzel914: posts the ante 75
+pinchaviejo: posts the ante 75
+darrelelpert: posts the ante 75
+yoda2305: posts the ante 75
+hzane: posts the ante 75
+ArmaliteLemon84: posts the ante 75
+ArmaliteLemon84: posts small blind 600
+ToniErdmann: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to hzane [Jd Jh]
+dlb287: folds 
+Wenzel914: folds 
+pinchaviejo: folds 
+darrelelpert: folds 
+yoda2305: folds 
+hzane: raises 2400 to 3600
+ArmaliteLemon84: folds 
+ToniErdmann: folds 
+Uncalled bet (2400) returned to hzane
+hzane collected 3600 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 3600 | Rake 0 
+Seat 1: ToniErdmann (big blind) folded before Flop
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 3: Wenzel914 folded before Flop (didn't bet)
+Seat 4: pinchaviejo folded before Flop (didn't bet)
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane (button) collected (3600)
+Seat 9: ArmaliteLemon84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #189802232095: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/08/12 10:17:02 ET
+Table '2380581917 4' 9-max Seat #9 is the button
+Seat 1: ToniErdmann (4068 in chips) 
+Seat 2: dlb287 (4079 in chips) 
+Seat 3: Wenzel914 (10783 in chips) 
+Seat 4: pinchaviejo (17894 in chips) 
+Seat 5: darrelelpert (2285 in chips) 
+Seat 7: yoda2305 (1715 in chips) 
+Seat 8: hzane (19890 in chips) 
+Seat 9: ArmaliteLemon84 (6786 in chips) 
+ToniErdmann: posts the ante 75
+dlb287: posts the ante 75
+Wenzel914: posts the ante 75
+pinchaviejo: posts the ante 75
+darrelelpert: posts the ante 75
+yoda2305: posts the ante 75
+hzane: posts the ante 75
+ArmaliteLemon84: posts the ante 75
+ToniErdmann: posts small blind 600
+dlb287: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to hzane [Ad Th]
+Wenzel914: folds 
+pinchaviejo: calls 1200
+darrelelpert: folds 
+yoda2305: folds 
+hzane: calls 1200
+ArmaliteLemon84: calls 1200
+ToniErdmann: folds 
+dlb287: checks 
+*** FLOP *** [As 7s 9s]
+dlb287: checks 
+pinchaviejo: checks 
+hzane: bets 1200
+ArmaliteLemon84: folds 
+dlb287: folds 
+pinchaviejo: folds 
+Uncalled bet (1200) returned to hzane
+hzane collected 6000 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 6000 | Rake 0 
+Board [As 7s 9s]
+Seat 1: ToniErdmann (small blind) folded before Flop
+Seat 2: dlb287 (big blind) folded on the Flop
+Seat 3: Wenzel914 folded before Flop (didn't bet)
+Seat 4: pinchaviejo folded on the Flop
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane collected (6000)
+Seat 9: ArmaliteLemon84 (button) folded on the Flop
+
+
+
+PokerStars Hand #189802245840: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/08/12 10:17:28 ET
+Table '2380581917 4' 9-max Seat #1 is the button
+Seat 1: ToniErdmann (3393 in chips) 
+Seat 2: dlb287 (2804 in chips) 
+Seat 3: Wenzel914 (10708 in chips) 
+Seat 4: pinchaviejo (16619 in chips) 
+Seat 5: darrelelpert (2210 in chips) 
+Seat 7: yoda2305 (1640 in chips) 
+Seat 8: hzane (24615 in chips) 
+Seat 9: ArmaliteLemon84 (5511 in chips) 
+ToniErdmann: posts the ante 75
+dlb287: posts the ante 75
+Wenzel914: posts the ante 75
+pinchaviejo: posts the ante 75
+darrelelpert: posts the ante 75
+yoda2305: posts the ante 75
+hzane: posts the ante 75
+ArmaliteLemon84: posts the ante 75
+dlb287: posts small blind 600
+Wenzel914: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to hzane [9d 8h]
+pinchaviejo: folds 
+darrelelpert: folds 
+yoda2305 is disconnected 
+yoda2305 is connected 
+yoda2305: folds 
+hzane: folds 
+ArmaliteLemon84: folds 
+ToniErdmann: raises 2118 to 3318 and is all-in
+dlb287: folds 
+Wenzel914: folds [4h 2h]
+Uncalled bet (2118) returned to ToniErdmann
+ToniErdmann collected 3600 from pot
+ToniErdmann: doesn't show hand 
+*** SUMMARY ***
+Total pot 3600 | Rake 0 
+Seat 1: ToniErdmann (button) collected (3600)
+Seat 2: dlb287 (small blind) folded before Flop
+Seat 3: Wenzel914 (big blind) folded before Flop
+Seat 4: pinchaviejo folded before Flop (didn't bet)
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane folded before Flop (didn't bet)
+Seat 9: ArmaliteLemon84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189802268307: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/08/12 10:18:08 ET
+Table '2380581917 4' 9-max Seat #2 is the button
+Seat 1: ToniErdmann (5718 in chips) 
+Seat 2: dlb287 (2129 in chips) 
+Seat 3: Wenzel914 (9433 in chips) 
+Seat 4: pinchaviejo (16544 in chips) 
+Seat 5: darrelelpert (2135 in chips) 
+Seat 7: yoda2305 (1565 in chips) 
+Seat 8: hzane (24540 in chips) 
+Seat 9: ArmaliteLemon84 (5436 in chips) 
+ToniErdmann: posts the ante 75
+dlb287: posts the ante 75
+Wenzel914: posts the ante 75
+pinchaviejo: posts the ante 75
+darrelelpert: posts the ante 75
+yoda2305: posts the ante 75
+hzane: posts the ante 75
+ArmaliteLemon84: posts the ante 75
+Wenzel914: posts small blind 600
+pinchaviejo: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to hzane [4s Qs]
+darrelelpert: folds 
+yoda2305: folds 
+hzane: folds 
+ArmaliteLemon84: folds 
+ToniErdmann: folds 
+dlb287: raises 854 to 2054 and is all-in
+Wenzel914: folds 
+pinchaviejo: folds 
+Uncalled bet (854) returned to dlb287
+dlb287 collected 3600 from pot
+dlb287: doesn't show hand 
+*** SUMMARY ***
+Total pot 3600 | Rake 0 
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 (button) collected (3600)
+Seat 3: Wenzel914 (small blind) folded before Flop
+Seat 4: pinchaviejo (big blind) folded before Flop
+Seat 5: darrelelpert folded before Flop (didn't bet)
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane folded before Flop (didn't bet)
+Seat 9: ArmaliteLemon84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189802285540: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/08/12 10:18:40 ET
+Table '2380581917 4' 9-max Seat #3 is the button
+Seat 1: ToniErdmann (5643 in chips) 
+Seat 2: dlb287 (4454 in chips) 
+Seat 3: Wenzel914 (8758 in chips) 
+Seat 4: pinchaviejo (15269 in chips) 
+Seat 5: darrelelpert (2060 in chips) 
+Seat 7: yoda2305 (1490 in chips) 
+Seat 8: hzane (24465 in chips) 
+Seat 9: ArmaliteLemon84 (5361 in chips) 
+ToniErdmann: posts the ante 75
+dlb287: posts the ante 75
+Wenzel914: posts the ante 75
+pinchaviejo: posts the ante 75
+darrelelpert: posts the ante 75
+yoda2305: posts the ante 75
+hzane: posts the ante 75
+ArmaliteLemon84: posts the ante 75
+pinchaviejo: posts small blind 600
+darrelelpert: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to hzane [4s Kh]
+yoda2305: folds 
+hzane: folds 
+ArmaliteLemon84: folds 
+ToniErdmann: folds 
+dlb287: folds 
+Wenzel914: raises 1200 to 2400
+pinchaviejo: raises 1200 to 3600
+darrelelpert: folds 
+Wenzel914: calls 1200
+*** FLOP *** [9d Jc 2h]
+pinchaviejo: checks 
+Wenzel914: bets 1200
+pinchaviejo: raises 1200 to 2400
+Wenzel914: raises 1200 to 3600
+pinchaviejo: raises 1200 to 4800
+Wenzel914: raises 283 to 5083 and is all-in
+pinchaviejo: calls 283
+*** TURN *** [9d Jc 2h] [Qc]
+*** RIVER *** [9d Jc 2h Qc] [Ad]
+*** SHOW DOWN ***
+pinchaviejo: shows [Jd Js] (three of a kind, Jacks)
+Wenzel914: shows [9h 9s] (three of a kind, Nines)
+pinchaviejo collected 19166 from pot
+Wenzel914 finished the tournament in 8th place
+ToniErdmann said, "ouch"
+*** SUMMARY ***
+Total pot 19166 | Rake 0 
+Board [9d Jc 2h Qc Ad]
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 3: Wenzel914 (button) showed [9h 9s] and lost with three of a kind, Nines
+Seat 4: pinchaviejo (small blind) showed [Jd Js] and won (19166) with three of a kind, Jacks
+Seat 5: darrelelpert (big blind) folded before Flop
+Seat 7: yoda2305 folded before Flop (didn't bet)
+Seat 8: hzane folded before Flop (didn't bet)
+Seat 9: ArmaliteLemon84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189802302575: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/08/12 10:19:11 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 1: ToniErdmann (5568 in chips) 
+Seat 2: dlb287 (4379 in chips) 
+Seat 4: pinchaviejo (25677 in chips) 
+Seat 5: darrelelpert (785 in chips) 
+Seat 7: yoda2305 (1415 in chips) 
+Seat 8: hzane (24390 in chips) 
+Seat 9: ArmaliteLemon84 (5286 in chips) 
+ToniErdmann: posts the ante 75
+dlb287: posts the ante 75
+pinchaviejo: posts the ante 75
+darrelelpert: posts the ante 75
+yoda2305: posts the ante 75
+hzane: posts the ante 75
+ArmaliteLemon84: posts the ante 75
+darrelelpert: posts small blind 600
+yoda2305: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to hzane [Ts 2c]
+hzane: folds 
+ArmaliteLemon84: folds 
+pinchaviejo said, "jacks"
+ToniErdmann: calls 1200
+dlb287: folds 
+pinchaviejo: calls 1200
+darrelelpert: calls 110 and is all-in
+yoda2305: checks 
+*** FLOP *** [6h 5c Jc]
+yoda2305: checks 
+ToniErdmann: checks 
+pinchaviejo: checks 
+*** TURN *** [6h 5c Jc] [4h]
+yoda2305: checks 
+ToniErdmann: bets 1200
+pinchaviejo: calls 1200
+yoda2305: folds 
+*** RIVER *** [6h 5c Jc 4h] [Kd]
+ToniErdmann: checks 
+pinchaviejo: checks 
+*** SHOW DOWN ***
+ToniErdmann: shows [As 3s] (high card Ace)
+pinchaviejo: shows [9d 9h] (a pair of Nines)
+pinchaviejo collected 3870 from side pot
+darrelelpert: mucks hand 
+pinchaviejo collected 3365 from main pot
+darrelelpert finished the tournament in 7th place and received 26775.00.
+*** SUMMARY ***
+Total pot 7235 Main pot 3365. Side pot 3870. | Rake 0 
+Board [6h 5c Jc 4h Kd]
+Seat 1: ToniErdmann showed [As 3s] and lost with high card Ace
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 4: pinchaviejo (button) showed [9d 9h] and won (7235) with a pair of Nines
+Seat 5: darrelelpert (small blind) mucked [Ac Qc]
+Seat 7: yoda2305 (big blind) folded on the Turn
+Seat 8: hzane folded before Flop (didn't bet)
+Seat 9: ArmaliteLemon84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #189802326189: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/08/12 10:19:53 ET
+Table '2380581917 4' 9-max Seat #7 is the button
+Seat 1: ToniErdmann (3093 in chips) 
+Seat 2: dlb287 (4304 in chips) 
+Seat 4: pinchaviejo (30437 in chips) 
+Seat 7: yoda2305 (140 in chips) 
+Seat 8: hzane (24315 in chips) 
+Seat 9: ArmaliteLemon84 (5211 in chips) 
+ToniErdmann: posts the ante 75
+dlb287: posts the ante 75
+pinchaviejo: posts the ante 75
+yoda2305: posts the ante 75
+hzane: posts the ante 75
+ArmaliteLemon84: posts the ante 75
+hzane: posts small blind 600
+ArmaliteLemon84: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to hzane [Qs Kc]
+ToniErdmann: folds 
+dlb287: folds 
+pinchaviejo: calls 1200
+yoda2305: calls 65 and is all-in
+hzane: calls 600
+ArmaliteLemon84: checks 
+*** FLOP *** [7s Jh 3h]
+hzane: checks 
+ArmaliteLemon84: checks 
+pinchaviejo: checks 
+*** TURN *** [7s Jh 3h] [9h]
+hzane: bets 1200
+ArmaliteLemon84: calls 1200
+pinchaviejo: calls 1200
+*** RIVER *** [7s Jh 3h 9h] [Td]
+hzane: bets 2400
+ArmaliteLemon84: folds 
+pinchaviejo: folds [Tc]
+Uncalled bet (2400) returned to hzane
+*** SHOW DOWN ***
+hzane: shows [Qs Kc] (a straight, Nine to King)
+hzane collected 7005 from side pot
+yoda2305: shows [Qd 7d] (a pair of Sevens)
+hzane collected 710 from main pot
+yoda2305 finished the tournament in 6th place and received 45900.00.
+*** SUMMARY ***
+Total pot 7715 Main pot 710. Side pot 7005. | Rake 0 
+Board [7s Jh 3h 9h Td]
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 4: pinchaviejo folded on the River
+Seat 7: yoda2305 (button) showed [Qd 7d] and lost with a pair of Sevens
+Seat 8: hzane (small blind) showed [Qs Kc] and won (7715) with a straight, Nine to King
+Seat 9: ArmaliteLemon84 (big blind) folded on the River
+
+
+
+PokerStars Hand #189802355797: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/08/12 10:20:48 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 1: ToniErdmann (3018 in chips) 
+Seat 2: dlb287 (4229 in chips) 
+Seat 4: pinchaviejo (27962 in chips) 
+Seat 8: hzane (29555 in chips) 
+Seat 9: ArmaliteLemon84 (2736 in chips) 
+ToniErdmann: posts the ante 75
+dlb287: posts the ante 75
+pinchaviejo: posts the ante 75
+hzane: posts the ante 75
+ArmaliteLemon84: posts the ante 75
+ArmaliteLemon84: posts small blind 800
+ToniErdmann: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to hzane [Kh Tc]
+dlb287: folds 
+pinchaviejo: folds 
+hzane: calls 1600
+ArmaliteLemon84: calls 800
+ToniErdmann: checks 
+*** FLOP *** [6s 3c Ts]
+ArmaliteLemon84: bets 1061 and is all-in
+ToniErdmann: folds 
+hzane: calls 1061
+*** TURN *** [6s 3c Ts] [4h]
+*** RIVER *** [6s 3c Ts 4h] [9s]
+*** SHOW DOWN ***
+ArmaliteLemon84: shows [3h 8s] (a pair of Threes)
+hzane: shows [Kh Tc] (a pair of Tens)
+hzane collected 7297 from pot
+ArmaliteLemon84 finished the tournament in 5th place and received 68850.00.
+*** SUMMARY ***
+Total pot 7297 | Rake 0 
+Board [6s 3c Ts 4h 9s]
+Seat 1: ToniErdmann (big blind) folded on the Flop
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 4: pinchaviejo folded before Flop (didn't bet)
+Seat 8: hzane (button) showed [Kh Tc] and won (7297) with a pair of Tens
+Seat 9: ArmaliteLemon84 (small blind) showed [3h 8s] and lost with a pair of Threes
+
+
+
+PokerStars Hand #189802370724: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/08/12 10:21:15 ET
+Table '2380581917 4' 9-max Seat #1 is the button
+Seat 1: ToniErdmann (1343 in chips) 
+Seat 2: dlb287 (4154 in chips) 
+Seat 4: pinchaviejo (27887 in chips) 
+Seat 8: hzane (34116 in chips) 
+ToniErdmann: posts the ante 75
+dlb287: posts the ante 75
+pinchaviejo: posts the ante 75
+hzane: posts the ante 75
+dlb287: posts small blind 800
+pinchaviejo: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to hzane [Th Tc]
+hzane: raises 1600 to 3200
+ToniErdmann: folds 
+dlb287: folds 
+pinchaviejo: calls 1600
+*** FLOP *** [Kc Ah 2h]
+pinchaviejo: checks 
+hzane: checks 
+*** TURN *** [Kc Ah 2h] [3c]
+pinchaviejo: checks 
+hzane: bets 1600
+pinchaviejo: calls 1600
+*** RIVER *** [Kc Ah 2h 3c] [4s]
+pinchaviejo: checks 
+hzane: checks 
+*** SHOW DOWN ***
+pinchaviejo: shows [Jh Jc] (a pair of Jacks)
+hzane: mucks hand 
+pinchaviejo collected 10700 from pot
+*** SUMMARY ***
+Total pot 10700 | Rake 0 
+Board [Kc Ah 2h 3c 4s]
+Seat 1: ToniErdmann (button) folded before Flop (didn't bet)
+Seat 2: dlb287 (small blind) folded before Flop
+Seat 4: pinchaviejo (big blind) showed [Jh Jc] and won (10700) with a pair of Jacks
+Seat 8: hzane mucked [Th Tc]
+
+
+
+PokerStars Hand #189802388071: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/08/12 10:21:47 ET
+Table '2380581917 4' 9-max Seat #2 is the button
+Seat 1: ToniErdmann (1268 in chips) 
+Seat 2: dlb287 (3279 in chips) 
+Seat 4: pinchaviejo (33712 in chips) 
+Seat 8: hzane (29241 in chips) 
+ToniErdmann: posts the ante 75
+dlb287: posts the ante 75
+pinchaviejo: posts the ante 75
+hzane: posts the ante 75
+pinchaviejo: posts small blind 800
+hzane: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to hzane [Js 2d]
+ToniErdmann: folds 
+dlb287: folds 
+pinchaviejo: raises 1600 to 3200
+hzane: folds 
+Uncalled bet (1600) returned to pinchaviejo
+pinchaviejo collected 3500 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: ToniErdmann folded before Flop (didn't bet)
+Seat 2: dlb287 (button) folded before Flop (didn't bet)
+Seat 4: pinchaviejo (small blind) collected (3500)
+Seat 8: hzane (big blind) folded before Flop
+
+
+
+PokerStars Hand #189802393806: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/08/12 10:21:57 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 1: ToniErdmann (1193 in chips) 
+Seat 2: dlb287 (3204 in chips) 
+Seat 4: pinchaviejo (35537 in chips) 
+Seat 8: hzane (27566 in chips) 
+ToniErdmann: posts the ante 75
+dlb287: posts the ante 75
+pinchaviejo: posts the ante 75
+hzane: posts the ante 75
+hzane: posts small blind 800
+ToniErdmann: posts big blind 1118 and is all-in
+*** HOLE CARDS ***
+Dealt to hzane [Kh Qd]
+dlb287: folds 
+pinchaviejo: folds 
+hzane: calls 318
+*** FLOP *** [Ad 8h Ac]
+*** TURN *** [Ad 8h Ac] [7d]
+*** RIVER *** [Ad 8h Ac 7d] [4s]
+*** SHOW DOWN ***
+hzane: shows [Kh Qd] (a pair of Aces)
+ToniErdmann: shows [5s Tc] (a pair of Aces - lower kicker)
+hzane collected 2536 from pot
+ToniErdmann finished the tournament in 4th place and received 95625.00.
+*** SUMMARY ***
+Total pot 2536 | Rake 0 
+Board [Ad 8h Ac 7d 4s]
+Seat 1: ToniErdmann (big blind) showed [5s Tc] and lost with a pair of Aces
+Seat 2: dlb287 folded before Flop (didn't bet)
+Seat 4: pinchaviejo (button) folded before Flop (didn't bet)
+Seat 8: hzane (small blind) showed [Kh Qd] and won (2536) with a pair of Aces
+
+
+
+PokerStars Hand #189802403307: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/08/12 10:22:14 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 2: dlb287 (3129 in chips) 
+Seat 4: pinchaviejo (35462 in chips) 
+Seat 8: hzane (28909 in chips) 
+dlb287: posts the ante 75
+pinchaviejo: posts the ante 75
+hzane: posts the ante 75
+dlb287: posts small blind 800
+pinchaviejo: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to hzane [As Kh]
+hzane: raises 1600 to 3200
+dlb287: calls 2254 and is all-in
+pinchaviejo: folds 
+Uncalled bet (146) returned to hzane
+*** FLOP *** [Qh 7c 3h]
+*** TURN *** [Qh 7c 3h] [9s]
+*** RIVER *** [Qh 7c 3h 9s] [Th]
+*** SHOW DOWN ***
+dlb287: shows [Td Ah] (a pair of Tens)
+hzane: shows [As Kh] (high card Ace)
+dlb287 collected 7933 from pot
+*** SUMMARY ***
+Total pot 7933 | Rake 0 
+Board [Qh 7c 3h 9s Th]
+Seat 2: dlb287 (small blind) showed [Td Ah] and won (7933) with a pair of Tens
+Seat 4: pinchaviejo (big blind) folded before Flop
+Seat 8: hzane (button) showed [As Kh] and lost with high card Ace
+
+
+
+PokerStars Hand #189802417928: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/08/12 10:22:40 ET
+Table '2380581917 4' 9-max Seat #2 is the button
+Seat 2: dlb287 (7933 in chips) 
+Seat 4: pinchaviejo (33787 in chips) 
+Seat 8: hzane (25780 in chips) 
+dlb287: posts the ante 75
+pinchaviejo: posts the ante 75
+hzane: posts the ante 75
+pinchaviejo: posts small blind 800
+hzane: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to hzane [Ah 9c]
+dlb287: folds 
+pinchaviejo: folds 
+Uncalled bet (800) returned to hzane
+hzane collected 1825 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 1825 | Rake 0 
+Seat 2: dlb287 (button) folded before Flop (didn't bet)
+Seat 4: pinchaviejo (small blind) folded before Flop
+Seat 8: hzane (big blind) collected (1825)
+
+
+
+PokerStars Hand #189802422116: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/08/12 10:22:48 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 2: dlb287 (7858 in chips) 
+Seat 4: pinchaviejo (32912 in chips) 
+Seat 8: hzane (26730 in chips) 
+dlb287: posts the ante 75
+pinchaviejo: posts the ante 75
+hzane: posts the ante 75
+hzane: posts small blind 800
+dlb287: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to hzane [6d 8h]
+pinchaviejo: raises 1600 to 3200
+hzane: folds 
+dlb287: calls 1600
+*** FLOP *** [8c 7h 6s]
+dlb287: checks 
+pinchaviejo: bets 1600
+dlb287: calls 1600
+*** TURN *** [8c 7h 6s] [3h]
+dlb287: checks 
+pinchaviejo: checks 
+*** RIVER *** [8c 7h 6s 3h] [Kc]
+dlb287: checks 
+pinchaviejo: checks 
+*** SHOW DOWN ***
+dlb287: shows [Jd 4h] (high card King)
+pinchaviejo: shows [Ah 5s] (high card Ace)
+pinchaviejo collected 10625 from pot
+*** SUMMARY ***
+Total pot 10625 | Rake 0 
+Board [8c 7h 6s 3h Kc]
+Seat 2: dlb287 (big blind) showed [Jd 4h] and lost with high card King
+Seat 4: pinchaviejo (button) showed [Ah 5s] and won (10625) with high card Ace
+Seat 8: hzane (small blind) folded before Flop
+
+
+
+PokerStars Hand #189802436908: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/08/12 10:23:15 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 2: dlb287 (2983 in chips) 
+Seat 4: pinchaviejo (38662 in chips) 
+Seat 8: hzane (25855 in chips) 
+dlb287: posts the ante 75
+pinchaviejo: posts the ante 75
+hzane: posts the ante 75
+dlb287: posts small blind 800
+pinchaviejo: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to hzane [Qd Qh]
+hzane: raises 1600 to 3200
+dlb287: calls 2108 and is all-in
+pinchaviejo: folds 
+Uncalled bet (292) returned to hzane
+*** FLOP *** [3h 4d 4h]
+*** TURN *** [3h 4d 4h] [8s]
+*** RIVER *** [3h 4d 4h 8s] [7h]
+*** SHOW DOWN ***
+dlb287: shows [Ad 2d] (a pair of Fours)
+hzane: shows [Qd Qh] (two pair, Queens and Fours)
+hzane collected 7641 from pot
+dlb287 finished the tournament in 3rd place and received 126225.00.
+*** SUMMARY ***
+Total pot 7641 | Rake 0 
+Board [3h 4d 4h 8s 7h]
+Seat 2: dlb287 (small blind) showed [Ad 2d] and lost with a pair of Fours
+Seat 4: pinchaviejo (big blind) folded before Flop
+Seat 8: hzane (button) showed [Qd Qh] and won (7641) with two pair, Queens and Fours
+
+
+
+PokerStars Hand #189802447584: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/08/12 10:23:34 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (36987 in chips) 
+Seat 8: hzane (30513 in chips) 
+pinchaviejo: posts the ante 75
+hzane: posts the ante 75
+pinchaviejo: posts small blind 800
+hzane: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to hzane [Qc Jd]
+pinchaviejo: raises 1600 to 3200
+hzane: calls 1600
+*** FLOP *** [8s 5d 3c]
+hzane: bets 1600
+pinchaviejo: raises 32112 to 33712 and is all-in
+hzane: folds 
+Uncalled bet (32112) returned to pinchaviejo
+pinchaviejo collected 9750 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 9750 | Rake 0 
+Board [8s 5d 3c]
+Seat 4: pinchaviejo (button) (small blind) collected (9750)
+Seat 8: hzane (big blind) folded on the Flop
+
+
+
+PokerStars Hand #189802459891: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/08/12 10:23:56 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (41862 in chips) 
+Seat 8: hzane (25638 in chips) 
+pinchaviejo: posts the ante 75
+hzane: posts the ante 75
+hzane: posts small blind 800
+pinchaviejo: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to hzane [Qh Ks]
+hzane: calls 800
+pinchaviejo: checks 
+*** FLOP *** [8c Kh 2h]
+pinchaviejo: checks 
+hzane: bets 1600
+pinchaviejo: folds 
+Uncalled bet (1600) returned to hzane
+hzane collected 3350 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 3350 | Rake 0 
+Board [8c Kh 2h]
+Seat 4: pinchaviejo (big blind) folded on the Flop
+Seat 8: hzane (button) (small blind) collected (3350)
+
+
+
+PokerStars Hand #189802468752: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/08/12 10:24:12 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (40187 in chips) 
+Seat 8: hzane (27313 in chips) 
+pinchaviejo: posts the ante 75
+hzane: posts the ante 75
+pinchaviejo: posts small blind 800
+hzane: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to hzane [Ad 8s]
+pinchaviejo: raises 1600 to 3200
+hzane: calls 1600
+*** FLOP *** [Qh Jh 7h]
+hzane: bets 3200
+pinchaviejo: calls 3200
+*** TURN *** [Qh Jh 7h] [2s]
+hzane: checks 
+pinchaviejo: checks 
+*** RIVER *** [Qh Jh 7h 2s] [Ah]
+hzane: bets 3200
+pinchaviejo: folds [Tc Ts]
+Uncalled bet (3200) returned to hzane
+hzane collected 12950 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 12950 | Rake 0 
+Board [Qh Jh 7h 2s Ah]
+Seat 4: pinchaviejo (button) (small blind) folded on the River
+Seat 8: hzane (big blind) collected (12950)
+
+
+
+PokerStars Hand #189802484321: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/08/12 10:24:40 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (33712 in chips) 
+Seat 8: hzane (33788 in chips) 
+pinchaviejo: posts the ante 75
+hzane: posts the ante 75
+hzane: posts small blind 800
+pinchaviejo: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to hzane [9h Kc]
+hzane: calls 800
+pinchaviejo: raises 8000 to 9600
+hzane: folds 
+Uncalled bet (8000) returned to pinchaviejo
+pinchaviejo collected 3350 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 3350 | Rake 0 
+Seat 4: pinchaviejo (big blind) collected (3350)
+Seat 8: hzane (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #189802493706: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/08/12 10:24:57 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (35387 in chips) 
+Seat 8: hzane (32113 in chips) 
+pinchaviejo: posts the ante 75
+hzane: posts the ante 75
+pinchaviejo: posts small blind 800
+hzane: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to hzane [4s 9d]
+pinchaviejo: raises 1600 to 3200
+hzane: folds 
+Uncalled bet (1600) returned to pinchaviejo
+pinchaviejo collected 3350 from pot
+*** SUMMARY ***
+Total pot 3350 | Rake 0 
+Seat 4: pinchaviejo (button) (small blind) collected (3350)
+Seat 8: hzane (big blind) folded before Flop
+
+
+
+PokerStars Hand #189802514978: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/08/12 10:25:36 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (37937 in chips) 
+Seat 8: hzane (29563 in chips) is sitting out
+pinchaviejo: posts the ante 75
+hzane: posts the ante 75
+pinchaviejo: posts small blind 800
+hzane: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to hzane [8d Jh]
+pinchaviejo: raises 1600 to 3200
+hzane: calls 1600
+*** FLOP *** [5d 9c 8h]
+hzane: bets 1600
+pinchaviejo: raises 25600 to 27200
+hzane: calls 24688 and is all-in
+Uncalled bet (912) returned to pinchaviejo
+*** TURN *** [5d 9c 8h] [Ac]
+*** RIVER *** [5d 9c 8h Ac] [7h]
+*** SHOW DOWN ***
+hzane: shows [8d Jh] (a pair of Eights)
+pinchaviejo: shows [2c 5c] (a pair of Fives)
+hzane collected 59126 from pot
+*** SUMMARY ***
+Total pot 59126 | Rake 0 
+Board [5d 9c 8h Ac 7h]
+Seat 4: pinchaviejo (button) (small blind) showed [2c 5c] and lost with a pair of Fives
+Seat 8: hzane (big blind) showed [8d Jh] and won (59126) with a pair of Eights
+
+
+
+PokerStars Hand #189802538564: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:26:19 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (8374 in chips) 
+Seat 8: hzane (59126 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+hzane: posts small blind 1000
+pinchaviejo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [6d Td]
+hzane: raises 2000 to 4000
+pinchaviejo: folds 
+Uncalled bet (2000) returned to hzane
+hzane collected 4200 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 4: pinchaviejo (big blind) folded before Flop
+Seat 8: hzane (button) (small blind) collected (4200)
+
+
+
+PokerStars Hand #189802544455: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:26:29 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (6274 in chips) 
+Seat 8: hzane (61226 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+pinchaviejo: posts small blind 1000
+hzane: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [2s Qc]
+pinchaviejo: raises 4174 to 6174 and is all-in
+hzane: folds 
+Uncalled bet (4174) returned to pinchaviejo
+pinchaviejo collected 4200 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 4: pinchaviejo (button) (small blind) collected (4200)
+Seat 8: hzane (big blind) folded before Flop
+
+
+
+PokerStars Hand #189802551309: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:26:42 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (8374 in chips) 
+Seat 8: hzane (59126 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+hzane: posts small blind 1000
+pinchaviejo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [4s Qs]
+hzane: calls 1000
+pinchaviejo: raises 6274 to 8274 and is all-in
+hzane: folds 
+Uncalled bet (6274) returned to pinchaviejo
+pinchaviejo collected 4200 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 4: pinchaviejo (big blind) collected (4200)
+Seat 8: hzane (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #189802561637: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:27:00 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (10474 in chips) 
+Seat 8: hzane (57026 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+pinchaviejo: posts small blind 1000
+hzane: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [Ac 5s]
+pinchaviejo: folds 
+Uncalled bet (1000) returned to hzane
+hzane collected 2200 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Seat 4: pinchaviejo (button) (small blind) folded before Flop
+Seat 8: hzane (big blind) collected (2200)
+
+
+
+PokerStars Hand #189802565829: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:27:08 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (9374 in chips) 
+Seat 8: hzane (58126 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+hzane: posts small blind 1000
+pinchaviejo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [4h 6d]
+hzane: folds 
+Uncalled bet (1000) returned to pinchaviejo
+pinchaviejo collected 2200 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Seat 4: pinchaviejo (big blind) collected (2200)
+Seat 8: hzane (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #189802569542: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:27:15 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (10474 in chips) 
+Seat 8: hzane (57026 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+pinchaviejo: posts small blind 1000
+hzane: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [9d 8h]
+pinchaviejo: folds 
+Uncalled bet (1000) returned to hzane
+hzane collected 2200 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Seat 4: pinchaviejo (button) (small blind) folded before Flop
+Seat 8: hzane (big blind) collected (2200)
+
+
+
+PokerStars Hand #189802573786: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:27:22 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (9374 in chips) 
+Seat 8: hzane (58126 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+hzane: posts small blind 1000
+pinchaviejo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [7h Tc]
+hzane: raises 2000 to 4000
+pinchaviejo: folds 
+Uncalled bet (2000) returned to hzane
+hzane collected 4200 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 4: pinchaviejo (big blind) folded before Flop
+Seat 8: hzane (button) (small blind) collected (4200)
+
+
+
+PokerStars Hand #189802578390: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:27:31 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (7274 in chips) 
+Seat 8: hzane (60226 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+pinchaviejo: posts small blind 1000
+hzane: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [Kc 3d]
+pinchaviejo: raises 5174 to 7174 and is all-in
+hzane: folds 
+Uncalled bet (5174) returned to pinchaviejo
+pinchaviejo collected 4200 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 4: pinchaviejo (button) (small blind) collected (4200)
+Seat 8: hzane (big blind) folded before Flop
+
+
+
+PokerStars Hand #189802583634: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:27:40 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (9374 in chips) 
+Seat 8: hzane (58126 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+hzane: posts small blind 1000
+pinchaviejo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [Jc 8h]
+hzane: raises 2000 to 4000
+pinchaviejo: raises 5274 to 9274 and is all-in
+hzane: calls 5274
+*** FLOP *** [6s Qs Kh]
+*** TURN *** [6s Qs Kh] [4h]
+*** RIVER *** [6s Qs Kh 4h] [9c]
+*** SHOW DOWN ***
+pinchaviejo: shows [Ks Kd] (three of a kind, Kings)
+hzane: shows [Jc 8h] (high card King)
+pinchaviejo collected 18748 from pot
+*** SUMMARY ***
+Total pot 18748 | Rake 0 
+Board [6s Qs Kh 4h 9c]
+Seat 4: pinchaviejo (big blind) showed [Ks Kd] and won (18748) with three of a kind, Kings
+Seat 8: hzane (button) (small blind) showed [Jc 8h] and lost with high card King
+
+
+
+PokerStars Hand #189802594129: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:27:59 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (18748 in chips) 
+Seat 8: hzane (48752 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+pinchaviejo: posts small blind 1000
+hzane: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [Qs 5h]
+pinchaviejo: raises 16648 to 18648 and is all-in
+hzane: folds 
+Uncalled bet (16648) returned to pinchaviejo
+pinchaviejo collected 4200 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 4: pinchaviejo (button) (small blind) collected (4200)
+Seat 8: hzane (big blind) folded before Flop
+
+
+
+PokerStars Hand #189802598996: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:28:08 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (20848 in chips) 
+Seat 8: hzane (46652 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+hzane: posts small blind 1000
+pinchaviejo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [2d 3d]
+hzane: calls 1000
+pinchaviejo: checks 
+*** FLOP *** [Js Ks 3h]
+pinchaviejo: checks 
+hzane: bets 2000
+pinchaviejo: folds 
+Uncalled bet (2000) returned to hzane
+hzane collected 4200 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Board [Js Ks 3h]
+Seat 4: pinchaviejo (big blind) folded on the Flop
+Seat 8: hzane (button) (small blind) collected (4200)
+
+
+
+PokerStars Hand #189802605753: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:28:20 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (18748 in chips) 
+Seat 8: hzane (48752 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+pinchaviejo: posts small blind 1000
+hzane: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [9s Td]
+pinchaviejo: folds 
+Uncalled bet (1000) returned to hzane
+hzane collected 2200 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Seat 4: pinchaviejo (button) (small blind) folded before Flop
+Seat 8: hzane (big blind) collected (2200)
+
+
+
+PokerStars Hand #189802609113: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:28:26 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (17648 in chips) 
+Seat 8: hzane (49852 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+hzane: posts small blind 1000
+pinchaviejo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [3s Jd]
+hzane: folds 
+Uncalled bet (1000) returned to pinchaviejo
+pinchaviejo collected 2200 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Seat 4: pinchaviejo (big blind) collected (2200)
+Seat 8: hzane (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #189802612693: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:28:32 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (18748 in chips) 
+Seat 8: hzane (48752 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+pinchaviejo: posts small blind 1000
+hzane: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [2d Ac]
+pinchaviejo: folds 
+Uncalled bet (1000) returned to hzane
+hzane collected 2200 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Seat 4: pinchaviejo (button) (small blind) folded before Flop
+Seat 8: hzane (big blind) collected (2200)
+
+
+
+PokerStars Hand #189802616866: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:28:40 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (17648 in chips) 
+Seat 8: hzane (49852 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+hzane: posts small blind 1000
+pinchaviejo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [4c 8s]
+hzane: folds 
+Uncalled bet (1000) returned to pinchaviejo
+pinchaviejo collected 2200 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Seat 4: pinchaviejo (big blind) collected (2200)
+Seat 8: hzane (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #189802620420: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:28:47 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (18748 in chips) 
+Seat 8: hzane (48752 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+pinchaviejo: posts small blind 1000
+hzane: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [Qs 8d]
+pinchaviejo: raises 16648 to 18648 and is all-in
+hzane: folds 
+Uncalled bet (16648) returned to pinchaviejo
+pinchaviejo collected 4200 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 4: pinchaviejo (button) (small blind) collected (4200)
+Seat 8: hzane (big blind) folded before Flop
+
+
+
+PokerStars Hand #189802625377: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:28:56 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (20848 in chips) 
+Seat 8: hzane (46652 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+hzane: posts small blind 1000
+pinchaviejo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [5h Jd]
+hzane: folds 
+Uncalled bet (1000) returned to pinchaviejo
+pinchaviejo collected 2200 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Seat 4: pinchaviejo (big blind) collected (2200)
+Seat 8: hzane (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #189802630831: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:29:05 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (21948 in chips) 
+Seat 8: hzane (45552 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+pinchaviejo: posts small blind 1000
+hzane: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [As 3d]
+pinchaviejo: folds 
+Uncalled bet (1000) returned to hzane
+hzane collected 2200 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Seat 4: pinchaviejo (button) (small blind) folded before Flop
+Seat 8: hzane (big blind) collected (2200)
+
+
+
+PokerStars Hand #189802639255: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:29:20 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (20848 in chips) 
+Seat 8: hzane (46652 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+hzane: posts small blind 1000
+pinchaviejo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [2c 5d]
+hzane: calls 1000
+pinchaviejo: checks 
+*** FLOP *** [7d Jd Jc]
+pinchaviejo: checks 
+hzane: bets 4000
+pinchaviejo: raises 14748 to 18748 and is all-in
+hzane: folds 
+Uncalled bet (14748) returned to pinchaviejo
+pinchaviejo collected 12200 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 12200 | Rake 0 
+Board [7d Jd Jc]
+Seat 4: pinchaviejo (big blind) collected (12200)
+Seat 8: hzane (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #189802650363: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:29:41 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (26948 in chips) 
+Seat 8: hzane (40552 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+pinchaviejo: posts small blind 1000
+hzane: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [Ad Qd]
+pinchaviejo: folds 
+Uncalled bet (1000) returned to hzane
+hzane collected 2200 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Seat 4: pinchaviejo (button) (small blind) folded before Flop
+Seat 8: hzane (big blind) collected (2200)
+
+
+
+PokerStars Hand #189802653929: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:29:47 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (25848 in chips) 
+Seat 8: hzane (41652 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+hzane: posts small blind 1000
+pinchaviejo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [7h Ad]
+hzane: calls 1000
+pinchaviejo: checks 
+*** FLOP *** [5d Qd 8s]
+pinchaviejo: checks 
+hzane: checks 
+*** TURN *** [5d Qd 8s] [5h]
+pinchaviejo: bets 23748 and is all-in
+hzane: folds 
+Uncalled bet (23748) returned to pinchaviejo
+pinchaviejo collected 4200 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Board [5d Qd 8s 5h]
+Seat 4: pinchaviejo (big blind) collected (4200)
+Seat 8: hzane (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #189802667096: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:30:11 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (27948 in chips) 
+Seat 8: hzane (39552 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+pinchaviejo: posts small blind 1000
+hzane: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [Ks 3c]
+pinchaviejo: calls 1000
+hzane: checks 
+*** FLOP *** [Js Ah 4d]
+hzane: checks 
+pinchaviejo: checks 
+*** TURN *** [Js Ah 4d] [4h]
+hzane: bets 2000
+pinchaviejo: calls 2000
+*** RIVER *** [Js Ah 4d 4h] [Kh]
+hzane: bets 2000
+pinchaviejo: calls 2000
+*** SHOW DOWN ***
+hzane: shows [Ks 3c] (two pair, Kings and Fours)
+pinchaviejo: mucks hand 
+hzane collected 12200 from pot
+*** SUMMARY ***
+Total pot 12200 | Rake 0 
+Board [Js Ah 4d 4h Kh]
+Seat 4: pinchaviejo (button) (small blind) mucked [Qc Qs]
+Seat 8: hzane (big blind) showed [Ks 3c] and won (12200) with two pair, Kings and Fours
+
+
+
+PokerStars Hand #189802677119: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/08/12 10:30:29 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (21848 in chips) 
+Seat 8: hzane (45652 in chips) 
+pinchaviejo: posts the ante 100
+hzane: posts the ante 100
+hzane: posts small blind 1000
+pinchaviejo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to hzane [2h As]
+hzane: raises 2000 to 4000
+pinchaviejo: raises 17748 to 21748 and is all-in
+hzane: calls 17748
+*** FLOP *** [5d Th Ts]
+*** TURN *** [5d Th Ts] [9h]
+*** RIVER *** [5d Th Ts 9h] [9d]
+*** SHOW DOWN ***
+pinchaviejo: shows [9s Qh] (a full house, Nines full of Tens)
+hzane: shows [2h As] (two pair, Tens and Nines)
+pinchaviejo collected 43696 from pot
+*** SUMMARY ***
+Total pot 43696 | Rake 0 
+Board [5d Th Ts 9h 9d]
+Seat 4: pinchaviejo (big blind) showed [9s Qh] and won (43696) with a full house, Nines full of Tens
+Seat 8: hzane (button) (small blind) showed [2h As] and lost with two pair, Tens and Nines
+
+
+
+PokerStars Hand #189802692959: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/08/12 10:30:57 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (43696 in chips) 
+Seat 8: hzane (23804 in chips) 
+pinchaviejo: posts the ante 150
+hzane: posts the ante 150
+pinchaviejo: posts small blind 1500
+hzane: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to hzane [Qd 7h]
+pinchaviejo: raises 6300 to 9300
+hzane: folds 
+Uncalled bet (6300) returned to pinchaviejo
+pinchaviejo collected 6300 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 6300 | Rake 0 
+Seat 4: pinchaviejo (button) (small blind) collected (6300)
+Seat 8: hzane (big blind) folded before Flop
+
+
+
+PokerStars Hand #189802702545: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/08/12 10:31:14 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (46846 in chips) 
+Seat 8: hzane (20654 in chips) 
+pinchaviejo: posts the ante 150
+hzane: posts the ante 150
+hzane: posts small blind 1500
+pinchaviejo: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to hzane [4d Ac]
+hzane: calls 1500
+pinchaviejo: checks 
+*** FLOP *** [Qh 4c 3s]
+pinchaviejo: checks 
+hzane: bets 3000
+pinchaviejo: folds 
+Uncalled bet (3000) returned to hzane
+hzane collected 6300 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 6300 | Rake 0 
+Board [Qh 4c 3s]
+Seat 4: pinchaviejo (big blind) folded on the Flop
+Seat 8: hzane (button) (small blind) collected (6300)
+
+
+
+PokerStars Hand #189802711439: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/08/12 10:31:30 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (43696 in chips) 
+Seat 8: hzane (23804 in chips) 
+pinchaviejo: posts the ante 150
+hzane: posts the ante 150
+pinchaviejo: posts small blind 1500
+hzane: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to hzane [7s Ad]
+pinchaviejo: raises 3000 to 6000
+hzane: calls 3000
+*** FLOP *** [4c Qh 9h]
+hzane: checks 
+pinchaviejo: bets 3000
+hzane: folds 
+Uncalled bet (3000) returned to pinchaviejo
+pinchaviejo collected 12300 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 12300 | Rake 0 
+Board [4c Qh 9h]
+Seat 4: pinchaviejo (button) (small blind) collected (12300)
+Seat 8: hzane (big blind) folded on the Flop
+
+
+
+PokerStars Hand #189802727334: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/08/12 10:31:58 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (49846 in chips) 
+Seat 8: hzane (17654 in chips) 
+pinchaviejo: posts the ante 150
+hzane: posts the ante 150
+hzane: posts small blind 1500
+pinchaviejo: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to hzane [9c 7d]
+hzane: calls 1500
+pinchaviejo: checks 
+*** FLOP *** [4s As Qh]
+pinchaviejo: checks 
+hzane: checks 
+*** TURN *** [4s As Qh] [2c]
+pinchaviejo: checks 
+hzane: bets 3000
+pinchaviejo: folds 
+Uncalled bet (3000) returned to hzane
+hzane collected 6300 from pot
+hzane: doesn't show hand 
+*** SUMMARY ***
+Total pot 6300 | Rake 0 
+Board [4s As Qh 2c]
+Seat 4: pinchaviejo (big blind) folded on the Turn
+Seat 8: hzane (button) (small blind) collected (6300)
+
+
+
+PokerStars Hand #189802737948: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/08/12 10:32:17 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (46696 in chips) 
+Seat 8: hzane (20804 in chips) 
+pinchaviejo: posts the ante 150
+hzane: posts the ante 150
+pinchaviejo: posts small blind 1500
+hzane: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to hzane [6h As]
+pinchaviejo: raises 6000 to 9000
+hzane: calls 6000
+*** FLOP *** [9s 4h 8s]
+hzane: checks 
+pinchaviejo: checks 
+*** TURN *** [9s 4h 8s] [Js]
+hzane: bets 3000
+pinchaviejo: calls 3000
+*** RIVER *** [9s 4h 8s Js] [Kh]
+hzane: checks 
+pinchaviejo: checks 
+*** SHOW DOWN ***
+hzane: shows [6h As] (high card Ace)
+pinchaviejo: shows [Td Ac] (high card Ace - King+Jack+Ten kicker)
+pinchaviejo collected 24300 from pot
+*** SUMMARY ***
+Total pot 24300 | Rake 0 
+Board [9s 4h 8s Js Kh]
+Seat 4: pinchaviejo (button) (small blind) showed [Td Ac] and won (24300) with high card Ace
+Seat 8: hzane (big blind) showed [6h As] and lost with high card Ace
+
+
+
+PokerStars Hand #189802754077: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/08/12 10:32:46 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (58846 in chips) 
+Seat 8: hzane (8654 in chips) 
+pinchaviejo: posts the ante 150
+hzane: posts the ante 150
+hzane: posts small blind 1500
+pinchaviejo: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to hzane [4c 2h]
+hzane: folds 
+Uncalled bet (1500) returned to pinchaviejo
+pinchaviejo collected 3300 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Seat 4: pinchaviejo (big blind) collected (3300)
+Seat 8: hzane (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #189802757445: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/08/12 10:32:51 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (60496 in chips) 
+Seat 8: hzane (7004 in chips) 
+pinchaviejo: posts the ante 150
+hzane: posts the ante 150
+pinchaviejo: posts small blind 1500
+hzane: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to hzane [7c 8h]
+pinchaviejo: raises 6000 to 9000
+hzane: folds 
+Uncalled bet (6000) returned to pinchaviejo
+pinchaviejo collected 6300 from pot
+pinchaviejo: doesn't show hand 
+*** SUMMARY ***
+Total pot 6300 | Rake 0 
+Seat 4: pinchaviejo (button) (small blind) collected (6300)
+Seat 8: hzane (big blind) folded before Flop
+
+
+
+PokerStars Hand #189802762273: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/08/12 10:33:00 ET
+Table '2380581917 4' 9-max Seat #8 is the button
+Seat 4: pinchaviejo (63646 in chips) 
+Seat 8: hzane (3854 in chips) 
+pinchaviejo: posts the ante 150
+hzane: posts the ante 150
+hzane: posts small blind 1500
+pinchaviejo: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to hzane [Jc Jh]
+hzane: raises 704 to 3704 and is all-in
+pinchaviejo: calls 704
+*** FLOP *** [Ts Kc 6s]
+*** TURN *** [Ts Kc 6s] [2d]
+*** RIVER *** [Ts Kc 6s 2d] [3h]
+*** SHOW DOWN ***
+pinchaviejo: shows [7h Ac] (high card Ace)
+hzane: shows [Jc Jh] (a pair of Jacks)
+hzane collected 7708 from pot
+*** SUMMARY ***
+Total pot 7708 | Rake 0 
+Board [Ts Kc 6s 2d 3h]
+Seat 4: pinchaviejo (big blind) showed [7h Ac] and lost with high card Ace
+Seat 8: hzane (button) (small blind) showed [Jc Jh] and won (7708) with a pair of Jacks
+
+
+
+PokerStars Hand #189802770357: Tournament #2380581917, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/08/12 10:33:15 ET
+Table '2380581917 4' 9-max Seat #4 is the button
+Seat 4: pinchaviejo (59792 in chips) 
+Seat 8: hzane (7708 in chips) 
+pinchaviejo: posts the ante 150
+hzane: posts the ante 150
+pinchaviejo: posts small blind 1500
+hzane: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to hzane [5s Ad]
+pinchaviejo: raises 3000 to 6000
+hzane: raises 1558 to 7558 and is all-in
+pinchaviejo: calls 1558
+*** FLOP *** [Qh Td 3h]
+*** TURN *** [Qh Td 3h] [2c]
+*** RIVER *** [Qh Td 3h 2c] [Ts]
+*** SHOW DOWN ***
+hzane: shows [5s Ad] (a pair of Tens)
+pinchaviejo: shows [3s Kd] (two pair, Tens and Threes)
+pinchaviejo collected 15416 from pot
+hzane finished the tournament in 2nd place and received 164475.00.
+pinchaviejo wins the tournament and receives 237150.00 - congratulations!
+*** SUMMARY ***
+Total pot 15416 | Rake 0 
+Board [Qh Td 3h 2c Ts]
+Seat 4: pinchaviejo (button) (small blind) showed [3s Kd] and won (15416) with two pair, Tens and Threes
+Seat 8: hzane (big blind) showed [5s Ad] and lost with a pair of Tens
+
+
+

@@ -1,0 +1,5747 @@
+﻿PokerStars Hand #192347782296: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level I (10/20) - 2018/10/19 8:16:13 ET
+Table '2434909079 3' 9-max Seat #1 is the button
+Seat 1: Bsb Outlaw (1500 in chips) 
+Seat 2: ashley666888 (1500 in chips) 
+Seat 3: Heiko05 (1500 in chips) 
+Seat 4: keez167 (1500 in chips) 
+Seat 5: jassoluto (1500 in chips) 
+Seat 6: nicholasj25 (1500 in chips) 
+Seat 7: emil_maras (1500 in chips) 
+Seat 8: N@t@li777 (1500 in chips) 
+Seat 9: alvis_c64 (1500 in chips) 
+ashley666888: posts small blind 10
+Heiko05: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3s Ah]
+keez167: calls 20
+jassoluto: calls 20
+nicholasj25: calls 20
+emil_maras: folds 
+N@t@li777: folds 
+alvis_c64: folds 
+Bsb Outlaw has timed out
+Bsb Outlaw: folds 
+ashley666888: calls 10
+Heiko05: checks 
+*** FLOP *** [5s Jd 7d]
+ashley666888: bets 20
+Heiko05: calls 20
+keez167: folds 
+jassoluto: folds 
+nicholasj25: folds 
+*** TURN *** [5s Jd 7d] [3h]
+ashley666888: bets 20
+Heiko05: calls 20
+*** RIVER *** [5s Jd 7d 3h] [Th]
+ashley666888: bets 20
+Heiko05: raises 20 to 40
+ashley666888: calls 20
+*** SHOW DOWN ***
+Heiko05: shows [5c Jc] (two pair, Jacks and Fives)
+ashley666888: mucks hand 
+Heiko05 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [5s Jd 7d 3h Th]
+Seat 1: Bsb Outlaw (button) folded before Flop (didn't bet)
+Seat 2: ashley666888 (small blind) mucked [Js Qh]
+Seat 3: Heiko05 (big blind) showed [5c Jc] and won (260) with two pair, Jacks and Fives
+Seat 4: keez167 folded on the Flop
+Seat 5: jassoluto folded on the Flop
+Seat 6: nicholasj25 folded on the Flop
+Seat 7: emil_maras folded before Flop (didn't bet)
+Seat 8: N@t@li777 folded before Flop (didn't bet)
+Seat 9: alvis_c64 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192347820698: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level I (10/20) - 2018/10/19 8:17:52 ET
+Table '2434909079 3' 9-max Seat #2 is the button
+Seat 1: Bsb Outlaw (1500 in chips) is sitting out
+Seat 2: ashley666888 (1400 in chips) 
+Seat 3: Heiko05 (1660 in chips) 
+Seat 4: keez167 (1480 in chips) 
+Seat 5: jassoluto (1480 in chips) 
+Seat 6: nicholasj25 (1480 in chips) 
+Seat 7: emil_maras (1500 in chips) 
+Seat 8: N@t@li777 (1500 in chips) 
+Seat 9: alvis_c64 (1500 in chips) 
+Heiko05: posts small blind 10
+keez167: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6d 5h]
+jassoluto: folds 
+nicholasj25: folds 
+emil_maras: folds 
+N@t@li777: calls 20
+alvis_c64: folds 
+Bsb Outlaw: folds 
+ashley666888: raises 1380 to 1400 and is all-in
+Heiko05: calls 1390
+nicholasj25 is disconnected 
+keez167: folds 
+N@t@li777: folds 
+*** FLOP *** [Ks Jh 3d]
+*** TURN *** [Ks Jh 3d] [8c]
+*** RIVER *** [Ks Jh 3d 8c] [6s]
+*** SHOW DOWN ***
+Heiko05: shows [3h 3c] (three of a kind, Threes)
+ashley666888: shows [Kh As] (a pair of Kings)
+Heiko05 collected 2840 from pot
+ashley666888 finished the tournament in 43rd place
+*** SUMMARY ***
+Total pot 2840 | Rake 0 
+Board [Ks Jh 3d 8c 6s]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 2: ashley666888 (button) showed [Kh As] and lost with a pair of Kings
+Seat 3: Heiko05 (small blind) showed [3h 3c] and won (2840) with three of a kind, Threes
+Seat 4: keez167 (big blind) folded before Flop
+Seat 5: jassoluto folded before Flop (didn't bet)
+Seat 6: nicholasj25 folded before Flop (didn't bet)
+Seat 7: emil_maras folded before Flop (didn't bet)
+Seat 8: N@t@li777 folded before Flop
+Seat 9: alvis_c64 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192347841051: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level I (10/20) - 2018/10/19 8:18:44 ET
+Table '2434909079 3' 9-max Seat #3 is the button
+Seat 1: Bsb Outlaw (1500 in chips) is sitting out
+Seat 3: Heiko05 (3100 in chips) 
+Seat 4: keez167 (1460 in chips) 
+Seat 5: jassoluto (1480 in chips) 
+Seat 6: nicholasj25 (1480 in chips) 
+Seat 7: emil_maras (1500 in chips) 
+Seat 8: N@t@li777 (1480 in chips) 
+Seat 9: alvis_c64 (1500 in chips) 
+keez167: posts small blind 10
+jassoluto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qc 4s]
+nicholasj25: folds 
+emil_maras: folds 
+N@t@li777: calls 20
+alvis_c64: folds 
+Bsb Outlaw: folds 
+Heiko05: calls 20
+keez167: calls 10
+jassoluto: checks 
+*** FLOP *** [6c 9c 8c]
+keez167: checks 
+jassoluto: checks 
+N@t@li777: checks 
+Heiko05: checks 
+*** TURN *** [6c 9c 8c] [4h]
+keez167: bets 20
+jassoluto: folds 
+N@t@li777: folds 
+Heiko05: folds 
+Uncalled bet (20) returned to keez167
+keez167 collected 80 from pot
+keez167: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6c 9c 8c 4h]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 3: Heiko05 (button) folded on the Turn
+Seat 4: keez167 (small blind) collected (80)
+Seat 5: jassoluto (big blind) folded on the Turn
+Seat 6: nicholasj25 folded before Flop (didn't bet)
+Seat 7: emil_maras folded before Flop (didn't bet)
+Seat 8: N@t@li777 folded on the Turn
+Seat 9: alvis_c64 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192347863445: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level I (10/20) - 2018/10/19 8:19:42 ET
+Table '2434909079 3' 9-max Seat #4 is the button
+Seat 1: Bsb Outlaw (1500 in chips) is sitting out
+Seat 3: Heiko05 (3080 in chips) 
+Seat 4: keez167 (1520 in chips) 
+Seat 5: jassoluto (1460 in chips) 
+Seat 6: nicholasj25 (1480 in chips) 
+Seat 7: emil_maras (1500 in chips) 
+Seat 8: N@t@li777 (1460 in chips) 
+Seat 9: alvis_c64 (1500 in chips) 
+jassoluto: posts small blind 10
+nicholasj25: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ah 8c]
+emil_maras: calls 20
+N@t@li777: folds 
+alvis_c64: calls 20
+Bsb Outlaw: folds 
+Heiko05: folds 
+keez167: calls 20
+jassoluto: calls 10
+nicholasj25: raises 40 to 60
+emil_maras: calls 40
+alvis_c64: calls 40
+keez167: calls 40
+jassoluto: folds 
+*** FLOP *** [3h 8h 4h]
+nicholasj25: bets 40
+emil_maras: calls 40
+alvis_c64: folds 
+keez167: calls 40
+*** TURN *** [3h 8h 4h] [Ts]
+nicholasj25: checks 
+emil_maras: bets 100
+keez167: folds 
+nicholasj25: calls 100
+*** RIVER *** [3h 8h 4h Ts] [5d]
+nicholasj25: bets 100
+emil_maras: calls 100
+*** SHOW DOWN ***
+nicholasj25: shows [Ah 8c] (a pair of Eights)
+emil_maras: mucks hand 
+nicholasj25 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [3h 8h 4h Ts 5d]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 3: Heiko05 folded before Flop (didn't bet)
+Seat 4: keez167 (button) folded on the Turn
+Seat 5: jassoluto (small blind) folded before Flop
+Seat 6: nicholasj25 (big blind) showed [Ah 8c] and won (780) with a pair of Eights
+Seat 7: emil_maras mucked [Qs 8s]
+Seat 8: N@t@li777 folded before Flop (didn't bet)
+Seat 9: alvis_c64 folded on the Flop
+
+
+
+PokerStars Hand #192347894264: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level I (10/20) - 2018/10/19 8:21:02 ET
+Table '2434909079 3' 9-max Seat #5 is the button
+Seat 1: Bsb Outlaw (1500 in chips) is sitting out
+Seat 3: Heiko05 (3080 in chips) 
+Seat 4: keez167 (1420 in chips) 
+Seat 5: jassoluto (1440 in chips) 
+Seat 6: nicholasj25 (1960 in chips) 
+Seat 7: emil_maras (1200 in chips) 
+Seat 8: N@t@li777 (1460 in chips) 
+Seat 9: alvis_c64 (1440 in chips) 
+nicholasj25: posts small blind 10
+emil_maras: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3d 5h]
+N@t@li777: folds 
+alvis_c64: calls 20
+Bsb Outlaw: folds 
+Heiko05: calls 20
+keez167: calls 20
+jassoluto: folds 
+nicholasj25: calls 10
+emil_maras: checks 
+*** FLOP *** [6d Kh Kc]
+nicholasj25: checks 
+emil_maras: checks 
+alvis_c64: checks 
+Heiko05: checks 
+keez167: checks 
+*** TURN *** [6d Kh Kc] [Qs]
+nicholasj25: checks 
+emil_maras: checks 
+alvis_c64: checks 
+Heiko05: bets 100
+keez167: calls 100
+nicholasj25: folds 
+emil_maras: folds 
+alvis_c64: folds 
+*** RIVER *** [6d Kh Kc Qs] [6s]
+Heiko05: checks 
+keez167: checks 
+*** SHOW DOWN ***
+Heiko05: shows [9c Qh] (two pair, Kings and Queens)
+keez167: mucks hand 
+Heiko05 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [6d Kh Kc Qs 6s]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 3: Heiko05 showed [9c Qh] and won (300) with two pair, Kings and Queens
+Seat 4: keez167 mucked [9s Tc]
+Seat 5: jassoluto (button) folded before Flop (didn't bet)
+Seat 6: nicholasj25 (small blind) folded on the Turn
+Seat 7: emil_maras (big blind) folded on the Turn
+Seat 8: N@t@li777 folded before Flop (didn't bet)
+Seat 9: alvis_c64 folded on the Turn
+
+
+
+PokerStars Hand #192347922919: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/10/19 8:22:16 ET
+Table '2434909079 3' 9-max Seat #6 is the button
+Seat 1: Bsb Outlaw (1500 in chips) is sitting out
+Seat 3: Heiko05 (3260 in chips) 
+Seat 4: keez167 (1300 in chips) 
+Seat 5: jassoluto (1440 in chips) 
+Seat 6: nicholasj25 (1940 in chips) 
+Seat 7: emil_maras (1180 in chips) 
+Seat 8: N@t@li777 (1460 in chips) 
+Seat 9: alvis_c64 (1420 in chips) 
+emil_maras: posts small blind 15
+N@t@li777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5h 8h]
+alvis_c64: calls 30
+Bsb Outlaw: folds 
+Heiko05: calls 30
+keez167: folds 
+jassoluto: calls 30
+nicholasj25: calls 30
+emil_maras: raises 60 to 90
+N@t@li777: folds 
+alvis_c64: calls 60
+Heiko05: calls 60
+jassoluto: calls 60
+nicholasj25: calls 60
+*** FLOP *** [2c 6d 3d]
+emil_maras: bets 480
+alvis_c64: raises 850 to 1330 and is all-in
+Heiko05: folds 
+jassoluto: folds 
+nicholasj25: folds 
+emil_maras: calls 610 and is all-in
+Uncalled bet (240) returned to alvis_c64
+*** TURN *** [2c 6d 3d] [Ks]
+*** RIVER *** [2c 6d 3d Ks] [9d]
+*** SHOW DOWN ***
+emil_maras: shows [9s 9h] (three of a kind, Nines)
+alvis_c64: shows [5c 6c] (a pair of Sixes)
+emil_maras collected 2660 from pot
+*** SUMMARY ***
+Total pot 2660 | Rake 0 
+Board [2c 6d 3d Ks 9d]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 3: Heiko05 folded on the Flop
+Seat 4: keez167 folded before Flop (didn't bet)
+Seat 5: jassoluto folded on the Flop
+Seat 6: nicholasj25 (button) folded on the Flop
+Seat 7: emil_maras (small blind) showed [9s 9h] and won (2660) with three of a kind, Nines
+Seat 8: N@t@li777 (big blind) folded before Flop
+Seat 9: alvis_c64 showed [5c 6c] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #192347950077: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/10/19 8:23:27 ET
+Table '2434909079 3' 9-max Seat #7 is the button
+Seat 1: Bsb Outlaw (1500 in chips) is sitting out
+Seat 3: Heiko05 (3170 in chips) 
+Seat 4: keez167 (1300 in chips) 
+Seat 5: jassoluto (1350 in chips) 
+Seat 6: nicholasj25 (1850 in chips) 
+Seat 7: emil_maras (2660 in chips) 
+Seat 8: N@t@li777 (1430 in chips) 
+Seat 9: alvis_c64 (240 in chips) 
+N@t@li777: posts small blind 15
+alvis_c64: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Jc 8c]
+Bsb Outlaw: folds 
+Heiko05: calls 30
+keez167: folds 
+jassoluto: folds 
+nicholasj25: calls 30
+emil_maras: raises 60 to 90
+N@t@li777: folds 
+alvis_c64: raises 150 to 240 and is all-in
+Heiko05: calls 210
+nicholasj25: folds 
+emil_maras: calls 150
+*** FLOP *** [Ts 9c Qd]
+Heiko05: checks 
+emil_maras: checks 
+*** TURN *** [Ts 9c Qd] [Jd]
+Heiko05: checks 
+emil_maras: checks 
+*** RIVER *** [Ts 9c Qd Jd] [5c]
+Heiko05: bets 765
+emil_maras: folds 
+Uncalled bet (765) returned to Heiko05
+*** SHOW DOWN ***
+Heiko05: shows [Kc Qs] (a straight, Nine to King)
+alvis_c64: shows [3d Jh] (a pair of Jacks)
+Heiko05 collected 765 from pot
+alvis_c64 finished the tournament in 39th place
+*** SUMMARY ***
+Total pot 765 | Rake 0 
+Board [Ts 9c Qd Jd 5c]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 3: Heiko05 showed [Kc Qs] and won (765) with a straight, Nine to King
+Seat 4: keez167 folded before Flop (didn't bet)
+Seat 5: jassoluto folded before Flop (didn't bet)
+Seat 6: nicholasj25 folded before Flop
+Seat 7: emil_maras (button) folded on the River
+Seat 8: N@t@li777 (small blind) folded before Flop
+Seat 9: alvis_c64 (big blind) showed [3d Jh] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #192347972981: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/10/19 8:24:25 ET
+Table '2434909079 3' 9-max Seat #8 is the button
+Seat 1: Bsb Outlaw (1500 in chips) is sitting out
+Seat 3: Heiko05 (3695 in chips) 
+Seat 4: keez167 (1300 in chips) 
+Seat 5: jassoluto (1350 in chips) 
+Seat 6: nicholasj25 (1820 in chips) 
+Seat 7: emil_maras (2420 in chips) 
+Seat 8: N@t@li777 (1415 in chips) 
+Bsb Outlaw: posts small blind 15
+Heiko05: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4c 8c]
+keez167: calls 30
+jassoluto: folds 
+nicholasj25: calls 30
+emil_maras: calls 30
+N@t@li777: folds 
+Bsb Outlaw: folds 
+Heiko05: checks 
+*** FLOP *** [Ac 2d 6d]
+Heiko05: checks 
+keez167: checks 
+nicholasj25: checks 
+emil_maras: checks 
+*** TURN *** [Ac 2d 6d] [Qc]
+Heiko05: checks 
+keez167: checks 
+nicholasj25: bets 90
+emil_maras: folds 
+Heiko05: folds 
+keez167: folds 
+Uncalled bet (90) returned to nicholasj25
+nicholasj25 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [Ac 2d 6d Qc]
+Seat 1: Bsb Outlaw (small blind) folded before Flop
+Seat 3: Heiko05 (big blind) folded on the Turn
+Seat 4: keez167 folded on the Turn
+Seat 5: jassoluto folded before Flop (didn't bet)
+Seat 6: nicholasj25 collected (135)
+Seat 7: emil_maras folded on the Turn
+Seat 8: N@t@li777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192347991294: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/10/19 8:25:12 ET
+Table '2434909079 3' 9-max Seat #1 is the button
+Seat 1: Bsb Outlaw (1485 in chips) is sitting out
+Seat 3: Heiko05 (3665 in chips) 
+Seat 4: keez167 (1270 in chips) 
+Seat 5: jassoluto (1350 in chips) 
+Seat 6: nicholasj25 (1925 in chips) 
+Seat 7: emil_maras (2390 in chips) 
+Seat 8: N@t@li777 (1415 in chips) 
+Seat 9: spinnerBonus (3270 in chips) 
+Heiko05: posts small blind 15
+keez167: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qh 4d]
+jassoluto: raises 1320 to 1350 and is all-in
+nicholasj25: folds 
+emil_maras: folds 
+N@t@li777: calls 1350
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+Heiko05: folds 
+keez167: folds 
+*** FLOP *** [Tc 2s Kd]
+*** TURN *** [Tc 2s Kd] [6s]
+*** RIVER *** [Tc 2s Kd 6s] [8s]
+*** SHOW DOWN ***
+jassoluto: shows [Ad Qs] (high card Ace)
+N@t@li777: shows [Ks Td] (two pair, Kings and Tens)
+N@t@li777 collected 2745 from pot
+jassoluto finished the tournament in 35th place
+*** SUMMARY ***
+Total pot 2745 | Rake 0 
+Board [Tc 2s Kd 6s 8s]
+Seat 1: Bsb Outlaw (button) folded before Flop (didn't bet)
+Seat 3: Heiko05 (small blind) folded before Flop
+Seat 4: keez167 (big blind) folded before Flop
+Seat 5: jassoluto showed [Ad Qs] and lost with high card Ace
+Seat 6: nicholasj25 folded before Flop (didn't bet)
+Seat 7: emil_maras folded before Flop (didn't bet)
+Seat 8: N@t@li777 showed [Ks Td] and won (2745) with two pair, Kings and Tens
+Seat 9: spinnerBonus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192347999766: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level II (15/30) - 2018/10/19 8:25:34 ET
+Table '2434909079 3' 9-max Seat #3 is the button
+Seat 1: Bsb Outlaw (1485 in chips) is sitting out
+Seat 2: alfablack123 (1570 in chips) 
+Seat 3: Heiko05 (3650 in chips) 
+Seat 4: keez167 (1240 in chips) 
+Seat 6: nicholasj25 (1925 in chips) 
+Seat 7: emil_maras (2390 in chips) 
+Seat 8: N@t@li777 (2810 in chips) 
+Seat 9: spinnerBonus (3270 in chips) 
+keez167: posts small blind 15
+nicholasj25: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4c 5h]
+emil_maras is disconnected 
+emil_maras is connected 
+emil_maras has timed out
+emil_maras: folds 
+N@t@li777: calls 30
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+alfablack123: calls 30
+Heiko05: folds 
+keez167: calls 15
+nicholasj25: checks 
+*** FLOP *** [Td 7h 8c]
+keez167: checks 
+nicholasj25: checks 
+N@t@li777: checks 
+alfablack123: bets 30
+keez167: folds 
+nicholasj25: folds 
+N@t@li777: folds 
+Uncalled bet (30) returned to alfablack123
+alfablack123 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Td 7h 8c]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 2: alfablack123 collected (120)
+Seat 3: Heiko05 (button) folded before Flop (didn't bet)
+Seat 4: keez167 (small blind) folded on the Flop
+Seat 6: nicholasj25 (big blind) folded on the Flop
+Seat 7: emil_maras folded before Flop (didn't bet)
+Seat 8: N@t@li777 folded on the Flop
+Seat 9: spinnerBonus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348022974: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/10/19 8:26:34 ET
+Table '2434909079 3' 9-max Seat #4 is the button
+Seat 1: Bsb Outlaw (1485 in chips) is sitting out
+Seat 2: alfablack123 (1660 in chips) 
+Seat 3: Heiko05 (3650 in chips) 
+Seat 4: keez167 (1210 in chips) 
+Seat 6: nicholasj25 (1895 in chips) 
+Seat 7: emil_maras (2390 in chips) 
+Seat 8: N@t@li777 (2780 in chips) 
+Seat 9: spinnerBonus (3270 in chips) 
+nicholasj25: posts small blind 25
+emil_maras: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8h 2c]
+N@t@li777: calls 50
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+alfablack123: calls 50
+Heiko05: calls 50
+keez167: folds 
+nicholasj25: folds 
+emil_maras: checks 
+*** FLOP *** [Js 7s 7c]
+emil_maras: checks 
+N@t@li777: bets 158
+alfablack123: folds 
+Heiko05: calls 158
+emil_maras: folds 
+*** TURN *** [Js 7s 7c] [9h]
+N@t@li777: bets 379
+Heiko05: calls 379
+*** RIVER *** [Js 7s 7c 9h] [3d]
+N@t@li777: bets 909
+Heiko05: calls 909
+*** SHOW DOWN ***
+N@t@li777: shows [Qd Jc] (two pair, Jacks and Sevens)
+Heiko05: shows [2h 7d] (three of a kind, Sevens)
+Heiko05 collected 3117 from pot
+*** SUMMARY ***
+Total pot 3117 | Rake 0 
+Board [Js 7s 7c 9h 3d]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 2: alfablack123 folded on the Flop
+Seat 3: Heiko05 showed [2h 7d] and won (3117) with three of a kind, Sevens
+Seat 4: keez167 (button) folded before Flop (didn't bet)
+Seat 6: nicholasj25 (small blind) folded before Flop
+Seat 7: emil_maras (big blind) folded on the Flop
+Seat 8: N@t@li777 showed [Qd Jc] and lost with two pair, Jacks and Sevens
+Seat 9: spinnerBonus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348054601: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/10/19 8:27:54 ET
+Table '2434909079 3' 9-max Seat #6 is the button
+Seat 1: Bsb Outlaw (1485 in chips) is sitting out
+Seat 2: alfablack123 (1610 in chips) 
+Seat 3: Heiko05 (5271 in chips) 
+Seat 4: keez167 (1210 in chips) 
+Seat 6: nicholasj25 (1870 in chips) 
+Seat 7: emil_maras (2340 in chips) 
+Seat 8: N@t@li777 (1284 in chips) 
+Seat 9: spinnerBonus (3270 in chips) 
+emil_maras: posts small blind 25
+N@t@li777: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4h 7h]
+spinnerBonus: calls 50
+Bsb Outlaw: folds 
+alfablack123: calls 50
+Heiko05: calls 50
+keez167: calls 50
+nicholasj25: calls 50
+emil_maras: calls 25
+N@t@li777: raises 50 to 100
+spinnerBonus: calls 50
+alfablack123: calls 50
+Heiko05: calls 50
+keez167: calls 50
+nicholasj25: calls 50
+emil_maras: calls 50
+*** FLOP *** [5h 6s 8h]
+emil_maras: checks 
+N@t@li777: checks 
+spinnerBonus: checks 
+alfablack123: bets 50
+Heiko05: calls 50
+keez167: calls 50
+nicholasj25: raises 50 to 100
+emil_maras: folds 
+N@t@li777: calls 100
+spinnerBonus: calls 100
+alfablack123: calls 50
+Heiko05: folds 
+keez167: calls 50
+*** TURN *** [5h 6s 8h] [5d]
+N@t@li777: checks 
+spinnerBonus: checks 
+alfablack123: bets 50
+keez167: calls 50
+nicholasj25: calls 50
+N@t@li777: calls 50
+spinnerBonus: calls 50
+*** RIVER *** [5h 6s 8h 5d] [3h]
+N@t@li777: checks 
+spinnerBonus: checks 
+alfablack123: bets 50
+keez167: folds 
+nicholasj25: raises 150 to 200
+N@t@li777: folds 
+spinnerBonus: folds 
+alfablack123: calls 150
+*** SHOW DOWN ***
+nicholasj25: shows [4h 7h] (a flush, Eight high)
+alfablack123: mucks hand 
+nicholasj25 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Board [5h 6s 8h 5d 3h]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 2: alfablack123 mucked [Ac 6c]
+Seat 3: Heiko05 folded on the Flop
+Seat 4: keez167 folded on the River
+Seat 6: nicholasj25 (button) showed [4h 7h] and won (1900) with a flush, Eight high
+Seat 7: emil_maras (small blind) folded on the Flop
+Seat 8: N@t@li777 (big blind) folded on the River
+Seat 9: spinnerBonus folded on the River
+
+
+
+PokerStars Hand #192348098607: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/10/19 8:29:48 ET
+Table '2434909079 3' 9-max Seat #7 is the button
+Seat 1: Bsb Outlaw (1485 in chips) is sitting out
+Seat 2: alfablack123 (1160 in chips) 
+Seat 3: Heiko05 (5121 in chips) 
+Seat 4: keez167 (960 in chips) 
+Seat 6: nicholasj25 (3320 in chips) 
+Seat 7: emil_maras (2240 in chips) 
+Seat 8: N@t@li777 (1034 in chips) 
+Seat 9: spinnerBonus (3020 in chips) 
+N@t@li777: posts small blind 25
+spinnerBonus: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7h Qd]
+Bsb Outlaw: folds 
+alfablack123: folds 
+Heiko05: calls 50
+keez167: folds 
+nicholasj25: folds 
+emil_maras: folds 
+N@t@li777: folds 
+spinnerBonus: checks 
+*** FLOP *** [3d Kd Qs]
+spinnerBonus: checks 
+Heiko05: checks 
+*** TURN *** [3d Kd Qs] [2d]
+spinnerBonus: checks 
+Heiko05: checks 
+*** RIVER *** [3d Kd Qs 2d] [3h]
+spinnerBonus: checks 
+Heiko05: checks 
+*** SHOW DOWN ***
+spinnerBonus: shows [6s 2s] (two pair, Threes and Deuces)
+Heiko05: mucks hand 
+spinnerBonus collected 125 from pot
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Board [3d Kd Qs 2d 3h]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 2: alfablack123 folded before Flop (didn't bet)
+Seat 3: Heiko05 mucked [4s 5c]
+Seat 4: keez167 folded before Flop (didn't bet)
+Seat 6: nicholasj25 folded before Flop (didn't bet)
+Seat 7: emil_maras (button) folded before Flop (didn't bet)
+Seat 8: N@t@li777 (small blind) folded before Flop
+Seat 9: spinnerBonus (big blind) showed [6s 2s] and won (125) with two pair, Threes and Deuces
+
+
+
+PokerStars Hand #192348111350: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/10/19 8:30:21 ET
+Table '2434909079 3' 9-max Seat #8 is the button
+Seat 1: Bsb Outlaw (1485 in chips) is sitting out
+Seat 2: alfablack123 (1160 in chips) 
+Seat 3: Heiko05 (5071 in chips) 
+Seat 4: keez167 (960 in chips) 
+Seat 6: nicholasj25 (3320 in chips) 
+Seat 7: emil_maras (2240 in chips) 
+Seat 8: N@t@li777 (1009 in chips) 
+Seat 9: spinnerBonus (3095 in chips) 
+spinnerBonus: posts small blind 25
+Bsb Outlaw: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2s 6h]
+alfablack123: folds 
+Heiko05: calls 50
+keez167: folds 
+nicholasj25: folds 
+emil_maras: calls 50
+N@t@li777: folds 
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+*** FLOP *** [8d Ts Js]
+Heiko05: checks 
+emil_maras: bets 100
+Heiko05: folds 
+Uncalled bet (100) returned to emil_maras
+emil_maras collected 175 from pot
+emil_maras: doesn't show hand 
+*** SUMMARY ***
+Total pot 175 | Rake 0 
+Board [8d Ts Js]
+Seat 1: Bsb Outlaw (big blind) folded before Flop
+Seat 2: alfablack123 folded before Flop (didn't bet)
+Seat 3: Heiko05 folded on the Flop
+Seat 4: keez167 folded before Flop (didn't bet)
+Seat 6: nicholasj25 folded before Flop (didn't bet)
+Seat 7: emil_maras collected (175)
+Seat 8: N@t@li777 (button) folded before Flop (didn't bet)
+Seat 9: spinnerBonus (small blind) folded before Flop
+
+
+
+PokerStars Hand #192348124623: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level III (25/50) - 2018/10/19 8:30:55 ET
+Table '2434909079 3' 9-max Seat #9 is the button
+Seat 1: Bsb Outlaw (1435 in chips) is sitting out
+Seat 2: alfablack123 (1160 in chips) 
+Seat 3: Heiko05 (5021 in chips) 
+Seat 4: keez167 (960 in chips) 
+Seat 6: nicholasj25 (3320 in chips) 
+Seat 7: emil_maras (2365 in chips) 
+Seat 8: N@t@li777 (1009 in chips) 
+Seat 9: spinnerBonus (3070 in chips) 
+Bsb Outlaw: posts small blind 25
+alfablack123: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4d 5c]
+Heiko05: calls 50
+keez167: calls 50
+nicholasj25: folds 
+emil_maras: folds 
+N@t@li777: folds 
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+alfablack123: checks 
+*** FLOP *** [Qd 2s As]
+alfablack123: bets 50
+Heiko05: calls 50
+keez167: calls 50
+*** TURN *** [Qd 2s As] [Jh]
+alfablack123: bets 50
+Heiko05: calls 50
+keez167: folds 
+*** RIVER *** [Qd 2s As Jh] [Qc]
+alfablack123: bets 50
+Heiko05: calls 50
+*** SHOW DOWN ***
+alfablack123: shows [Ts 7s] (a pair of Queens)
+Heiko05: shows [Kd Jc] (two pair, Queens and Jacks)
+Heiko05 collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Board [Qd 2s As Jh Qc]
+Seat 1: Bsb Outlaw (small blind) folded before Flop
+Seat 2: alfablack123 (big blind) showed [Ts 7s] and lost with a pair of Queens
+Seat 3: Heiko05 showed [Kd Jc] and won (525) with two pair, Queens and Jacks
+Seat 4: keez167 folded on the Turn
+Seat 6: nicholasj25 folded before Flop (didn't bet)
+Seat 7: emil_maras folded before Flop (didn't bet)
+Seat 8: N@t@li777 folded before Flop (didn't bet)
+Seat 9: spinnerBonus (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348149417: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/10/19 8:31:58 ET
+Table '2434909079 3' 9-max Seat #1 is the button
+Seat 1: Bsb Outlaw (1410 in chips) is sitting out
+Seat 2: alfablack123 (960 in chips) 
+Seat 4: keez167 (860 in chips) 
+Seat 6: nicholasj25 (3320 in chips) 
+Seat 7: emil_maras (2365 in chips) 
+Seat 8: N@t@li777 (1009 in chips) 
+Seat 9: spinnerBonus (3070 in chips) 
+alfablack123: posts small blind 50
+keez167: posts big blind 100
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2s 5c]
+nicholasj25: folds 
+emil_maras: calls 100
+N@t@li777: folds 
+spinnerBonus: calls 100
+Bsb Outlaw: folds 
+alfablack123: folds 
+keez167: checks 
+*** FLOP *** [Qd 4s 9s]
+keez167: checks 
+emil_maras: checks 
+spinnerBonus: checks 
+*** TURN *** [Qd 4s 9s] [Ah]
+keez167: checks 
+emil_maras: checks 
+spinnerBonus: bets 200
+keez167: folds 
+emil_maras: folds 
+Uncalled bet (200) returned to spinnerBonus
+spinnerBonus collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [Qd 4s 9s Ah]
+Seat 1: Bsb Outlaw (button) folded before Flop (didn't bet)
+Seat 2: alfablack123 (small blind) folded before Flop
+Seat 4: keez167 (big blind) folded on the Turn
+Seat 6: nicholasj25 folded before Flop (didn't bet)
+Seat 7: emil_maras folded on the Turn
+Seat 8: N@t@li777 folded before Flop (didn't bet)
+Seat 9: spinnerBonus collected (350)
+
+
+
+PokerStars Hand #192348176602: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/10/19 8:33:08 ET
+Table '2434909079 3' 9-max Seat #2 is the button
+Seat 1: Bsb Outlaw (1410 in chips) is sitting out
+Seat 2: alfablack123 (910 in chips) 
+Seat 4: keez167 (760 in chips) 
+Seat 6: nicholasj25 (3320 in chips) 
+Seat 7: emil_maras (2265 in chips) 
+Seat 8: N@t@li777 (1009 in chips) 
+Seat 9: spinnerBonus (3320 in chips) 
+keez167: posts small blind 50
+nicholasj25: posts big blind 100
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9c Tc]
+emil_maras: calls 100
+N@t@li777: calls 100
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+alfablack123: calls 100
+keez167: calls 50
+nicholasj25: checks 
+*** FLOP *** [4d Qh 3d]
+keez167: checks 
+nicholasj25: checks 
+emil_maras: checks 
+N@t@li777: bets 100
+alfablack123: calls 100
+keez167: folds 
+nicholasj25: folds 
+emil_maras: folds 
+*** TURN *** [4d Qh 3d] [3h]
+N@t@li777: bets 100
+alfablack123: raises 610 to 710 and is all-in
+N@t@li777: calls 610
+*** RIVER *** [4d Qh 3d 3h] [4c]
+*** SHOW DOWN ***
+N@t@li777: shows [6d Ad] (two pair, Fours and Threes)
+alfablack123: shows [Kd Ah] (two pair, Fours and Threes)
+N@t@li777 collected 1060 from pot
+alfablack123 collected 1060 from pot
+*** SUMMARY ***
+Total pot 2120 | Rake 0 
+Board [4d Qh 3d 3h 4c]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 2: alfablack123 (button) showed [Kd Ah] and won (1060) with two pair, Fours and Threes
+Seat 4: keez167 (small blind) folded on the Flop
+Seat 6: nicholasj25 (big blind) folded on the Flop
+Seat 7: emil_maras folded on the Flop
+Seat 8: N@t@li777 showed [6d Ad] and won (1060) with two pair, Fours and Threes
+Seat 9: spinnerBonus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348201162: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/10/19 8:34:10 ET
+Table '2434909079 3' 9-max Seat #4 is the button
+Seat 1: Bsb Outlaw (1410 in chips) is sitting out
+Seat 2: alfablack123 (1060 in chips) 
+Seat 3: mr karash (2640 in chips) 
+Seat 4: keez167 (660 in chips) 
+Seat 6: nicholasj25 (3220 in chips) 
+Seat 7: emil_maras (2165 in chips) 
+Seat 8: N@t@li777 (1159 in chips) 
+Seat 9: spinnerBonus (3320 in chips) 
+nicholasj25: posts small blind 50
+emil_maras: posts big blind 100
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ah Th]
+N@t@li777: folds 
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+alfablack123: calls 100
+mr karash: folds 
+keez167: folds 
+nicholasj25: raises 100 to 200
+emil_maras: calls 100
+alfablack123: calls 100
+*** FLOP *** [3h 2d Tc]
+nicholasj25: bets 200
+emil_maras: folds 
+alfablack123: folds 
+Uncalled bet (200) returned to nicholasj25
+nicholasj25 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [3h 2d Tc]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 2: alfablack123 folded on the Flop
+Seat 3: mr karash folded before Flop (didn't bet)
+Seat 4: keez167 (button) folded before Flop (didn't bet)
+Seat 6: nicholasj25 (small blind) collected (600)
+Seat 7: emil_maras (big blind) folded on the Flop
+Seat 8: N@t@li777 folded before Flop (didn't bet)
+Seat 9: spinnerBonus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348217585: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2018/10/19 8:34:52 ET
+Table '2434909079 3' 9-max Seat #6 is the button
+Seat 1: Bsb Outlaw (1410 in chips) is sitting out
+Seat 2: alfablack123 (860 in chips) 
+Seat 3: mr karash (2640 in chips) 
+Seat 4: keez167 (660 in chips) 
+Seat 5: Perksy12 (1575 in chips) 
+Seat 6: nicholasj25 (3620 in chips) 
+Seat 7: emil_maras (1965 in chips) 
+Seat 8: N@t@li777 (1159 in chips) 
+Seat 9: spinnerBonus (3320 in chips) 
+emil_maras: posts small blind 50
+N@t@li777: posts big blind 100
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9h Jc]
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+alfablack123: calls 100
+mr karash: calls 100
+keez167: calls 100
+Perksy12: folds 
+nicholasj25: calls 100
+emil_maras: raises 200 to 300
+N@t@li777: calls 200
+alfablack123: calls 200
+mr karash: calls 200
+keez167: calls 200
+nicholasj25: folds 
+*** FLOP *** [9c Qd 3s]
+emil_maras is disconnected 
+emil_maras has timed out while disconnected
+emil_maras: checks 
+N@t@li777: checks 
+alfablack123: bets 100
+mr karash: calls 100
+keez167: folds 
+emil_maras has timed out while disconnected
+emil_maras: folds 
+N@t@li777: folds 
+*** TURN *** [9c Qd 3s] [5s]
+alfablack123: bets 100
+mr karash: calls 100
+*** RIVER *** [9c Qd 3s 5s] [Qs]
+alfablack123: bets 360 and is all-in
+mr karash: calls 360
+*** SHOW DOWN ***
+alfablack123: shows [Ts Th] (two pair, Queens and Tens)
+mr karash: shows [Kh Kd] (two pair, Kings and Queens)
+mr karash collected 2720 from pot
+alfablack123 finished the tournament in 27th place
+*** SUMMARY ***
+Total pot 2720 | Rake 0 
+Board [9c Qd 3s 5s Qs]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 2: alfablack123 showed [Ts Th] and lost with two pair, Queens and Tens
+Seat 3: mr karash showed [Kh Kd] and won (2720) with two pair, Kings and Queens
+Seat 4: keez167 folded on the Flop
+Seat 5: Perksy12 folded before Flop (didn't bet)
+Seat 6: nicholasj25 (button) folded before Flop
+Seat 7: emil_maras (small blind) folded on the Flop
+Seat 8: N@t@li777 (big blind) folded on the Flop
+Seat 9: spinnerBonus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348267932: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/10/19 8:36:58 ET
+Table '2434909079 3' 9-max Seat #7 is the button
+Seat 1: Bsb Outlaw (1410 in chips) is sitting out
+Seat 3: mr karash (4500 in chips) 
+Seat 4: keez167 (360 in chips) 
+Seat 5: Perksy12 (1575 in chips) 
+Seat 6: nicholasj25 (3520 in chips) 
+Seat 7: emil_maras (1665 in chips) is sitting out
+Seat 8: N@t@li777 (859 in chips) 
+Seat 9: spinnerBonus (3320 in chips) 
+N@t@li777: posts small blind 75
+spinnerBonus: posts big blind 150
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qs 4h]
+Bsb Outlaw: folds 
+mr karash: calls 150
+keez167: folds 
+Perksy12: folds 
+nicholasj25: folds 
+emil_maras: folds 
+N@t@li777: calls 75
+spinnerBonus: checks 
+*** FLOP *** [Ad 6d 2c]
+N@t@li777: bets 709 and is all-in
+spinnerBonus: calls 709
+mr karash: calls 709
+*** TURN *** [Ad 6d 2c] [3s]
+spinnerBonus: checks 
+mr karash: checks 
+*** RIVER *** [Ad 6d 2c 3s] [6c]
+spinnerBonus: checks 
+mr karash: bets 450
+spinnerBonus: folds 
+Uncalled bet (450) returned to mr karash
+*** SHOW DOWN ***
+mr karash: shows [8d Ah] (two pair, Aces and Sixes)
+N@t@li777: shows [5c 6h] (three of a kind, Sixes)
+N@t@li777 collected 2577 from pot
+*** SUMMARY ***
+Total pot 2577 | Rake 0 
+Board [Ad 6d 2c 3s 6c]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 3: mr karash showed [8d Ah] and lost with two pair, Aces and Sixes
+Seat 4: keez167 folded before Flop (didn't bet)
+Seat 5: Perksy12 folded before Flop (didn't bet)
+Seat 6: nicholasj25 folded before Flop (didn't bet)
+Seat 7: emil_maras (button) folded before Flop (didn't bet)
+Seat 8: N@t@li777 (small blind) showed [5c 6h] and won (2577) with three of a kind, Sixes
+Seat 9: spinnerBonus (big blind) folded on the River
+
+
+
+PokerStars Hand #192348290652: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/10/19 8:37:55 ET
+Table '2434909079 3' 9-max Seat #8 is the button
+Seat 1: Bsb Outlaw (1410 in chips) is sitting out
+Seat 3: mr karash (3641 in chips) 
+Seat 4: keez167 (360 in chips) 
+Seat 5: Perksy12 (1575 in chips) 
+Seat 6: nicholasj25 (3520 in chips) 
+Seat 7: emil_maras (1665 in chips) 
+Seat 8: N@t@li777 (2577 in chips) 
+Seat 9: spinnerBonus (2461 in chips) 
+spinnerBonus: posts small blind 75
+Bsb Outlaw: posts big blind 150
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9d Ad]
+mr karash: calls 150
+keez167: folds 
+Perksy12: folds 
+nicholasj25: raises 150 to 300
+emil_maras: folds 
+N@t@li777: folds 
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+mr karash: calls 150
+*** FLOP *** [2d 6h Qc]
+mr karash: checks 
+nicholasj25: bets 300
+mr karash: calls 300
+*** TURN *** [2d 6h Qc] [8s]
+mr karash: bets 150
+nicholasj25: calls 150
+*** RIVER *** [2d 6h Qc 8s] [6d]
+mr karash: bets 450
+nicholasj25: folds 
+Uncalled bet (450) returned to mr karash
+mr karash collected 1725 from pot
+mr karash: doesn't show hand 
+*** SUMMARY ***
+Total pot 1725 | Rake 0 
+Board [2d 6h Qc 8s 6d]
+Seat 1: Bsb Outlaw (big blind) folded before Flop
+Seat 3: mr karash collected (1725)
+Seat 4: keez167 folded before Flop (didn't bet)
+Seat 5: Perksy12 folded before Flop (didn't bet)
+Seat 6: nicholasj25 folded on the River
+Seat 7: emil_maras folded before Flop (didn't bet)
+Seat 8: N@t@li777 (button) folded before Flop (didn't bet)
+Seat 9: spinnerBonus (small blind) folded before Flop
+
+
+
+PokerStars Hand #192348318927: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/10/19 8:39:05 ET
+Table '2434909079 3' 9-max Seat #9 is the button
+Seat 1: Bsb Outlaw (1260 in chips) is sitting out
+Seat 3: mr karash (4616 in chips) 
+Seat 4: keez167 (360 in chips) 
+Seat 5: Perksy12 (1575 in chips) 
+Seat 6: nicholasj25 (2770 in chips) 
+Seat 7: emil_maras (1665 in chips) 
+Seat 8: N@t@li777 (2577 in chips) 
+Seat 9: spinnerBonus (2386 in chips) 
+Bsb Outlaw: posts small blind 75
+mr karash: posts big blind 150
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Js Qs]
+keez167: folds 
+Perksy12: folds 
+nicholasj25: calls 150
+emil_maras: folds 
+N@t@li777: folds 
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+mr karash: checks 
+*** FLOP *** [9h Td 4c]
+mr karash: checks 
+nicholasj25: checks 
+*** TURN *** [9h Td 4c] [Th]
+mr karash: checks 
+nicholasj25: bets 300
+mr karash: calls 300
+*** RIVER *** [9h Td 4c Th] [2h]
+mr karash: checks 
+nicholasj25: bets 600
+mr karash: folds 
+Uncalled bet (600) returned to nicholasj25
+nicholasj25 collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Board [9h Td 4c Th 2h]
+Seat 1: Bsb Outlaw (small blind) folded before Flop
+Seat 3: mr karash (big blind) folded on the River
+Seat 4: keez167 folded before Flop (didn't bet)
+Seat 5: Perksy12 folded before Flop (didn't bet)
+Seat 6: nicholasj25 collected (975)
+Seat 7: emil_maras folded before Flop (didn't bet)
+Seat 8: N@t@li777 folded before Flop (didn't bet)
+Seat 9: spinnerBonus (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348343960: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/10/19 8:40:07 ET
+Table '2434909079 3' 9-max Seat #1 is the button
+Seat 1: Bsb Outlaw (1185 in chips) is sitting out
+Seat 3: mr karash (4166 in chips) 
+Seat 4: keez167 (360 in chips) 
+Seat 5: Perksy12 (1575 in chips) 
+Seat 6: nicholasj25 (3295 in chips) 
+Seat 7: emil_maras (1665 in chips) 
+Seat 8: N@t@li777 (2577 in chips) 
+Seat 9: spinnerBonus (2386 in chips) 
+mr karash: posts small blind 75
+keez167: posts big blind 150
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8d 2c]
+Perksy12: folds 
+nicholasj25: folds 
+emil_maras: calls 150
+N@t@li777: calls 150
+spinnerBonus: calls 150
+Bsb Outlaw: folds 
+mr karash: calls 75
+keez167: checks 
+*** FLOP *** [Kh 8s Ah]
+mr karash: checks 
+keez167: checks 
+emil_maras: checks 
+N@t@li777: checks 
+spinnerBonus: checks 
+*** TURN *** [Kh 8s Ah] [7h]
+mr karash: bets 300
+keez167: calls 210 and is all-in
+emil_maras: folds 
+N@t@li777: folds 
+spinnerBonus: folds 
+Uncalled bet (90) returned to mr karash
+*** RIVER *** [Kh 8s Ah 7h] [8h]
+*** SHOW DOWN ***
+mr karash: shows [3c Kc] (two pair, Kings and Eights)
+keez167: shows [8c 6h] (a flush, Ace high)
+keez167 collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | Rake 0 
+Board [Kh 8s Ah 7h 8h]
+Seat 1: Bsb Outlaw (button) folded before Flop (didn't bet)
+Seat 3: mr karash (small blind) showed [3c Kc] and lost with two pair, Kings and Eights
+Seat 4: keez167 (big blind) showed [8c 6h] and won (1170) with a flush, Ace high
+Seat 5: Perksy12 folded before Flop (didn't bet)
+Seat 6: nicholasj25 folded before Flop (didn't bet)
+Seat 7: emil_maras folded on the Turn
+Seat 8: N@t@li777 folded on the Turn
+Seat 9: spinnerBonus folded on the Turn
+
+
+
+PokerStars Hand #192348366650: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level V (75/150) - 2018/10/19 8:41:03 ET
+Table '2434909079 3' 9-max Seat #3 is the button
+Seat 1: Bsb Outlaw (1185 in chips) is sitting out
+Seat 3: mr karash (3806 in chips) 
+Seat 4: keez167 (1170 in chips) 
+Seat 5: Perksy12 (1575 in chips) 
+Seat 6: nicholasj25 (3295 in chips) 
+Seat 7: emil_maras (1515 in chips) 
+Seat 8: N@t@li777 (2427 in chips) 
+Seat 9: spinnerBonus (2236 in chips) 
+keez167: posts small blind 75
+Perksy12: posts big blind 150
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8c 2c]
+nicholasj25: folds 
+emil_maras: folds 
+N@t@li777: calls 150
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+mr karash: raises 150 to 300
+keez167: folds 
+Perksy12: calls 150
+N@t@li777: calls 150
+*** FLOP *** [Tc Jd As]
+Perksy12: checks 
+N@t@li777: checks 
+mr karash: checks 
+*** TURN *** [Tc Jd As] [5h]
+Perksy12: bets 150
+N@t@li777: folds 
+mr karash: calls 150
+*** RIVER *** [Tc Jd As 5h] [9c]
+Perksy12: bets 150
+mr karash: raises 600 to 750
+Perksy12: calls 600
+*** SHOW DOWN ***
+mr karash: shows [9h 9s] (three of a kind, Nines)
+Perksy12: mucks hand 
+mr karash collected 2775 from pot
+*** SUMMARY ***
+Total pot 2775 | Rake 0 
+Board [Tc Jd As 5h 9c]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 3: mr karash (button) showed [9h 9s] and won (2775) with three of a kind, Nines
+Seat 4: keez167 (small blind) folded before Flop
+Seat 5: Perksy12 (big blind) mucked [Ah Td]
+Seat 6: nicholasj25 folded before Flop (didn't bet)
+Seat 7: emil_maras folded before Flop (didn't bet)
+Seat 8: N@t@li777 folded on the Turn
+Seat 9: spinnerBonus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348391001: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/10/19 8:42:04 ET
+Table '2434909079 3' 9-max Seat #4 is the button
+Seat 1: Bsb Outlaw (1185 in chips) is sitting out
+Seat 3: mr karash (5381 in chips) 
+Seat 4: keez167 (1095 in chips) 
+Seat 5: Perksy12 (375 in chips) 
+Seat 6: nicholasj25 (3295 in chips) 
+Seat 7: emil_maras (1515 in chips) 
+Seat 8: N@t@li777 (2127 in chips) 
+Seat 9: spinnerBonus (2236 in chips) 
+Perksy12: posts small blind 100
+nicholasj25: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kd 6h]
+emil_maras: raises 400 to 600
+N@t@li777: calls 600
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+mr karash: folds 
+keez167: folds 
+Perksy12: calls 275 and is all-in
+nicholasj25: folds 
+*** FLOP *** [2s 3c Qd]
+emil_maras: bets 915 and is all-in
+N@t@li777: calls 915
+*** TURN *** [2s 3c Qd] [7d]
+*** RIVER *** [2s 3c Qd 7d] [Ac]
+*** SHOW DOWN ***
+emil_maras: shows [9d 9h] (a pair of Nines)
+N@t@li777: shows [5h Qh] (a pair of Queens)
+N@t@li777 collected 2280 from side pot
+Perksy12: shows [As 5c] (a pair of Aces)
+Perksy12 collected 1325 from main pot
+emil_maras finished the tournament in 22nd place
+*** SUMMARY ***
+Total pot 3605 Main pot 1325. Side pot 2280. | Rake 0 
+Board [2s 3c Qd 7d Ac]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 3: mr karash folded before Flop (didn't bet)
+Seat 4: keez167 (button) folded before Flop (didn't bet)
+Seat 5: Perksy12 (small blind) showed [As 5c] and won (1325) with a pair of Aces
+Seat 6: nicholasj25 (big blind) folded before Flop
+Seat 7: emil_maras showed [9d 9h] and lost with a pair of Nines
+Seat 8: N@t@li777 showed [5h Qh] and won (2280) with a pair of Queens
+Seat 9: spinnerBonus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348408441: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/10/19 8:42:47 ET
+Table '2434909079 3' 9-max Seat #5 is the button
+Seat 1: Bsb Outlaw (1185 in chips) is sitting out
+Seat 3: mr karash (5381 in chips) 
+Seat 4: keez167 (1095 in chips) 
+Seat 5: Perksy12 (1325 in chips) 
+Seat 6: nicholasj25 (3095 in chips) 
+Seat 8: N@t@li777 (2892 in chips) 
+Seat 9: spinnerBonus (2236 in chips) 
+nicholasj25: posts small blind 100
+N@t@li777: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qh Ah]
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+mr karash: calls 200
+keez167: folds 
+Perksy12: folds 
+nicholasj25: raises 200 to 400
+N@t@li777: folds 
+mr karash: calls 200
+*** FLOP *** [Ks Jd 8c]
+nicholasj25: bets 200
+mr karash: calls 200
+*** TURN *** [Ks Jd 8c] [4c]
+nicholasj25: checks 
+mr karash: bets 600
+nicholasj25: folds 
+Uncalled bet (600) returned to mr karash
+mr karash collected 1400 from pot
+mr karash: doesn't show hand 
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [Ks Jd 8c 4c]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 3: mr karash collected (1400)
+Seat 4: keez167 folded before Flop (didn't bet)
+Seat 5: Perksy12 (button) folded before Flop (didn't bet)
+Seat 6: nicholasj25 (small blind) folded on the Turn
+Seat 8: N@t@li777 (big blind) folded before Flop
+Seat 9: spinnerBonus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348428850: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/10/19 8:43:37 ET
+Table '2434909079 3' 9-max Seat #6 is the button
+Seat 1: Bsb Outlaw (1185 in chips) is sitting out
+Seat 3: mr karash (6181 in chips) 
+Seat 4: keez167 (1095 in chips) 
+Seat 5: Perksy12 (1325 in chips) 
+Seat 6: nicholasj25 (2495 in chips) 
+Seat 8: N@t@li777 (2692 in chips) 
+Seat 9: spinnerBonus (2236 in chips) 
+N@t@li777: posts small blind 100
+spinnerBonus: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5h 2c]
+Bsb Outlaw: folds 
+mr karash: folds 
+keez167: calls 200
+Perksy12: folds 
+nicholasj25: folds 
+N@t@li777: calls 100
+spinnerBonus: checks 
+*** FLOP *** [Qc Qh Tc]
+N@t@li777: checks 
+spinnerBonus: checks 
+keez167: checks 
+*** TURN *** [Qc Qh Tc] [Kc]
+N@t@li777: checks 
+spinnerBonus: checks 
+keez167: checks 
+*** RIVER *** [Qc Qh Tc Kc] [Ad]
+N@t@li777: bets 200
+spinnerBonus: folds 
+keez167: folds 
+Uncalled bet (200) returned to N@t@li777
+N@t@li777 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Qc Qh Tc Kc Ad]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 3: mr karash folded before Flop (didn't bet)
+Seat 4: keez167 folded on the River
+Seat 5: Perksy12 folded before Flop (didn't bet)
+Seat 6: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 8: N@t@li777 (small blind) collected (600)
+Seat 9: spinnerBonus (big blind) folded on the River
+
+
+
+PokerStars Hand #192348450156: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/10/19 8:44:30 ET
+Table '2434909079 3' 9-max Seat #8 is the button
+Seat 1: Bsb Outlaw (1185 in chips) is sitting out
+Seat 3: mr karash (6181 in chips) 
+Seat 4: keez167 (895 in chips) 
+Seat 5: Perksy12 (1325 in chips) 
+Seat 6: nicholasj25 (2495 in chips) 
+Seat 8: N@t@li777 (3092 in chips) 
+Seat 9: spinnerBonus (2036 in chips) 
+spinnerBonus: posts small blind 100
+Bsb Outlaw: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8d Kd]
+mr karash: calls 200
+keez167: calls 200
+Perksy12: folds 
+nicholasj25: folds 
+N@t@li777: calls 200
+spinnerBonus: raises 1836 to 2036 and is all-in
+Bsb Outlaw: folds 
+mr karash: folds 
+keez167: calls 695 and is all-in
+N@t@li777: folds 
+Uncalled bet (1141) returned to spinnerBonus
+*** FLOP *** [7h 3s Kc]
+*** TURN *** [7h 3s Kc] [5c]
+*** RIVER *** [7h 3s Kc 5c] [Jd]
+*** SHOW DOWN ***
+spinnerBonus: shows [Jc Js] (three of a kind, Jacks)
+keez167: shows [Qs Ks] (a pair of Kings)
+spinnerBonus collected 2390 from pot
+keez167 finished the tournament in 21st place
+*** SUMMARY ***
+Total pot 2390 | Rake 0 
+Board [7h 3s Kc 5c Jd]
+Seat 1: Bsb Outlaw (big blind) folded before Flop
+Seat 3: mr karash folded before Flop
+Seat 4: keez167 showed [Qs Ks] and lost with a pair of Kings
+Seat 5: Perksy12 folded before Flop (didn't bet)
+Seat 6: nicholasj25 folded before Flop (didn't bet)
+Seat 8: N@t@li777 (button) folded before Flop
+Seat 9: spinnerBonus (small blind) showed [Jc Js] and won (2390) with three of a kind, Jacks
+
+
+
+PokerStars Hand #192348463844: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/10/19 8:45:04 ET
+Table '2434909079 3' 9-max Seat #9 is the button
+Seat 1: Bsb Outlaw (985 in chips) is sitting out
+Seat 3: mr karash (5981 in chips) 
+Seat 5: Perksy12 (1325 in chips) 
+Seat 6: nicholasj25 (2495 in chips) 
+Seat 8: N@t@li777 (2892 in chips) 
+Seat 9: spinnerBonus (3531 in chips) 
+Bsb Outlaw: posts small blind 100
+mr karash: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Td Ah]
+Perksy12: folds 
+nicholasj25: calls 200
+N@t@li777: folds 
+spinnerBonus: calls 200
+Bsb Outlaw: folds 
+mr karash: checks 
+*** FLOP *** [4c 5c 6d]
+mr karash: checks 
+nicholasj25: checks 
+spinnerBonus: checks 
+*** TURN *** [4c 5c 6d] [Jc]
+mr karash: checks 
+nicholasj25: bets 400
+spinnerBonus: calls 400
+mr karash: folds 
+*** RIVER *** [4c 5c 6d Jc] [Ad]
+nicholasj25: bets 600
+spinnerBonus: calls 600
+*** SHOW DOWN ***
+nicholasj25: shows [Td Ah] (a pair of Aces)
+spinnerBonus: mucks hand 
+nicholasj25 collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | Rake 0 
+Board [4c 5c 6d Jc Ad]
+Seat 1: Bsb Outlaw (small blind) folded before Flop
+Seat 3: mr karash (big blind) folded on the Turn
+Seat 5: Perksy12 folded before Flop (didn't bet)
+Seat 6: nicholasj25 showed [Td Ah] and won (2700) with a pair of Aces
+Seat 8: N@t@li777 folded before Flop (didn't bet)
+Seat 9: spinnerBonus (button) mucked [Ac 8d]
+
+
+
+PokerStars Hand #192348484382: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2018/10/19 8:45:55 ET
+Table '2434909079 3' 9-max Seat #1 is the button
+Seat 1: Bsb Outlaw (885 in chips) is sitting out
+Seat 3: mr karash (5781 in chips) 
+Seat 4: kira190253 (2575 in chips) 
+Seat 5: Perksy12 (1325 in chips) 
+Seat 6: nicholasj25 (3995 in chips) 
+Seat 7: Helgzo (1400 in chips) 
+Seat 8: N@t@li777 (2892 in chips) 
+Seat 9: spinnerBonus (2331 in chips) 
+mr karash: posts small blind 100
+kira190253: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [As 8c]
+Perksy12: folds 
+nicholasj25: raises 200 to 400
+Helgzo: calls 400
+N@t@li777: folds 
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+mr karash: folds 
+kira190253: calls 200
+*** FLOP *** [6d Ad 2s]
+kira190253: bets 2175 and is all-in
+nicholasj25: raises 1420 to 3595 and is all-in
+Helgzo: folds 
+Uncalled bet (1420) returned to nicholasj25
+*** TURN *** [6d Ad 2s] [Kc]
+*** RIVER *** [6d Ad 2s Kc] [5c]
+*** SHOW DOWN ***
+kira190253: shows [7h 6s] (a pair of Sixes)
+nicholasj25: shows [As 8c] (a pair of Aces)
+nicholasj25 collected 5650 from pot
+kira190253 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 5650 | Rake 0 
+Board [6d Ad 2s Kc 5c]
+Seat 1: Bsb Outlaw (button) folded before Flop (didn't bet)
+Seat 3: mr karash (small blind) folded before Flop
+Seat 4: kira190253 (big blind) showed [7h 6s] and lost with a pair of Sixes
+Seat 5: Perksy12 folded before Flop (didn't bet)
+Seat 6: nicholasj25 showed [As 8c] and won (5650) with a pair of Aces
+Seat 7: Helgzo folded on the Flop
+Seat 8: N@t@li777 folded before Flop (didn't bet)
+Seat 9: spinnerBonus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348504623: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/19 8:46:45 ET
+Table '2434909079 3' 9-max Seat #3 is the button
+Seat 1: Bsb Outlaw (885 in chips) is sitting out
+Seat 2: WeGwos (18706 in chips) 
+Seat 3: mr karash (5681 in chips) 
+Seat 5: Perksy12 (1325 in chips) 
+Seat 6: nicholasj25 (7070 in chips) 
+Seat 7: Helgzo (1000 in chips) 
+Seat 8: N@t@li777 (2892 in chips) 
+Seat 9: spinnerBonus (2331 in chips) 
+Bsb Outlaw: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+Perksy12: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+N@t@li777: posts the ante 25
+spinnerBonus: posts the ante 25
+Perksy12: posts small blind 100
+nicholasj25: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9h 7s]
+Helgzo: calls 200
+N@t@li777: calls 200
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+WeGwos: folds 
+mr karash: folds 
+Perksy12: folds 
+nicholasj25: checks 
+*** FLOP *** [7h Kd 8s]
+nicholasj25: bets 200
+Helgzo: calls 200
+N@t@li777: folds 
+*** TURN *** [7h Kd 8s] [9s]
+nicholasj25: bets 200
+Helgzo: calls 200
+*** RIVER *** [7h Kd 8s 9s] [5h]
+nicholasj25: bets 400
+Helgzo: folds 
+Uncalled bet (400) returned to nicholasj25
+nicholasj25 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [7h Kd 8s 9s 5h]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 2: WeGwos folded before Flop (didn't bet)
+Seat 3: mr karash (button) folded before Flop (didn't bet)
+Seat 5: Perksy12 (small blind) folded before Flop
+Seat 6: nicholasj25 (big blind) collected (1700)
+Seat 7: Helgzo folded on the River
+Seat 8: N@t@li777 folded on the Flop
+Seat 9: spinnerBonus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348517580: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/19 8:47:16 ET
+Table '2434909079 3' 9-max Seat #5 is the button
+Seat 1: Bsb Outlaw (860 in chips) is sitting out
+Seat 2: WeGwos (18681 in chips) 
+Seat 3: mr karash (5656 in chips) 
+Seat 5: Perksy12 (1200 in chips) 
+Seat 6: nicholasj25 (8145 in chips) 
+Seat 7: Helgzo (375 in chips) 
+Seat 8: N@t@li777 (2667 in chips) 
+Seat 9: spinnerBonus (2306 in chips) 
+Bsb Outlaw: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+Perksy12: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+N@t@li777: posts the ante 25
+spinnerBonus: posts the ante 25
+nicholasj25: posts small blind 100
+Helgzo: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7s Td]
+N@t@li777: calls 200
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+WeGwos: calls 200
+mr karash: folds 
+Perksy12: folds 
+nicholasj25: calls 100
+Helgzo: checks 
+*** FLOP *** [4s 7d Jh]
+nicholasj25: bets 200
+Helgzo: calls 150 and is all-in
+N@t@li777: calls 200
+WeGwos: calls 200
+*** TURN *** [4s 7d Jh] [5s]
+nicholasj25: checks 
+N@t@li777: bets 200
+WeGwos: raises 800 to 1000
+nicholasj25: folds 
+N@t@li777: folds 
+Uncalled bet (800) returned to WeGwos
+*** RIVER *** [4s 7d Jh 5s] [9d]
+*** SHOW DOWN ***
+WeGwos: shows [8s 9s] (a pair of Nines)
+WeGwos collected 550 from side pot
+Helgzo: shows [2s Js] (a pair of Jacks)
+Helgzo collected 1600 from main pot
+*** SUMMARY ***
+Total pot 2150 Main pot 1600. Side pot 550. | Rake 0 
+Board [4s 7d Jh 5s 9d]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 2: WeGwos showed [8s 9s] and won (550) with a pair of Nines
+Seat 3: mr karash folded before Flop (didn't bet)
+Seat 5: Perksy12 (button) folded before Flop (didn't bet)
+Seat 6: nicholasj25 (small blind) folded on the Turn
+Seat 7: Helgzo (big blind) showed [2s Js] and won (1600) with a pair of Jacks
+Seat 8: N@t@li777 folded on the Turn
+Seat 9: spinnerBonus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348538559: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/19 8:48:08 ET
+Table '2434909079 3' 9-max Seat #6 is the button
+Seat 1: Bsb Outlaw (835 in chips) is sitting out
+Seat 2: WeGwos (18606 in chips) 
+Seat 3: mr karash (5631 in chips) 
+Seat 5: Perksy12 (1175 in chips) 
+Seat 6: nicholasj25 (7720 in chips) 
+Seat 7: Helgzo (1600 in chips) 
+Seat 8: N@t@li777 (2042 in chips) 
+Seat 9: spinnerBonus (2281 in chips) 
+Bsb Outlaw: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+Perksy12: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+N@t@li777: posts the ante 25
+spinnerBonus: posts the ante 25
+Helgzo: posts small blind 100
+N@t@li777: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5d Ah]
+spinnerBonus: folds 
+Bsb Outlaw: folds 
+WeGwos: folds 
+mr karash: calls 200
+Perksy12: calls 200
+nicholasj25: calls 200
+Helgzo: folds 
+N@t@li777: raises 200 to 400
+mr karash: calls 200
+Perksy12: calls 200
+nicholasj25: calls 200
+*** FLOP *** [Ad 8h 2c]
+N@t@li777: checks 
+mr karash: checks 
+Perksy12: bets 750 and is all-in
+nicholasj25: raises 6545 to 7295 and is all-in
+N@t@li777: folds 
+mr karash: folds 
+Uncalled bet (6545) returned to nicholasj25
+*** TURN *** [Ad 8h 2c] [Ts]
+*** RIVER *** [Ad 8h 2c Ts] [5c]
+*** SHOW DOWN ***
+Perksy12: shows [Td Qd] (a pair of Tens)
+nicholasj25: shows [5d Ah] (two pair, Aces and Fives)
+nicholasj25 collected 3400 from pot
+Perksy12 finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 3400 | Rake 0 
+Board [Ad 8h 2c Ts 5c]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 2: WeGwos folded before Flop (didn't bet)
+Seat 3: mr karash folded on the Flop
+Seat 5: Perksy12 showed [Td Qd] and lost with a pair of Tens
+Seat 6: nicholasj25 (button) showed [5d Ah] and won (3400) with two pair, Aces and Fives
+Seat 7: Helgzo (small blind) folded before Flop
+Seat 8: N@t@li777 (big blind) folded on the Flop
+Seat 9: spinnerBonus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348572531: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/19 8:49:31 ET
+Table '2434909079 3' 9-max Seat #7 is the button
+Seat 1: Bsb Outlaw (810 in chips) is sitting out
+Seat 2: WeGwos (18581 in chips) 
+Seat 3: mr karash (5206 in chips) 
+Seat 6: nicholasj25 (9945 in chips) 
+Seat 7: Helgzo (1475 in chips) 
+Seat 8: N@t@li777 (1617 in chips) 
+Seat 9: spinnerBonus (2256 in chips) 
+Bsb Outlaw: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+N@t@li777: posts the ante 25
+spinnerBonus: posts the ante 25
+N@t@li777: posts small blind 100
+spinnerBonus: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Th 9s]
+Bsb Outlaw: folds 
+WeGwos: folds 
+mr karash: folds 
+nicholasj25: calls 200
+Helgzo: folds 
+N@t@li777: calls 100
+spinnerBonus: raises 2031 to 2231 and is all-in
+nicholasj25: folds 
+N@t@li777: calls 1392 and is all-in
+Uncalled bet (639) returned to spinnerBonus
+*** FLOP *** [Jc 7h Qs]
+*** TURN *** [Jc 7h Qs] [Js]
+*** RIVER *** [Jc 7h Qs Js] [6d]
+*** SHOW DOWN ***
+N@t@li777: shows [9d Qc] (two pair, Queens and Jacks)
+spinnerBonus: shows [5h Qd] (two pair, Queens and Jacks - lower kicker)
+N@t@li777 collected 3559 from pot
+*** SUMMARY ***
+Total pot 3559 | Rake 0 
+Board [Jc 7h Qs Js 6d]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 2: WeGwos folded before Flop (didn't bet)
+Seat 3: mr karash folded before Flop (didn't bet)
+Seat 6: nicholasj25 folded before Flop
+Seat 7: Helgzo (button) folded before Flop (didn't bet)
+Seat 8: N@t@li777 (small blind) showed [9d Qc] and won (3559) with two pair, Queens and Jacks
+Seat 9: spinnerBonus (big blind) showed [5h Qd] and lost with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #192348585928: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/19 8:50:04 ET
+Table '2434909079 3' 9-max Seat #8 is the button
+Seat 1: Bsb Outlaw (785 in chips) is sitting out
+Seat 2: WeGwos (18556 in chips) 
+Seat 3: mr karash (5181 in chips) 
+Seat 6: nicholasj25 (9720 in chips) 
+Seat 7: Helgzo (1450 in chips) 
+Seat 8: N@t@li777 (3559 in chips) 
+Seat 9: spinnerBonus (639 in chips) 
+Bsb Outlaw: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+N@t@li777: posts the ante 25
+spinnerBonus: posts the ante 25
+spinnerBonus: posts small blind 100
+Bsb Outlaw: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ts Td]
+WeGwos: folds 
+mr karash: folds 
+nicholasj25: raises 400 to 600
+Helgzo: folds 
+N@t@li777: folds 
+spinnerBonus: raises 14 to 614 and is all-in
+Bsb Outlaw: folds 
+nicholasj25: calls 14
+*** FLOP *** [Qs Js Ad]
+*** TURN *** [Qs Js Ad] [Tc]
+*** RIVER *** [Qs Js Ad Tc] [2s]
+*** SHOW DOWN ***
+spinnerBonus: shows [Ac 2c] (two pair, Aces and Deuces)
+nicholasj25: shows [Ts Td] (three of a kind, Tens)
+nicholasj25 collected 1603 from pot
+spinnerBonus finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 1603 | Rake 0 
+Board [Qs Js Ad Tc 2s]
+Seat 1: Bsb Outlaw (big blind) folded before Flop
+Seat 2: WeGwos folded before Flop (didn't bet)
+Seat 3: mr karash folded before Flop (didn't bet)
+Seat 6: nicholasj25 showed [Ts Td] and won (1603) with three of a kind, Tens
+Seat 7: Helgzo folded before Flop (didn't bet)
+Seat 8: N@t@li777 (button) folded before Flop (didn't bet)
+Seat 9: spinnerBonus (small blind) showed [Ac 2c] and lost with two pair, Aces and Deuces
+
+
+
+PokerStars Hand #192348598056: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/19 8:50:33 ET
+Table '2434909079 3' 9-max Seat #1 is the button
+Seat 1: Bsb Outlaw (560 in chips) is sitting out
+Seat 2: WeGwos (18531 in chips) 
+Seat 3: mr karash (5156 in chips) 
+Seat 6: nicholasj25 (10684 in chips) 
+Seat 7: Helgzo (1425 in chips) 
+Seat 8: N@t@li777 (3534 in chips) 
+Bsb Outlaw: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+N@t@li777: posts the ante 25
+WeGwos: posts small blind 100
+mr karash: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kd 7c]
+nicholasj25: folds 
+Helgzo: folds 
+N@t@li777: folds 
+Bsb Outlaw: folds 
+WeGwos: folds 
+Uncalled bet (100) returned to mr karash
+mr karash collected 350 from pot
+mr karash: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 1: Bsb Outlaw (button) folded before Flop (didn't bet)
+Seat 2: WeGwos (small blind) folded before Flop
+Seat 3: mr karash (big blind) collected (350)
+Seat 6: nicholasj25 folded before Flop (didn't bet)
+Seat 7: Helgzo folded before Flop (didn't bet)
+Seat 8: N@t@li777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348602508: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/19 8:50:44 ET
+Table '2434909079 3' 9-max Seat #2 is the button
+Seat 1: Bsb Outlaw (535 in chips) is sitting out
+Seat 2: WeGwos (18406 in chips) 
+Seat 3: mr karash (5381 in chips) 
+Seat 6: nicholasj25 (10659 in chips) 
+Seat 7: Helgzo (1400 in chips) 
+Seat 8: N@t@li777 (3509 in chips) 
+Bsb Outlaw: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+N@t@li777: posts the ante 25
+mr karash: posts small blind 100
+nicholasj25: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9h Jh]
+Helgzo: raises 1175 to 1375 and is all-in
+N@t@li777: folds 
+Bsb Outlaw: folds 
+WeGwos: folds 
+mr karash: folds 
+nicholasj25: folds 
+Uncalled bet (1175) returned to Helgzo
+Helgzo collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 2: WeGwos (button) folded before Flop (didn't bet)
+Seat 3: mr karash (small blind) folded before Flop
+Seat 6: nicholasj25 (big blind) folded before Flop
+Seat 7: Helgzo collected (650)
+Seat 8: N@t@li777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348610003: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VII (100/200) - 2018/10/19 8:51:03 ET
+Table '2434909079 3' 9-max Seat #3 is the button
+Seat 1: Bsb Outlaw (510 in chips) is sitting out
+Seat 2: WeGwos (18381 in chips) 
+Seat 3: mr karash (5256 in chips) 
+Seat 6: nicholasj25 (10434 in chips) 
+Seat 7: Helgzo (1825 in chips) 
+Seat 8: N@t@li777 (3484 in chips) 
+Bsb Outlaw: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+N@t@li777: posts the ante 25
+nicholasj25: posts small blind 100
+Helgzo: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2h 3h]
+N@t@li777: calls 200
+Bsb Outlaw: folds 
+WeGwos: calls 200
+mr karash: folds 
+nicholasj25: calls 100
+Helgzo: checks 
+*** FLOP *** [2s 6s 2d]
+nicholasj25: checks 
+Helgzo: checks 
+N@t@li777: checks 
+WeGwos: bets 200
+nicholasj25: calls 200
+Helgzo: folds 
+N@t@li777: calls 200
+*** TURN *** [2s 6s 2d] [Jd]
+nicholasj25: checks 
+N@t@li777: checks 
+WeGwos: bets 200
+nicholasj25: calls 200
+N@t@li777: calls 200
+*** RIVER *** [2s 6s 2d Jd] [Ts]
+nicholasj25: checks 
+N@t@li777: checks 
+WeGwos: checks 
+*** SHOW DOWN ***
+nicholasj25: shows [2h 3h] (three of a kind, Deuces)
+N@t@li777: mucks hand 
+WeGwos: mucks hand 
+nicholasj25 collected 2150 from pot
+*** SUMMARY ***
+Total pot 2150 | Rake 0 
+Board [2s 6s 2d Jd Ts]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 2: WeGwos mucked [Js Qh]
+Seat 3: mr karash (button) folded before Flop (didn't bet)
+Seat 6: nicholasj25 (small blind) showed [2h 3h] and won (2150) with three of a kind, Deuces
+Seat 7: Helgzo (big blind) folded on the Flop
+Seat 8: N@t@li777 mucked [Ad 3d]
+
+
+
+PokerStars Hand #192348636344: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/19 8:52:07 ET
+Table '2434909079 3' 9-max Seat #6 is the button
+Seat 1: Bsb Outlaw (485 in chips) 
+Seat 2: WeGwos (17756 in chips) 
+Seat 3: mr karash (5231 in chips) 
+Seat 6: nicholasj25 (11959 in chips) 
+Seat 7: Helgzo (1600 in chips) 
+Seat 8: N@t@li777 (2859 in chips) 
+Bsb Outlaw: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+N@t@li777: posts the ante 25
+Helgzo: posts small blind 150
+N@t@li777: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3s 4s]
+Bsb Outlaw: folds 
+WeGwos: calls 300
+mr karash: calls 300
+nicholasj25: calls 300
+Helgzo: folds 
+N@t@li777: checks 
+*** FLOP *** [Jh 8d 6c]
+N@t@li777: checks 
+WeGwos: bets 300
+mr karash: calls 300
+nicholasj25: folds 
+N@t@li777: folds 
+*** TURN *** [Jh 8d 6c] [7c]
+WeGwos: bets 300
+mr karash: raises 300 to 600
+WeGwos: calls 300
+*** RIVER *** [Jh 8d 6c 7c] [9s]
+WeGwos: checks 
+mr karash: bets 1200
+WeGwos: folds 
+Uncalled bet (1200) returned to mr karash
+mr karash collected 3300 from pot
+mr karash: doesn't show hand 
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Board [Jh 8d 6c 7c 9s]
+Seat 1: Bsb Outlaw folded before Flop (didn't bet)
+Seat 2: WeGwos folded on the River
+Seat 3: mr karash collected (3300)
+Seat 6: nicholasj25 (button) folded on the Flop
+Seat 7: Helgzo (small blind) folded before Flop
+Seat 8: N@t@li777 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #192348657309: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/19 8:52:58 ET
+Table '2434909079 3' 9-max Seat #7 is the button
+Seat 1: Bsb Outlaw (460 in chips) 
+Seat 2: WeGwos (16531 in chips) 
+Seat 3: mr karash (7306 in chips) 
+Seat 6: nicholasj25 (11634 in chips) 
+Seat 7: Helgzo (1425 in chips) 
+Seat 8: N@t@li777 (2534 in chips) 
+Bsb Outlaw: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+N@t@li777: posts the ante 25
+N@t@li777: posts small blind 150
+Bsb Outlaw: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4c 4h]
+WeGwos: folds 
+mr karash: folds 
+nicholasj25: calls 300
+Helgzo: folds 
+N@t@li777: folds 
+Bsb Outlaw: raises 135 to 435 and is all-in
+nicholasj25: calls 135
+*** FLOP *** [Td Jc Ts]
+*** TURN *** [Td Jc Ts] [Tc]
+*** RIVER *** [Td Jc Ts Tc] [8s]
+*** SHOW DOWN ***
+Bsb Outlaw: shows [2d 5c] (three of a kind, Tens)
+nicholasj25: shows [4c 4h] (a full house, Tens full of Fours)
+nicholasj25 collected 1170 from pot
+Bsb Outlaw finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 1170 | Rake 0 
+Board [Td Jc Ts Tc 8s]
+Seat 1: Bsb Outlaw (big blind) showed [2d 5c] and lost with three of a kind, Tens
+Seat 2: WeGwos folded before Flop (didn't bet)
+Seat 3: mr karash folded before Flop (didn't bet)
+Seat 6: nicholasj25 showed [4c 4h] and won (1170) with a full house, Tens full of Fours
+Seat 7: Helgzo (button) folded before Flop (didn't bet)
+Seat 8: N@t@li777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #192348669813: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/19 8:53:29 ET
+Table '2434909079 3' 9-max Seat #8 is the button
+Seat 2: WeGwos (16506 in chips) 
+Seat 3: mr karash (7281 in chips) 
+Seat 6: nicholasj25 (12344 in chips) 
+Seat 7: Helgzo (1400 in chips) 
+Seat 8: N@t@li777 (2359 in chips) 
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+N@t@li777: posts the ante 25
+WeGwos: posts small blind 150
+mr karash: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2s 7d]
+nicholasj25: folds 
+Helgzo: calls 300
+N@t@li777: calls 300
+WeGwos: folds 
+mr karash: checks 
+*** FLOP *** [Ah As 2d]
+mr karash: checks 
+Helgzo: checks 
+N@t@li777: checks 
+*** TURN *** [Ah As 2d] [Jd]
+mr karash: bets 300
+Helgzo: folds 
+N@t@li777: calls 300
+*** RIVER *** [Ah As 2d Jd] [4d]
+mr karash: bets 1200
+N@t@li777: raises 534 to 1734 and is all-in
+mr karash: calls 534
+*** SHOW DOWN ***
+N@t@li777: shows [Qd 5d] (a flush, Queen high)
+mr karash: shows [Kd Td] (a flush, King high)
+mr karash collected 5243 from pot
+N@t@li777 finished the tournament in 12th place
+*** SUMMARY ***
+Total pot 5243 | Rake 0 
+Board [Ah As 2d Jd 4d]
+Seat 2: WeGwos (small blind) folded before Flop
+Seat 3: mr karash (big blind) showed [Kd Td] and won (5243) with a flush, King high
+Seat 6: nicholasj25 folded before Flop (didn't bet)
+Seat 7: Helgzo folded on the Turn
+Seat 8: N@t@li777 (button) showed [Qd 5d] and lost with a flush, Queen high
+
+
+
+PokerStars Hand #192348685799: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/19 8:54:08 ET
+Table '2434909079 3' 9-max Seat #2 is the button
+Seat 1: sancobra (3885 in chips) 
+Seat 2: WeGwos (16331 in chips) 
+Seat 3: mr karash (10165 in chips) 
+Seat 6: nicholasj25 (12319 in chips) 
+Seat 7: Helgzo (1075 in chips) 
+sancobra: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+mr karash: posts small blind 150
+nicholasj25: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5d Kc]
+Helgzo: folds 
+sancobra: folds 
+WeGwos: folds 
+mr karash: calls 150
+nicholasj25: checks 
+*** FLOP *** [Ks Th 7h]
+mr karash: checks 
+nicholasj25: bets 600
+mr karash: calls 600
+*** TURN *** [Ks Th 7h] [8d]
+mr karash: checks 
+nicholasj25: bets 300
+mr karash: calls 300
+*** RIVER *** [Ks Th 7h 8d] [Jc]
+mr karash: checks 
+nicholasj25: bets 600
+mr karash: folds 
+Uncalled bet (600) returned to nicholasj25
+nicholasj25 collected 2525 from pot
+*** SUMMARY ***
+Total pot 2525 | Rake 0 
+Board [Ks Th 7h 8d Jc]
+Seat 1: sancobra folded before Flop (didn't bet)
+Seat 2: WeGwos (button) folded before Flop (didn't bet)
+Seat 3: mr karash (small blind) folded on the River
+Seat 6: nicholasj25 (big blind) collected (2525)
+Seat 7: Helgzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348705427: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/19 8:54:56 ET
+Table '2434909079 3' 9-max Seat #3 is the button
+Seat 1: sancobra (3860 in chips) 
+Seat 2: WeGwos (16306 in chips) 
+Seat 3: mr karash (8940 in chips) 
+Seat 6: nicholasj25 (13619 in chips) 
+Seat 7: Helgzo (1050 in chips) 
+sancobra: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+nicholasj25: posts small blind 150
+Helgzo: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5s 8c]
+sancobra: folds 
+WeGwos: calls 300
+mr karash: folds 
+nicholasj25: folds 
+Helgzo: checks 
+*** FLOP *** [Ad 7s 6s]
+Helgzo: checks 
+WeGwos: bets 300
+Helgzo: folds 
+Uncalled bet (300) returned to WeGwos
+WeGwos collected 875 from pot
+WeGwos: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Board [Ad 7s 6s]
+Seat 1: sancobra folded before Flop (didn't bet)
+Seat 2: WeGwos collected (875)
+Seat 3: mr karash (button) folded before Flop (didn't bet)
+Seat 6: nicholasj25 (small blind) folded before Flop
+Seat 7: Helgzo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #192348710958: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/19 8:55:11 ET
+Table '2434909079 3' 9-max Seat #6 is the button
+Seat 1: sancobra (3835 in chips) 
+Seat 2: WeGwos (16856 in chips) 
+Seat 3: mr karash (8915 in chips) 
+Seat 6: nicholasj25 (13444 in chips) 
+Seat 7: Helgzo (725 in chips) 
+sancobra: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+Helgzo: posts small blind 150
+sancobra: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6s 9h]
+WeGwos: calls 300
+mr karash: folds 
+nicholasj25: folds 
+Helgzo: folds 
+sancobra: checks 
+*** FLOP *** [2d 4c 4s]
+sancobra: checks 
+WeGwos: bets 300
+sancobra: folds 
+Uncalled bet (300) returned to WeGwos
+WeGwos collected 875 from pot
+WeGwos: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Board [2d 4c 4s]
+Seat 1: sancobra (big blind) folded on the Flop
+Seat 2: WeGwos collected (875)
+Seat 3: mr karash folded before Flop (didn't bet)
+Seat 6: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 7: Helgzo (small blind) folded before Flop
+
+
+
+PokerStars Hand #192348717328: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/19 8:55:29 ET
+Table '2434909079 3' 9-max Seat #7 is the button
+Seat 1: sancobra (3510 in chips) 
+Seat 2: WeGwos (17406 in chips) 
+Seat 3: mr karash (8890 in chips) 
+Seat 6: nicholasj25 (13419 in chips) 
+Seat 7: Helgzo (550 in chips) 
+sancobra: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+sancobra: posts small blind 150
+WeGwos: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5h 9c]
+mr karash: folds 
+nicholasj25: folds 
+Helgzo: folds 
+sancobra: calls 150
+WeGwos: checks 
+*** FLOP *** [7d Tc Ks]
+sancobra: checks 
+WeGwos: bets 300
+sancobra: raises 300 to 600
+WeGwos: folds 
+Uncalled bet (300) returned to sancobra
+sancobra collected 1325 from pot
+sancobra: doesn't show hand 
+*** SUMMARY ***
+Total pot 1325 | Rake 0 
+Board [7d Tc Ks]
+Seat 1: sancobra (small blind) collected (1325)
+Seat 2: WeGwos (big blind) folded on the Flop
+Seat 3: mr karash folded before Flop (didn't bet)
+Seat 6: nicholasj25 folded before Flop (didn't bet)
+Seat 7: Helgzo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348723731: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level VIII (150/300) - 2018/10/19 8:55:47 ET
+Table '2434909079 3' 9-max Seat #1 is the button
+Seat 1: sancobra (4210 in chips) 
+Seat 2: WeGwos (16781 in chips) 
+Seat 3: mr karash (8865 in chips) 
+Seat 6: nicholasj25 (13394 in chips) 
+Seat 7: Helgzo (525 in chips) 
+sancobra: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+WeGwos: posts small blind 150
+mr karash: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9c Qc]
+nicholasj25: calls 300
+Helgzo: raises 200 to 500 and is all-in
+sancobra: folds 
+WeGwos: folds 
+mr karash: calls 200
+nicholasj25: calls 200
+*** FLOP *** [2s 8c 5d]
+mr karash: checks 
+nicholasj25: checks 
+*** TURN *** [2s 8c 5d] [9s]
+mr karash: checks 
+nicholasj25: bets 600
+mr karash: folds 
+Uncalled bet (600) returned to nicholasj25
+*** RIVER *** [2s 8c 5d 9s] [4c]
+*** SHOW DOWN ***
+nicholasj25: shows [9c Qc] (a pair of Nines)
+Helgzo: shows [Th Ts] (a pair of Tens)
+Helgzo collected 1775 from pot
+*** SUMMARY ***
+Total pot 1775 | Rake 0 
+Board [2s 8c 5d 9s 4c]
+Seat 1: sancobra (button) folded before Flop (didn't bet)
+Seat 2: WeGwos (small blind) folded before Flop
+Seat 3: mr karash (big blind) folded on the Turn
+Seat 6: nicholasj25 showed [9c Qc] and lost with a pair of Nines
+Seat 7: Helgzo showed [Th Ts] and won (1775) with a pair of Tens
+
+
+
+PokerStars Hand #192348740995: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/19 8:56:36 ET
+Table '2434909079 3' 9-max Seat #2 is the button
+Seat 1: sancobra (4185 in chips) 
+Seat 2: WeGwos (16606 in chips) 
+Seat 3: mr karash (8340 in chips) 
+Seat 6: nicholasj25 (12869 in chips) 
+Seat 7: Helgzo (1775 in chips) 
+sancobra: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+mr karash: posts small blind 200
+nicholasj25: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3d 8c]
+Helgzo: folds 
+sancobra: folds 
+WeGwos: folds 
+mr karash: calls 200
+nicholasj25: checks 
+*** FLOP *** [8d 9s 3s]
+mr karash: checks 
+nicholasj25: bets 400
+mr karash: calls 400
+*** TURN *** [8d 9s 3s] [Kd]
+mr karash: checks 
+nicholasj25: checks 
+*** RIVER *** [8d 9s 3s Kd] [9d]
+mr karash: checks 
+nicholasj25: bets 800
+mr karash: folds 
+Uncalled bet (800) returned to nicholasj25
+nicholasj25 collected 1725 from pot
+*** SUMMARY ***
+Total pot 1725 | Rake 0 
+Board [8d 9s 3s Kd 9d]
+Seat 1: sancobra folded before Flop (didn't bet)
+Seat 2: WeGwos (button) folded before Flop (didn't bet)
+Seat 3: mr karash (small blind) folded on the River
+Seat 6: nicholasj25 (big blind) collected (1725)
+Seat 7: Helgzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348756486: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/19 8:57:20 ET
+Table '2434909079 3' 9-max Seat #3 is the button
+Seat 1: sancobra (4160 in chips) 
+Seat 2: WeGwos (16581 in chips) 
+Seat 3: mr karash (7515 in chips) 
+Seat 6: nicholasj25 (13769 in chips) 
+Seat 7: Helgzo (1750 in chips) 
+sancobra: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+nicholasj25: posts small blind 200
+Helgzo: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6s 5h]
+sancobra: folds 
+WeGwos: folds 
+mr karash: folds 
+nicholasj25: folds 
+Uncalled bet (200) returned to Helgzo
+Helgzo collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 1: sancobra folded before Flop (didn't bet)
+Seat 2: WeGwos folded before Flop (didn't bet)
+Seat 3: mr karash (button) folded before Flop (didn't bet)
+Seat 6: nicholasj25 (small blind) folded before Flop
+Seat 7: Helgzo (big blind) collected (525)
+
+
+
+PokerStars Hand #192348760969: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/19 8:57:33 ET
+Table '2434909079 3' 9-max Seat #6 is the button
+Seat 1: sancobra (4135 in chips) 
+Seat 2: WeGwos (16556 in chips) 
+Seat 3: mr karash (7490 in chips) 
+Seat 6: nicholasj25 (13544 in chips) 
+Seat 7: Helgzo (2050 in chips) 
+sancobra: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+Helgzo: posts small blind 200
+sancobra: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4c Jc]
+WeGwos: folds 
+mr karash: folds 
+nicholasj25: folds 
+Helgzo: calls 200
+sancobra: checks 
+*** FLOP *** [Td Qh 6h]
+Helgzo: bets 1625 and is all-in
+sancobra: folds 
+Uncalled bet (1625) returned to Helgzo
+Helgzo collected 925 from pot
+*** SUMMARY ***
+Total pot 925 | Rake 0 
+Board [Td Qh 6h]
+Seat 1: sancobra (big blind) folded on the Flop
+Seat 2: WeGwos folded before Flop (didn't bet)
+Seat 3: mr karash folded before Flop (didn't bet)
+Seat 6: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 7: Helgzo (small blind) collected (925)
+
+
+
+PokerStars Hand #192348769386: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/19 8:57:56 ET
+Table '2434909079 3' 9-max Seat #7 is the button
+Seat 1: sancobra (3710 in chips) 
+Seat 2: WeGwos (16531 in chips) 
+Seat 3: mr karash (7465 in chips) 
+Seat 6: nicholasj25 (13519 in chips) 
+Seat 7: Helgzo (2550 in chips) 
+sancobra: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+sancobra: posts small blind 200
+WeGwos: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ts 9c]
+mr karash: folds 
+nicholasj25: raises 400 to 800
+Helgzo: folds 
+sancobra: folds 
+WeGwos: folds 
+Uncalled bet (400) returned to nicholasj25
+nicholasj25 collected 1125 from pot
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 1: sancobra (small blind) folded before Flop
+Seat 2: WeGwos (big blind) folded before Flop
+Seat 3: mr karash folded before Flop (didn't bet)
+Seat 6: nicholasj25 collected (1125)
+Seat 7: Helgzo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348776195: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/19 8:58:15 ET
+Table '2434909079 3' 9-max Seat #1 is the button
+Seat 1: sancobra (3485 in chips) 
+Seat 2: WeGwos (16106 in chips) 
+Seat 3: mr karash (7440 in chips) 
+Seat 6: nicholasj25 (14219 in chips) 
+Seat 7: Helgzo (2525 in chips) 
+sancobra: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+WeGwos: posts small blind 200
+mr karash: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6s 7s]
+nicholasj25: calls 400
+Helgzo: folds 
+sancobra: folds 
+WeGwos: calls 200
+mr karash: checks 
+*** FLOP *** [7c 3d Ah]
+WeGwos: checks 
+mr karash: checks 
+nicholasj25: bets 400
+WeGwos: folds 
+mr karash: calls 400
+*** TURN *** [7c 3d Ah] [Jh]
+mr karash: checks 
+nicholasj25: checks 
+*** RIVER *** [7c 3d Ah Jh] [6c]
+mr karash: checks 
+nicholasj25: bets 400
+mr karash: calls 400
+*** SHOW DOWN ***
+nicholasj25: shows [6s 7s] (two pair, Sevens and Sixes)
+mr karash: mucks hand 
+nicholasj25 collected 2925 from pot
+*** SUMMARY ***
+Total pot 2925 | Rake 0 
+Board [7c 3d Ah Jh 6c]
+Seat 1: sancobra (button) folded before Flop (didn't bet)
+Seat 2: WeGwos (small blind) folded on the Flop
+Seat 3: mr karash (big blind) mucked [2c Jc]
+Seat 6: nicholasj25 showed [6s 7s] and won (2925) with two pair, Sevens and Sixes
+Seat 7: Helgzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348788948: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/19 8:58:52 ET
+Table '2434909079 3' 9-max Seat #2 is the button
+Seat 1: sancobra (3460 in chips) 
+Seat 2: WeGwos (15681 in chips) 
+Seat 3: mr karash (6215 in chips) 
+Seat 6: nicholasj25 (15919 in chips) 
+Seat 7: Helgzo (2500 in chips) 
+sancobra: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+mr karash: posts small blind 200
+nicholasj25: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7d 2s]
+Helgzo: calls 400
+sancobra: folds 
+WeGwos: folds 
+mr karash: calls 200
+nicholasj25: checks 
+*** FLOP *** [Td 2d Jd]
+mr karash: checks 
+nicholasj25: bets 400
+Helgzo: calls 400
+mr karash: calls 400
+*** TURN *** [Td 2d Jd] [4h]
+mr karash: checks 
+nicholasj25: checks 
+Helgzo: checks 
+*** RIVER *** [Td 2d Jd 4h] [5c]
+mr karash: bets 400
+nicholasj25: folds 
+Helgzo: calls 400
+*** SHOW DOWN ***
+mr karash: shows [2h Kc] (a pair of Deuces)
+Helgzo: shows [Kh Jc] (a pair of Jacks)
+Helgzo collected 3325 from pot
+*** SUMMARY ***
+Total pot 3325 | Rake 0 
+Board [Td 2d Jd 4h 5c]
+Seat 1: sancobra folded before Flop (didn't bet)
+Seat 2: WeGwos (button) folded before Flop (didn't bet)
+Seat 3: mr karash (small blind) showed [2h Kc] and lost with a pair of Deuces
+Seat 6: nicholasj25 (big blind) folded on the River
+Seat 7: Helgzo showed [Kh Jc] and won (3325) with a pair of Jacks
+
+
+
+PokerStars Hand #192348809386: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/19 8:59:48 ET
+Table '2434909079 3' 9-max Seat #3 is the button
+Seat 1: sancobra (3435 in chips) 
+Seat 2: WeGwos (15656 in chips) 
+Seat 3: mr karash (4990 in chips) 
+Seat 6: nicholasj25 (15094 in chips) 
+Seat 7: Helgzo (4600 in chips) 
+sancobra: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+nicholasj25: posts small blind 200
+Helgzo: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Th 9d]
+sancobra: folds 
+WeGwos: folds 
+mr karash: calls 400
+nicholasj25: calls 200
+Helgzo: checks 
+*** FLOP *** [Kh Ks 3s]
+nicholasj25: bets 800
+Helgzo: folds 
+mr karash: calls 800
+*** TURN *** [Kh Ks 3s] [8h]
+nicholasj25: checks 
+mr karash: checks 
+*** RIVER *** [Kh Ks 3s 8h] [9s]
+nicholasj25: checks 
+mr karash: checks 
+*** SHOW DOWN ***
+nicholasj25: shows [Th 9d] (two pair, Kings and Nines)
+mr karash: mucks hand 
+nicholasj25 collected 2925 from pot
+*** SUMMARY ***
+Total pot 2925 | Rake 0 
+Board [Kh Ks 3s 8h 9s]
+Seat 1: sancobra folded before Flop (didn't bet)
+Seat 2: WeGwos folded before Flop (didn't bet)
+Seat 3: mr karash (button) mucked [Ac 2h]
+Seat 6: nicholasj25 (small blind) showed [Th 9d] and won (2925) with two pair, Kings and Nines
+Seat 7: Helgzo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #192348819477: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/19 9:00:17 ET
+Table '2434909079 3' 9-max Seat #6 is the button
+Seat 1: sancobra (3410 in chips) 
+Seat 2: WeGwos (15631 in chips) 
+Seat 3: mr karash (3765 in chips) 
+Seat 6: nicholasj25 (16794 in chips) 
+Seat 7: Helgzo (4175 in chips) 
+sancobra: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+Helgzo: posts small blind 200
+sancobra: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2h 8h]
+WeGwos: calls 400
+mr karash: calls 400
+nicholasj25: folds 
+Helgzo: calls 200
+sancobra: checks 
+*** FLOP *** [Ac 7s Qs]
+Helgzo: checks 
+sancobra: checks 
+WeGwos: bets 400
+mr karash: calls 400
+Helgzo: folds 
+sancobra: folds 
+*** TURN *** [Ac 7s Qs] [As]
+WeGwos: bets 400
+mr karash: calls 400
+*** RIVER *** [Ac 7s Qs As] [3c]
+WeGwos: bets 400
+mr karash: folds 
+Uncalled bet (400) returned to WeGwos
+WeGwos collected 3325 from pot
+WeGwos: doesn't show hand 
+*** SUMMARY ***
+Total pot 3325 | Rake 0 
+Board [Ac 7s Qs As 3c]
+Seat 1: sancobra (big blind) folded on the Flop
+Seat 2: WeGwos collected (3325)
+Seat 3: mr karash folded on the River
+Seat 6: nicholasj25 (button) folded before Flop (didn't bet)
+Seat 7: Helgzo (small blind) folded on the Flop
+
+
+
+PokerStars Hand #192348835883: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level IX (200/400) - 2018/10/19 9:01:00 ET
+Table '2434909079 3' 9-max Seat #7 is the button
+Seat 1: sancobra (2985 in chips) 
+Seat 2: WeGwos (17731 in chips) 
+Seat 3: mr karash (2540 in chips) 
+Seat 6: nicholasj25 (16769 in chips) 
+Seat 7: Helgzo (3750 in chips) 
+sancobra: posts the ante 25
+WeGwos: posts the ante 25
+mr karash: posts the ante 25
+nicholasj25: posts the ante 25
+Helgzo: posts the ante 25
+sancobra: posts small blind 200
+WeGwos: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8d 3c]
+mr karash: folds 
+nicholasj25: folds 
+Helgzo: folds 
+sancobra: raises 2560 to 2960 and is all-in
+WeGwos: calls 2560
+*** FLOP *** [6d 7c Kc]
+*** TURN *** [6d 7c Kc] [Qc]
+*** RIVER *** [6d 7c Kc Qc] [7s]
+*** SHOW DOWN ***
+sancobra: shows [Jc Tc] (a flush, King high)
+WeGwos: shows [8c Ac] (a flush, Ace high)
+WeGwos collected 6045 from pot
+sancobra finished the tournament in 10th place
+*** SUMMARY ***
+Total pot 6045 | Rake 0 
+Board [6d 7c Kc Qc 7s]
+Seat 1: sancobra (small blind) showed [Jc Tc] and lost with a flush, King high
+Seat 2: WeGwos (big blind) showed [8c Ac] and won (6045) with a flush, Ace high
+Seat 3: mr karash folded before Flop (didn't bet)
+Seat 6: nicholasj25 folded before Flop (didn't bet)
+Seat 7: Helgzo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348848957: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/19 9:01:32 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (5205 in chips) 
+Seat 3: bobi7_1989 (3850 in chips) 
+Seat 4: sardegna8 (2125 in chips) 
+Seat 5: dance doc (3930 in chips) 
+Seat 6: softtail03 (8615 in chips) 
+Seat 7: WeGwos (20791 in chips) 
+Seat 8: nicholasj25 (16744 in chips) 
+Seat 9: mr karash (2515 in chips) 
+DJBennyJ99: posts the ante 50
+bobi7_1989: posts the ante 50
+sardegna8: posts the ante 50
+dance doc: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+mr karash: posts the ante 50
+bobi7_1989: posts small blind 300
+sardegna8: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5c Ks]
+dance doc: folds 
+softtail03: calls 600
+WeGwos: folds 
+nicholasj25: folds 
+mr karash: folds 
+DJBennyJ99: folds 
+bobi7_1989: calls 300
+sardegna8: checks 
+*** FLOP *** [As 9c 8c]
+bobi7_1989: bets 600
+sardegna8: folds 
+softtail03: folds 
+Uncalled bet (600) returned to bobi7_1989
+bobi7_1989 collected 2200 from pot
+bobi7_1989: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Board [As 9c 8c]
+Seat 1: DJBennyJ99 (button) folded before Flop (didn't bet)
+Seat 3: bobi7_1989 (small blind) collected (2200)
+Seat 4: sardegna8 (big blind) folded on the Flop
+Seat 5: dance doc folded before Flop (didn't bet)
+Seat 6: softtail03 folded on the Flop
+Seat 7: WeGwos folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: mr karash folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348863712: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/19 9:02:09 ET
+Table '2434909079 1' 9-max Seat #3 is the button
+Seat 1: DJBennyJ99 (5155 in chips) 
+Seat 2: Helgzo (3725 in chips) 
+Seat 3: bobi7_1989 (5400 in chips) 
+Seat 4: sardegna8 (1475 in chips) 
+Seat 5: dance doc (3880 in chips) 
+Seat 6: softtail03 (7965 in chips) 
+Seat 7: WeGwos (20741 in chips) 
+Seat 8: nicholasj25 (16694 in chips) 
+Seat 9: mr karash (2465 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+bobi7_1989: posts the ante 50
+sardegna8: posts the ante 50
+dance doc: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+mr karash: posts the ante 50
+sardegna8: posts small blind 300
+dance doc: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Tc Jh]
+softtail03: calls 600
+WeGwos: calls 600
+nicholasj25: folds 
+mr karash: folds 
+DJBennyJ99: folds 
+Helgzo: raises 3075 to 3675 and is all-in
+bobi7_1989: folds 
+sardegna8: folds 
+dance doc: folds 
+softtail03: folds 
+WeGwos: folds 
+Uncalled bet (3075) returned to Helgzo
+Helgzo collected 3150 from pot
+*** SUMMARY ***
+Total pot 3150 | Rake 0 
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo collected (3150)
+Seat 3: bobi7_1989 (button) folded before Flop (didn't bet)
+Seat 4: sardegna8 (small blind) folded before Flop
+Seat 5: dance doc (big blind) folded before Flop
+Seat 6: softtail03 folded before Flop
+Seat 7: WeGwos folded before Flop
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: mr karash folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348876052: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/19 9:02:39 ET
+Table '2434909079 1' 9-max Seat #4 is the button
+Seat 1: DJBennyJ99 (5105 in chips) 
+Seat 2: Helgzo (6225 in chips) 
+Seat 3: bobi7_1989 (5350 in chips) 
+Seat 4: sardegna8 (1125 in chips) 
+Seat 5: dance doc (3230 in chips) 
+Seat 6: softtail03 (7315 in chips) 
+Seat 7: WeGwos (20091 in chips) 
+Seat 8: nicholasj25 (16644 in chips) 
+Seat 9: mr karash (2415 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+bobi7_1989: posts the ante 50
+sardegna8: posts the ante 50
+dance doc: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+mr karash: posts the ante 50
+dance doc: posts small blind 300
+softtail03: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Js 2s]
+WeGwos: raises 600 to 1200
+nicholasj25: folds 
+mr karash: folds 
+DJBennyJ99: folds 
+Helgzo has timed out
+Helgzo: folds 
+bobi7_1989: folds 
+sardegna8: calls 1075 and is all-in
+dance doc: folds 
+softtail03: folds 
+Uncalled bet (125) returned to WeGwos
+*** FLOP *** [5d 7c 3s]
+*** TURN *** [5d 7c 3s] [6s]
+*** RIVER *** [5d 7c 3s 6s] [2d]
+*** SHOW DOWN ***
+WeGwos: shows [Ac Ad] (a pair of Aces)
+sardegna8: shows [Qc As] (high card Ace)
+WeGwos collected 3500 from pot
+sardegna8 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Board [5d 7c 3s 6s 2d]
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo folded before Flop (didn't bet)
+Seat 3: bobi7_1989 folded before Flop (didn't bet)
+Seat 4: sardegna8 (button) showed [Qc As] and lost with high card Ace
+Seat 5: dance doc (small blind) folded before Flop
+Seat 6: softtail03 (big blind) folded before Flop
+Seat 7: WeGwos showed [Ac Ad] and won (3500) with a pair of Aces
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: mr karash folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348894450: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/19 9:03:23 ET
+Table '2434909079 1' 9-max Seat #5 is the button
+Seat 1: DJBennyJ99 (5055 in chips) 
+Seat 2: Helgzo (6175 in chips) is sitting out
+Seat 3: bobi7_1989 (5300 in chips) 
+Seat 5: dance doc (2880 in chips) 
+Seat 6: softtail03 (6665 in chips) 
+Seat 7: WeGwos (22466 in chips) 
+Seat 8: nicholasj25 (16594 in chips) 
+Seat 9: mr karash (2365 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+bobi7_1989: posts the ante 50
+dance doc: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+mr karash: posts the ante 50
+softtail03: posts small blind 300
+WeGwos: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kd 5s]
+nicholasj25: folds 
+mr karash: calls 600
+DJBennyJ99: folds 
+Helgzo: folds 
+bobi7_1989: folds 
+dance doc: folds 
+softtail03: calls 300
+WeGwos: checks 
+*** FLOP *** [Jh Jd Qs]
+softtail03: checks 
+WeGwos: bets 600
+mr karash: calls 600
+softtail03: folds 
+*** TURN *** [Jh Jd Qs] [Ad]
+WeGwos: bets 600
+mr karash: calls 600
+*** RIVER *** [Jh Jd Qs Ad] [7d]
+WeGwos: bets 600
+mr karash: calls 515 and is all-in
+Uncalled bet (85) returned to WeGwos
+*** SHOW DOWN ***
+WeGwos: shows [Js 2c] (three of a kind, Jacks)
+mr karash: shows [Qh 3h] (two pair, Queens and Jacks)
+WeGwos collected 5630 from pot
+mr karash finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 5630 | Rake 0 
+Board [Jh Jd Qs Ad 7d]
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo folded before Flop (didn't bet)
+Seat 3: bobi7_1989 folded before Flop (didn't bet)
+Seat 5: dance doc (button) folded before Flop (didn't bet)
+Seat 6: softtail03 (small blind) folded on the Flop
+Seat 7: WeGwos (big blind) showed [Js 2c] and won (5630) with three of a kind, Jacks
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+Seat 9: mr karash showed [Qh 3h] and lost with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #192348914048: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/19 9:04:10 ET
+Table '2434909079 1' 9-max Seat #6 is the button
+Seat 1: DJBennyJ99 (5005 in chips) 
+Seat 2: Helgzo (6125 in chips) 
+Seat 3: bobi7_1989 (5250 in chips) 
+Seat 5: dance doc (2830 in chips) 
+Seat 6: softtail03 (6015 in chips) 
+Seat 7: WeGwos (25731 in chips) 
+Seat 8: nicholasj25 (16544 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+bobi7_1989: posts the ante 50
+dance doc: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+WeGwos: posts small blind 300
+nicholasj25: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qc 5s]
+DJBennyJ99: folds 
+Helgzo: folds 
+bobi7_1989: folds 
+dance doc: folds 
+softtail03: folds 
+WeGwos: folds 
+Uncalled bet (300) returned to nicholasj25
+nicholasj25 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo folded before Flop (didn't bet)
+Seat 3: bobi7_1989 folded before Flop (didn't bet)
+Seat 5: dance doc folded before Flop (didn't bet)
+Seat 6: softtail03 (button) folded before Flop (didn't bet)
+Seat 7: WeGwos (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) collected (950)
+
+
+
+PokerStars Hand #192348921986: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/19 9:04:29 ET
+Table '2434909079 1' 9-max Seat #7 is the button
+Seat 1: DJBennyJ99 (4955 in chips) 
+Seat 2: Helgzo (6075 in chips) 
+Seat 3: bobi7_1989 (5200 in chips) 
+Seat 5: dance doc (2780 in chips) 
+Seat 6: softtail03 (5965 in chips) 
+Seat 7: WeGwos (25381 in chips) 
+Seat 8: nicholasj25 (17144 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+bobi7_1989: posts the ante 50
+dance doc: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+nicholasj25: posts small blind 300
+DJBennyJ99: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Tc 2d]
+Helgzo: calls 600
+bobi7_1989: folds 
+dance doc: raises 2130 to 2730 and is all-in
+softtail03: folds 
+WeGwos: folds 
+nicholasj25: folds 
+DJBennyJ99 has timed out
+DJBennyJ99: folds 
+Helgzo: calls 2130
+*** FLOP *** [As Jc Qc]
+*** TURN *** [As Jc Qc] [7d]
+*** RIVER *** [As Jc Qc 7d] [9d]
+*** SHOW DOWN ***
+Helgzo: shows [9h 9s] (three of a kind, Nines)
+dance doc: shows [Jh Qh] (two pair, Queens and Jacks)
+Helgzo collected 6710 from pot
+dance doc finished the tournament in 7th place and received 26775.00.
+*** SUMMARY ***
+Total pot 6710 | Rake 0 
+Board [As Jc Qc 7d 9d]
+Seat 1: DJBennyJ99 (big blind) folded before Flop
+Seat 2: Helgzo showed [9h 9s] and won (6710) with three of a kind, Nines
+Seat 3: bobi7_1989 folded before Flop (didn't bet)
+Seat 5: dance doc showed [Jh Qh] and lost with two pair, Queens and Jacks
+Seat 6: softtail03 folded before Flop (didn't bet)
+Seat 7: WeGwos (button) folded before Flop (didn't bet)
+Seat 8: nicholasj25 (small blind) folded before Flop
+
+
+
+PokerStars Hand #192348944799: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/19 9:05:23 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 1: DJBennyJ99 (4305 in chips) is sitting out
+Seat 2: Helgzo (10005 in chips) 
+Seat 3: bobi7_1989 (5150 in chips) 
+Seat 6: softtail03 (5915 in chips) 
+Seat 7: WeGwos (25331 in chips) is sitting out
+Seat 8: nicholasj25 (16794 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+bobi7_1989: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+DJBennyJ99: posts small blind 300
+Helgzo: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3c 7h]
+bobi7_1989: folds 
+softtail03: folds 
+WeGwos: folds 
+nicholasj25: folds 
+DJBennyJ99: folds 
+Uncalled bet (300) returned to Helgzo
+Helgzo collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: DJBennyJ99 (small blind) folded before Flop
+Seat 2: Helgzo (big blind) collected (900)
+Seat 3: bobi7_1989 folded before Flop (didn't bet)
+Seat 6: softtail03 folded before Flop (didn't bet)
+Seat 7: WeGwos folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348950046: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/19 9:05:36 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (3955 in chips) is sitting out
+Seat 2: Helgzo (10555 in chips) 
+Seat 3: bobi7_1989 (5100 in chips) 
+Seat 6: softtail03 (5865 in chips) 
+Seat 7: WeGwos (25281 in chips) is sitting out
+Seat 8: nicholasj25 (16744 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+bobi7_1989: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+Helgzo: posts small blind 300
+bobi7_1989: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ad Ts]
+softtail03: folds 
+WeGwos: folds 
+nicholasj25: calls 600
+DJBennyJ99: folds 
+Helgzo: folds 
+bobi7_1989: checks 
+*** FLOP *** [Kc As Qc]
+bobi7_1989: checks 
+nicholasj25: bets 600
+bobi7_1989: folds 
+Uncalled bet (600) returned to nicholasj25
+nicholasj25 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Board [Kc As Qc]
+Seat 1: DJBennyJ99 (button) folded before Flop (didn't bet)
+Seat 2: Helgzo (small blind) folded before Flop
+Seat 3: bobi7_1989 (big blind) folded on the Flop
+Seat 6: softtail03 folded before Flop (didn't bet)
+Seat 7: WeGwos folded before Flop (didn't bet)
+Seat 8: nicholasj25 collected (1800)
+
+
+
+PokerStars Hand #192348963214: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level X (300/600) - 2018/10/19 9:06:08 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 1: DJBennyJ99 (3905 in chips) is sitting out
+Seat 2: Helgzo (10205 in chips) 
+Seat 3: bobi7_1989 (4450 in chips) 
+Seat 6: softtail03 (5815 in chips) 
+Seat 7: WeGwos (25231 in chips) is sitting out
+Seat 8: nicholasj25 (17894 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+bobi7_1989: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+bobi7_1989: posts small blind 300
+softtail03: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2c 5h]
+WeGwos: folds 
+nicholasj25: folds 
+DJBennyJ99: folds 
+Helgzo: calls 600
+bobi7_1989: folds 
+softtail03: checks 
+*** FLOP *** [Tc 6c 6s]
+softtail03: checks 
+Helgzo: checks 
+*** TURN *** [Tc 6c 6s] [Qc]
+softtail03: bets 900
+Helgzo: folds 
+Uncalled bet (900) returned to softtail03
+softtail03 collected 1800 from pot
+softtail03: shows [Qd 7c] (two pair, Queens and Sixes)
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Board [Tc 6c 6s Qc]
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo (button) folded on the Turn
+Seat 3: bobi7_1989 (small blind) folded before Flop
+Seat 6: softtail03 (big blind) collected (1800)
+Seat 7: WeGwos folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348976840: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/19 9:06:41 ET
+Table '2434909079 1' 9-max Seat #3 is the button
+Seat 1: DJBennyJ99 (3855 in chips) 
+Seat 2: Helgzo (9555 in chips) 
+Seat 3: bobi7_1989 (4100 in chips) 
+Seat 6: softtail03 (6965 in chips) 
+Seat 7: WeGwos (25181 in chips) is sitting out
+Seat 8: nicholasj25 (17844 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+bobi7_1989: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+softtail03: posts small blind 400
+WeGwos: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Js 8h]
+nicholasj25: folds 
+DJBennyJ99: folds 
+Helgzo: calls 800
+bobi7_1989: folds 
+softtail03: calls 400
+WeGwos: folds 
+*** FLOP *** [Jc 4c Th]
+softtail03: checks 
+Helgzo: bets 800
+softtail03: folds 
+Uncalled bet (800) returned to Helgzo
+Helgzo collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | Rake 0 
+Board [Jc 4c Th]
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo collected (2700)
+Seat 3: bobi7_1989 (button) folded before Flop (didn't bet)
+Seat 6: softtail03 (small blind) folded on the Flop
+Seat 7: WeGwos (big blind) folded before Flop
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192348984219: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/19 9:06:58 ET
+Table '2434909079 1' 9-max Seat #6 is the button
+Seat 1: DJBennyJ99 (3805 in chips) 
+Seat 2: Helgzo (11405 in chips) 
+Seat 3: bobi7_1989 (4050 in chips) 
+Seat 6: softtail03 (6115 in chips) 
+Seat 7: WeGwos (24331 in chips) is sitting out
+Seat 8: nicholasj25 (17794 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+bobi7_1989: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+WeGwos: posts small blind 400
+nicholasj25: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4s Ad]
+DJBennyJ99: folds 
+Helgzo: folds 
+bobi7_1989: folds 
+softtail03: folds 
+WeGwos: calls 400
+nicholasj25: raises 800 to 1600
+WeGwos: calls 800
+*** FLOP *** [Jc 8s 5c]
+WeGwos: bets 800
+nicholasj25: calls 800
+*** TURN *** [Jc 8s 5c] [6d]
+WeGwos: bets 800
+nicholasj25: folds 
+Uncalled bet (800) returned to WeGwos
+WeGwos collected 5100 from pot
+WeGwos: doesn't show hand 
+*** SUMMARY ***
+Total pot 5100 | Rake 0 
+Board [Jc 8s 5c 6d]
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo folded before Flop (didn't bet)
+Seat 3: bobi7_1989 folded before Flop (didn't bet)
+Seat 6: softtail03 (button) folded before Flop (didn't bet)
+Seat 7: WeGwos (small blind) collected (5100)
+Seat 8: nicholasj25 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #192349007662: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/19 9:07:55 ET
+Table '2434909079 1' 9-max Seat #7 is the button
+Seat 1: DJBennyJ99 (3755 in chips) 
+Seat 2: Helgzo (11355 in chips) 
+Seat 3: bobi7_1989 (4000 in chips) 
+Seat 6: softtail03 (6065 in chips) 
+Seat 7: WeGwos (26981 in chips) 
+Seat 8: nicholasj25 (15344 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+bobi7_1989: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+nicholasj25: posts small blind 400
+DJBennyJ99: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7d 8d]
+Helgzo: folds 
+bobi7_1989: folds 
+softtail03: folds 
+WeGwos: folds 
+nicholasj25: calls 400
+DJBennyJ99: checks 
+*** FLOP *** [7s 9s Qd]
+nicholasj25: checks 
+DJBennyJ99: checks 
+*** TURN *** [7s 9s Qd] [5d]
+nicholasj25: bets 800
+DJBennyJ99: folds 
+Uncalled bet (800) returned to nicholasj25
+nicholasj25 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Board [7s 9s Qd 5d]
+Seat 1: DJBennyJ99 (big blind) folded on the Turn
+Seat 2: Helgzo folded before Flop (didn't bet)
+Seat 3: bobi7_1989 folded before Flop (didn't bet)
+Seat 6: softtail03 folded before Flop (didn't bet)
+Seat 7: WeGwos (button) folded before Flop (didn't bet)
+Seat 8: nicholasj25 (small blind) collected (1900)
+
+
+
+PokerStars Hand #192349021515: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/19 9:08:29 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 1: DJBennyJ99 (2905 in chips) 
+Seat 2: Helgzo (11305 in chips) 
+Seat 3: bobi7_1989 (3950 in chips) 
+Seat 6: softtail03 (6015 in chips) 
+Seat 7: WeGwos (26931 in chips) 
+Seat 8: nicholasj25 (16394 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+bobi7_1989: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+DJBennyJ99: posts small blind 400
+Helgzo: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Jc 7h]
+bobi7_1989: folds 
+softtail03: folds 
+WeGwos: calls 800
+nicholasj25: folds 
+DJBennyJ99: calls 400
+Helgzo: checks 
+*** FLOP *** [Ts 4h Kh]
+DJBennyJ99: bets 2055 and is all-in
+Helgzo: folds 
+WeGwos: folds 
+Uncalled bet (2055) returned to DJBennyJ99
+DJBennyJ99 collected 2700 from pot
+DJBennyJ99: doesn't show hand 
+*** SUMMARY ***
+Total pot 2700 | Rake 0 
+Board [Ts 4h Kh]
+Seat 1: DJBennyJ99 (small blind) collected (2700)
+Seat 2: Helgzo (big blind) folded on the Flop
+Seat 3: bobi7_1989 folded before Flop (didn't bet)
+Seat 6: softtail03 folded before Flop (didn't bet)
+Seat 7: WeGwos folded on the Flop
+Seat 8: nicholasj25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192349028615: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/19 9:08:46 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (4755 in chips) 
+Seat 2: Helgzo (10455 in chips) 
+Seat 3: bobi7_1989 (3900 in chips) 
+Seat 6: softtail03 (5965 in chips) 
+Seat 7: WeGwos (26081 in chips) 
+Seat 8: nicholasj25 (16344 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+bobi7_1989: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+Helgzo: posts small blind 400
+bobi7_1989: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qh 8h]
+softtail03: folds 
+WeGwos: folds 
+nicholasj25: folds 
+DJBennyJ99: raises 2400 to 3200
+Helgzo: folds 
+bobi7_1989: calls 2400
+*** FLOP *** [Jh 2c 7h]
+bobi7_1989: checks 
+DJBennyJ99: bets 1505 and is all-in
+bobi7_1989: calls 650 and is all-in
+Uncalled bet (855) returned to DJBennyJ99
+*** TURN *** [Jh 2c 7h] [Kh]
+*** RIVER *** [Jh 2c 7h Kh] [As]
+*** SHOW DOWN ***
+bobi7_1989: shows [3c Kc] (a pair of Kings)
+DJBennyJ99: shows [Ad Ac] (three of a kind, Aces)
+DJBennyJ99 collected 8400 from pot
+bobi7_1989 finished the tournament in 6th place and received 45900.00.
+*** SUMMARY ***
+Total pot 8400 | Rake 0 
+Board [Jh 2c 7h Kh As]
+Seat 1: DJBennyJ99 (button) showed [Ad Ac] and won (8400) with three of a kind, Aces
+Seat 2: Helgzo (small blind) folded before Flop
+Seat 3: bobi7_1989 (big blind) showed [3c Kc] and lost with a pair of Kings
+Seat 6: softtail03 folded before Flop (didn't bet)
+Seat 7: WeGwos folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192349047652: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/19 9:09:33 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 1: DJBennyJ99 (9255 in chips) 
+Seat 2: Helgzo (10005 in chips) 
+Seat 6: softtail03 (5915 in chips) 
+Seat 7: WeGwos (26031 in chips) 
+Seat 8: nicholasj25 (16294 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+softtail03: posts small blind 400
+WeGwos: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2c Jc]
+nicholasj25: folds 
+DJBennyJ99: raises 800 to 1600
+Helgzo: folds 
+softtail03: calls 1200
+WeGwos: folds 
+*** FLOP *** [6c 8d 4h]
+softtail03: checks 
+DJBennyJ99: checks 
+*** TURN *** [6c 8d 4h] [2h]
+softtail03: checks 
+DJBennyJ99: checks 
+*** RIVER *** [6c 8d 4h 2h] [As]
+softtail03: checks 
+DJBennyJ99: bets 800
+softtail03: folds 
+Uncalled bet (800) returned to DJBennyJ99
+DJBennyJ99 collected 4250 from pot
+DJBennyJ99: doesn't show hand 
+*** SUMMARY ***
+Total pot 4250 | Rake 0 
+Board [6c 8d 4h 2h As]
+Seat 1: DJBennyJ99 collected (4250)
+Seat 2: Helgzo (button) folded before Flop (didn't bet)
+Seat 6: softtail03 (small blind) folded on the River
+Seat 7: WeGwos (big blind) folded before Flop
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192349063782: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/19 9:10:12 ET
+Table '2434909079 1' 9-max Seat #6 is the button
+Seat 1: DJBennyJ99 (11855 in chips) 
+Seat 2: Helgzo (9955 in chips) 
+Seat 6: softtail03 (4265 in chips) 
+Seat 7: WeGwos (25181 in chips) 
+Seat 8: nicholasj25 (16244 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+WeGwos: posts small blind 400
+nicholasj25: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kc 8s]
+DJBennyJ99: folds 
+Helgzo: calls 800
+softtail03: calls 800
+WeGwos: folds 
+nicholasj25: checks 
+*** FLOP *** [Qh Kh 7s]
+nicholasj25: checks 
+Helgzo: checks 
+softtail03: checks 
+*** TURN *** [Qh Kh 7s] [3s]
+nicholasj25: bets 800
+Helgzo: folds 
+softtail03: folds 
+Uncalled bet (800) returned to nicholasj25
+nicholasj25 collected 3050 from pot
+*** SUMMARY ***
+Total pot 3050 | Rake 0 
+Board [Qh Kh 7s 3s]
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo folded on the Turn
+Seat 6: softtail03 (button) folded on the Turn
+Seat 7: WeGwos (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) collected (3050)
+
+
+
+PokerStars Hand #192349080110: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/19 9:10:51 ET
+Table '2434909079 1' 9-max Seat #7 is the button
+Seat 1: DJBennyJ99 (11805 in chips) 
+Seat 2: Helgzo (9105 in chips) 
+Seat 6: softtail03 (3415 in chips) 
+Seat 7: WeGwos (24731 in chips) 
+Seat 8: nicholasj25 (18444 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+nicholasj25: posts small blind 400
+DJBennyJ99: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8s Kd]
+Helgzo: calls 800
+softtail03: folds 
+WeGwos: folds 
+nicholasj25: folds 
+DJBennyJ99: checks 
+*** FLOP *** [3h Td Ks]
+DJBennyJ99: bets 3200
+Helgzo: folds 
+Uncalled bet (3200) returned to DJBennyJ99
+DJBennyJ99 collected 2250 from pot
+DJBennyJ99: doesn't show hand 
+*** SUMMARY ***
+Total pot 2250 | Rake 0 
+Board [3h Td Ks]
+Seat 1: DJBennyJ99 (big blind) collected (2250)
+Seat 2: Helgzo folded on the Flop
+Seat 6: softtail03 folded before Flop (didn't bet)
+Seat 7: WeGwos (button) folded before Flop (didn't bet)
+Seat 8: nicholasj25 (small blind) folded before Flop
+
+
+
+PokerStars Hand #192349086529: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XI (400/800) - 2018/10/19 9:11:07 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 1: DJBennyJ99 (13205 in chips) 
+Seat 2: Helgzo (8255 in chips) 
+Seat 6: softtail03 (3365 in chips) 
+Seat 7: WeGwos (24681 in chips) 
+Seat 8: nicholasj25 (17994 in chips) 
+DJBennyJ99: posts the ante 50
+Helgzo: posts the ante 50
+softtail03: posts the ante 50
+WeGwos: posts the ante 50
+nicholasj25: posts the ante 50
+DJBennyJ99: posts small blind 400
+Helgzo: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Tc Kh]
+softtail03: folds 
+WeGwos: folds 
+nicholasj25: calls 800
+DJBennyJ99: folds 
+Helgzo: checks 
+*** FLOP *** [2d Td Ts]
+Helgzo: checks 
+nicholasj25: checks 
+*** TURN *** [2d Td Ts] [2c]
+Helgzo: checks 
+nicholasj25: bets 800
+Helgzo: calls 800
+*** RIVER *** [2d Td Ts 2c] [Ad]
+Helgzo: checks 
+nicholasj25: bets 800
+Helgzo: calls 800
+*** SHOW DOWN ***
+nicholasj25: shows [Tc Kh] (a full house, Tens full of Deuces)
+Helgzo: mucks hand 
+nicholasj25 collected 5450 from pot
+*** SUMMARY ***
+Total pot 5450 | Rake 0 
+Board [2d Td Ts 2c Ad]
+Seat 1: DJBennyJ99 (small blind) folded before Flop
+Seat 2: Helgzo (big blind) mucked [5d 5c]
+Seat 6: softtail03 folded before Flop (didn't bet)
+Seat 7: WeGwos folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) showed [Tc Kh] and won (5450) with a full house, Tens full of Deuces
+
+
+
+PokerStars Hand #192349099775: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/10/19 9:11:38 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (12755 in chips) 
+Seat 2: Helgzo (5805 in chips) 
+Seat 6: softtail03 (3315 in chips) 
+Seat 7: WeGwos (24631 in chips) 
+Seat 8: nicholasj25 (20994 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+softtail03: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+Helgzo: posts small blind 600
+softtail03: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4h 2c]
+WeGwos: folds 
+nicholasj25: folds 
+DJBennyJ99: folds 
+Helgzo: folds 
+Uncalled bet (600) returned to softtail03
+softtail03 collected 1575 from pot
+softtail03: doesn't show hand 
+*** SUMMARY ***
+Total pot 1575 | Rake 0 
+Seat 1: DJBennyJ99 (button) folded before Flop (didn't bet)
+Seat 2: Helgzo (small blind) folded before Flop
+Seat 6: softtail03 (big blind) collected (1575)
+Seat 7: WeGwos folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192349103206: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/10/19 9:11:46 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 1: DJBennyJ99 (12680 in chips) 
+Seat 2: Helgzo (5130 in chips) 
+Seat 6: softtail03 (4215 in chips) 
+Seat 7: WeGwos (24556 in chips) 
+Seat 8: nicholasj25 (20919 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+softtail03: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+softtail03: posts small blind 600
+WeGwos: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Th As]
+nicholasj25: calls 1200
+DJBennyJ99: folds 
+Helgzo: folds 
+softtail03: calls 600
+WeGwos: checks 
+*** FLOP *** [Js Qs 5h]
+softtail03: checks 
+WeGwos: bets 15600
+nicholasj25: folds 
+softtail03: folds 
+Uncalled bet (15600) returned to WeGwos
+WeGwos collected 3975 from pot
+WeGwos: doesn't show hand 
+*** SUMMARY ***
+Total pot 3975 | Rake 0 
+Board [Js Qs 5h]
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo (button) folded before Flop (didn't bet)
+Seat 6: softtail03 (small blind) folded on the Flop
+Seat 7: WeGwos (big blind) collected (3975)
+Seat 8: nicholasj25 folded on the Flop
+
+
+
+PokerStars Hand #192349117487: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/10/19 9:12:20 ET
+Table '2434909079 1' 9-max Seat #6 is the button
+Seat 1: DJBennyJ99 (12605 in chips) 
+Seat 2: Helgzo (5055 in chips) 
+Seat 6: softtail03 (2940 in chips) 
+Seat 7: WeGwos (27256 in chips) 
+Seat 8: nicholasj25 (19644 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+softtail03: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+WeGwos: posts small blind 600
+nicholasj25: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5h 2s]
+DJBennyJ99: folds 
+Helgzo: folds 
+softtail03: calls 1200
+WeGwos: folds 
+nicholasj25: checks 
+*** FLOP *** [Js Tc 2h]
+nicholasj25: checks 
+softtail03: checks 
+*** TURN *** [Js Tc 2h] [3s]
+nicholasj25: bets 1200
+softtail03: folds 
+Uncalled bet (1200) returned to nicholasj25
+nicholasj25 collected 3375 from pot
+*** SUMMARY ***
+Total pot 3375 | Rake 0 
+Board [Js Tc 2h 3s]
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo folded before Flop (didn't bet)
+Seat 6: softtail03 (button) folded on the Turn
+Seat 7: WeGwos (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) collected (3375)
+
+
+
+PokerStars Hand #192349130586: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/10/19 9:12:52 ET
+Table '2434909079 1' 9-max Seat #7 is the button
+Seat 1: DJBennyJ99 (12530 in chips) 
+Seat 2: Helgzo (4980 in chips) 
+Seat 6: softtail03 (1665 in chips) 
+Seat 7: WeGwos (26581 in chips) 
+Seat 8: nicholasj25 (21744 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+softtail03: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+nicholasj25: posts small blind 600
+DJBennyJ99: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7c Qc]
+Helgzo: calls 1200
+softtail03: folds 
+WeGwos: folds 
+nicholasj25: calls 600
+DJBennyJ99: checks 
+*** FLOP *** [7s 6h Ts]
+nicholasj25: bets 1200
+DJBennyJ99: folds 
+Helgzo: calls 1200
+*** TURN *** [7s 6h Ts] [3s]
+nicholasj25: bets 2400
+Helgzo: raises 105 to 2505 and is all-in
+nicholasj25: calls 105
+*** RIVER *** [7s 6h Ts 3s] [Jc]
+*** SHOW DOWN ***
+nicholasj25: shows [7c Qc] (a pair of Sevens)
+Helgzo: shows [6s Ks] (a flush, King high)
+Helgzo collected 11385 from pot
+*** SUMMARY ***
+Total pot 11385 | Rake 0 
+Board [7s 6h Ts 3s Jc]
+Seat 1: DJBennyJ99 (big blind) folded on the Flop
+Seat 2: Helgzo showed [6s Ks] and won (11385) with a flush, King high
+Seat 6: softtail03 folded before Flop (didn't bet)
+Seat 7: WeGwos (button) folded before Flop (didn't bet)
+Seat 8: nicholasj25 (small blind) showed [7c Qc] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #192349155714: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/10/19 9:13:51 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 1: DJBennyJ99 (11255 in chips) 
+Seat 2: Helgzo (11385 in chips) 
+Seat 6: softtail03 (1590 in chips) 
+Seat 7: WeGwos (26506 in chips) 
+Seat 8: nicholasj25 (16764 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+softtail03: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+DJBennyJ99: posts small blind 600
+Helgzo: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ah Ac]
+softtail03: folds 
+WeGwos: calls 1200
+nicholasj25: calls 1200
+DJBennyJ99: folds 
+Helgzo: checks 
+*** FLOP *** [5c 3d 3c]
+Helgzo: bets 1200
+WeGwos: folds 
+nicholasj25: calls 1200
+*** TURN *** [5c 3d 3c] [8d]
+Helgzo: bets 1200
+nicholasj25: raises 1200 to 2400
+Helgzo has timed out
+Helgzo: folds 
+Uncalled bet (1200) returned to nicholasj25
+nicholasj25 collected 9375 from pot
+nicholasj25: shows [Ah Ac] (two pair, Aces and Threes)
+*** SUMMARY ***
+Total pot 9375 | Rake 0 
+Board [5c 3d 3c 8d]
+Seat 1: DJBennyJ99 (small blind) folded before Flop
+Seat 2: Helgzo (big blind) folded on the Turn
+Seat 6: softtail03 folded before Flop (didn't bet)
+Seat 7: WeGwos folded on the Flop
+Seat 8: nicholasj25 (button) collected (9375)
+
+
+
+PokerStars Hand #192349187845: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/10/19 9:15:07 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (10580 in chips) 
+Seat 2: Helgzo (7710 in chips) 
+Seat 6: softtail03 (1515 in chips) 
+Seat 7: WeGwos (25231 in chips) 
+Seat 8: nicholasj25 (22464 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+softtail03: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+Helgzo: posts small blind 600
+softtail03: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ks 4s]
+WeGwos: folds 
+nicholasj25: folds 
+DJBennyJ99: folds 
+Helgzo: raises 1200 to 2400
+softtail03: calls 240 and is all-in
+Uncalled bet (960) returned to Helgzo
+*** FLOP *** [9c As 5h]
+*** TURN *** [9c As 5h] [3d]
+*** RIVER *** [9c As 5h 3d] [Th]
+*** SHOW DOWN ***
+Helgzo: shows [Jd 9d] (a pair of Nines)
+softtail03: shows [7h 3c] (a pair of Threes)
+Helgzo collected 3255 from pot
+softtail03 finished the tournament in 5th place and received 68850.00.
+*** SUMMARY ***
+Total pot 3255 | Rake 0 
+Board [9c As 5h 3d Th]
+Seat 1: DJBennyJ99 (button) folded before Flop (didn't bet)
+Seat 2: Helgzo (small blind) showed [Jd 9d] and won (3255) with a pair of Nines
+Seat 6: softtail03 (big blind) showed [7h 3c] and lost with a pair of Threes
+Seat 7: WeGwos folded before Flop (didn't bet)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192349196053: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XII (600/1200) - 2018/10/19 9:15:27 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 1: DJBennyJ99 (10505 in chips) 
+Seat 2: Helgzo (9450 in chips) 
+Seat 7: WeGwos (25156 in chips) 
+Seat 8: nicholasj25 (22389 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+WeGwos: posts small blind 600
+nicholasj25: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7d 7c]
+DJBennyJ99: folds 
+Helgzo: calls 1200
+WeGwos: folds 
+nicholasj25: raises 1200 to 2400
+Helgzo: calls 1200
+*** FLOP *** [9d 8h Tc]
+nicholasj25: bets 1200
+Helgzo: calls 1200
+*** TURN *** [9d 8h Tc] [2h]
+nicholasj25: bets 1200
+Helgzo: calls 1200
+*** RIVER *** [9d 8h Tc 2h] [5c]
+nicholasj25: bets 17514 and is all-in
+Helgzo has timed out
+Helgzo: folds 
+Uncalled bet (17514) returned to nicholasj25
+nicholasj25 collected 10500 from pot
+*** SUMMARY ***
+Total pot 10500 | Rake 0 
+Board [9d 8h Tc 2h 5c]
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo (button) folded on the River
+Seat 7: WeGwos (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) collected (10500)
+
+
+
+PokerStars Hand #192349220856: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/10/19 9:16:25 ET
+Table '2434909079 1' 9-max Seat #7 is the button
+Seat 1: DJBennyJ99 (10430 in chips) 
+Seat 2: Helgzo (4575 in chips) 
+Seat 7: WeGwos (24481 in chips) 
+Seat 8: nicholasj25 (28014 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+nicholasj25: posts small blind 800
+DJBennyJ99: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8d 9h]
+Helgzo has timed out
+Helgzo: folds 
+WeGwos: folds 
+nicholasj25: calls 800
+DJBennyJ99: raises 1600 to 3200
+nicholasj25: calls 1600
+*** FLOP *** [6d Ad 8c]
+nicholasj25: checks 
+DJBennyJ99: bets 3200
+nicholasj25: folds 
+Uncalled bet (3200) returned to DJBennyJ99
+DJBennyJ99 collected 6700 from pot
+DJBennyJ99: doesn't show hand 
+*** SUMMARY ***
+Total pot 6700 | Rake 0 
+Board [6d Ad 8c]
+Seat 1: DJBennyJ99 (big blind) collected (6700)
+Seat 2: Helgzo folded before Flop (didn't bet)
+Seat 7: WeGwos (button) folded before Flop (didn't bet)
+Seat 8: nicholasj25 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #192349242165: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/10/19 9:17:16 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 1: DJBennyJ99 (13855 in chips) 
+Seat 2: Helgzo (4500 in chips) 
+Seat 7: WeGwos (24406 in chips) 
+Seat 8: nicholasj25 (24739 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+DJBennyJ99: posts small blind 800
+Helgzo: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7s 8s]
+WeGwos: folds 
+nicholasj25: raises 1600 to 3200
+DJBennyJ99: raises 10580 to 13780 and is all-in
+Helgzo has timed out
+Helgzo: folds 
+nicholasj25: folds 
+Uncalled bet (10580) returned to DJBennyJ99
+DJBennyJ99 collected 8300 from pot
+DJBennyJ99: doesn't show hand 
+*** SUMMARY ***
+Total pot 8300 | Rake 0 
+Seat 1: DJBennyJ99 (small blind) collected (8300)
+Seat 2: Helgzo (big blind) folded before Flop
+Seat 7: WeGwos folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) folded before Flop
+
+
+
+PokerStars Hand #192349256227: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/10/19 9:17:49 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (18880 in chips) 
+Seat 2: Helgzo (2825 in chips) 
+Seat 7: WeGwos (24331 in chips) 
+Seat 8: nicholasj25 (21464 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+Helgzo: posts small blind 800
+WeGwos: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ad 9h]
+nicholasj25: calls 1600
+DJBennyJ99: raises 17205 to 18805 and is all-in
+Helgzo: calls 1950 and is all-in
+WeGwos: folds 
+nicholasj25: folds 
+Uncalled bet (16055) returned to DJBennyJ99
+*** FLOP *** [Kc 5h Ah]
+*** TURN *** [Kc 5h Ah] [Qc]
+*** RIVER *** [Kc 5h Ah Qc] [Qs]
+*** SHOW DOWN ***
+Helgzo: shows [Ks Tc] (two pair, Kings and Queens)
+DJBennyJ99: shows [8s 8d] (two pair, Queens and Eights)
+Helgzo collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | Rake 0 
+Board [Kc 5h Ah Qc Qs]
+Seat 1: DJBennyJ99 (button) showed [8s 8d] and lost with two pair, Queens and Eights
+Seat 2: Helgzo (small blind) showed [Ks Tc] and won (9000) with two pair, Kings and Queens
+Seat 7: WeGwos (big blind) folded before Flop
+Seat 8: nicholasj25 folded before Flop
+
+
+
+PokerStars Hand #192349280013: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/10/19 9:18:45 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 1: DJBennyJ99 (16055 in chips) 
+Seat 2: Helgzo (9000 in chips) 
+Seat 7: WeGwos (22656 in chips) 
+Seat 8: nicholasj25 (19789 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+WeGwos: posts small blind 800
+nicholasj25: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8d 8h]
+DJBennyJ99: raises 14380 to 15980 and is all-in
+Helgzo: folds 
+WeGwos: folds 
+nicholasj25: calls 14380
+*** FLOP *** [Ah Th 5h]
+*** TURN *** [Ah Th 5h] [4s]
+*** RIVER *** [Ah Th 5h 4s] [2h]
+*** SHOW DOWN ***
+nicholasj25: shows [8d 8h] (a flush, Ace high)
+DJBennyJ99: shows [Qd Qh] (a flush, Ace high - Queen higher)
+DJBennyJ99 collected 33060 from pot
+*** SUMMARY ***
+Total pot 33060 | Rake 0 
+Board [Ah Th 5h 4s 2h]
+Seat 1: DJBennyJ99 showed [Qd Qh] and won (33060) with a flush, Ace high
+Seat 2: Helgzo (button) folded before Flop (didn't bet)
+Seat 7: WeGwos (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) showed [8d 8h] and lost with a flush, Ace high
+
+
+
+PokerStars Hand #192349287438: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/10/19 9:19:02 ET
+Table '2434909079 1' 9-max Seat #7 is the button
+Seat 1: DJBennyJ99 (33060 in chips) 
+Seat 2: Helgzo (8925 in chips) 
+Seat 7: WeGwos (21781 in chips) 
+Seat 8: nicholasj25 (3734 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+nicholasj25: posts small blind 800
+DJBennyJ99: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7s 4s]
+Helgzo: folds 
+WeGwos: folds 
+nicholasj25: raises 2059 to 3659 and is all-in
+DJBennyJ99: calls 2059
+*** FLOP *** [Ah 6h Qd]
+*** TURN *** [Ah 6h Qd] [6d]
+*** RIVER *** [Ah 6h Qd 6d] [4d]
+*** SHOW DOWN ***
+nicholasj25: shows [7s 4s] (two pair, Sixes and Fours)
+DJBennyJ99: shows [2s Ts] (a pair of Sixes)
+nicholasj25 collected 7618 from pot
+*** SUMMARY ***
+Total pot 7618 | Rake 0 
+Board [Ah 6h Qd 6d 4d]
+Seat 1: DJBennyJ99 (big blind) showed [2s Ts] and lost with a pair of Sixes
+Seat 2: Helgzo folded before Flop (didn't bet)
+Seat 7: WeGwos (button) folded before Flop (didn't bet)
+Seat 8: nicholasj25 (small blind) showed [7s 4s] and won (7618) with two pair, Sixes and Fours
+
+
+
+PokerStars Hand #192349297202: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/10/19 9:19:25 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 1: DJBennyJ99 (29326 in chips) 
+Seat 2: Helgzo (8850 in chips) 
+Seat 7: WeGwos (21706 in chips) 
+Seat 8: nicholasj25 (7618 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+DJBennyJ99: posts small blind 800
+Helgzo: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Js Th]
+WeGwos: folds 
+nicholasj25: raises 5943 to 7543 and is all-in
+DJBennyJ99 has timed out
+DJBennyJ99: folds 
+Helgzo: folds 
+Uncalled bet (5943) returned to nicholasj25
+nicholasj25 collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | Rake 0 
+Seat 1: DJBennyJ99 (small blind) folded before Flop
+Seat 2: Helgzo (big blind) folded before Flop
+Seat 7: WeGwos folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) collected (4300)
+
+
+
+PokerStars Hand #192349310930: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/10/19 9:19:57 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (28451 in chips) is sitting out
+Seat 2: Helgzo (7175 in chips) 
+Seat 7: WeGwos (21631 in chips) 
+Seat 8: nicholasj25 (10243 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+Helgzo: posts small blind 800
+WeGwos: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qd 5d]
+nicholasj25: folds 
+DJBennyJ99: folds 
+Helgzo: calls 800
+WeGwos: raises 6400 to 8000
+Helgzo: folds 
+Uncalled bet (6400) returned to WeGwos
+WeGwos collected 3500 from pot
+WeGwos: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: DJBennyJ99 (button) folded before Flop (didn't bet)
+Seat 2: Helgzo (small blind) folded before Flop
+Seat 7: WeGwos (big blind) collected (3500)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192349316791: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/10/19 9:20:11 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 1: DJBennyJ99 (28376 in chips) 
+Seat 2: Helgzo (5500 in chips) 
+Seat 7: WeGwos (23456 in chips) 
+Seat 8: nicholasj25 (10168 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+WeGwos: posts small blind 800
+nicholasj25: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6h 3d]
+DJBennyJ99: raises 1600 to 3200
+Helgzo: calls 3200
+WeGwos: folds 
+nicholasj25: folds 
+*** FLOP *** [2d 4s Qs]
+DJBennyJ99: bets 14400
+Helgzo: calls 2225 and is all-in
+Uncalled bet (12175) returned to DJBennyJ99
+*** TURN *** [2d 4s Qs] [6d]
+*** RIVER *** [2d 4s Qs 6d] [2c]
+*** SHOW DOWN ***
+DJBennyJ99: shows [Kh Kd] (two pair, Kings and Deuces)
+Helgzo: shows [As Ah] (two pair, Aces and Deuces)
+Helgzo collected 13550 from pot
+*** SUMMARY ***
+Total pot 13550 | Rake 0 
+Board [2d 4s Qs 6d 2c]
+Seat 1: DJBennyJ99 showed [Kh Kd] and lost with two pair, Kings and Deuces
+Seat 2: Helgzo (button) showed [As Ah] and won (13550) with two pair, Aces and Deuces
+Seat 7: WeGwos (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) folded before Flop
+
+
+
+PokerStars Hand #192349331708: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/10/19 9:20:45 ET
+Table '2434909079 1' 9-max Seat #7 is the button
+Seat 1: DJBennyJ99 (22876 in chips) 
+Seat 2: Helgzo (13550 in chips) 
+Seat 7: WeGwos (22581 in chips) 
+Seat 8: nicholasj25 (8493 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+nicholasj25: posts small blind 800
+DJBennyJ99: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7d 6c]
+Helgzo: folds 
+WeGwos: folds 
+nicholasj25: folds 
+Uncalled bet (800) returned to DJBennyJ99
+DJBennyJ99 collected 1900 from pot
+DJBennyJ99: doesn't show hand 
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Seat 1: DJBennyJ99 (big blind) collected (1900)
+Seat 2: Helgzo folded before Flop (didn't bet)
+Seat 7: WeGwos (button) folded before Flop (didn't bet)
+Seat 8: nicholasj25 (small blind) folded before Flop
+
+
+
+PokerStars Hand #192349334980: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/10/19 9:20:53 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 1: DJBennyJ99 (23901 in chips) 
+Seat 2: Helgzo (13475 in chips) 
+Seat 7: WeGwos (22506 in chips) 
+Seat 8: nicholasj25 (7618 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+DJBennyJ99: posts small blind 800
+Helgzo: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5s 5h]
+WeGwos: folds 
+nicholasj25: raises 5943 to 7543 and is all-in
+DJBennyJ99: folds 
+Helgzo: folds 
+Uncalled bet (5943) returned to nicholasj25
+nicholasj25 collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | Rake 0 
+Seat 1: DJBennyJ99 (small blind) folded before Flop
+Seat 2: Helgzo (big blind) folded before Flop
+Seat 7: WeGwos folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) collected (4300)
+
+
+
+PokerStars Hand #192349341992: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIII (800/1600) - 2018/10/19 9:21:09 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (23026 in chips) 
+Seat 2: Helgzo (11800 in chips) 
+Seat 7: WeGwos (22431 in chips) 
+Seat 8: nicholasj25 (10243 in chips) 
+DJBennyJ99: posts the ante 75
+Helgzo: posts the ante 75
+WeGwos: posts the ante 75
+nicholasj25: posts the ante 75
+Helgzo: posts small blind 800
+WeGwos: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6d 5d]
+nicholasj25: folds 
+DJBennyJ99: folds 
+Helgzo: folds 
+Uncalled bet (800) returned to WeGwos
+WeGwos collected 1900 from pot
+WeGwos: doesn't show hand 
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Seat 1: DJBennyJ99 (button) folded before Flop (didn't bet)
+Seat 2: Helgzo (small blind) folded before Flop
+Seat 7: WeGwos (big blind) collected (1900)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192349346817: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:21:20 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 1: DJBennyJ99 (22951 in chips) is sitting out
+Seat 2: Helgzo (10925 in chips) 
+Seat 7: WeGwos (23456 in chips) 
+Seat 8: nicholasj25 (10168 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+WeGwos: posts small blind 1000
+nicholasj25: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5h 5c]
+DJBennyJ99: folds 
+Helgzo: folds 
+WeGwos: calls 1000
+nicholasj25: raises 2000 to 4000
+WeGwos: calls 2000
+*** FLOP *** [7s 4h Td]
+WeGwos: bets 2000
+nicholasj25: raises 4068 to 6068 and is all-in
+WeGwos: folds 
+Uncalled bet (4068) returned to nicholasj25
+nicholasj25 collected 12400 from pot
+*** SUMMARY ***
+Total pot 12400 | Rake 0 
+Board [7s 4h Td]
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo (button) folded before Flop (didn't bet)
+Seat 7: WeGwos (small blind) folded on the Flop
+Seat 8: nicholasj25 (big blind) collected (12400)
+
+
+
+PokerStars Hand #192349360701: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:21:53 ET
+Table '2434909079 1' 9-max Seat #7 is the button
+Seat 1: DJBennyJ99 (22851 in chips) is sitting out
+Seat 2: Helgzo (10825 in chips) 
+Seat 7: WeGwos (17356 in chips) 
+Seat 8: nicholasj25 (16468 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+nicholasj25: posts small blind 1000
+DJBennyJ99: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Tc 7h]
+Helgzo: folds 
+WeGwos: folds 
+nicholasj25: folds 
+Uncalled bet (1000) returned to DJBennyJ99
+DJBennyJ99 collected 2400 from pot
+DJBennyJ99: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: DJBennyJ99 (big blind) collected (2400)
+Seat 2: Helgzo folded before Flop (didn't bet)
+Seat 7: WeGwos (button) folded before Flop (didn't bet)
+Seat 8: nicholasj25 (small blind) folded before Flop
+
+
+
+PokerStars Hand #192349364215: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:22:01 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 1: DJBennyJ99 (24151 in chips) is sitting out
+Seat 2: Helgzo (10725 in chips) 
+Seat 7: WeGwos (17256 in chips) 
+Seat 8: nicholasj25 (15368 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+DJBennyJ99: posts small blind 1000
+Helgzo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Jh Qc]
+WeGwos: folds 
+nicholasj25: calls 2000
+DJBennyJ99: folds 
+Helgzo: checks 
+*** FLOP *** [Ah 8c 4s]
+Helgzo: checks 
+nicholasj25: bets 4000
+Helgzo: folds 
+Uncalled bet (4000) returned to nicholasj25
+nicholasj25 collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | Rake 0 
+Board [Ah 8c 4s]
+Seat 1: DJBennyJ99 (small blind) folded before Flop
+Seat 2: Helgzo (big blind) folded on the Flop
+Seat 7: WeGwos folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) collected (5400)
+
+
+
+PokerStars Hand #192349372179: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:22:19 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (23051 in chips) is sitting out
+Seat 2: Helgzo (8625 in chips) 
+Seat 7: WeGwos (17156 in chips) 
+Seat 8: nicholasj25 (18668 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+Helgzo: posts small blind 1000
+WeGwos: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qc Tc]
+nicholasj25: raises 2000 to 4000
+DJBennyJ99: folds 
+Helgzo: folds 
+WeGwos: folds 
+Uncalled bet (2000) returned to nicholasj25
+nicholasj25 collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | Rake 0 
+Seat 1: DJBennyJ99 (button) folded before Flop (didn't bet)
+Seat 2: Helgzo (small blind) folded before Flop
+Seat 7: WeGwos (big blind) folded before Flop
+Seat 8: nicholasj25 collected (5400)
+
+
+
+PokerStars Hand #192349380428: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:22:39 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 1: DJBennyJ99 (22951 in chips) is sitting out
+Seat 2: Helgzo (7525 in chips) 
+Seat 7: WeGwos (15056 in chips) 
+Seat 8: nicholasj25 (21968 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+WeGwos: posts small blind 1000
+nicholasj25: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Tc 5d]
+DJBennyJ99: folds 
+Helgzo: folds 
+WeGwos: folds 
+Uncalled bet (1000) returned to nicholasj25
+nicholasj25 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo (button) folded before Flop (didn't bet)
+Seat 7: WeGwos (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) collected (2400)
+
+
+
+PokerStars Hand #192349383594: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:22:46 ET
+Table '2434909079 1' 9-max Seat #7 is the button
+Seat 1: DJBennyJ99 (22851 in chips) is sitting out
+Seat 2: Helgzo (7425 in chips) 
+Seat 7: WeGwos (13956 in chips) 
+Seat 8: nicholasj25 (23268 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+nicholasj25: posts small blind 1000
+DJBennyJ99: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5s 9s]
+Helgzo: folds 
+WeGwos: calls 2000
+nicholasj25: calls 1000
+DJBennyJ99: folds 
+*** FLOP *** [2s 4h 6d]
+nicholasj25: bets 2000
+WeGwos: calls 2000
+*** TURN *** [2s 4h 6d] [8c]
+nicholasj25: checks 
+WeGwos: bets 2000
+nicholasj25: folds 
+Uncalled bet (2000) returned to WeGwos
+WeGwos collected 10400 from pot
+WeGwos: doesn't show hand 
+*** SUMMARY ***
+Total pot 10400 | Rake 0 
+Board [2s 4h 6d 8c]
+Seat 1: DJBennyJ99 (big blind) folded before Flop
+Seat 2: Helgzo folded before Flop (didn't bet)
+Seat 7: WeGwos (button) collected (10400)
+Seat 8: nicholasj25 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #192349396859: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:23:17 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 1: DJBennyJ99 (20751 in chips) is sitting out
+Seat 2: Helgzo (7325 in chips) 
+Seat 7: WeGwos (20256 in chips) 
+Seat 8: nicholasj25 (19168 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+DJBennyJ99: posts small blind 1000
+Helgzo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Td 9s]
+WeGwos: folds 
+nicholasj25: raises 2000 to 4000
+DJBennyJ99: folds 
+Helgzo: raises 3225 to 7225 and is all-in
+nicholasj25: calls 3225
+*** FLOP *** [Jc 9h Qh]
+*** TURN *** [Jc 9h Qh] [Ts]
+*** RIVER *** [Jc 9h Qh Ts] [8s]
+*** SHOW DOWN ***
+Helgzo: shows [3d 3h] (a straight, Eight to Queen)
+nicholasj25: shows [Td 9s] (a straight, Eight to Queen)
+Helgzo collected 7925 from pot
+nicholasj25 collected 7925 from pot
+*** SUMMARY ***
+Total pot 15850 | Rake 0 
+Board [Jc 9h Qh Ts 8s]
+Seat 1: DJBennyJ99 (small blind) folded before Flop
+Seat 2: Helgzo (big blind) showed [3d 3h] and won (7925) with a straight, Eight to Queen
+Seat 7: WeGwos folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) showed [Td 9s] and won (7925) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #192349406661: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:23:40 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (19651 in chips) is sitting out
+Seat 2: Helgzo (7925 in chips) 
+Seat 7: WeGwos (20156 in chips) 
+Seat 8: nicholasj25 (19768 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+Helgzo: posts small blind 1000
+WeGwos: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8s Th]
+nicholasj25: folds 
+DJBennyJ99: folds 
+Helgzo: calls 1000
+WeGwos: checks 
+*** FLOP *** [4s Jd 2c]
+Helgzo: bets 5825 and is all-in
+WeGwos: folds 
+Uncalled bet (5825) returned to Helgzo
+Helgzo collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Board [4s Jd 2c]
+Seat 1: DJBennyJ99 (button) folded before Flop (didn't bet)
+Seat 2: Helgzo (small blind) collected (4400)
+Seat 7: WeGwos (big blind) folded on the Flop
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192349413809: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:23:57 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 1: DJBennyJ99 (19551 in chips) is sitting out
+Seat 2: Helgzo (10225 in chips) 
+Seat 7: WeGwos (18056 in chips) 
+Seat 8: nicholasj25 (19668 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+WeGwos: posts small blind 1000
+nicholasj25: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2h Ts]
+DJBennyJ99: folds 
+Helgzo: raises 8125 to 10125 and is all-in
+WeGwos: folds 
+nicholasj25: folds 
+Uncalled bet (8125) returned to Helgzo
+Helgzo collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | Rake 0 
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo (button) collected (5400)
+Seat 7: WeGwos (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) folded before Flop
+
+
+
+PokerStars Hand #192349417381: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:24:05 ET
+Table '2434909079 1' 9-max Seat #7 is the button
+Seat 1: DJBennyJ99 (19451 in chips) is sitting out
+Seat 2: Helgzo (13525 in chips) 
+Seat 7: WeGwos (16956 in chips) 
+Seat 8: nicholasj25 (17568 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+nicholasj25: posts small blind 1000
+DJBennyJ99: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4d 9d]
+Helgzo: folds 
+WeGwos: folds 
+nicholasj25: folds 
+Uncalled bet (1000) returned to DJBennyJ99
+DJBennyJ99 collected 2400 from pot
+DJBennyJ99: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: DJBennyJ99 (big blind) collected (2400)
+Seat 2: Helgzo folded before Flop (didn't bet)
+Seat 7: WeGwos (button) folded before Flop (didn't bet)
+Seat 8: nicholasj25 (small blind) folded before Flop
+
+
+
+PokerStars Hand #192349421138: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:24:14 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 1: DJBennyJ99 (20751 in chips) is sitting out
+Seat 2: Helgzo (13425 in chips) 
+Seat 7: WeGwos (16856 in chips) 
+Seat 8: nicholasj25 (16468 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+DJBennyJ99: posts small blind 1000
+Helgzo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4s 8c]
+WeGwos: folds 
+nicholasj25: folds 
+DJBennyJ99: folds 
+Uncalled bet (1000) returned to Helgzo
+Helgzo collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: DJBennyJ99 (small blind) folded before Flop
+Seat 2: Helgzo (big blind) collected (2400)
+Seat 7: WeGwos folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192349424230: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:24:21 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (19651 in chips) is sitting out
+Seat 2: Helgzo (14725 in chips) 
+Seat 7: WeGwos (16756 in chips) 
+Seat 8: nicholasj25 (16368 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+Helgzo: posts small blind 1000
+WeGwos: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4h 9h]
+nicholasj25: folds 
+DJBennyJ99: folds 
+Helgzo: calls 1000
+WeGwos: checks 
+*** FLOP *** [Th 5h Td]
+Helgzo: checks 
+WeGwos: bets 2000
+Helgzo: folds 
+Uncalled bet (2000) returned to WeGwos
+WeGwos collected 4400 from pot
+WeGwos: doesn't show hand 
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Board [Th 5h Td]
+Seat 1: DJBennyJ99 (button) folded before Flop (didn't bet)
+Seat 2: Helgzo (small blind) folded on the Flop
+Seat 7: WeGwos (big blind) collected (4400)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192349431126: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:24:37 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 1: DJBennyJ99 (19551 in chips) is sitting out
+Seat 2: Helgzo (12625 in chips) 
+Seat 7: WeGwos (19056 in chips) 
+Seat 8: nicholasj25 (16268 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+WeGwos: posts small blind 1000
+nicholasj25: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ts 7c]
+DJBennyJ99: folds 
+Helgzo: folds 
+WeGwos: folds 
+Uncalled bet (1000) returned to nicholasj25
+nicholasj25 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo (button) folded before Flop (didn't bet)
+Seat 7: WeGwos (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) collected (2400)
+
+
+
+PokerStars Hand #192349434213: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:24:44 ET
+Table '2434909079 1' 9-max Seat #7 is the button
+Seat 1: DJBennyJ99 (19451 in chips) is sitting out
+Seat 2: Helgzo (12525 in chips) 
+Seat 7: WeGwos (17956 in chips) 
+Seat 8: nicholasj25 (17568 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+nicholasj25: posts small blind 1000
+DJBennyJ99: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2h Jd]
+Helgzo: raises 2000 to 4000
+WeGwos: calls 4000
+nicholasj25: folds 
+DJBennyJ99: folds 
+*** FLOP *** [7c 7h As]
+Helgzo: bets 2000
+WeGwos: folds 
+Uncalled bet (2000) returned to Helgzo
+Helgzo collected 11400 from pot
+*** SUMMARY ***
+Total pot 11400 | Rake 0 
+Board [7c 7h As]
+Seat 1: DJBennyJ99 (big blind) folded before Flop
+Seat 2: Helgzo collected (11400)
+Seat 7: WeGwos (button) folded on the Flop
+Seat 8: nicholasj25 (small blind) folded before Flop
+
+
+
+PokerStars Hand #192349440012: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:24:58 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 1: DJBennyJ99 (17351 in chips) is sitting out
+Seat 2: Helgzo (19825 in chips) 
+Seat 7: WeGwos (13856 in chips) 
+Seat 8: nicholasj25 (16468 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+DJBennyJ99: posts small blind 1000
+Helgzo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kh Td]
+WeGwos: folds 
+nicholasj25: raises 2000 to 4000
+DJBennyJ99: folds 
+Helgzo: calls 2000
+*** FLOP *** [4h 5c 8d]
+Helgzo: checks 
+nicholasj25: bets 4700
+Helgzo: folds 
+Uncalled bet (4700) returned to nicholasj25
+nicholasj25 collected 9400 from pot
+*** SUMMARY ***
+Total pot 9400 | Rake 0 
+Board [4h 5c 8d]
+Seat 1: DJBennyJ99 (small blind) folded before Flop
+Seat 2: Helgzo (big blind) folded on the Flop
+Seat 7: WeGwos folded before Flop (didn't bet)
+Seat 8: nicholasj25 (button) collected (9400)
+
+
+
+PokerStars Hand #192349448715: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:25:18 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (16251 in chips) is sitting out
+Seat 2: Helgzo (15725 in chips) 
+Seat 7: WeGwos (13756 in chips) 
+Seat 8: nicholasj25 (21768 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+Helgzo: posts small blind 1000
+WeGwos: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Th 5d]
+nicholasj25: folds 
+DJBennyJ99: folds 
+Helgzo: calls 1000
+WeGwos: checks 
+*** FLOP *** [Kd Qh 9h]
+Helgzo: checks 
+WeGwos: bets 11656 and is all-in
+Helgzo: folds 
+Uncalled bet (11656) returned to WeGwos
+WeGwos collected 4400 from pot
+WeGwos: doesn't show hand 
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Board [Kd Qh 9h]
+Seat 1: DJBennyJ99 (button) folded before Flop (didn't bet)
+Seat 2: Helgzo (small blind) folded on the Flop
+Seat 7: WeGwos (big blind) collected (4400)
+Seat 8: nicholasj25 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192349455670: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:25:34 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 1: DJBennyJ99 (16151 in chips) is sitting out
+Seat 2: Helgzo (13625 in chips) 
+Seat 7: WeGwos (16056 in chips) 
+Seat 8: nicholasj25 (21668 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+WeGwos: posts the ante 100
+nicholasj25: posts the ante 100
+WeGwos: posts small blind 1000
+nicholasj25: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5s 4s]
+DJBennyJ99: folds 
+Helgzo: folds 
+WeGwos: calls 1000
+nicholasj25: checks 
+*** FLOP *** [6s 2s As]
+WeGwos: bets 8000
+nicholasj25: raises 8000 to 16000
+WeGwos: calls 5956 and is all-in
+Uncalled bet (2044) returned to nicholasj25
+*** TURN *** [6s 2s As] [Jd]
+*** RIVER *** [6s 2s As Jd] [Qc]
+*** SHOW DOWN ***
+WeGwos: shows [2d 2c] (three of a kind, Deuces)
+nicholasj25: shows [5s 4s] (a flush, Ace high)
+nicholasj25 collected 32312 from pot
+WeGwos finished the tournament in 4th place and received 95625.00.
+*** SUMMARY ***
+Total pot 32312 | Rake 0 
+Board [6s 2s As Jd Qc]
+Seat 1: DJBennyJ99 folded before Flop (didn't bet)
+Seat 2: Helgzo (button) folded before Flop (didn't bet)
+Seat 7: WeGwos (small blind) showed [2d 2c] and lost with three of a kind, Deuces
+Seat 8: nicholasj25 (big blind) showed [5s 4s] and won (32312) with a flush, Ace high
+
+
+
+PokerStars Hand #192349469796: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XIV (1000/2000) - 2018/10/19 9:26:07 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 1: DJBennyJ99 (16051 in chips) is sitting out
+Seat 2: Helgzo (13525 in chips) 
+Seat 8: nicholasj25 (37924 in chips) 
+DJBennyJ99: posts the ante 100
+Helgzo: posts the ante 100
+nicholasj25: posts the ante 100
+DJBennyJ99: posts small blind 1000
+Helgzo: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Tc Td]
+nicholasj25: raises 2000 to 4000
+DJBennyJ99: folds 
+Helgzo: calls 2000
+*** FLOP *** [4h 6d Ac]
+Helgzo: checks 
+nicholasj25: bets 4000
+Helgzo: folds 
+Uncalled bet (4000) returned to nicholasj25
+nicholasj25 collected 9300 from pot
+*** SUMMARY ***
+Total pot 9300 | Rake 0 
+Board [4h 6d Ac]
+Seat 1: DJBennyJ99 (small blind) folded before Flop
+Seat 2: Helgzo (big blind) folded on the Flop
+Seat 8: nicholasj25 (button) collected (9300)
+
+
+
+PokerStars Hand #192349478694: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:26:28 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (14951 in chips) is sitting out
+Seat 2: Helgzo (9425 in chips) 
+Seat 8: nicholasj25 (43124 in chips) 
+DJBennyJ99: posts the ante 150
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+Helgzo: posts small blind 1500
+nicholasj25: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8c Qs]
+DJBennyJ99: folds 
+Helgzo: folds 
+Uncalled bet (1500) returned to nicholasj25
+nicholasj25 collected 3450 from pot
+*** SUMMARY ***
+Total pot 3450 | Rake 0 
+Seat 1: DJBennyJ99 (button) folded before Flop (didn't bet)
+Seat 2: Helgzo (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) collected (3450)
+
+
+
+PokerStars Hand #192349481520: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:26:35 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 1: DJBennyJ99 (14801 in chips) is sitting out
+Seat 2: Helgzo (7775 in chips) 
+Seat 8: nicholasj25 (44924 in chips) 
+DJBennyJ99: posts the ante 150
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+nicholasj25: posts small blind 1500
+DJBennyJ99: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2s Th]
+Helgzo: raises 4625 to 7625 and is all-in
+nicholasj25: folds 
+DJBennyJ99: folds 
+Uncalled bet (4625) returned to Helgzo
+Helgzo collected 7950 from pot
+*** SUMMARY ***
+Total pot 7950 | Rake 0 
+Seat 1: DJBennyJ99 (big blind) folded before Flop
+Seat 2: Helgzo (button) collected (7950)
+Seat 8: nicholasj25 (small blind) folded before Flop
+
+
+
+PokerStars Hand #192349486253: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:26:46 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 1: DJBennyJ99 (11651 in chips) is sitting out
+Seat 2: Helgzo (12575 in chips) 
+Seat 8: nicholasj25 (43274 in chips) 
+DJBennyJ99: posts the ante 150
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+DJBennyJ99: posts small blind 1500
+Helgzo: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Jc 9c]
+nicholasj25: calls 3000
+DJBennyJ99: folds 
+Helgzo: checks 
+*** FLOP *** [5h 2c 2s]
+Helgzo: checks 
+nicholasj25: bets 3000
+Helgzo: calls 3000
+*** TURN *** [5h 2c 2s] [6c]
+Helgzo: checks 
+nicholasj25: checks 
+*** RIVER *** [5h 2c 2s 6c] [Jd]
+Helgzo: checks 
+nicholasj25: bets 6000
+Helgzo: raises 425 to 6425 and is all-in
+nicholasj25: calls 425
+*** SHOW DOWN ***
+Helgzo: shows [8c 2h] (three of a kind, Deuces)
+nicholasj25: shows [Jc 9c] (two pair, Jacks and Deuces)
+Helgzo collected 26800 from pot
+*** SUMMARY ***
+Total pot 26800 | Rake 0 
+Board [5h 2c 2s 6c Jd]
+Seat 1: DJBennyJ99 (small blind) folded before Flop
+Seat 2: Helgzo (big blind) showed [8c 2h] and won (26800) with three of a kind, Deuces
+Seat 8: nicholasj25 (button) showed [Jc 9c] and lost with two pair, Jacks and Deuces
+
+
+
+PokerStars Hand #192349499332: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:27:16 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (10001 in chips) is sitting out
+Seat 2: Helgzo (26800 in chips) 
+Seat 8: nicholasj25 (30699 in chips) 
+DJBennyJ99: posts the ante 150
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+Helgzo: posts small blind 1500
+nicholasj25: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kh 4d]
+DJBennyJ99: folds 
+Helgzo: raises 3000 to 6000
+nicholasj25: folds 
+Uncalled bet (3000) returned to Helgzo
+Helgzo collected 6450 from pot
+*** SUMMARY ***
+Total pot 6450 | Rake 0 
+Seat 1: DJBennyJ99 (button) folded before Flop (didn't bet)
+Seat 2: Helgzo (small blind) collected (6450)
+Seat 8: nicholasj25 (big blind) folded before Flop
+
+
+
+PokerStars Hand #192349504518: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:27:29 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 1: DJBennyJ99 (9851 in chips) is sitting out
+Seat 2: Helgzo (30100 in chips) 
+Seat 8: nicholasj25 (27549 in chips) 
+DJBennyJ99: posts the ante 150
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+nicholasj25: posts small blind 1500
+DJBennyJ99: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9s Kh]
+Helgzo: folds 
+nicholasj25: raises 3000 to 6000
+DJBennyJ99: folds 
+Uncalled bet (3000) returned to nicholasj25
+nicholasj25 collected 6450 from pot
+*** SUMMARY ***
+Total pot 6450 | Rake 0 
+Seat 1: DJBennyJ99 (big blind) folded before Flop
+Seat 2: Helgzo (button) folded before Flop (didn't bet)
+Seat 8: nicholasj25 (small blind) collected (6450)
+
+
+
+PokerStars Hand #192349512316: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:27:47 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 1: DJBennyJ99 (6701 in chips) is sitting out
+Seat 2: Helgzo (29950 in chips) 
+Seat 8: nicholasj25 (30849 in chips) 
+DJBennyJ99: posts the ante 150
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+DJBennyJ99: posts small blind 1500
+Helgzo: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7h Js]
+nicholasj25: folds 
+DJBennyJ99: folds 
+Uncalled bet (1500) returned to Helgzo
+Helgzo collected 3450 from pot
+*** SUMMARY ***
+Total pot 3450 | Rake 0 
+Seat 1: DJBennyJ99 (small blind) folded before Flop
+Seat 2: Helgzo (big blind) collected (3450)
+Seat 8: nicholasj25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #192349515891: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:27:55 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (5051 in chips) is sitting out
+Seat 2: Helgzo (31750 in chips) 
+Seat 8: nicholasj25 (30699 in chips) 
+DJBennyJ99: posts the ante 150
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+Helgzo: posts small blind 1500
+nicholasj25: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Jd Th]
+DJBennyJ99: folds 
+Helgzo: folds 
+Uncalled bet (1500) returned to nicholasj25
+nicholasj25 collected 3450 from pot
+*** SUMMARY ***
+Total pot 3450 | Rake 0 
+Seat 1: DJBennyJ99 (button) folded before Flop (didn't bet)
+Seat 2: Helgzo (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) collected (3450)
+
+
+
+PokerStars Hand #192349518799: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:28:02 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 1: DJBennyJ99 (4901 in chips) is sitting out
+Seat 2: Helgzo (30100 in chips) 
+Seat 8: nicholasj25 (32499 in chips) 
+DJBennyJ99: posts the ante 150
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+nicholasj25: posts small blind 1500
+DJBennyJ99: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9h 9s]
+Helgzo: folds 
+nicholasj25: raises 3000 to 6000
+DJBennyJ99: folds 
+Uncalled bet (3000) returned to nicholasj25
+nicholasj25 collected 6450 from pot
+*** SUMMARY ***
+Total pot 6450 | Rake 0 
+Seat 1: DJBennyJ99 (big blind) folded before Flop
+Seat 2: Helgzo (button) folded before Flop (didn't bet)
+Seat 8: nicholasj25 (small blind) collected (6450)
+
+
+
+PokerStars Hand #192349523409: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:28:13 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 1: DJBennyJ99 (1751 in chips) is sitting out
+Seat 2: Helgzo (29950 in chips) 
+Seat 8: nicholasj25 (35799 in chips) 
+DJBennyJ99: posts the ante 150
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+DJBennyJ99: posts small blind 1500
+Helgzo: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4h Ad]
+nicholasj25: raises 3000 to 6000
+DJBennyJ99: folds 
+Helgzo: folds 
+Uncalled bet (3000) returned to nicholasj25
+nicholasj25 collected 7950 from pot
+*** SUMMARY ***
+Total pot 7950 | Rake 0 
+Seat 1: DJBennyJ99 (small blind) folded before Flop
+Seat 2: Helgzo (big blind) folded before Flop
+Seat 8: nicholasj25 (button) collected (7950)
+
+
+
+PokerStars Hand #192349530772: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:28:30 ET
+Table '2434909079 1' 9-max Seat #1 is the button
+Seat 1: DJBennyJ99 (101 in chips) is sitting out
+Seat 2: Helgzo (26800 in chips) 
+Seat 8: nicholasj25 (40599 in chips) 
+DJBennyJ99: posts the ante 101 and is all-in
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+Helgzo: posts small blind 1500
+nicholasj25: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2c Jd]
+Helgzo: calls 1500
+nicholasj25: checks 
+DJBennyJ99: folds 
+*** FLOP *** [7h 8c 5c]
+Helgzo: checks 
+nicholasj25: bets 3000
+Helgzo: calls 3000
+*** TURN *** [7h 8c 5c] [Ks]
+Helgzo: checks 
+nicholasj25: checks 
+*** RIVER *** [7h 8c 5c Ks] [4s]
+Helgzo: bets 3000
+nicholasj25: folds 
+Uncalled bet (3000) returned to Helgzo
+Helgzo collected 12401 from pot
+DJBennyJ99 finished the tournament in 3rd place and received 126225.00.
+*** SUMMARY ***
+Total pot 12401 | Rake 0 
+Board [7h 8c 5c Ks 4s]
+Seat 1: DJBennyJ99 (button) folded before Flop (didn't bet)
+Seat 2: Helgzo (small blind) collected (12401)
+Seat 8: nicholasj25 (big blind) folded on the River
+
+
+
+PokerStars Hand #192349543781: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:29:00 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 2: Helgzo (33051 in chips) 
+Seat 8: nicholasj25 (34449 in chips) 
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+nicholasj25: posts small blind 1500
+Helgzo: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ah Kh]
+nicholasj25: raises 3000 to 6000
+Helgzo: calls 3000
+*** FLOP *** [Tc 3d Qc]
+Helgzo: checks 
+nicholasj25: checks 
+*** TURN *** [Tc 3d Qc] [Js]
+Helgzo: checks 
+nicholasj25: bets 3000
+Helgzo: calls 3000
+*** RIVER *** [Tc 3d Qc Js] [2c]
+Helgzo: checks 
+nicholasj25: bets 3000
+Helgzo: folds 
+Uncalled bet (3000) returned to nicholasj25
+nicholasj25 collected 18300 from pot
+*** SUMMARY ***
+Total pot 18300 | Rake 0 
+Board [Tc 3d Qc Js 2c]
+Seat 2: Helgzo (big blind) folded on the River
+Seat 8: nicholasj25 (button) (small blind) collected (18300)
+
+
+
+PokerStars Hand #192349554740: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:29:26 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 2: Helgzo (23901 in chips) 
+Seat 8: nicholasj25 (43599 in chips) 
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+Helgzo: posts small blind 1500
+nicholasj25: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ad 5s]
+Helgzo: calls 1500
+nicholasj25: raises 3000 to 6000
+Helgzo: calls 3000
+*** FLOP *** [Jh Ah As]
+nicholasj25: checks 
+Helgzo: checks 
+*** TURN *** [Jh Ah As] [9d]
+nicholasj25: checks 
+Helgzo: checks 
+*** RIVER *** [Jh Ah As 9d] [Jd]
+nicholasj25: bets 3000
+Helgzo: folds 
+Uncalled bet (3000) returned to nicholasj25
+nicholasj25 collected 12300 from pot
+*** SUMMARY ***
+Total pot 12300 | Rake 0 
+Board [Jh Ah As 9d Jd]
+Seat 2: Helgzo (button) (small blind) folded on the River
+Seat 8: nicholasj25 (big blind) collected (12300)
+
+
+
+PokerStars Hand #192349565515: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:29:51 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 2: Helgzo (17751 in chips) 
+Seat 8: nicholasj25 (49749 in chips) 
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+nicholasj25: posts small blind 1500
+Helgzo: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3d Ad]
+nicholasj25: raises 3000 to 6000
+Helgzo: calls 3000
+*** FLOP *** [Kd Kh Qd]
+Helgzo: bets 11601 and is all-in
+nicholasj25: calls 11601
+*** TURN *** [Kd Kh Qd] [2c]
+*** RIVER *** [Kd Kh Qd 2c] [3h]
+*** SHOW DOWN ***
+Helgzo: shows [Td Qs] (two pair, Kings and Queens)
+nicholasj25: shows [3d Ad] (two pair, Kings and Threes)
+Helgzo collected 35502 from pot
+*** SUMMARY ***
+Total pot 35502 | Rake 0 
+Board [Kd Kh Qd 2c 3h]
+Seat 2: Helgzo (big blind) showed [Td Qs] and won (35502) with two pair, Kings and Queens
+Seat 8: nicholasj25 (button) (small blind) showed [3d Ad] and lost with two pair, Kings and Threes
+
+
+
+PokerStars Hand #192349575858: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:30:15 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 2: Helgzo (35502 in chips) 
+Seat 8: nicholasj25 (31998 in chips) 
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+Helgzo: posts small blind 1500
+nicholasj25: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qs 2s]
+Helgzo: calls 1500
+nicholasj25: raises 3000 to 6000
+Helgzo: calls 3000
+*** FLOP *** [9s 5h Kc]
+nicholasj25: checks 
+Helgzo: checks 
+*** TURN *** [9s 5h Kc] [3c]
+nicholasj25: checks 
+Helgzo: checks 
+*** RIVER *** [9s 5h Kc 3c] [As]
+nicholasj25: bets 6000
+Helgzo: folds 
+Uncalled bet (6000) returned to nicholasj25
+nicholasj25 collected 12300 from pot
+*** SUMMARY ***
+Total pot 12300 | Rake 0 
+Board [9s 5h Kc 3c As]
+Seat 2: Helgzo (button) (small blind) folded on the River
+Seat 8: nicholasj25 (big blind) collected (12300)
+
+
+
+PokerStars Hand #192349586462: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:30:40 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 2: Helgzo (29352 in chips) 
+Seat 8: nicholasj25 (38148 in chips) 
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+nicholasj25: posts small blind 1500
+Helgzo: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8c 8s]
+nicholasj25: raises 3000 to 6000
+Helgzo: folds 
+Uncalled bet (3000) returned to nicholasj25
+nicholasj25 collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | Rake 0 
+Seat 2: Helgzo (big blind) folded before Flop
+Seat 8: nicholasj25 (button) (small blind) collected (6300)
+
+
+
+PokerStars Hand #192349591890: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:30:52 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 2: Helgzo (26202 in chips) 
+Seat 8: nicholasj25 (41298 in chips) 
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+Helgzo: posts small blind 1500
+nicholasj25: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qd Kh]
+Helgzo: folds 
+Uncalled bet (1500) returned to nicholasj25
+nicholasj25 collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Seat 2: Helgzo (button) (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) collected (3300)
+
+
+
+PokerStars Hand #192349594716: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XV (1500/3000) - 2018/10/19 9:30:59 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 2: Helgzo (24552 in chips) 
+Seat 8: nicholasj25 (42948 in chips) 
+Helgzo: posts the ante 150
+nicholasj25: posts the ante 150
+nicholasj25: posts small blind 1500
+Helgzo: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [As Jc]
+nicholasj25: raises 3000 to 6000
+Helgzo: raises 18402 to 24402 and is all-in
+nicholasj25: calls 18402
+*** FLOP *** [Js Qc 5c]
+*** TURN *** [Js Qc 5c] [9d]
+*** RIVER *** [Js Qc 5c 9d] [9s]
+*** SHOW DOWN ***
+Helgzo: shows [Qs Ah] (two pair, Queens and Nines)
+nicholasj25: shows [As Jc] (two pair, Jacks and Nines)
+Helgzo collected 49104 from pot
+*** SUMMARY ***
+Total pot 49104 | Rake 0 
+Board [Js Qc 5c 9d 9s]
+Seat 2: Helgzo (big blind) showed [Qs Ah] and won (49104) with two pair, Queens and Nines
+Seat 8: nicholasj25 (button) (small blind) showed [As Jc] and lost with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #192349603738: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:31:19 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 2: Helgzo (49104 in chips) 
+Seat 8: nicholasj25 (18396 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+Helgzo: posts small blind 2000
+nicholasj25: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4c 8s]
+Helgzo: calls 2000
+nicholasj25: checks 
+*** FLOP *** [5s 5h Ah]
+nicholasj25: checks 
+Helgzo: checks 
+*** TURN *** [5s 5h Ah] [6d]
+nicholasj25: checks 
+Helgzo: checks 
+*** RIVER *** [5s 5h Ah 6d] [Jc]
+nicholasj25: checks 
+Helgzo: checks 
+*** SHOW DOWN ***
+nicholasj25: shows [4c 8s] (a pair of Fives)
+Helgzo: shows [2h Kd] (a pair of Fives - Ace+King kicker)
+Helgzo collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | Rake 0 
+Board [5s 5h Ah 6d Jc]
+Seat 2: Helgzo (button) (small blind) showed [2h Kd] and won (8400) with a pair of Fives
+Seat 8: nicholasj25 (big blind) showed [4c 8s] and lost with a pair of Fives
+
+
+
+PokerStars Hand #192349614127: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:31:44 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 2: Helgzo (53304 in chips) 
+Seat 8: nicholasj25 (14196 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+nicholasj25: posts small blind 2000
+Helgzo: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Kc 9d]
+nicholasj25: raises 4000 to 8000
+Helgzo: raises 45104 to 53104 and is all-in
+nicholasj25: calls 5996 and is all-in
+Uncalled bet (39108) returned to Helgzo
+*** FLOP *** [9h Th 8c]
+*** TURN *** [9h Th 8c] [8d]
+*** RIVER *** [9h Th 8c 8d] [Td]
+*** SHOW DOWN ***
+Helgzo: shows [2h 2s] (two pair, Tens and Eights)
+nicholasj25: shows [Kc 9d] (two pair, Tens and Nines)
+nicholasj25 collected 28392 from pot
+*** SUMMARY ***
+Total pot 28392 | Rake 0 
+Board [9h Th 8c 8d Td]
+Seat 2: Helgzo (big blind) showed [2h 2s] and lost with two pair, Tens and Eights
+Seat 8: nicholasj25 (button) (small blind) showed [Kc 9d] and won (28392) with two pair, Tens and Nines
+
+
+
+PokerStars Hand #192349626851: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:32:13 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 2: Helgzo (39108 in chips) 
+Seat 8: nicholasj25 (28392 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+Helgzo: posts small blind 2000
+nicholasj25: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qh 7h]
+Helgzo: calls 2000
+nicholasj25: raises 4000 to 8000
+Helgzo: folds 
+Uncalled bet (4000) returned to nicholasj25
+nicholasj25 collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | Rake 0 
+Seat 2: Helgzo (button) (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) collected (8400)
+
+
+
+PokerStars Hand #192349634735: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:32:31 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 2: Helgzo (34908 in chips) 
+Seat 8: nicholasj25 (32592 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+nicholasj25: posts small blind 2000
+Helgzo: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4c Jh]
+nicholasj25: folds 
+Uncalled bet (2000) returned to Helgzo
+Helgzo collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Seat 2: Helgzo (big blind) collected (4400)
+Seat 8: nicholasj25 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #192349638025: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:32:39 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 2: Helgzo (37108 in chips) 
+Seat 8: nicholasj25 (30392 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+Helgzo: posts small blind 2000
+nicholasj25: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3s 5c]
+Helgzo: calls 2000
+nicholasj25: checks 
+*** FLOP *** [4d 8h 9h]
+nicholasj25: bets 4000
+Helgzo: calls 4000
+*** TURN *** [4d 8h 9h] [Th]
+nicholasj25: checks 
+Helgzo: checks 
+*** RIVER *** [4d 8h 9h Th] [Ts]
+nicholasj25: bets 8000
+Helgzo: raises 8000 to 16000
+nicholasj25: folds 
+Uncalled bet (8000) returned to Helgzo
+Helgzo collected 32400 from pot
+*** SUMMARY ***
+Total pot 32400 | Rake 0 
+Board [4d 8h 9h Th Ts]
+Seat 2: Helgzo (button) (small blind) collected (32400)
+Seat 8: nicholasj25 (big blind) folded on the River
+
+
+
+PokerStars Hand #192349652135: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:33:12 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 2: Helgzo (53308 in chips) 
+Seat 8: nicholasj25 (14192 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+nicholasj25: posts small blind 2000
+Helgzo: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [8d 8s]
+nicholasj25: raises 4000 to 8000
+Helgzo: folds 
+Uncalled bet (4000) returned to nicholasj25
+nicholasj25 collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | Rake 0 
+Seat 2: Helgzo (big blind) folded before Flop
+Seat 8: nicholasj25 (button) (small blind) collected (8400)
+
+
+
+PokerStars Hand #192349656295: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:33:21 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 2: Helgzo (49108 in chips) 
+Seat 8: nicholasj25 (18392 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+Helgzo: posts small blind 2000
+nicholasj25: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5h Jc]
+Helgzo: folds 
+Uncalled bet (2000) returned to nicholasj25
+nicholasj25 collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Seat 2: Helgzo (button) (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) collected (4400)
+
+
+
+PokerStars Hand #192349659147: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:33:27 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 2: Helgzo (46908 in chips) 
+Seat 8: nicholasj25 (20592 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+nicholasj25: posts small blind 2000
+Helgzo: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3d 8s]
+nicholasj25: folds 
+Uncalled bet (2000) returned to Helgzo
+Helgzo collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Seat 2: Helgzo (big blind) collected (4400)
+Seat 8: nicholasj25 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #192349662191: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:33:35 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 2: Helgzo (49108 in chips) 
+Seat 8: nicholasj25 (18392 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+Helgzo: posts small blind 2000
+nicholasj25: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3h As]
+Helgzo: calls 2000
+nicholasj25: raises 4000 to 8000
+Helgzo: calls 4000
+*** FLOP *** [4h Jc 9c]
+nicholasj25: checks 
+Helgzo: checks 
+*** TURN *** [4h Jc 9c] [Kc]
+nicholasj25: bets 10192 and is all-in
+Helgzo: folds 
+Uncalled bet (10192) returned to nicholasj25
+nicholasj25 collected 16400 from pot
+*** SUMMARY ***
+Total pot 16400 | Rake 0 
+Board [4h Jc 9c Kc]
+Seat 2: Helgzo (button) (small blind) folded on the Turn
+Seat 8: nicholasj25 (big blind) collected (16400)
+
+
+
+PokerStars Hand #192349674719: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:34:03 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 2: Helgzo (40908 in chips) 
+Seat 8: nicholasj25 (26592 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+nicholasj25: posts small blind 2000
+Helgzo: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [7d Th]
+nicholasj25: folds 
+Uncalled bet (2000) returned to Helgzo
+Helgzo collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Seat 2: Helgzo (big blind) collected (4400)
+Seat 8: nicholasj25 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #192349677689: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:34:10 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 2: Helgzo (43108 in chips) 
+Seat 8: nicholasj25 (24392 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+Helgzo: posts small blind 2000
+nicholasj25: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5d 2d]
+Helgzo: raises 4000 to 8000
+nicholasj25: folds 
+Uncalled bet (4000) returned to Helgzo
+Helgzo collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | Rake 0 
+Seat 2: Helgzo (button) (small blind) collected (8400)
+Seat 8: nicholasj25 (big blind) folded before Flop
+
+
+
+PokerStars Hand #192349684561: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:34:26 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 2: Helgzo (47308 in chips) 
+Seat 8: nicholasj25 (20192 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+nicholasj25: posts small blind 2000
+Helgzo: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [4h 7h]
+nicholasj25: raises 4000 to 8000
+Helgzo: calls 4000
+*** FLOP *** [Kh 6d 9s]
+Helgzo: checks 
+nicholasj25: bets 4000
+Helgzo: folds 
+Uncalled bet (4000) returned to nicholasj25
+nicholasj25 collected 16400 from pot
+*** SUMMARY ***
+Total pot 16400 | Rake 0 
+Board [Kh 6d 9s]
+Seat 2: Helgzo (big blind) folded on the Flop
+Seat 8: nicholasj25 (button) (small blind) collected (16400)
+
+
+
+PokerStars Hand #192349692485: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:34:44 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 2: Helgzo (39108 in chips) 
+Seat 8: nicholasj25 (28392 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+Helgzo: posts small blind 2000
+nicholasj25: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [6h 7s]
+Helgzo: folds 
+Uncalled bet (2000) returned to nicholasj25
+nicholasj25 collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Seat 2: Helgzo (button) (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) collected (4400)
+
+
+
+PokerStars Hand #192349695841: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:34:52 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 2: Helgzo (36908 in chips) 
+Seat 8: nicholasj25 (30592 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+nicholasj25: posts small blind 2000
+Helgzo: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ad 9s]
+nicholasj25: raises 4000 to 8000
+Helgzo: folds 
+Uncalled bet (4000) returned to nicholasj25
+nicholasj25 collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | Rake 0 
+Seat 2: Helgzo (big blind) folded before Flop
+Seat 8: nicholasj25 (button) (small blind) collected (8400)
+
+
+
+PokerStars Hand #192349699804: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:35:01 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 2: Helgzo (32708 in chips) 
+Seat 8: nicholasj25 (34792 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+Helgzo: posts small blind 2000
+nicholasj25: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Ac 9h]
+Helgzo: folds 
+Uncalled bet (2000) returned to nicholasj25
+nicholasj25 collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Seat 2: Helgzo (button) (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) collected (4400)
+
+
+
+PokerStars Hand #192349702809: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:35:07 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 2: Helgzo (30508 in chips) 
+Seat 8: nicholasj25 (36992 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+nicholasj25: posts small blind 2000
+Helgzo: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5c 9c]
+nicholasj25: raises 4000 to 8000
+Helgzo: folds 
+Uncalled bet (4000) returned to nicholasj25
+nicholasj25 collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | Rake 0 
+Seat 2: Helgzo (big blind) folded before Flop
+Seat 8: nicholasj25 (button) (small blind) collected (8400)
+
+
+
+PokerStars Hand #192349706963: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:35:17 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 2: Helgzo (26308 in chips) 
+Seat 8: nicholasj25 (41192 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+Helgzo: posts small blind 2000
+nicholasj25: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qs 5s]
+Helgzo: folds 
+Uncalled bet (2000) returned to nicholasj25
+nicholasj25 collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Seat 2: Helgzo (button) (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) collected (4400)
+
+
+
+PokerStars Hand #192349709737: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:35:23 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 2: Helgzo (24108 in chips) 
+Seat 8: nicholasj25 (43392 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+nicholasj25: posts small blind 2000
+Helgzo: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [3c 3s]
+nicholasj25: raises 4000 to 8000
+Helgzo: raises 15908 to 23908 and is all-in
+nicholasj25: calls 15908
+*** FLOP *** [As Kc Ac]
+*** TURN *** [As Kc Ac] [8h]
+*** RIVER *** [As Kc Ac 8h] [7c]
+*** SHOW DOWN ***
+Helgzo: shows [Kh Ad] (a full house, Aces full of Kings)
+nicholasj25: shows [3c 3s] (two pair, Aces and Threes)
+Helgzo collected 48216 from pot
+*** SUMMARY ***
+Total pot 48216 | Rake 0 
+Board [As Kc Ac 8h 7c]
+Seat 2: Helgzo (big blind) showed [Kh Ad] and won (48216) with a full house, Aces full of Kings
+Seat 8: nicholasj25 (button) (small blind) showed [3c 3s] and lost with two pair, Aces and Threes
+
+
+
+PokerStars Hand #192349721545: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:35:50 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 2: Helgzo (48216 in chips) 
+Seat 8: nicholasj25 (19284 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+Helgzo: posts small blind 2000
+nicholasj25: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [Qc 6d]
+Helgzo: calls 2000
+nicholasj25: checks 
+*** FLOP *** [7s 2s Qd]
+nicholasj25: bets 4000
+Helgzo: folds 
+Uncalled bet (4000) returned to nicholasj25
+nicholasj25 collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | Rake 0 
+Board [7s 2s Qd]
+Seat 2: Helgzo (button) (small blind) folded on the Flop
+Seat 8: nicholasj25 (big blind) collected (8400)
+
+
+
+PokerStars Hand #192349727631: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:36:04 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 2: Helgzo (44016 in chips) 
+Seat 8: nicholasj25 (23484 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+nicholasj25: posts small blind 2000
+Helgzo: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [2s 6s]
+nicholasj25: folds 
+Uncalled bet (2000) returned to Helgzo
+Helgzo collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Seat 2: Helgzo (big blind) collected (4400)
+Seat 8: nicholasj25 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #192349730386: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVI (2000/4000) - 2018/10/19 9:36:10 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 2: Helgzo (46216 in chips) 
+Seat 8: nicholasj25 (21284 in chips) 
+Helgzo: posts the ante 200
+nicholasj25: posts the ante 200
+Helgzo: posts small blind 2000
+nicholasj25: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [5s 8c]
+Helgzo: folds 
+Uncalled bet (2000) returned to nicholasj25
+nicholasj25 collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Seat 2: Helgzo (button) (small blind) folded before Flop
+Seat 8: nicholasj25 (big blind) collected (4400)
+
+
+
+PokerStars Hand #192349734225: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVII (3000/6000) - 2018/10/19 9:36:19 ET
+Table '2434909079 1' 9-max Seat #8 is the button
+Seat 2: Helgzo (44016 in chips) 
+Seat 8: nicholasj25 (23484 in chips) 
+Helgzo: posts the ante 300
+nicholasj25: posts the ante 300
+nicholasj25: posts small blind 3000
+Helgzo: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9d 5h]
+nicholasj25: folds 
+Uncalled bet (3000) returned to Helgzo
+Helgzo collected 6600 from pot
+*** SUMMARY ***
+Total pot 6600 | Rake 0 
+Seat 2: Helgzo (big blind) collected (6600)
+Seat 8: nicholasj25 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #192349737161: Tournament #2434909079, 17000+3000 Hold'em No Limit - Level XVII (3000/6000) - 2018/10/19 9:36:26 ET
+Table '2434909079 1' 9-max Seat #2 is the button
+Seat 2: Helgzo (47316 in chips) 
+Seat 8: nicholasj25 (20184 in chips) 
+Helgzo: posts the ante 300
+nicholasj25: posts the ante 300
+Helgzo: posts small blind 3000
+nicholasj25: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to nicholasj25 [9c Kh]
+Helgzo: calls 3000
+nicholasj25: raises 6000 to 12000
+Helgzo: calls 6000
+*** FLOP *** [5c 6h 8h]
+nicholasj25: bets 7884 and is all-in
+Helgzo: calls 7884
+*** TURN *** [5c 6h 8h] [3h]
+*** RIVER *** [5c 6h 8h 3h] [4d]
+*** SHOW DOWN ***
+nicholasj25: shows [9c Kh] (high card King)
+Helgzo: shows [3c 4s] (two pair, Fours and Threes)
+Helgzo collected 40368 from pot
+nicholasj25 finished the tournament in 2nd place and received 164475.00.
+Helgzo wins the tournament and receives 237150.00 - congratulations!
+*** SUMMARY ***
+Total pot 40368 | Rake 0 
+Board [5c 6h 8h 3h 4d]
+Seat 2: Helgzo (button) (small blind) showed [3c 4s] and won (40368) with two pair, Fours and Threes
+Seat 8: nicholasj25 (big blind) showed [9c Kh] and lost with high card King
+
+
+
