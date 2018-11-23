@@ -12,75 +12,93 @@ function evalHand(cards){
 		obj = {val:val, card:c[0], suit:suit, id:c[0]+suit};
 		cardsObj.push(obj);
 	});
+	var matches = matchCheck(cardsObj, 'card');
 	for (var i = 0; i < handChecks.length; i++){
-		var res = handChecks[i].fn(cardsObj);
+		var res = handChecks[i].fn(matches, cardsObj);
 		if(res.has){
 			result = handChecks[i].name;
 		}
 	}
-	return result;
+	var res = {
+		name:result,
+		val:handOdds[result],
+		rank:handRankings[result]
+	};
+	return res;
 }
-
-var handChecks = [{name:'High Card'/*0*/, val:1, fn:function(cards){
-												cards = scoreHand(cards), res=[], res.push(cards[0]);
+function matchCheck(cards, type){
+		var num=1, tmp=[],tmpO={}, tmp=[];
+		for(var i=0;i<cards.length;i++){
+			res = compare(cards[i], cards.slice(i+1, cards.length), type);
+			num = res.num ? num+res.num : num;
+			if(res.tmp.length){
+				tmp.push(res.tmp);
+			}
+		}
+		tmp = _.uniq(_.flatten(tmp));
+		return {num:num, tmp:tmp};
+}
+function compare(needle, obj, type){
+	var tmp=[],res=null;
+	var hits=0, pair=null;
+	obj.forEach(function(e, index){
+		if(e[type] === needle[type] && e.id !== needle.id && tmp.indexOf(pair) === -1){
+			pair = [e, needle];
+			tmp.push(pair);
+			hits++;
+		}
+	});
+	res = {num:hits, tmp:tmp};
+	return res;
+}
+var handChecks = [{name:'High Card'/*0*/, val:1, fn:function(matches, cardsObj){
+												cards = scoreHand(cardsObj), res=[], res.push(cardsObj[0]);
 												return {has:true, res:res};
 											}}, 
-				 {name:'One Pair'/*1*/, val:2, fn:function(cards){
+				 {name:'One Pair'/*1*/, val:2, fn:function(matches, cardsObj){
 				 								var res = {has:false, res:null};
-				 								var match = matchCheck(cards, 'card');
-				 								if(match.matches === 1){
-				 									res = {has:true, res:match.tmp};
+				 								if(matches.num === 1){
+				 									res = {has:true, res:matches.tmp};
 				 								}
 				 								return res;
 				 						}
 				 },
-				 {name:'Two Pair'/*2*/, val:3, tmp:[], fn:function(cards){
-				 								var res = {has:false, res:null}, matches=0, tmp=[], tmpO={};
-				 								var match = matchCheck(cards, 'card');
-				 								if(match.matches===2){
-				 								var obj = _.flatten(match.tmp);
-				 								var cardsN = _.pluck(obj, 'card');
-				 								for(var i = 0, length1 = cardsN.length; i < length1; i++){
-				 									tmpO[cardsN[i]] = typeof tmpO[cardsN[i]] === 'number' ? tmpO[cardsN[i]]+1 : 1;
-				 								}
-				 								var vals = Object.values(tmpO);
-				 								if(vals[0]===2 && vals[1]===2){
-				 									res = {has:true, res:match.tmp};
-				 								}
+				 {name:'Two Pair'/*2*/, val:3, tmp:[], fn:function(matches, cardsObj){
+				 								var res = {has:false, res:null}, tmp=[];
+				 								if(matches.num===2){
+				 									res = {has:true, res:matches.tmp};
 				 								}
 				 								return res;
 				 							}}, 
-				 {name:'Three of a Kind'/*3*/, val:4, fn:function(cards){
+				 {name:'Three of a Kind'/*3*/, val:4, fn:function(matches, cardsObj){
 				 								var res = {has:false, res:null}, tmpO={};
-				 								var match = matchCheck(cards, 'card');
-				 								if(match.matches === 3){
-				 									res = {has:true, res:match.tmp};
+				 								if(matches.num === 3){
+				 									res = {has:true, res:matches.tmp};
 				 								}
 				 								return res;
 
 				 }}, 
-				 {name:'Four of a Kind'/*7*/, val:8, fn:function(cards){
+				 {name:'Four of a Kind'/*4*/, val:8, fn:function(matches, cardsObj){
 				 								var res = {has:false, res:null};
-				 								var match = matchCheck(cards, 'card');
-				 								if(match.matches === 4){
-				 									res = {has:true, res:match.tmp};
+				 								if(matches.num > 4){
+				 									res = {has:true, res:matches.tmp};
 				 								}
 				 								return res;
 				 }},
-				 {name:'Straight'/*4*/, val:5, fn:function(cards){
+				 {name:'Straight'/*5*/, val:5, fn:function(matches, cardsObj){
 						var res = {has:false, res:3},prev=null,hits=0,tmp=[],counter=0,nextCard=null;
-						cards.sort(function(a,b){
+						cardsObj.sort(function(a,b){
 							return a.val > b.val;
 						});
-						var vals = _.uniq(_.pluck(cards, 'val'));
+						var vals = _.uniq(_.pluck(cardsObj, 'val'));
 						for(var i = 0, length1 = vals.length; i < length1; i++){
 							var current = vals[i];
 							var next =vals[i+1];
 								if(current+1===next){
 									hits++;
-									tmp.push(cards[counter].card);
+									tmp.push(cardsObj[counter].card);
 									if(hits > 3){
-										nextCard = _.find(cards, function(obj){
+										nextCard = _.find(cardsObj, function(obj){
 											return obj.val === next;
 										});
 										tmp.push(nextCard.card);
@@ -95,30 +113,37 @@ var handChecks = [{name:'High Card'/*0*/, val:1, fn:function(cards){
 						return res;
 
 				 }}, 
-				 {name:'Flush'/*5*/, val:6, fn:function(cards){
+				 {name:'Flush'/*6*/, val:6, fn:function(matches, cardsObj){
+				 								var matches = matchCheck(cardsObj, 'suit'),tmpO={}, tmp=[];
 				 								var res = {has:false, res:null};
-				 								var match = matchCheck(cards, 'suit');
-				 								if(match.matches > 4){
-				 									res = {has:true, res:match.tmp};
+				 								if(matches.num > 4){
+				 									matches.tmp.forEach(function(item){
+				 										tmpO[item.suit] = typeof tmpO[item.suit]==='number' ? tmpO[item.suit]+1 : 1;
+				 									});
+				 									var maxVal = _.max(tmpO, function(a,b){
+				 										return a>b;
+				 									});
+				 									if(maxVal > 4){
+				 										res = {has:true, res:matches.tmp};
+				 									}
+				 									
 				 								}
 				 								return res;
 
 				 }},
-				 {name:'Full House'/*6*/, val:7, fn:function(cards){
+				 {name:'Full House'/*7*/, val:7, fn:function(matches, cardsObj){
 							var res = {has:false, res:null};
-
 							var c = null, tmp=[], match=null;
 							var obj = {};
-							var matches = matchCheck(cards, 'card');
-			 				if(matches.matches === 4){
+							console.log(matches);
+			 				if(matches.num === 4){
 			 					for(var i = 0, length1 = matches.tmp.length; i < length1; i++){
-			 						var item = matches.tmp[i];
-			 						item.forEach( function(match, index) {
-			 							obj[match.card] = (typeof obj[match.card] === 'number') ? obj[match.card] + 1 : 1;
-			 						});
+			 						var match = matches.tmp[i];
+			 						obj[match.card] = (typeof obj[match.card] === 'number') ? obj[match.card] + 1 : 1;
 			 					}
 			 					var vals = Object.values(obj);
-			 					if(vals[0]===6 && vals[1]===2){
+			 					vals.sort();
+			 					if(vals[0]===2 && vals[1]===3){
 									var res = {has:true, res:matches.tmp};
 			 					}
 			 				}
@@ -126,20 +151,20 @@ var handChecks = [{name:'High Card'/*0*/, val:1, fn:function(cards){
 				 			return res;
 
 				 }},
-				 {name:'Straight Flush'/*8*/, val:9, fn:function(cards){
+				 {name:'Straight Flush'/*8*/, val:8, fn:function(matches, cardsObj){
 				 	var res = {has:false, res:null};
-				 	var sc = handChecks[4].fn(cards),
-				 		fc = handChecks[5].fn(cards);
+				 	var sc = handChecks[4].fn(matches, cardsObj),
+				 		fc = handChecks[5].fn(matches, cardsObj);
 				 	if(sc.has && fc.has){
 				 		res = {has:true, res:sc.res};
 				 	}
 				 	return res;
 
 				 }},
-				 {name:'Royal Flush'/*9*/, val:10, fn:function(cards){
+				 {name:'Royal Flush'/*9*/, val:9, fn:function(matches, cardsObj){
 				 	var res = {has:false, res:null};
-				 	var sc = handChecks[4].fn(cards),
-				 		fc = handChecks[5].fn(cards);
+				 	var sc = handChecks[4].fn(matches, cardsObj),
+				 		fc = handChecks[5].fn(matches, cardsObj);
 				 	if(sc.has && fc.has && royalCheck(sc.res)){
 				 		res = {has:true, res:sc.res};
 				 	}
@@ -147,25 +172,6 @@ var handChecks = [{name:'High Card'/*0*/, val:1, fn:function(cards){
 				 }}];
 
 
-function matchCheck(cards, type){
-		var matches=0, tmp=[],tmpO=[];
-		for(var i=0;i<cards.length;i++){
-			var res = compare(cards[i], cards.slice(i+1, cards.length), type);
-			if(res.length){
-				tmpO.push(res);
-			}
-		}
-		return {matches:tmpO.length, tmp:tmpO};
-}
-function compare(needle, obj, type){
-	var res=[];
-	obj.forEach(function(e, index){
-		if(e[type] === needle[type] && e.id !== needle.id && res.indexOf([e, needle]) === -1){
-			res.push([e, needle]);
-		}
-	});
-	return res;
-}
 function royalCheck(cards){
 	var def = 'TJQKA';
 	return def === cards;
@@ -189,13 +195,6 @@ function reduce(numerator,denominator){
   gcd = gcd(numerator,denominator);
   return [numerator/gcd, denominator/gcd];
 }
-function extract(obj, name){
-	var res = [];
-	obj.forEach(function(e,i){
-		res.push(e[name]);
-	});
-	return res;
-}
 var probabilityCalcs = {
 	/*C(n,r) = n! / r!(n-r)!*/
 	'one-pair':function(cards){
@@ -211,5 +210,29 @@ var probabilityCalcs = {
 		var res={outs:'',probability:''};
 		return res;
 	}
+};
+var handRankings = {
+	'High Card':0,
+	'One Pair':1,
+	'Two Pair':2,
+	'Three of a Kind':3,
+	'Straight':4,
+	'Flush':5,
+	'Full House':6,
+	'Four of a Kind':7,
+	'Straight Flush':8,
+	'Royal Flush':9
+};
+var handOdds = {
+	'High Card':1,
+	'One Pair':1.4,
+	'Two Pair':20,
+	'Three of a Kind':46.3,
+	'Straight':254,
+	'Flush':508,
+	'Full House':693,
+	'Four of a Kind':4165,
+	'Straight Flush':72192,
+	'Royal Flush':649940
 };
 module.exports = evalHand;

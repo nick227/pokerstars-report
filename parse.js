@@ -29,12 +29,23 @@ function parsePokerStarsTournament(tournament){
   result.items = getItems(allRounds);
   result.details = getDetails(allRounds);
   result.counter = sortObj(calcCount(global_obj_counter));
-  result.luck = getLuck(result.items).toFixed(2) + ' avg: ' + (getLuck(result.items)/result.items.length).toFixed(4);
+  result.luck = getLuck(result.items).toFixed(2);
+  result.dealLuck = Math.round(getDealLuck(result.items));
+  result.handRanks = getHandRanks(result.items);
   result.raises = getRaises(allRounds).raises;
   result.allins = getAllins(result.items);
   result.raised = getRaises(allRounds).raised;
   result.tourneySum = getSummary(allRounds);
+
   return result;
+}
+function getHandRanks(obj){
+  var ranks = _.pluck(obj, 'handRank'), res=0;
+  for(var i = 0, length1 = ranks.length; i < length1; i++){
+    res = res + parseInt(ranks[i]);
+  }
+  return res;
+
 }
 function getSummary(allRounds){
   var res = [];
@@ -42,13 +53,13 @@ function getSummary(allRounds){
   var tmpO = getAction(last).all;
   for(var i = 0; i < tmpO.length; i++){
     var line = tmpO[i];
-    if((line.indexOf(username) > -1 || line.indexOf(username2) > -1 || line.indexOf(username3) > -1) && (line.indexOf('finished') > -1 || line.indexOf('wins') > -1)){
+    if((checkUser(line)) && (line.indexOf('finished') > -1 || line.indexOf('wins') > -1)){
       res.push(line);
     }
   }
   if(!res.length){
     var idx = tmpO.reverse().findIndex(function(line){
-        return line.indexOf(username) > -1 || line.indexOf(username2) > -1 || line.indexOf(username3) > -1;
+        return checkUser(line);
       });
     res.push(tmpO[idx]);
   }
@@ -75,16 +86,24 @@ function getRaises(obj){
     var lines = round.split("\r\n");
     var stop = false;
     lines.forEach(function(line){
-      if((line.indexOf('raises') > -1 || line.indexOf('bets') > -1) && (line.indexOf(username) > -1 || line.indexOf(username2) > -1 || line.indexOf(username3) > -1)){
+      if((line.indexOf('raises') > -1 || line.indexOf('bets') > -1) && (checkUser(line))){
         raises++;
       }
-      if(!stop && (line.indexOf('raises') > -1 || line.indexOf('bets') > -1) && (line.indexOf(username) > -1 || line.indexOf(username2) > -1 || line.indexOf(username3) > -1)){
+      if(!stop && (line.indexOf('raises') > -1 || line.indexOf('bets') > -1) && (checkUser(line))){
         raised++;
         stop=true;
       }
     });
   });
   return {raises:raises, raised:raised};
+}
+function getDealLuck(result){
+  var res = 0;
+  result.forEach(function(item){
+    res = parseInt(res) + parseFloat(item.handValue);
+  });
+  return res;
+
 }
 function getLuck(result){
   var res = 0;
@@ -100,9 +119,8 @@ function sortObj(obj){
   res[2] = {key:'fold-turn', val:obj['fold-turn']};
   res[3] = {key:'fold-river', val:obj['fold-river']};
   res[4] = {key:'lost-showdown', val:obj['lost-showdown']};
-  res[5] = {key:'won', val:obj['won']};
-  res[6] = {key:'won-folds', val:obj['won-folds']};
-  res[7] = {key:'won-showdown', val:obj['won-showdown']};
+  res[5] = {key:'won-folds', val:obj['won-folds']};
+  res[6] = {key:'won-showdown', val:obj['won-showdown']};
 
   return res;
 }
@@ -134,7 +152,7 @@ function parse(round){
     counter++;
   }
   var us = result.findIndex(function(line){
-    return line.indexOf(username) > -1 || line.indexOf(username2) > -1 || line.indexOf(username3) > -1;
+    return checkUser(line);
   });
   if(typeof result[1] === 'string' && result[1].indexOf('Board') === 0){ 
     var board =  result[1].substring(result[1].indexOf('[')+1, result[1].indexOf(']'));
@@ -159,15 +177,51 @@ function parse(round){
   var action = getAction(round);
   var winloss = getWinloss(action);
   var bb = getBB(round);
-  var position = getPosition(action);
-  var handStatus = checkHand(hc + " " + board);
+  var position = getPosition(round);
+  var handCheckRes = checkHand(hc + " " + board);
+  var handStatus = handCheckRes.name;
+  var handValue = handCheckRes.val;
+  var handRank = handCheckRes.rank;
   var stacksize = getStackSize(round);
-  return {stacksize:stacksize, handStatus:handStatus, ante:bb, winloss:winloss.total, pot_size:pot_size, board:board, user:result[us], hc:holeCards, hcVal:hcVal, action:action, event:event, position:position};
+  var numRaises = getNumRaises(action);
+  return {handRank:handRank, handValue:handValue,numPlayers:getNumPlayers(round), numCalls:getNumCalls(action), numRaises:numRaises, stacksize:stacksize, handStatus:handStatus, ante:bb, winloss:winloss.total, pot_size:pot_size, board:board, user:result[us], hc:holeCards, hcVal:hcVal, action:action, event:event, position:position};
+}
+function getNumPlayers(round){
+  var res = 0;
+  var summary = getStartSummary(round);
+  for(var i = 0, length1 = summary.length; i < length1; i++){
+    var line = summary[i];
+    if(line.indexOf('Seat') > -1){
+        res++;
+    }
+  }
+  return res;
+
+}
+function getNumRaises(action){
+  var res = 0;
+  for(var i = 0, length1 = action.user.length; i < length1; i++){
+    var line = action.user[i];
+    if(line.indexOf('bets') > -1 || line.indexOf('raises') > -1){
+        res++;
+    }
+  }
+  return res;
+}
+function getNumCalls(action){
+  var res = 0;
+  for(var i = 0, length1 = action.user.length; i < length1; i++){
+    var line = action.user[i];
+    if(line.indexOf('calls') > -1){
+        res++;
+    }
+  }
+  return res;
 }
 function getStackSize(obj){
     var summary = getStartSummary(obj), res=null;
-    var id = summary.findIndex(function(e){
-      return e.indexOf(username) > -1 || e.indexOf(username2) > -1 || e.indexOf(username3) > -1;
+    var id = summary.findIndex(function(line){
+      return checkUser(line);
     });
     return summary[id].substring(summary[id].indexOf('(')+1, summary[id].indexOf(')')).split(" ")[0];
 }
@@ -205,36 +259,40 @@ function getWinloss(obj){
 function getAllins(obj){
   var res = 0;
   obj.forEach( function(item, index){
-    item.action.all.forEach( function(e, i) {
-      if(e.indexOf('all-in') > -1 && (e.indexOf(username) > -1 || e.indexOf(username2) > -1 || e.indexOf(username3) > -1)){
+    item.action.all.forEach( function(line, i) {
+      if(line.indexOf('all-in') > -1 && (checkUser(line))){
         res++;
       }
     });
   });
   return res;
 }
-function getPosition(obj){
-    var tmpO = Object.assign([], obj.all), res=null;
-    tmpO = clearDuplicates(tmpO);
-    tmpO.shift();
-    var end = tmpO.findIndex(function(line, i){
-      return line.indexOf('FLOP') > -1;
-    });
-    if(end < 0){
-      end = tmpO.length;
-    }
-    tmpO.length = end;
-    var p = tmpO.findIndex(function(line, i){
-      return (line.indexOf(username) > -1 || line.indexOf(username2) > -1 || line.indexOf(username3) > -1);
-    });
-    res = p === end-3 ? 'button' : res;
-    res = p === 0 ? 'UTG' : res;
-    res = p === end-1 ? 'big blind' : res;
-    res = p === end-2 ? 'small blind' : res;
-    if(res === null){
-      res = p > 0 ? 'UTG+'+(p) : 'UTG';
-    }
-    return res;
+function checkUser(str){
+  return str.indexOf(username) > -1 || str.indexOf(username2) > -1 || str.indexOf(username3) > -1;
+
+}
+function getPosition(round){
+  var res = null;
+  var summary = getStartSummary(round);
+  var bb = summary[summary.length-1].split(":")[0];
+  var sb = summary[summary.length-2].split(":")[0];
+  var r = getFirstRound(round);
+  if(checkUser(bb)){
+    return "big blind";
+  }
+  if(checkUser(sb)){
+    return "small blind";
+  }
+  if(checkUser(r[r.length-3])){
+    return "button";
+  }
+  if(checkUser(r[0])){
+    return "UTG";
+  }
+  var position = r.findIndex(function(e){
+    return checkUser(e);
+  });
+  return "UTG+" + position;
 }
 function clearDuplicates(obj){
   var list=[], res = [];
@@ -290,6 +348,16 @@ function getStartSummary(round){
       });
       return lines.slice(0, end);
 }
+function getFirstRound(round){
+      var lines = round.split("\r\n");
+      var start = lines.findIndex(function(line){
+        return line.indexOf('*** HOLE CARDS ***') > -1;
+      })+2;
+      var end = lines.findIndex(function(line, i){
+        return line.indexOf('*** FLOP ***') > -1 || line.indexOf('*** SUMMARY ***') > -1;
+      });
+      return lines.slice(start, end);
+}
 function getAction(round){
         result = {all:[], user:[]};
         var lines = round.split("\r\n");
@@ -307,7 +375,7 @@ function getAction(round){
 
       var us = [];
       for(var i=0;i<result.all.length;i++){
-        if((result.all[i].indexOf(username) > -1 || result.all[i].indexOf(username2) > -1 || result.all[i].indexOf(username3) > -1) && (result.all[i].indexOf('calls') > -1 || result.all[i].indexOf('raises') > -1 || result.all[i].indexOf('bets') > -1)){
+        if(checkUser(result.all[i]) && (result.all[i].indexOf('calls') > -1 || result.all[i].indexOf('raises') > -1 || result.all[i].indexOf('bets') > -1)){
           
           result.user.push(result.all[i].replace(username+':', '').replace(username2+':', '').replace(username3+':', ''));
         }
